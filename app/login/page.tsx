@@ -1,0 +1,5 @@
+import {chatGPTSignInPath,getChatGPTUser} from '@/app/chatgpt-auth';
+import {Bookmark,NotebookPen,BookOpen} from 'lucide-react';
+export const dynamic='force-dynamic';
+export const metadata={title:'Log in'};
+export default async function Page({searchParams}:{searchParams:Promise<{return_to?:string}>}){const user=await getChatGPTUser();const {return_to}=await searchParams;const path=typeof return_to==='string'?return_to:'/library';return <section className="login-panel"><p className="eyebrow">YOUR PERSONAL RESEARCH LIBRARY</p><h1>Keep what<br/><em>matters to you.</em></h1><p>Save the research you want to return to, with your notes alongside it.</p><div className="login-benefits"><span><Bookmark/>Save studies and guides</span><span><NotebookPen/>Add private notes</span><span><BookOpen/>Return from any device</span></div>{user?<a className="button" href="/library">Open my library</a>:<a className="button" href={chatGPTSignInPath(path)} target="_top">Sign in with ChatGPT</a>}<p className="editorial-note">Your library is linked to your ChatGPT sign-in. EMF Atlas does not collect a password. <a href="/privacy">Privacy details</a></p></section>}

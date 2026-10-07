@@ -1,0 +1,4 @@
+import {guides} from '@/lib/guides';
+import {SaveButton} from '@/components/emf/account';
+export const metadata={title:'EMF guides',description:'Understand wireless radiation, power lines, fertility, sleep, children, animal studies, and EMF measurements.'};
+export default function Page(){return <div className="page"><p className="eyebrow">BUILD YOUR UNDERSTANDING</p><h1>Guides to the evidence</h1><p className="page-intro">Start with a question. Read the context. Follow the sources.</p><div className="guide-grid">{guides.map((g,i)=><article className="guide-card" key={g.id}><div className="guide-number">{String(i+1).padStart(2,'0')}<SaveButton kind="guide" id={g.id}/></div><p className="eyebrow">{g.category}</p><h2><a href={'/guides/'+g.id}>{g.title}</a></h2><p>{g.intro}</p><a href={'/guides/'+g.id} className="text-link">Read guide</a></article>)}</div></div>}

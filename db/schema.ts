@@ -1,0 +1,2 @@
+import {sqliteTable,text,integer,primaryKey,index} from 'drizzle-orm/sqlite-core';
+export const savedItems=sqliteTable('saved_items',{userId:text('user_id').notNull(),kind:text('kind',{enum:['study','guide']}).notNull(),itemId:text('item_id').notNull(),note:text('note').notNull().default(''),savedAt:integer('saved_at').notNull(),updatedAt:integer('updated_at').notNull()},t=>[primaryKey({columns:[t.userId,t.kind,t.itemId]}),index('idx_saved_user_time').on(t.userId,t.savedAt)]);
