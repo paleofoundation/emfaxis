@@ -14,5 +14,12 @@
   ],
   "raw_sources": "Private workspace work/research; never public assets",
   "contracts": "../../../outputs/one-match/",
-  "release_policy": "Private draft technical release allowed. Human exact-version editorial approval required before factual public release; qualified independent review before clinical safety or paid health product launch."
+  "release_policy": "Private draft technical release allowed. Human exact-version editorial approval required before factual public release; qualified independent review before clinical safety or paid health product launch.",
+  "investigator": {
+    "name": "Jonathan Pendergrass",
+    "orcid": "0009-0003-5199-0737",
+    "url": "https://orcid.org/0009-0003-5199-0737",
+    "provenance": "Supplied by project owner in this task",
+    "human_review": "pending"
+  }
 }
