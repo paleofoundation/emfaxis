@@ -30,3 +30,4 @@ export const terms=[
 ['Sham exposure','A control condition designed to resemble real exposure without the active field being tested.'],
 ['Statistical significance','A result meeting a chosen statistical criterion under a model. It is not a measure of effect size, clinical importance, or freedom from bias.']
 ];
+export const termSlug=(term:string)=>term.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');

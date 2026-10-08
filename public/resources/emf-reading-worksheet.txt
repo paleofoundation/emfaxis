@@ -1,0 +1,83 @@
+EMF ATLAS — CLAIM & EXPOSURE READING WORKSHEET
+Version 0.2-draft | 8 October 2026 | Free editorial resource
+
+PURPOSE
+Turn one public claim into a traceable reading note. This is not a meter,
+medical test, exposure-limit table, diagnostic tool or safety certificate.
+No field asks for a name, address, diagnosis or personal health history.
+No safety verdict can be obtained by adding up these fields.
+
+1. MY READING QUESTION
+The exact question or decision I am trying to understand:
+______________________________________________________________________
+The headline or claim (short paraphrase, with its URL):
+______________________________________________________________________
+
+2. WHAT I ACTUALLY READ
+Title / author or organization / year / DOI or other stable identifier:
+______________________________________________________________________
+URL: _________________________________________________________________
+Access date: __________________________________________________________
+Material read: [ ] abstract [ ] full text [ ] registry [ ] other _______
+Source location: page / section / table / figure / abstract section:
+______________________________________________________________________
+Source status or correction check, if actually performed: ______________
+[ ] Not yet checked. Do not infer this from a working link.
+
+3. THE STUDY'S EXPOSURE AND COMPARISON
+Device/source or field: _______________________________________________
+Frequency/range if stated: ____________________________________________
+Exposure measure AND units: ___________________________________________
+Duration / timing / averaging: ________________________________________
+Comparison group or condition: ________________________________________
+Population/species/cells and study design: _____________________________
+My question matches this setup: [ ] directly [ ] partly [ ] unclear
+Reason: ______________________________________________________________
+
+4. WHAT WAS MEASURED
+Exact endpoint: _______________________________________________________
+Result in a sentence: _________________________________________________
+If numerical: estimate ____ units ____ comparison ____ interval _______
+Denominator / population / timepoint: _________________________________
+Verification: [ ] source passage checked [ ] number still needs audit
+Limitations stated in the source: _____________________________________
+______________________________________________________________________
+
+5. OPTIONAL OBSERVATION LOG — NO RISK SCORE
+Use only if comparing a measurement report with a research definition.
+Do not handle live electrical equipment or change an installation for this
+worksheet. Leave interpretation and any necessary investigation to an
+appropriately qualified professional.
+Report / instrument model: ____________________________________________
+Specified measurement type and frequency range: _______________________
+Units / calibration information: ______________________________________
+Location / operating conditions / time / averaging period: ____________
+______________________________________________________________________
+Matched to the study's exposure definition? [ ] yes [ ] no [ ] unknown
+Reason and missing information: _______________________________________
+A reading, distance or category boundary is not a personal health verdict.
+
+6. TWO SENTENCES TO KEEP
+This source addresses: ________________________________________________
+______________________________________________________________________
+It does not by itself establish: _______________________________________
+______________________________________________________________________
+
+7. MY NEXT READING ACTION
+[ ] Find full text or supplement   [ ] Check a number or source locator
+[ ] Compare another source        [ ] Check correction/retraction status
+[ ] Ask for qualified interpretation   [ ] Not relevant to my question
+Specific task: ________________________________________________________
+
+MISSING-DATA KEY
+Not available to me = an access gap.
+Not yet checked = work remains.
+Not reported in the source I read = the inspected source did not state it.
+Never turn any of these into zero, no effect, or safe/unsafe.
+
+REUSE / PRIVACY
+Keep a local or printed copy if useful. This worksheet has no sending or
+saving service. Do not put sensitive details in a shared copy. The reading
+method comes from the EMF Atlas draft guides; worked scientific examples
+and full references are in first-guide.html. It does not create new evidence.
+Review status: AI-assisted editorial draft; human review pending.

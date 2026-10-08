@@ -1,0 +1,18 @@
+{
+  "version": "1.0",
+  "adopted_rule": "one-match-rule v1.4",
+  "controller_thread": "01a11470-a5f8-7ac2-bbcd-34269c665d2d",
+  "plan": "EMF-INGEST-2026-10-08-v1.1",
+  "plan_sha256": "403294b5c80f2cfb102f5ac2c4a0b5e3268da0843c4c09155b49e5c8af319ef5",
+  "schema_sha256": "a2a913f0a707667ce3c21c3e97859a83b85fbff2478544440a5ac5c2bcfaa566",
+  "audience": "owner-private",
+  "human_review": "pending",
+  "full_text_reading_drafts": [
+    "million-women",
+    "eltiti",
+    "de-iuliis"
+  ],
+  "raw_sources": "Private workspace work/research; never public assets",
+  "contracts": "../../../outputs/one-match/",
+  "release_policy": "Private draft technical release allowed. Human exact-version editorial approval required before factual public release; qualified independent review before clinical safety or paid health product launch."
+}

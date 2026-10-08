@@ -1,0 +1,24 @@
+import fs from 'node:fs';
+import assert from 'node:assert/strict';
+import {studies} from '../lib/studies.ts';
+import {guides,references} from '../lib/guides.ts';
+import {terms,termSlug} from '../lib/glossary.ts';
+import {reviews,reviewQuestions} from '../lib/reviews.ts';
+const questions=JSON.parse(fs.readFileSync(new URL('../lib/questions.json',import.meta.url),'utf8'));
+const ids=(a,key='id')=>new Set(a.map(x=>x[key]));
+for(const [name,list] of [['studies',studies],['guides',guides],['questions',questions]])assert.equal(ids(list).size,list.length,`duplicate ${name} ID`);
+assert.equal(questions.length,40);assert.equal(studies.length,16);assert.equal(guides.length,9);assert.equal(new Set(terms.map(x=>termSlug(x[0]))).size,terms.length);
+for(let i=1;i<=40;i++)assert(ids(questions).has('T'+String(i).padStart(2,'0')));
+const studyIds=ids(studies),guideIds=ids(guides),sourceIds=new Set([...studyIds,...Object.keys(references)]),topicIds=ids(questions);
+assert.equal(new Set(studies.map(x=>x.doi.toLowerCase())).size,studies.length);
+for(const s of studies){assert(s.pmid&&s.doi&&s.originalTitle);assert(guideIds.has(s.guide));assert(s.url.startsWith('https://'))}
+const legacy=JSON.parse(fs.readFileSync(new URL('../research/primary-source-metadata.json',import.meta.url),'utf8')).resultList.result;
+for(const s of studies){const original=legacy.find(x=>x.pmid===s.pmid);assert(original,`lost identity ${s.id}`);assert.equal(original.doi.toLowerCase(),s.doi.toLowerCase())}
+const gaps=[];
+for(const g of guides){for(const s of g.sections){for(const id of s.refs||[])assert(sourceIds.has(id),`orphan citation ${g.id}/${id}`);const words=s.text.trim().split(/\s+/).length;if(words<60)gaps.push({guide:g.id,section:s.title,words,status:'HOLD',reason:'Legacy short paragraph awaits evidence-based expansion; no filler added.'})}for(const q of g.questions)assert(q.q&&q.a)}
+for(const q of questions){for(const id of q.guideIds)assert(guideIds.has(id),`orphan guide ${id}`);for(const id of q.studyIds)assert(studyIds.has(id),`orphan study ${id}`);for(const id of q.relatedTopicIds)assert(topicIds.has(id));for(const d of q.publicDiscussions)assert(new URL(d.url).hostname==='www.reddit.com');assert(q.shortAnswer&&q.answerStatus);assert(!('sampleScore' in q),'private demand scoring leaked to site projection')}
+for(const r of reviews){assert(studyIds.has(r.paperId));assert.equal(r.answers.length,15);assert.equal(new Set(r.answers.map(x=>x.id)).size,15);for(const [id] of reviewQuestions)assert(r.answers.some(x=>x.id===id));const n=r.preview.split(/\s+/).length,m=r.sections.map(x=>x.text).join(' ').split(/\s+/).length;assert(n>=50&&n<=90,`preview length ${r.paperId}/${n}`);assert(m>=500&&m<=800,`review length ${r.paperId}/${m}`);for(const a of r.answers)assert(a.locators.length||a.missingReason,`missing provenance ${r.paperId}/${a.id}`)}
+for(const path of ['public/resources/first-guide.html','public/resources/first-guide-preview.html','public/resources/emf-reading-worksheet.html','public/resources/emf-reading-worksheet.txt'])assert(fs.statSync(new URL('../'+path,import.meta.url)).size>100);
+const html=fs.readFileSync(new URL('../public/resources/first-guide.html',import.meta.url),'utf8');assert(html.includes('0.2-draft'));assert(html.includes('correction'));
+console.log(JSON.stringify({status:'PASS',scope:'Private draft structural invariants; not scientific approval',studies:studies.length,guides:guides.length,questions:questions.length,terms:terms.length,fullTextDrafts:reviews.length,legacyParagraphGaps:gaps.length}));
+if(process.argv.includes('--report'))fs.writeFileSync(new URL('../research/contracts/content-gaps.json',import.meta.url),JSON.stringify(gaps,null,2)+'\n');

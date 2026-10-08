@@ -38,13 +38,13 @@ export const studies:Study[] = [
     "exposure": "Self-reported mobile-phone use; cancer registry follow-up",
     "signal": "No clear association",
     "finding": "Usual mobile-phone use was not associated with increased brain-tumor incidence.",
-    "result": "All brain tumors, ever versus never use: RR 0.97 (95% CI 0.90–1.04).",
+    "result": "Ever versus never use: authors report RR 0.97 (95% CI 0.90–1.04). Their Methods specifies Cox hazard ratios; 3,268 incident brain tumors occurred during follow-up.",
     "limitations": "Older female participants and relatively coarse use categories limit transfer to children, very heavy users, and precise absorbed doses.",
     "guide": "wireless",
     "url": "https://pubmed.ncbi.nlm.nih.gov/35350069/",
     "fullText": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9086806/",
-    "sourceLevel": "Abstract checked",
-    "checked": "2026-10-07"
+    "sourceLevel": "Full text read",
+    "checked": "2026-10-08"
   },
   {
     "id": "interphone",
@@ -104,7 +104,7 @@ export const studies:Study[] = [
     "design": "Animal experiment",
     "topic": "Cancer",
     "population": "Male and female Sprague Dawley rats",
-    "exposure": "900 MHz GSM/CDMA; whole-body SAR 1.5, 3, or 6 W/kg",
+    "exposure": "900 MHz GSM/CDMA; whole-body exposure",
     "signal": "Animal tumor signal",
     "finding": "NTP judged the evidence for malignant heart schwannomas in exposed male rats to be clear; evidence varied by sex and tumor.",
     "result": "A controlled long-term hazard experiment.",
@@ -154,12 +154,12 @@ export const studies:Study[] = [
     "signal": "No symptom increase in blinded testing",
     "finding": "Blinded tests did not show an increase in symptom number or severity attributable to the tested signals.",
     "result": "Open-label symptom reports differed from blinded results.",
-    "limitations": "Some participants withdrew. Acute laboratory exposures cannot answer every chronic-exposure question; symptoms still deserve care.",
+    "limitations": "Some participants withdrew. Acute laboratory exposures cannot answer every chronic-exposure question; symptoms still deserve care. The body reports 115 blinded controls, while abstract withdrawal counts imply 114; this discrepancy remains unresolved.",
     "guide": "symptoms",
     "url": "https://pubmed.ncbi.nlm.nih.gov/18007992/",
     "fullText": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2072835/",
-    "sourceLevel": "Abstract checked",
-    "checked": "2026-10-07"
+    "sourceLevel": "Full text read",
+    "checked": "2026-10-08"
   },
   {
     "id": "headache",
@@ -199,7 +199,7 @@ export const studies:Study[] = [
     "exposure": "Modeled RF brain dose; one-year memory change",
     "signal": "Association requiring replication",
     "finding": "Higher estimated dose was associated with lower figural-memory change; the full-sample interval included no difference.",
-    "result": "Full sample: −0.22 points per dose IQR (95% CI −0.47 to 0.03); operator-data subset: −0.26 (−0.42 to −0.10).",
+    "result": "Full sample: −0.22 points per 953 mJ/kg/day dose IQR (95% CI −0.47 to 0.03); operator-data subset: −0.26 per 341 mJ/kg/day IQR (95% CI −0.42 to −0.10).",
     "limitations": "Modeled exposure, residual confounding, and subgroup analyses limit causal inference. Independent replication matters.",
     "guide": "symptoms",
     "url": "https://pubmed.ncbi.nlm.nih.gov/30044230/",
@@ -337,7 +337,7 @@ export const studies:Study[] = [
     "exposure": "Self-reported phone location; prospective pregnancy follow-up",
     "signal": "Mixed findings",
     "finding": "Little overall association was observed between front-pocket carrying and fecundability; a leaner subgroup showed lower fecundability.",
-    "result": "Any front-pocket carrying: FR 0.94 (95% CI 0.83–1.05).",
+    "result": "The overall front-pocket result was close to no association. The indexed abstract contains a malformed confidence interval; the numerical estimate is withheld pending a full-text check.",
     "limitations": "Self-reported carrying is an imprecise RF measure. Residual confounding and subgroup findings require caution.",
     "guide": "fertility",
     "url": "https://pubmed.ncbi.nlm.nih.gov/33564831/",
@@ -361,11 +361,11 @@ export const studies:Study[] = [
     "signal": "Laboratory effect",
     "finding": "Increasing exposure was associated with oxidative stress, DNA fragmentation, and reduced sperm motility and vitality.",
     "result": "An experimental cellular study, not a trial of fertility in men.",
-    "limitations": "Isolated cells lack the physiology of an intact body. The dose range and setup do not establish infertility from ordinary phone carrying.",
+    "limitations": "Isolated cells lack the physiology of an intact body. The dose range and setup do not establish infertility from ordinary phone carrying. A 2013 correction replaces Figure 1D and gives three biological replicates for Figures 1–5.",
     "guide": "fertility",
     "url": "https://pubmed.ncbi.nlm.nih.gov/19649291/",
     "fullText": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2714176/",
-    "sourceLevel": "Abstract checked",
-    "checked": "2026-10-07"
+    "sourceLevel": "Full text read",
+    "checked": "2026-10-08"
   }
 ];

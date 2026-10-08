@@ -1,0 +1,2135 @@
+[
+  {
+    "id": "T01",
+    "title": "Living near power lines",
+    "question": "Should I buy or live in a home near transmission lines, and what should be measured?",
+    "cluster": "Housing",
+    "aliases": [
+      "power lines",
+      "pylons",
+      "transmission lines",
+      "home buying"
+    ],
+    "guideIds": [
+      "power-lines",
+      "measurement"
+    ],
+    "studyIds": [
+      "draper",
+      "ahlbom",
+      "greenland"
+    ],
+    "shortAnswer": "The linked studies do not establish a universal safe distance from power lines. A property decision needs a measured exposure assessment with the field type, operating conditions and measurement period documented; this collection cannot decide whether a particular home is appropriate for you.",
+    "answerStatus": "Draft answer",
+    "answerSource": null,
+    "answerCoverage": "Editorial orientation; property-specific assessment unavailable",
+    "researchFocus": "Residential power-frequency magnetic fields; measured exposure versus distance; population cohorts and case-control studies; exposure surveys. Separate property/resale concerns from health endpoints.",
+    "indirectEvidenceLimit": "Related guides and linked studies are orientation material; a link does not certify that the device, population or outcome in this question has been directly studied.",
+    "relatedTopicIds": [
+      "T21"
+    ],
+    "publicDiscussions": [
+      {
+        "id": "1woj7p1",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/FirstTimeHomeBuyer/comments/1woj7p1/",
+        "community": "r/FirstTimeHomeBuyer",
+        "accessStatus": "page_text"
+      },
+      {
+        "id": "1wtcz50",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/FirstTimeHomeBuyer/comments/1wtcz50/",
+        "community": "r/FirstTimeHomeBuyer",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "n03bdq",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/AskEngineers/comments/n03bdq/",
+        "community": "r/AskEngineers",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "1u8xtov",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/RealEstateAdvice/comments/1u8xtov/",
+        "community": "r/RealEstateAdvice",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "18mcc64",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/RealEstateCanada/comments/18mcc64/",
+        "community": "r/RealEstateCanada",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "w5b3ow",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/AskEngineers/comments/w5b3ow/",
+        "community": "r/AskEngineers",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "1tsgjl7",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/FirstTimeHomeBuyer/comments/1tsgjl7/",
+        "community": "r/FirstTimeHomeBuyer",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "1fakdsh",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/FirstTimeHomeBuyer/comments/1fakdsh/",
+        "community": "r/FirstTimeHomeBuyer",
+        "accessStatus": "legacy_index_only"
+      }
+    ]
+  },
+  {
+    "id": "T02",
+    "title": "Mobile phones and brain tumors",
+    "question": "Does long-term or heavy mobile-phone use change the risk of glioma, meningioma, or acoustic neuroma?",
+    "cluster": "Cancer",
+    "aliases": [
+      "cell phones",
+      "mobile phones",
+      "glioma",
+      "brain cancer",
+      "acoustic neuroma"
+    ],
+    "guideIds": [
+      "wireless",
+      "animal-studies"
+    ],
+    "studyIds": [
+      "cosmos",
+      "million-women",
+      "interphone"
+    ],
+    "shortAnswer": "The large cohorts included here do not show increased brain-tumor risk under the conditions studied. Some case-control and animal findings warrant continued investigation.",
+    "answerStatus": "Draft answer",
+    "answerSource": {
+      "guideId": "wireless",
+      "field": "takeaway",
+      "basis": "Exact text from the existing AI-assisted guide; source hash in existing-content-snapshot.json; no new medical appraisal in this audit."
+    },
+    "answerCoverage": "Partial existing-guide answer; full question-specific review pending",
+    "researchFocus": "Mobile phone OR cellular telephone AND glioma OR meningioma OR acoustic neuroma; cohort and case-control studies; latency, cumulative use, laterality, recall/selection bias; extract original studies behind reviews.",
+    "indirectEvidenceLimit": "Related guides and linked studies are orientation material; a link does not certify that the device, population or outcome in this question has been directly studied.",
+    "relatedTopicIds": [
+      "T18"
+    ],
+    "publicDiscussions": [
+      {
+        "id": "1dc9pxo",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/AskOldPeople/comments/1dc9pxo/",
+        "community": "r/AskOldPeople",
+        "accessStatus": "fetch_error"
+      },
+      {
+        "id": "1hb864f",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/Xennials/comments/1hb864f/",
+        "community": "r/Xennials",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "1d4itm2",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/DebunkThis/comments/1d4itm2/",
+        "community": "r/DebunkThis",
+        "accessStatus": "legacy_index_only"
+      }
+    ]
+  },
+  {
+    "id": "T03",
+    "title": "Bluetooth earbuds",
+    "question": "Do AirPods or other Bluetooth headphones increase brain-tumor risk, and how does their exposure compare with a phone?",
+    "cluster": "Wireless",
+    "aliases": [
+      "AirPods",
+      "Bluetooth headphones",
+      "earbuds",
+      "wireless headphones"
+    ],
+    "guideIds": [
+      "wireless",
+      "basics"
+    ],
+    "studyIds": [],
+    "shortAnswer": "This question remains open in the current EMF Atlas collection. The related guides provide background; a question-specific evidence review is still needed.",
+    "answerStatus": "Open question",
+    "answerSource": null,
+    "answerCoverage": "Unresolved in current collection",
+    "researchFocus": "Bluetooth earbuds/headsets: device dosimetry, transmit power, duty cycle, measured SAR; direct long-term human outcome studies if any. Do not substitute mobile-phone cohorts for direct earbud evidence.",
+    "indirectEvidenceLimit": "Related guides and linked studies are orientation material; a link does not certify that the device, population or outcome in this question has been directly studied.",
+    "relatedTopicIds": [
+      "T17",
+      "T04",
+      "T16"
+    ],
+    "publicDiscussions": [
+      {
+        "id": "1sm48sm",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/airpods/comments/1sm48sm/",
+        "community": "r/airpods",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "1iovpcu",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/medical_advice/comments/1iovpcu/",
+        "community": "r/medical_advice",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "f0vi6x",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/airpods/comments/f0vi6x/",
+        "community": "r/airpods",
+        "accessStatus": "legacy_index_only"
+      }
+    ]
+  },
+  {
+    "id": "T04",
+    "title": "Wi-Fi in bedrooms",
+    "question": "Does sleeping near a router matter, and is switching Wi-Fi off overnight supported by evidence?",
+    "cluster": "Wireless",
+    "aliases": [
+      "router",
+      "Wi-Fi",
+      "wifi",
+      "bedroom modem"
+    ],
+    "guideIds": [
+      "wireless",
+      "measurement"
+    ],
+    "studyIds": [],
+    "shortAnswer": "No. Both involve RF, but distance, transmitted power, frequency, and usage affect exposure. Do not substitute one for the other.",
+    "answerStatus": "Draft answer",
+    "answerSource": {
+      "guideId": "wireless",
+      "field": "questions:1",
+      "basis": "Exact text from the existing AI-assisted guide; source hash in existing-content-snapshot.json; no new medical appraisal in this audit."
+    },
+    "answerCoverage": "Partial existing-guide answer; full question-specific review pending",
+    "researchFocus": "WLAN/Wi-Fi 2.4, 5 and 6 GHz exposure surveys; router duty cycle/distance; blinded human provocation and sleep trials; identify direct Wi-Fi exposure rather than screen-use proxies.",
+    "indirectEvidenceLimit": "Related guides and linked studies are orientation material; a link does not certify that the device, population or outcome in this question has been directly studied.",
+    "relatedTopicIds": [
+      "T17",
+      "T03",
+      "T16"
+    ],
+    "publicDiscussions": [
+      {
+        "id": "c8win9",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/AskDocs/comments/c8win9/",
+        "community": "r/AskDocs",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "126abth",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/HomeNetworking/comments/126abth/",
+        "community": "r/HomeNetworking",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "w95imk",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/wifi/comments/w95imk/",
+        "community": "r/wifi",
+        "accessStatus": "legacy_index_only"
+      }
+    ]
+  },
+  {
+    "id": "T05",
+    "title": "Baby monitors",
+    "question": "What does the evidence say about baby-monitor exposure, placement, and low-EMF marketing?",
+    "cluster": "Children",
+    "aliases": [
+      "Nanit",
+      "Owlet",
+      "DECT",
+      "infant monitor",
+      "baby monitor"
+    ],
+    "guideIds": [
+      "children",
+      "measurement"
+    ],
+    "studyIds": [],
+    "shortAnswer": "This question remains open in the current EMF Atlas collection. The related guides provide background; a question-specific evidence review is still needed.",
+    "answerStatus": "Open question",
+    "answerSource": null,
+    "answerCoverage": "Unresolved in current collection",
+    "researchFocus": "Baby monitors, DECT, Wi-Fi and infant wearable dosimetry; infant anatomical models; human pediatric endpoints if available. Keep cord/strangulation and thermal safety separate from RF.",
+    "indirectEvidenceLimit": "Related guides and linked studies are orientation material; a link does not certify that the device, population or outcome in this question has been directly studied.",
+    "relatedTopicIds": [
+      "T10"
+    ],
+    "publicDiscussions": [
+      {
+        "id": "1ak7qkj",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/moderatelygranolamoms/comments/1ak7qkj/",
+        "community": "r/moderatelygranolamoms",
+        "accessStatus": "page_text"
+      },
+      {
+        "id": "ea3hnv",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/ScienceBasedParenting/comments/ea3hnv/",
+        "community": "r/ScienceBasedParenting",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "1vgeg4l",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/Crunchymom/comments/1vgeg4l/",
+        "community": "r/Crunchymom",
+        "accessStatus": "indexed_body_after_fetch_error"
+      },
+      {
+        "id": "x6hi3n",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/ScienceBasedParenting/comments/x6hi3n/",
+        "community": "r/ScienceBasedParenting",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "mn86kh",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/AskDocs/comments/mn86kh/",
+        "community": "r/AskDocs",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "1rp8g4j",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/Crunchymom/comments/1rp8g4j/",
+        "community": "r/Crunchymom",
+        "accessStatus": "legacy_index_only"
+      }
+    ]
+  },
+  {
+    "id": "T06",
+    "title": "Stickers and pendants",
+    "question": "Do EMF stickers, chips, pendants, or harmonizers change exposure or health outcomes?",
+    "cluster": "Products",
+    "aliases": [
+      "EMF stickers",
+      "pendants",
+      "neutralizers",
+      "harmonizers"
+    ],
+    "guideIds": [
+      "measurement",
+      "basics"
+    ],
+    "studyIds": [],
+    "shortAnswer": "This question remains open in the current EMF Atlas collection. The related guides provide background; a question-specific evidence review is still needed.",
+    "answerStatus": "Open question",
+    "answerSource": null,
+    "answerCoverage": "Unresolved in current collection",
+    "researchFocus": "Independent controlled attenuation/dosimetry tests and sham-controlled health trials of EMF stickers, harmonizers and pendants; separate vendor material from independent original work.",
+    "indirectEvidenceLimit": "Related guides and linked studies are orientation material; a link does not certify that the device, population or outcome in this question has been directly studied.",
+    "relatedTopicIds": [
+      "T31",
+      "T29",
+      "T30",
+      "T28"
+    ],
+    "publicDiscussions": [
+      {
+        "id": "1r3bdx3",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/medicalmedium/comments/1r3bdx3/",
+        "community": "r/medicalmedium",
+        "accessStatus": "page_text"
+      },
+      {
+        "id": "1tuchis",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/AskPhysics/comments/1tuchis/",
+        "community": "r/AskPhysics",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "1jep5mo",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/AskPhysics/comments/1jep5mo/",
+        "community": "r/AskPhysics",
+        "accessStatus": "legacy_index_only"
+      }
+    ]
+  },
+  {
+    "id": "T07",
+    "title": "Electromagnetic hypersensitivity",
+    "question": "Can people who report electromagnetic sensitivity detect exposure under blinded conditions?",
+    "cluster": "Symptoms",
+    "aliases": [
+      "EHS",
+      "IEI-EMF",
+      "electrosensitivity",
+      "nocebo",
+      "provocation"
+    ],
+    "guideIds": [
+      "symptoms"
+    ],
+    "studyIds": [
+      "eltiti",
+      "headache"
+    ],
+    "shortAnswer": "When people know an exposure is present, expectation can influence symptom reports. Eltiti and colleagues compared open and blinded conditions; a second small trial compared real and sham phone exposures. Their blinded results did not support the tested RF exposures as the immediate symptom trigger.",
+    "answerStatus": "Draft answer",
+    "answerSource": {
+      "guideId": "symptoms",
+      "field": "sections:0",
+      "basis": "Exact text from the existing AI-assisted guide; source hash in existing-content-snapshot.json; no new medical appraisal in this audit."
+    },
+    "answerCoverage": "Partial existing-guide answer; full question-specific review pending",
+    "researchFocus": "Idiopathic environmental intolerance attributed to EMF / electromagnetic hypersensitivity; randomized blinded sham-controlled provocation; detection accuracy, symptoms, blinding integrity, expectancy; do not dismiss experienced symptoms.",
+    "indirectEvidenceLimit": "Related guides and linked studies are orientation material; a link does not certify that the device, population or outcome in this question has been directly studied.",
+    "relatedTopicIds": [
+      "T27",
+      "T08"
+    ],
+    "publicDiscussions": [
+      {
+        "id": "1kewijh",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/askapsychologist/comments/1kewijh/",
+        "community": "r/askapsychologist",
+        "accessStatus": "page_text"
+      },
+      {
+        "id": "sydm9r",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/cfs/comments/sydm9r/",
+        "community": "r/cfs",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "14sqnti",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/autism/comments/14sqnti/",
+        "community": "r/autism",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "1u92eqr",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/AutismInWomen/comments/1u92eqr/",
+        "community": "r/AutismInWomen",
+        "accessStatus": "legacy_index_only"
+      }
+    ]
+  },
+  {
+    "id": "T08",
+    "title": "Sleep and melatonin",
+    "question": "Can measured RF or low-frequency exposure affect sleep, EEG, melatonin, or circadian timing?",
+    "cluster": "Symptoms",
+    "aliases": [
+      "insomnia",
+      "sleep EEG",
+      "melatonin",
+      "sleep spindle"
+    ],
+    "guideIds": [
+      "sleep",
+      "symptoms"
+    ],
+    "studyIds": [
+      "5g-sleep"
+    ],
+    "shortAnswer": "A controlled 2025 study reported a genotype-dependent EEG change. Its clinical meaning and generalizability remain uncertain.",
+    "answerStatus": "Draft answer",
+    "answerSource": {
+      "guideId": "sleep",
+      "field": "takeaway",
+      "basis": "Exact text from the existing AI-assisted guide; source hash in existing-content-snapshot.json; no new medical appraisal in this audit."
+    },
+    "answerCoverage": "Partial existing-guide answer; full question-specific review pending",
+    "researchFocus": "RF and ELF separately; polysomnography/EEG/melatonin human crossover trials; measured exposure observational studies; separate screen light, notifications, bedtime displacement and expectation.",
+    "indirectEvidenceLimit": "Related guides and linked studies are orientation material; a link does not certify that the device, population or outcome in this question has been directly studied.",
+    "relatedTopicIds": [
+      "T07",
+      "T27"
+    ],
+    "publicDiscussions": [
+      {
+        "id": "1nx6vlg",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/sleep/comments/1nx6vlg/",
+        "community": "r/sleep",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "1awaq1i",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/sleep/comments/1awaq1i/",
+        "community": "r/sleep",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "1mematt",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/cosleeping/comments/1mematt/",
+        "community": "r/cosleeping",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "1gh1rvg",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/sleepcycle/comments/1gh1rvg/",
+        "community": "r/sleepcycle",
+        "accessStatus": "legacy_index_only"
+      }
+    ]
+  },
+  {
+    "id": "T09",
+    "title": "Phones in pockets and male fertility",
+    "question": "Does carrying a phone near the testes affect semen quality or fertility?",
+    "cluster": "Reproduction",
+    "aliases": [
+      "phone in pocket",
+      "sperm",
+      "semen",
+      "male fertility",
+      "conception"
+    ],
+    "guideIds": [
+      "fertility"
+    ],
+    "studyIds": [
+      "rahban",
+      "hatch",
+      "de-iuliis"
+    ],
+    "shortAnswer": "The selected human studies give mixed results. Laboratory effects raise research questions but cannot establish infertility from ordinary phone use.",
+    "answerStatus": "Draft answer",
+    "answerSource": {
+      "guideId": "fertility",
+      "field": "takeaway",
+      "basis": "Exact text from the existing AI-assisted guide; source hash in existing-content-snapshot.json; no new medical appraisal in this audit."
+    },
+    "answerCoverage": "Partial existing-guide answer; full question-specific review pending",
+    "researchFocus": "Mobile phone/radiofrequency AND sperm/semen/male fertility; prospective human studies, measured exposure, ex vivo sperm and animal experiments separately; heat, selection, abstinence interval and confounding.",
+    "indirectEvidenceLimit": "Related guides and linked studies are orientation material; a link does not certify that the device, population or outcome in this question has been directly studied.",
+    "relatedTopicIds": [
+      "T11",
+      "T25"
+    ],
+    "publicDiscussions": [
+      {
+        "id": "15k5il8",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/InfertilitySucks/comments/15k5il8/",
+        "community": "r/InfertilitySucks",
+        "accessStatus": "legacy_index_only"
+      }
+    ]
+  },
+  {
+    "id": "T10",
+    "title": "Children versus adults",
+    "question": "Does age change absorbed exposure or vulnerability, and what evidence directly studies children?",
+    "cluster": "Children",
+    "aliases": [
+      "kids",
+      "children",
+      "adolescents",
+      "young people",
+      "developing brain"
+    ],
+    "guideIds": [
+      "children"
+    ],
+    "studyIds": [
+      "mobi-kids",
+      "hermes"
+    ],
+    "shortAnswer": "No. Age at exposure, time remaining for follow-up, and patterns of use can differ.",
+    "answerStatus": "Draft answer",
+    "answerSource": {
+      "guideId": "children",
+      "field": "questions:0",
+      "basis": "Exact text from the existing AI-assisted guide; source hash in existing-content-snapshot.json; no new medical appraisal in this audit."
+    },
+    "answerCoverage": "Partial existing-guide answer; full question-specific review pending",
+    "researchFocus": "Pediatric dosimetry; measured RF/ELF exposure cohorts; development and cognition endpoints; distinguish modeled absorption differences from demonstrated clinical harm.",
+    "indirectEvidenceLimit": "Related guides and linked studies are orientation material; a link does not certify that the device, population or outcome in this question has been directly studied.",
+    "relatedTopicIds": [
+      "T05"
+    ],
+    "publicDiscussions": [
+      {
+        "id": "1kh6x94",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/AskPhysics/comments/1kh6x94/",
+        "community": "r/AskPhysics",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "1nghx63",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1nghx63/",
+        "community": "r/electricvehicles",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "mn86kh",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/AskDocs/comments/mn86kh/",
+        "community": "r/AskDocs",
+        "accessStatus": "legacy_index_only"
+      }
+    ]
+  },
+  {
+    "id": "T11",
+    "title": "Pregnancy and development",
+    "question": "Are everyday EMF exposures associated with miscarriage or fetal and childhood development?",
+    "cluster": "Reproduction",
+    "aliases": [
+      "pregnant",
+      "pregnancy",
+      "fetal development",
+      "miscarriage"
+    ],
+    "guideIds": [
+      "fertility",
+      "children"
+    ],
+    "studyIds": [],
+    "shortAnswer": "This question remains open in the current EMF Atlas collection. The related guides provide background; a question-specific evidence review is still needed.",
+    "answerStatus": "Open question",
+    "answerSource": null,
+    "answerCoverage": "Unresolved in current collection",
+    "researchFocus": "Pregnancy AND RF/ELF magnetic fields; prospective miscarriage/birth/development studies, personal dosimetry; timing, selection, mobility and socioeconomic confounding; animal development separately.",
+    "indirectEvidenceLimit": "Related guides and linked studies are orientation material; a link does not certify that the device, population or outcome in this question has been directly studied.",
+    "relatedTopicIds": [
+      "T09",
+      "T25"
+    ],
+    "publicDiscussions": [
+      {
+        "id": "1opwb8d",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/Crunchymom/comments/1opwb8d/",
+        "community": "r/Crunchymom",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "14kixiz",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/ModelY/comments/14kixiz/",
+        "community": "r/ModelY",
+        "accessStatus": "page_text"
+      },
+      {
+        "id": "bog46g",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/TwoXChromosomes/comments/bog46g/",
+        "community": "r/TwoXChromosomes",
+        "accessStatus": "legacy_index_only"
+      }
+    ]
+  },
+  {
+    "id": "T12",
+    "title": "Induction cooking",
+    "question": "How much exposure comes from induction cooktops, and which conditions affect it?",
+    "cluster": "Home",
+    "aliases": [
+      "induction hob",
+      "induction stove",
+      "induction cooktop"
+    ],
+    "guideIds": [
+      "measurement",
+      "basics"
+    ],
+    "studyIds": [],
+    "shortAnswer": "This question remains open in the current EMF Atlas collection. The related guides provide background; a question-specific evidence review is still needed.",
+    "answerStatus": "Open question",
+    "answerSource": null,
+    "answerCoverage": "Unresolved in current collection",
+    "researchFocus": "Induction cooktop intermediate-frequency exposure measurements and dosimetry; pan alignment/size, power, distance, posture, contact current; health studies separate from compliance tests.",
+    "indirectEvidenceLimit": "Related guides and linked studies are orientation material; a link does not certify that the device, population or outcome in this question has been directly studied.",
+    "relatedTopicIds": [
+      "T23",
+      "T32",
+      "T40",
+      "T22"
+    ],
+    "publicDiscussions": [
+      {
+        "id": "kcewla",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/Cooking/comments/kcewla/",
+        "community": "r/Cooking",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "1mprp8j",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/moderatelygranolamoms/comments/1mprp8j/",
+        "community": "r/moderatelygranolamoms",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "1wqh2sn",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/nontoxic/comments/1wqh2sn/",
+        "community": "r/nontoxic",
+        "accessStatus": "legacy_index_only"
+      }
+    ]
+  },
+  {
+    "id": "T13",
+    "title": "Pacemakers and implanted devices",
+    "question": "Which EMF sources can interfere with pacemakers or ICDs, and why is this a different question from cancer risk?",
+    "cluster": "Implants",
+    "aliases": [
+      "pacemaker",
+      "ICD",
+      "CRT-P",
+      "implant interference",
+      "cardiac device"
+    ],
+    "guideIds": [
+      "basics",
+      "measurement"
+    ],
+    "studyIds": [],
+    "shortAnswer": "This question remains open in the current EMF Atlas collection. The related guides provide background; a question-specific evidence review is still needed.",
+    "answerStatus": "Open question",
+    "answerSource": null,
+    "answerCoverage": "Unresolved in current collection",
+    "researchFocus": "Pacemaker/ICD electromagnetic interference: induction cooking, phone magnets, headphones, charging, security gates; clinical and bench tests by device/model/lead configuration; current manufacturer guidance as separate source class.",
+    "indirectEvidenceLimit": "Related guides and linked studies are orientation material; a link does not certify that the device, population or outcome in this question has been directly studied.",
+    "relatedTopicIds": [],
+    "publicDiscussions": [
+      {
+        "id": "1sd62i5",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/PacemakerICD/comments/1sd62i5/",
+        "community": "r/PacemakerICD",
+        "accessStatus": "page_text"
+      },
+      {
+        "id": "18qmn2g",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/PacemakerICD/comments/18qmn2g/",
+        "community": "r/PacemakerICD",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "1ogw0m5",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/PacemakerICD/comments/1ogw0m5/",
+        "community": "r/PacemakerICD",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "1gs0xf7",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/PacemakerICD/comments/1gs0xf7/",
+        "community": "r/PacemakerICD",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "1frpz5h",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/PacemakerICD/comments/1frpz5h/",
+        "community": "r/PacemakerICD",
+        "accessStatus": "legacy_index_only"
+      }
+    ]
+  },
+  {
+    "id": "T14",
+    "title": "Electric and hybrid vehicles",
+    "question": "How do EMF exposures inside EVs and hybrids compare with conventional cars?",
+    "cluster": "Transport",
+    "aliases": [
+      "electric car",
+      "EV",
+      "hybrid",
+      "Tesla",
+      "vehicle battery"
+    ],
+    "guideIds": [
+      "measurement",
+      "basics"
+    ],
+    "studyIds": [],
+    "shortAnswer": "This question remains open in the current EMF Atlas collection. The related guides provide background; a question-specific evidence review is still needed.",
+    "answerStatus": "Open question",
+    "answerSource": null,
+    "answerCoverage": "Unresolved in current collection",
+    "researchFocus": "EV/hybrid/conventional vehicle personal magnetic-field/RF measurements; acceleration, regenerative braking, seating position, spectra, DC versus AC; direct human outcome data if any.",
+    "indirectEvidenceLimit": "Related guides and linked studies are orientation material; a link does not certify that the device, population or outcome in this question has been directly studied.",
+    "relatedTopicIds": [
+      "T39"
+    ],
+    "publicDiscussions": [
+      {
+        "id": "1nghx63",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1nghx63/",
+        "community": "r/electricvehicles",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "y545xt",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/y545xt/",
+        "community": "r/electricvehicles",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "14kixiz",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/ModelY/comments/14kixiz/",
+        "community": "r/ModelY",
+        "accessStatus": "page_text"
+      },
+      {
+        "id": "vfil8x",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/NoStupidQuestions/comments/vfil8x/",
+        "community": "r/NoStupidQuestions",
+        "accessStatus": "legacy_index_only"
+      }
+    ]
+  },
+  {
+    "id": "T15",
+    "title": "Smartwatches and fitness trackers",
+    "question": "What exposure comes from an all-day wearable, and does disabling its radio change it?",
+    "cluster": "Wearables",
+    "aliases": [
+      "Fitbit",
+      "fitness tracker",
+      "smartwatch",
+      "wearable"
+    ],
+    "guideIds": [
+      "wireless",
+      "measurement"
+    ],
+    "studyIds": [],
+    "shortAnswer": "This question remains open in the current EMF Atlas collection. The related guides provide background; a question-specific evidence review is still needed.",
+    "answerStatus": "Open question",
+    "answerSource": null,
+    "answerCoverage": "Unresolved in current collection",
+    "researchFocus": "Smartwatch/Fitbit/Oura/wearable Bluetooth, Wi-Fi and cellular dosimetry; duty cycle and synchronization; direct health outcomes; separate optical sensors and contact dermatitis from RF.",
+    "indirectEvidenceLimit": "Related guides and linked studies are orientation material; a link does not certify that the device, population or outcome in this question has been directly studied.",
+    "relatedTopicIds": [],
+    "publicDiscussions": [
+      {
+        "id": "r64szc",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/fitbit/comments/r64szc/",
+        "community": "r/fitbit",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "kdcj1l",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/fitbit/comments/kdcj1l/",
+        "community": "r/fitbit",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "kovj44",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/fitbit/comments/kovj44/",
+        "community": "r/fitbit",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "i29iw4",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/Biohackers/comments/i29iw4/",
+        "community": "r/Biohackers",
+        "accessStatus": "legacy_index_only"
+      }
+    ]
+  },
+  {
+    "id": "T16",
+    "title": "Cell towers near homes",
+    "question": "Does distance from a base station predict exposure or health risk?",
+    "cluster": "Wireless",
+    "aliases": [
+      "base station",
+      "cell mast",
+      "cell tower",
+      "antenna near home"
+    ],
+    "guideIds": [
+      "wireless",
+      "measurement"
+    ],
+    "studyIds": [],
+    "shortAnswer": "This question remains open in the current EMF Atlas collection. The related guides provide background; a question-specific evidence review is still needed.",
+    "answerStatus": "Open question",
+    "answerSource": null,
+    "answerCoverage": "Unresolved in current collection",
+    "researchFocus": "Base-station RF exposure surveys and epidemiology; measured fields, antenna geometry, traffic/beamforming, indoor attenuation; distance as proxy, selection and ecological fallacy.",
+    "indirectEvidenceLimit": "Related guides and linked studies are orientation material; a link does not certify that the device, population or outcome in this question has been directly studied.",
+    "relatedTopicIds": [
+      "T17",
+      "T04",
+      "T03"
+    ],
+    "publicDiscussions": [
+      {
+        "id": "1kh6x94",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/AskPhysics/comments/1kh6x94/",
+        "community": "r/AskPhysics",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "cm9psc",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/environment/comments/cm9psc/",
+        "community": "r/environment",
+        "accessStatus": "legacy_index_only"
+      }
+    ]
+  },
+  {
+    "id": "T17",
+    "title": "5G and millimeter waves",
+    "question": "What is actually different about 5G, and which findings apply to sub-6 GHz versus millimeter waves?",
+    "cluster": "Wireless",
+    "aliases": [
+      "5G",
+      "mmWave",
+      "millimeter wave",
+      "millimetre wave",
+      "700 MHz",
+      "3.6 GHz"
+    ],
+    "guideIds": [
+      "wireless",
+      "sleep"
+    ],
+    "studyIds": [],
+    "shortAnswer": "This question remains open in the current EMF Atlas collection. The related guides provide background; a question-specific evidence review is still needed.",
+    "answerStatus": "Open question",
+    "answerSource": null,
+    "answerCoverage": "Unresolved in current collection",
+    "researchFocus": "5G NR sub-6 GHz versus millimeter waves; absorbed power density, surface heating and human experimental outcomes; modulation/beamforming; no automatic generalization from 2G/3G or unrelated compounds named 5g.",
+    "indirectEvidenceLimit": "Related guides and linked studies are orientation material; a link does not certify that the device, population or outcome in this question has been directly studied.",
+    "relatedTopicIds": [
+      "T04",
+      "T03",
+      "T16"
+    ],
+    "publicDiscussions": [
+      {
+        "id": "g06272",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/AskReddit/comments/g06272/",
+        "community": "r/AskReddit",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "fvaa1j",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/AskReddit/comments/fvaa1j/",
+        "community": "r/AskReddit",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "hotvie",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/AskReddit/comments/hotvie/",
+        "community": "r/AskReddit",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "cm9psc",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/environment/comments/cm9psc/",
+        "community": "r/environment",
+        "accessStatus": "legacy_index_only"
+      }
+    ]
+  },
+  {
+    "id": "T18",
+    "title": "Magnetic fields and childhood leukemia",
+    "question": "What do childhood-leukemia studies show, and is an exposure-category boundary a safety threshold?",
+    "cluster": "Cancer",
+    "aliases": [
+      "childhood leukemia",
+      "childhood leukaemia",
+      "ELF magnetic fields"
+    ],
+    "guideIds": [
+      "power-lines",
+      "children"
+    ],
+    "studyIds": [
+      "ahlbom",
+      "greenland",
+      "draper"
+    ],
+    "shortAnswer": "Higher residential magnetic-field categories have been associated with childhood leukemia in pooled observational data. Whether the relationship is causal remains unresolved.",
+    "answerStatus": "Draft answer",
+    "answerSource": {
+      "guideId": "power-lines",
+      "field": "takeaway",
+      "basis": "Exact text from the existing AI-assisted guide; source hash in existing-content-snapshot.json; no new medical appraisal in this audit."
+    },
+    "answerCoverage": "Partial existing-guide answer; full question-specific review pending",
+    "researchFocus": "ELF magnetic fields AND childhood leukemia; original cohort/case-control studies behind pooled analyses; measured versus modeled exposure, cutoffs, sparse high exposure, confounding and selection.",
+    "indirectEvidenceLimit": "Related guides and linked studies are orientation material; a link does not certify that the device, population or outcome in this question has been directly studied.",
+    "relatedTopicIds": [
+      "T02"
+    ],
+    "publicDiscussions": [
+      {
+        "id": "1stzmnc",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/Powerlines/comments/1stzmnc/",
+        "community": "r/Powerlines",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "jv7l3g",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/AskEngineers/comments/jv7l3g/",
+        "community": "r/AskEngineers",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "120fv98",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/Powerlines/comments/120fv98/",
+        "community": "r/Powerlines",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "1ey0ix0",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/AskDocs/comments/1ey0ix0/",
+        "community": "r/AskDocs",
+        "accessStatus": "legacy_index_only"
+      }
+    ]
+  },
+  {
+    "id": "T19",
+    "title": "Choosing and using an EMF meter",
+    "question": "Why do two meters disagree, and which field types and frequencies can each detect?",
+    "cluster": "Measurement",
+    "aliases": [
+      "EMF meter",
+      "gaussmeter",
+      "dosimeter",
+      "measurement instrument"
+    ],
+    "guideIds": [
+      "measurement"
+    ],
+    "studyIds": [],
+    "shortAnswer": "A meaningful measurement needs the field type, frequency range, unit, location, operating conditions, and averaging period.",
+    "answerStatus": "Draft answer",
+    "answerSource": {
+      "guideId": "measurement",
+      "field": "takeaway",
+      "basis": "Exact text from the existing AI-assisted guide; source hash in existing-content-snapshot.json; no new medical appraisal in this audit."
+    },
+    "answerCoverage": "Partial existing-guide answer; full question-specific review pending",
+    "researchFocus": "Meter validation/calibration, frequency response, isotropic versus single-axis probes, bandwidth, dynamic range, uncertainty, saturation; professional exposure-survey methods; no consumer brand rankings without tests.",
+    "indirectEvidenceLimit": "Related guides and linked studies are orientation material; a link does not certify that the device, population or outcome in this question has been directly studied.",
+    "relatedTopicIds": [
+      "T20",
+      "T35",
+      "T34",
+      "T33"
+    ],
+    "publicDiscussions": [
+      {
+        "id": "rkuumr",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/electrical/comments/rkuumr/",
+        "community": "r/electrical",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "1aoanup",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/AskElectricians/comments/1aoanup/",
+        "community": "r/AskElectricians",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "n03bdq",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/AskEngineers/comments/n03bdq/",
+        "community": "r/AskEngineers",
+        "accessStatus": "legacy_index_only"
+      }
+    ]
+  },
+  {
+    "id": "T20",
+    "title": "SAR ratings",
+    "question": "What does a phone SAR rating measure, and can it rank real-world exposure?",
+    "cluster": "Measurement",
+    "aliases": [
+      "SAR",
+      "specific absorption rate",
+      "phone rating",
+      "W/kg"
+    ],
+    "guideIds": [
+      "measurement"
+    ],
+    "studyIds": [],
+    "shortAnswer": "This question remains open in the current EMF Atlas collection. The related guides provide background; a question-specific evidence review is still needed.",
+    "answerStatus": "Open question",
+    "answerSource": null,
+    "answerCoverage": "Unresolved in current collection",
+    "researchFocus": "Specific absorption rate handset dosimetry; test geometry, averaging mass, transmit power control, real usage; measured exposure comparisons; current standards in context collection, not original-study count.",
+    "indirectEvidenceLimit": "Related guides and linked studies are orientation material; a link does not certify that the device, population or outcome in this question has been directly studied.",
+    "relatedTopicIds": [
+      "T35",
+      "T19",
+      "T34",
+      "T33"
+    ],
+    "publicDiscussions": [
+      {
+        "id": "wb1crh",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/NothingTech/comments/wb1crh/",
+        "community": "r/NothingTech",
+        "accessStatus": "fetch_error"
+      },
+      {
+        "id": "1qibfui",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/phones/comments/1qibfui/",
+        "community": "r/phones",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "1dhd2nf",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/PickAnAndroidForMe/comments/1dhd2nf/",
+        "community": "r/PickAnAndroidForMe",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "1hcucas",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/Smartphones/comments/1hcucas/",
+        "community": "r/Smartphones",
+        "accessStatus": "legacy_index_only"
+      }
+    ]
+  },
+  {
+    "id": "T21",
+    "title": "Wiring and electrical panels",
+    "question": "What do magnetic-field readings near a breaker panel or wall wiring mean?",
+    "cluster": "Housing",
+    "aliases": [
+      "fuse box",
+      "electrical panel",
+      "circuit breaker",
+      "home wiring"
+    ],
+    "guideIds": [
+      "measurement",
+      "power-lines"
+    ],
+    "studyIds": [],
+    "shortAnswer": "This question remains open in the current EMF Atlas collection. The related guides provide background; a question-specific evidence review is still needed.",
+    "answerStatus": "Open question",
+    "answerSource": null,
+    "answerCoverage": "Unresolved in current collection",
+    "researchFocus": "Residential wiring/panel magnetic and electric fields; load, return-current paths, temporal variation and personal dosimetry; technical assessment distinct from diagnosis or DIY electrical work.",
+    "indirectEvidenceLimit": "Related guides and linked studies are orientation material; a link does not certify that the device, population or outcome in this question has been directly studied.",
+    "relatedTopicIds": [
+      "T01"
+    ],
+    "publicDiscussions": [
+      {
+        "id": "15a7z65",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/AskElectricians/comments/15a7z65/",
+        "community": "r/AskElectricians",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "vi2eaw",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/NoStupidQuestions/comments/vi2eaw/",
+        "community": "r/NoStupidQuestions",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "1aoanup",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/AskElectricians/comments/1aoanup/",
+        "community": "r/AskElectricians",
+        "accessStatus": "legacy_index_only"
+      }
+    ]
+  },
+  {
+    "id": "T22",
+    "title": "Smart meters",
+    "question": "How do smart-meter emissions compare with other sources, and do shields change exposure?",
+    "cluster": "Home",
+    "aliases": [
+      "smart meter",
+      "electricity meter",
+      "meter shielding cover"
+    ],
+    "guideIds": [
+      "measurement",
+      "wireless"
+    ],
+    "studyIds": [],
+    "shortAnswer": "This question remains open in the current EMF Atlas collection. The related guides provide background; a question-specific evidence review is still needed.",
+    "answerStatus": "Open question",
+    "answerSource": null,
+    "answerCoverage": "Unresolved in current collection",
+    "researchFocus": "Smart-meter RF measurement, pulse duty cycle, peak versus time averaged exposure, indoor/behind-meter dosimetry; direct health studies if any; shielding evaluation and connectivity feedback.",
+    "indirectEvidenceLimit": "Related guides and linked studies are orientation material; a link does not certify that the device, population or outcome in this question has been directly studied.",
+    "relatedTopicIds": [
+      "T23",
+      "T32",
+      "T12",
+      "T40"
+    ],
+    "publicDiscussions": [
+      {
+        "id": "1egvnzv",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/AskPhysics/comments/1egvnzv/",
+        "community": "r/AskPhysics",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "g5a42f",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/Electromagnetics/comments/g5a42f/",
+        "community": "r/Electromagnetics",
+        "accessStatus": "legacy_index_only"
+      }
+    ]
+  },
+  {
+    "id": "T23",
+    "title": "Microwave ovens",
+    "question": "What does leakage mean, and does wireless interference indicate an unsafe microwave?",
+    "cluster": "Home",
+    "aliases": [
+      "microwave oven",
+      "oven leakage",
+      "cooking radiation"
+    ],
+    "guideIds": [
+      "basics",
+      "measurement"
+    ],
+    "studyIds": [],
+    "shortAnswer": "This question remains open in the current EMF Atlas collection. The related guides provide background; a question-specific evidence review is still needed.",
+    "answerStatus": "Open question",
+    "answerSource": null,
+    "answerCoverage": "Unresolved in current collection",
+    "researchFocus": "Microwave-oven leakage measurement/validation, shielding and interlocks, thermal injury case data; no experiments defeating interlocks; separate interference detectability from exposure assessment.",
+    "indirectEvidenceLimit": "Related guides and linked studies are orientation material; a link does not certify that the device, population or outcome in this question has been directly studied.",
+    "relatedTopicIds": [
+      "T32",
+      "T12",
+      "T40",
+      "T22"
+    ],
+    "publicDiscussions": [
+      {
+        "id": "la9exd",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/Radiation/comments/la9exd/",
+        "community": "r/Radiation",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "jd0duo",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/NoStupidQuestions/comments/jd0duo/",
+        "community": "r/NoStupidQuestions",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "hj0v4g",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/NoStupidQuestions/comments/hj0v4g/",
+        "community": "r/NoStupidQuestions",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "1112iok",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/techsupport/comments/1112iok/",
+        "community": "r/techsupport",
+        "accessStatus": "legacy_index_only"
+      }
+    ]
+  },
+  {
+    "id": "T24",
+    "title": "Phones beside the bed",
+    "question": "What changes when a phone is beside the bed or under a pillow?",
+    "cluster": "Habits",
+    "aliases": [
+      "phone under pillow",
+      "phone by bed",
+      "bedside phone"
+    ],
+    "guideIds": [
+      "sleep",
+      "wireless"
+    ],
+    "studyIds": [],
+    "shortAnswer": "This question remains open in the current EMF Atlas collection. The related guides provide background; a question-specific evidence review is still needed.",
+    "answerStatus": "Open question",
+    "answerSource": null,
+    "answerCoverage": "Unresolved in current collection",
+    "researchFocus": "Nighttime handset dosimetry and sleep trials; state of radios, activity and distance; separate RF outcomes from charging heat/fire and behavioral sleep disruption.",
+    "indirectEvidenceLimit": "Related guides and linked studies are orientation material; a link does not certify that the device, population or outcome in this question has been directly studied.",
+    "relatedTopicIds": [
+      "T26"
+    ],
+    "publicDiscussions": [
+      {
+        "id": "19a1ddv",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/indiasocial/comments/19a1ddv/",
+        "community": "r/indiasocial",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "bxbxno",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/galaxys10/comments/bxbxno/",
+        "community": "r/galaxys10",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "h89joj",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/Advice/comments/h89joj/",
+        "community": "r/Advice",
+        "accessStatus": "legacy_index_only"
+      }
+    ]
+  },
+  {
+    "id": "T25",
+    "title": "Laptops on the lap",
+    "question": "How can laptop heat be separated from RF or low-frequency exposure in fertility research?",
+    "cluster": "Reproduction",
+    "aliases": [
+      "laptop on lap",
+      "laptop heat",
+      "hotspot"
+    ],
+    "guideIds": [
+      "fertility",
+      "measurement"
+    ],
+    "studyIds": [],
+    "shortAnswer": "This question remains open in the current EMF Atlas collection. The related guides provide background; a question-specific evidence review is still needed.",
+    "answerStatus": "Open question",
+    "answerSource": null,
+    "answerCoverage": "Unresolved in current collection",
+    "researchFocus": "Laptop scrotal/skin temperature measurements, Wi-Fi/ELF dosimetry, human semen and ex vivo sperm experiments; thermal controls, posture, duration and exposure verification.",
+    "indirectEvidenceLimit": "Related guides and linked studies are orientation material; a link does not certify that the device, population or outcome in this question has been directly studied.",
+    "relatedTopicIds": [
+      "T11",
+      "T09"
+    ],
+    "publicDiscussions": [
+      {
+        "id": "g0izle",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/AskDocs/comments/g0izle/",
+        "community": "r/AskDocs",
+        "accessStatus": "fetch_error"
+      },
+      {
+        "id": "bog46g",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/TwoXChromosomes/comments/bog46g/",
+        "community": "r/TwoXChromosomes",
+        "accessStatus": "legacy_index_only"
+      }
+    ]
+  },
+  {
+    "id": "T26",
+    "title": "Airplane mode and radio settings",
+    "question": "Does airplane mode stop every transmitter, and what settings change measured exposure?",
+    "cluster": "Habits",
+    "aliases": [
+      "airplane mode",
+      "flight mode",
+      "radio off",
+      "Bluetooth settings"
+    ],
+    "guideIds": [
+      "wireless",
+      "measurement"
+    ],
+    "studyIds": [],
+    "shortAnswer": "This question remains open in the current EMF Atlas collection. The related guides provide background; a question-specific evidence review is still needed.",
+    "answerStatus": "Open question",
+    "answerSource": null,
+    "answerCoverage": "Unresolved in current collection",
+    "researchFocus": "Device emission measurements by radio state; airplane mode with Wi-Fi/Bluetooth separately enabled, idle versus traffic; record device/OS versions; separate exposure reduction from proven health benefit.",
+    "indirectEvidenceLimit": "Related guides and linked studies are orientation material; a link does not certify that the device, population or outcome in this question has been directly studied.",
+    "relatedTopicIds": [
+      "T24"
+    ],
+    "publicDiscussions": [
+      {
+        "id": "h89joj",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/Advice/comments/h89joj/",
+        "community": "r/Advice",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "kovj44",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/fitbit/comments/kovj44/",
+        "community": "r/fitbit",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "1pjwko9",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/ZykeBand/comments/1pjwko9/",
+        "community": "r/ZykeBand",
+        "accessStatus": "legacy_index_only"
+      }
+    ]
+  },
+  {
+    "id": "T27",
+    "title": "Headaches near devices",
+    "question": "What can blinded experiments tell us about headaches attributed to Wi-Fi, phones, or headphones?",
+    "cluster": "Symptoms",
+    "aliases": [
+      "headache",
+      "dizziness",
+      "phone symptoms",
+      "Wi-Fi symptoms"
+    ],
+    "guideIds": [
+      "symptoms"
+    ],
+    "studyIds": [
+      "eltiti",
+      "headache"
+    ],
+    "shortAnswer": "When people know an exposure is present, expectation can influence symptom reports. Eltiti and colleagues compared open and blinded conditions; a second small trial compared real and sham phone exposures. Their blinded results did not support the tested RF exposures as the immediate symptom trigger.",
+    "answerStatus": "Draft answer",
+    "answerSource": {
+      "guideId": "symptoms",
+      "field": "sections:0",
+      "basis": "Exact text from the existing AI-assisted guide; source hash in existing-content-snapshot.json; no new medical appraisal in this audit."
+    },
+    "answerCoverage": "Partial existing-guide answer; full question-specific review pending",
+    "researchFocus": "Headache/dizziness and measured RF/ELF; blinded crossover/sham trials, EHS strata, nocebo/expectancy manipulation; ergonomic/acoustic/visual confounds; keep clinical assessment separate.",
+    "indirectEvidenceLimit": "Related guides and linked studies are orientation material; a link does not certify that the device, population or outcome in this question has been directly studied.",
+    "relatedTopicIds": [
+      "T07",
+      "T08"
+    ],
+    "publicDiscussions": [
+      {
+        "id": "v60tyd",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/sony/comments/v60tyd/",
+        "community": "r/sony",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "1qibfui",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/phones/comments/1qibfui/",
+        "community": "r/phones",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "148vgpq",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/Electromagnetics/comments/148vgpq/",
+        "community": "r/Electromagnetics",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "1kewijh",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/askapsychologist/comments/1kewijh/",
+        "community": "r/askapsychologist",
+        "accessStatus": "page_text"
+      }
+    ]
+  },
+  {
+    "id": "T28",
+    "title": "Shielding phone cases",
+    "question": "Can a shielding case lower local exposure or make a phone transmit harder?",
+    "cluster": "Products",
+    "aliases": [
+      "shielding case",
+      "anti radiation phone case",
+      "phone pouch"
+    ],
+    "guideIds": [
+      "measurement",
+      "basics"
+    ],
+    "studyIds": [],
+    "shortAnswer": "This question remains open in the current EMF Atlas collection. The related guides provide background; a question-specific evidence review is still needed.",
+    "answerStatus": "Open question",
+    "answerSource": null,
+    "answerCoverage": "Unresolved in current collection",
+    "researchFocus": "Phone case directional shielding, SAR maps, adaptive power/network conditions, independent bench tests; sham-controlled clinical trials if any; do not equate attenuation with better health.",
+    "indirectEvidenceLimit": "Related guides and linked studies are orientation material; a link does not certify that the device, population or outcome in this question has been directly studied.",
+    "relatedTopicIds": [
+      "T31",
+      "T29",
+      "T30",
+      "T06"
+    ],
+    "publicDiscussions": [
+      {
+        "id": "1opwb8d",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/Crunchymom/comments/1opwb8d/",
+        "community": "r/Crunchymom",
+        "accessStatus": "legacy_index_only"
+      }
+    ]
+  },
+  {
+    "id": "T29",
+    "title": "Shielding fabrics and bed canopies",
+    "question": "Do blankets, clothing, and canopies reduce measured exposure, and has a health benefit been tested?",
+    "cluster": "Products",
+    "aliases": [
+      "bed canopy",
+      "shielding fabric",
+      "Faraday fabric",
+      "EMF blanket"
+    ],
+    "guideIds": [
+      "measurement",
+      "basics"
+    ],
+    "studyIds": [],
+    "shortAnswer": "This question remains open in the current EMF Atlas collection. The related guides provide background; a question-specific evidence review is still needed.",
+    "answerStatus": "Open question",
+    "answerSource": null,
+    "answerCoverage": "Unresolved in current collection",
+    "researchFocus": "Shielding textile/canopy attenuation across bands, seams/geometry and durability; before-after dosimetry; randomized sham clinical trials; distinguish enclosure tests from product claims.",
+    "indirectEvidenceLimit": "Related guides and linked studies are orientation material; a link does not certify that the device, population or outcome in this question has been directly studied.",
+    "relatedTopicIds": [
+      "T31",
+      "T30",
+      "T06",
+      "T28"
+    ],
+    "publicDiscussions": [
+      {
+        "id": "1cozyyc",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/IsItBullshit/comments/1cozyyc/",
+        "community": "r/IsItBullshit",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "1awaq1i",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/sleep/comments/1awaq1i/",
+        "community": "r/sleep",
+        "accessStatus": "legacy_index_only"
+      }
+    ]
+  },
+  {
+    "id": "T30",
+    "title": "Shielding paint and rooms",
+    "question": "When can conductive paint change fields, and what can go wrong in a partial enclosure?",
+    "cluster": "Products",
+    "aliases": [
+      "shielding paint",
+      "Faraday room",
+      "EMF paint",
+      "room shielding"
+    ],
+    "guideIds": [
+      "measurement",
+      "basics"
+    ],
+    "studyIds": [],
+    "shortAnswer": "This question remains open in the current EMF Atlas collection. The related guides provide background; a question-specific evidence review is still needed.",
+    "answerStatus": "Open question",
+    "answerSource": null,
+    "answerCoverage": "Unresolved in current collection",
+    "researchFocus": "Conductive paint/enclosure shielding-effectiveness measurement, near versus far field, openings and grounding; RF versus low-frequency magnetic attenuation; field redistribution; no DIY mains instructions.",
+    "indirectEvidenceLimit": "Related guides and linked studies are orientation material; a link does not certify that the device, population or outcome in this question has been directly studied.",
+    "relatedTopicIds": [
+      "T31",
+      "T29",
+      "T06",
+      "T28"
+    ],
+    "publicDiscussions": [
+      {
+        "id": "1mhwo5k",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/paint/comments/1mhwo5k/",
+        "community": "r/paint",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "13pgz8b",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/ElectroBOOM/comments/13pgz8b/",
+        "community": "r/ElectroBOOM",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "rfatb0",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/Electromagnetics/comments/rfatb0/",
+        "community": "r/Electromagnetics",
+        "accessStatus": "legacy_index_only"
+      }
+    ]
+  },
+  {
+    "id": "T31",
+    "title": "Grounding and earthing",
+    "question": "Do grounding mats change measured fields or health outcomes, and how sound are the trials?",
+    "cluster": "Products",
+    "aliases": [
+      "grounding",
+      "earthing",
+      "grounding mat",
+      "earthing sheet"
+    ],
+    "guideIds": [
+      "measurement",
+      "basics"
+    ],
+    "studyIds": [],
+    "shortAnswer": "This question remains open in the current EMF Atlas collection. The related guides provide background; a question-specific evidence review is still needed.",
+    "answerStatus": "Open question",
+    "answerSource": null,
+    "answerCoverage": "Unresolved in current collection",
+    "researchFocus": "Earthing/grounding human sham-controlled trials; body voltage/contact current measurements; adequate blinding and prespecification; funding; distinguish voltage reduction from medical benefit.",
+    "indirectEvidenceLimit": "Related guides and linked studies are orientation material; a link does not certify that the device, population or outcome in this question has been directly studied.",
+    "relatedTopicIds": [
+      "T29",
+      "T30",
+      "T06",
+      "T28"
+    ],
+    "publicDiscussions": [
+      {
+        "id": "1c59uee",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/Earthing/comments/1c59uee/",
+        "community": "r/Earthing",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "1cozyyc",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/IsItBullshit/comments/1cozyyc/",
+        "community": "r/IsItBullshit",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "1hd8xt7",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/Earthing/comments/1hd8xt7/",
+        "community": "r/Earthing",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "jl4aec",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/Earthing/comments/jl4aec/",
+        "community": "r/Earthing",
+        "accessStatus": "legacy_index_only"
+      }
+    ]
+  },
+  {
+    "id": "T32",
+    "title": "Dirty electricity",
+    "question": "What is power-quality noise, and what evidence supports health claims or plug-in filters?",
+    "cluster": "Home",
+    "aliases": [
+      "dirty electricity",
+      "harmonics",
+      "transients",
+      "electrical noise"
+    ],
+    "guideIds": [
+      "measurement",
+      "basics"
+    ],
+    "studyIds": [],
+    "shortAnswer": "This question remains open in the current EMF Atlas collection. The related guides provide background; a question-specific evidence review is still needed.",
+    "answerStatus": "Open question",
+    "answerSource": null,
+    "answerCoverage": "Unresolved in current collection",
+    "researchFocus": "Voltage transients/harmonics/intermediate-frequency fields; measured personal exposure; controlled filter trials, health outcomes, confounding and conflicts; define each metric instead of treating dirty electricity as a standardized dose.",
+    "indirectEvidenceLimit": "Related guides and linked studies are orientation material; a link does not certify that the device, population or outcome in this question has been directly studied.",
+    "relatedTopicIds": [
+      "T23",
+      "T12",
+      "T40",
+      "T22"
+    ],
+    "publicDiscussions": [
+      {
+        "id": "s07g74",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/electricians/comments/s07g74/",
+        "community": "r/electricians",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "16b23v2",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/electricians/comments/16b23v2/",
+        "community": "r/electricians",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "yx4sx9",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/explainlikeimfive/comments/yx4sx9/",
+        "community": "r/explainlikeimfive",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "1mgjqbb",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/Earthing/comments/1mgjqbb/",
+        "community": "r/Earthing",
+        "accessStatus": "legacy_index_only"
+      }
+    ]
+  },
+  {
+    "id": "T33",
+    "title": "Phone apps as EMF detectors",
+    "question": "Can a phone app measure RF, magnetic fields, or microwave leakage?",
+    "cluster": "Measurement",
+    "aliases": [
+      "EMF app",
+      "phone magnetometer",
+      "radiation detector app",
+      "gauss app"
+    ],
+    "guideIds": [
+      "measurement"
+    ],
+    "studyIds": [],
+    "shortAnswer": "This question remains open in the current EMF Atlas collection. The related guides provide background; a question-specific evidence review is still needed.",
+    "answerStatus": "Open question",
+    "answerSource": null,
+    "answerCoverage": "Unresolved in current collection",
+    "researchFocus": "Smartphone magnetometer validation, static versus AC magnetic sensitivity, RF sensor limitations; calibration/phone-model constraints; do not endorse phone-in-microwave testing.",
+    "indirectEvidenceLimit": "Related guides and linked studies are orientation material; a link does not certify that the device, population or outcome in this question has been directly studied.",
+    "relatedTopicIds": [
+      "T20",
+      "T35",
+      "T19",
+      "T34"
+    ],
+    "publicDiscussions": [
+      {
+        "id": "la9exd",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/Radiation/comments/la9exd/",
+        "community": "r/Radiation",
+        "accessStatus": "legacy_index_only"
+      }
+    ]
+  },
+  {
+    "id": "T34",
+    "title": "Units and alarm thresholds",
+    "question": "What do mG, microtesla, V/m and W/m² mean, and is a meter alarm a health threshold?",
+    "cluster": "Measurement",
+    "aliases": [
+      "microtesla",
+      "milligauss",
+      "V/m",
+      "W/m2",
+      "alarm threshold"
+    ],
+    "guideIds": [
+      "measurement",
+      "power-lines"
+    ],
+    "studyIds": [],
+    "shortAnswer": "A meaningful measurement needs the field type, frequency range, unit, location, operating conditions, and averaging period.",
+    "answerStatus": "Draft answer",
+    "answerSource": {
+      "guideId": "measurement",
+      "field": "takeaway",
+      "basis": "Exact text from the existing AI-assisted guide; source hash in existing-content-snapshot.json; no new medical appraisal in this audit."
+    },
+    "answerCoverage": "Partial existing-guide answer; full question-specific review pending",
+    "researchFocus": "Field metric definitions and meter validation; uncertainty and frequency-specific exposure standards; epidemiologic categories versus regulatory reference levels; conversions only within compatible quantities.",
+    "indirectEvidenceLimit": "Related guides and linked studies are orientation material; a link does not certify that the device, population or outcome in this question has been directly studied.",
+    "relatedTopicIds": [
+      "T20",
+      "T35",
+      "T19",
+      "T33"
+    ],
+    "publicDiscussions": [
+      {
+        "id": "1aoanup",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/AskElectricians/comments/1aoanup/",
+        "community": "r/AskElectricians",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "rkuumr",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/electrical/comments/rkuumr/",
+        "community": "r/electrical",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "n03bdq",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/AskEngineers/comments/n03bdq/",
+        "community": "r/AskEngineers",
+        "accessStatus": "legacy_index_only"
+      }
+    ]
+  },
+  {
+    "id": "T35",
+    "title": "Distance, duration and home surveys",
+    "question": "How should I measure a room, and why is one reading or a fixed safe distance insufficient?",
+    "cluster": "Measurement",
+    "aliases": [
+      "distance",
+      "duration",
+      "averaging",
+      "home EMF survey"
+    ],
+    "guideIds": [
+      "measurement",
+      "power-lines"
+    ],
+    "studyIds": [],
+    "shortAnswer": "Device activity, network conditions, electrical load, reflections, and distance can change readings. Peak and averaged values are not interchangeable. A household spot reading should not be compared directly to a long-term average in an epidemiological paper.",
+    "answerStatus": "Draft answer",
+    "answerSource": {
+      "guideId": "measurement",
+      "field": "sections:2",
+      "basis": "Exact text from the existing AI-assisted guide; source hash in existing-content-snapshot.json; no new medical appraisal in this audit."
+    },
+    "answerCoverage": "Partial existing-guide answer; full question-specific review pending",
+    "researchFocus": "Personal/environmental dosimetry, temporal averaging and spot sampling; source geometry, near/far field, spatial variation; repeated calibrated measurements and uncertainty.",
+    "indirectEvidenceLimit": "Related guides and linked studies are orientation material; a link does not certify that the device, population or outcome in this question has been directly studied.",
+    "relatedTopicIds": [
+      "T20",
+      "T19",
+      "T34",
+      "T33"
+    ],
+    "publicDiscussions": [
+      {
+        "id": "n03bdq",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/AskEngineers/comments/n03bdq/",
+        "community": "r/AskEngineers",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "w5b3ow",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/AskEngineers/comments/w5b3ow/",
+        "community": "r/AskEngineers",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "18mcc64",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/RealEstateCanada/comments/18mcc64/",
+        "community": "r/RealEstateCanada",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "jv7l3g",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/AskEngineers/comments/jv7l3g/",
+        "community": "r/AskEngineers",
+        "accessStatus": "legacy_index_only"
+      }
+    ]
+  },
+  {
+    "id": "T36",
+    "title": "Types of electromagnetic radiation",
+    "question": "How are RF, low-frequency fields, static fields, visible light and ionizing radiation different?",
+    "cluster": "Fundamentals",
+    "aliases": [
+      "ionizing",
+      "non-ionizing",
+      "RF",
+      "ELF",
+      "static field",
+      "radiation spectrum"
+    ],
+    "guideIds": [
+      "basics"
+    ],
+    "studyIds": [],
+    "shortAnswer": "“EMF” describes many exposures. A result about one frequency, dose, or biological system cannot automatically answer a question about another.",
+    "answerStatus": "Draft answer",
+    "answerSource": {
+      "guideId": "basics",
+      "field": "takeaway",
+      "basis": "Exact text from the existing AI-assisted guide; source hash in existing-content-snapshot.json; no new medical appraisal in this audit."
+    },
+    "answerCoverage": "Partial existing-guide answer; full question-specific review pending",
+    "researchFocus": "Experimental dosimetry/interaction mechanisms; frequency, photon energy, induced currents and heating; use authoritative technical references for definitions; distinguish UV photochemistry and ionization.",
+    "indirectEvidenceLimit": "Related guides and linked studies are orientation material; a link does not certify that the device, population or outcome in this question has been directly studied.",
+    "relatedTopicIds": [],
+    "publicDiscussions": [
+      {
+        "id": "1dqhs1n",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/askscience/comments/1dqhs1n/",
+        "community": "r/askscience",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "1ixgk7h",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/Mcat/comments/1ixgk7h/",
+        "community": "r/Mcat",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "kq5uiy",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/explainlikeimfive/comments/kq5uiy/",
+        "community": "r/explainlikeimfive",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "n03bdq",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/AskEngineers/comments/n03bdq/",
+        "community": "r/AskEngineers",
+        "accessStatus": "legacy_index_only"
+      }
+    ]
+  },
+  {
+    "id": "T37",
+    "title": "DNA damage and oxidative stress",
+    "question": "What would a non-ionizing exposure need to do to produce a biological effect, and how reproducible are laboratory findings?",
+    "cluster": "Mechanisms",
+    "aliases": [
+      "DNA damage",
+      "genotoxicity",
+      "oxidative stress",
+      "reactive oxygen species"
+    ],
+    "guideIds": [
+      "basics",
+      "fertility"
+    ],
+    "studyIds": [
+      "de-iuliis"
+    ],
+    "shortAnswer": "This question remains open in the current EMF Atlas collection. The related guides provide background; a question-specific evidence review is still needed.",
+    "answerStatus": "Open question",
+    "answerSource": null,
+    "answerCoverage": "Unresolved in current collection",
+    "researchFocus": "RF/ELF separately AND oxidative stress/genotoxicity/comet assay/micronuclei/DNA damage; blinded sham experiments, temperature controls, assay artifacts, multiple comparisons and replication.",
+    "indirectEvidenceLimit": "Related guides and linked studies are orientation material; a link does not certify that the device, population or outcome in this question has been directly studied.",
+    "relatedTopicIds": [],
+    "publicDiscussions": [
+      {
+        "id": "18fyfdh",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/AskPhysics/comments/18fyfdh/",
+        "community": "r/AskPhysics",
+        "accessStatus": "fetch_error"
+      }
+    ]
+  },
+  {
+    "id": "T38",
+    "title": "Animal findings versus human risk",
+    "question": "How should NTP and other animal studies be compared with everyday human exposure?",
+    "cluster": "Methods",
+    "aliases": [
+      "animal studies",
+      "rat study",
+      "NTP",
+      "Ramazzini",
+      "hazard translation"
+    ],
+    "guideIds": [
+      "animal-studies",
+      "wireless"
+    ],
+    "studyIds": [
+      "ntp-rats",
+      "ramazzini"
+    ],
+    "shortAnswer": "No. These records do not establish a validated dose-to-risk model for that calculation.",
+    "answerStatus": "Draft answer",
+    "answerSource": {
+      "guideId": "animal-studies",
+      "field": "questions:1",
+      "basis": "Exact text from the existing AI-assisted guide; source hash in existing-content-snapshot.json; no new medical appraisal in this audit."
+    },
+    "answerCoverage": "Partial existing-guide answer; full question-specific review pending",
+    "researchFocus": "NTP GSM/CDMA rat/mouse primary reports and Ramazzini primary study; pathology peer review, exposure/dose, species/sex, survival, multiple testing; human cohorts for triangulation, never convert animal incidence to human risk.",
+    "indirectEvidenceLimit": "Related guides and linked studies are orientation material; a link does not certify that the device, population or outcome in this question has been directly studied.",
+    "relatedTopicIds": [],
+    "publicDiscussions": [
+      {
+        "id": "1d4itm2",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/DebunkThis/comments/1d4itm2/",
+        "community": "r/DebunkThis",
+        "accessStatus": "legacy_index_only"
+      }
+    ]
+  },
+  {
+    "id": "T39",
+    "title": "EV and home charging",
+    "question": "Does sitting in a charging vehicle or living near a home charger materially change exposure?",
+    "cluster": "Transport",
+    "aliases": [
+      "EV charger",
+      "home charger",
+      "vehicle charging",
+      "charging station"
+    ],
+    "guideIds": [
+      "measurement",
+      "basics"
+    ],
+    "studyIds": [],
+    "shortAnswer": "This question remains open in the current EMF Atlas collection. The related guides provide background; a question-specific evidence review is still needed.",
+    "answerStatus": "Open question",
+    "answerSource": null,
+    "answerCoverage": "Unresolved in current collection",
+    "researchFocus": "EV conductive/wireless charging magnetic spectra, power, position/time and personal dosimetry; occupational versus residential contexts; device interference; direct outcomes if available.",
+    "indirectEvidenceLimit": "Related guides and linked studies are orientation material; a link does not certify that the device, population or outcome in this question has been directly studied.",
+    "relatedTopicIds": [
+      "T14"
+    ],
+    "publicDiscussions": [
+      {
+        "id": "14kixiz",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/ModelY/comments/14kixiz/",
+        "community": "r/ModelY",
+        "accessStatus": "page_text"
+      }
+    ]
+  },
+  {
+    "id": "T40",
+    "title": "Wireless phone charging",
+    "question": "How do inductive chargers transfer energy, and what do exposure tests measure?",
+    "cluster": "Home",
+    "aliases": [
+      "Qi charging",
+      "wireless charger",
+      "inductive charging",
+      "remote charging"
+    ],
+    "guideIds": [
+      "measurement",
+      "basics"
+    ],
+    "studyIds": [],
+    "shortAnswer": "This question remains open in the current EMF Atlas collection. The related guides provide background; a question-specific evidence review is still needed.",
+    "answerStatus": "Open question",
+    "answerSource": null,
+    "answerCoverage": "Unresolved in current collection",
+    "researchFocus": "Qi/inductive/resonant wireless power-transfer dosimetry, misalignment, foreign objects and induced currents; distinguish near-field phone pads from far-field room-scale RF power; implant interference separately.",
+    "indirectEvidenceLimit": "Related guides and linked studies are orientation material; a link does not certify that the device, population or outcome in this question has been directly studied.",
+    "relatedTopicIds": [
+      "T23",
+      "T32",
+      "T12",
+      "T22"
+    ],
+    "publicDiscussions": [
+      {
+        "id": "1o173gb",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/explainlikeimfive/comments/1o173gb/",
+        "community": "r/explainlikeimfive",
+        "accessStatus": "legacy_index_only"
+      },
+      {
+        "id": "mkvoos",
+        "label": "Discussion",
+        "url": "https://www.reddit.com/r/AskReddit/comments/mkvoos/",
+        "community": "r/AskReddit",
+        "accessStatus": "legacy_index_only"
+      }
+    ]
+  }
+]

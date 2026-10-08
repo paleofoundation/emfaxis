@@ -1,0 +1,1 @@
+export default function NotFound(){return <div className="page prose-page"><p className="eyebrow">PAGE NOT FOUND</p><h1>That page isn’t in the atlas.</h1><p className="page-intro">Try searching for the question, study title, or term.</p><a className="button" href="/search">Search EMF Atlas</a></div>}
