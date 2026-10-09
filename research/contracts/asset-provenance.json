@@ -1,0 +1,26 @@
+{
+  "assets": [
+    {
+      "path": "public/images/jonathan-pendergrass.jpg",
+      "source": "User-supplied portrait, Jonathan Pendergrass EMF.jpg",
+      "provided": "2026-10-09",
+      "modification": "none",
+      "dimensions": [
+        199,
+        200
+      ],
+      "sha256": "cce77ab96938b86605b3aefa9da376b6ac8b3713690045734525bcb20173464d"
+    },
+    {
+      "path": "public/brand/orcid-id-unauthenticated.webp",
+      "source": "https://orcid.filecamp.com/static/thumbs/pIN70K637jmRnDD5-preview.webp",
+      "source_page": "https://orcid.filecamp.com/s/o/LdPTOOrMoSrjElD5/atx4SHtGPATkJW3e",
+      "asset_name": "ORCID-iD_icon_unauth_BW_vector.svg \u2014 official WebP preview",
+      "retrieved": "2026-10-09",
+      "modification": "none; displayed at 24 \u00d7 24 CSS pixels",
+      "guidelines": "https://info.orcid.org/documentation/integration-guide/orcid-id-display-guidelines/",
+      "purpose": "Official monochrome unauthenticated iD icon; manually supplied identifier",
+      "sha256": "2f07c96b18f18b850384149e1c8570e2322940ad4de11e62f7548cac47f1aa30"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "version": "1.0",
+  "status": "canonical \u2014 owner locked on 2026-10-09",
+  "primary": "#123b42",
+  "accent": "#dafa70",
+  "background": "#f6f8f9",
+  "foreground": "#152c35",
+  "css_tokens": {
+    "--background": "#f6f8f9",
+    "--foreground": "#152c35",
+    "--card": "#fff",
+    "--card-foreground": "#152c35",
+    "--popover": "#fff",
+    "--popover-foreground": "#152c35",
+    "--primary": "#123b42",
+    "--primary-foreground": "#fff",
+    "--secondary": "#e8eff0",
+    "--secondary-foreground": "#173d43",
+    "--muted": "#eef3f4",
+    "--muted-foreground": "#526770",
+    "--accent": "#dafa70",
+    "--accent-foreground": "#173b42",
+    "--destructive": "#b03838",
+    "--border": "#d5e0e3",
+    "--input": "#c9d7dc",
+    "--ring": "#21727b",
+    "--radius": ".6rem",
+    "--font-sans": "Arial,Helvetica,sans-serif"
+  },
+  "source": "app/globals.css :root",
+  "policy": "Preserve these exact brand values unless the owner explicitly requests a palette change. Use primary for homepage hero and accent for its emphasis and actions. Existing supporting shades remain. Third-party identity marks retain their official colors; ORCID is not recolored."
+}

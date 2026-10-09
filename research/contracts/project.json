@@ -20,6 +20,11 @@
     "orcid": "0009-0003-5199-0737",
     "url": "https://orcid.org/0009-0003-5199-0737",
     "provenance": "Supplied by project owner in this task",
-    "human_review": "pending"
-  }
+    "human_review": "pending",
+    "title": "EMF Shielding Engineer & Consultant",
+    "portrait": "public/images/jonathan-pendergrass.jpg",
+    "bio_provenance": "Owner supplied 2026-10-09; Paleo Foundation role corroborated by team page",
+    "orcid_authentication": "manually supplied; not collected through ORCID OAuth"
+  },
+  "brand_contract": "research/contracts/brand.json"
 }

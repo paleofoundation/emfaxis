@@ -1,0 +1,21 @@
+{
+  "updated_at": "2026-10-09T11:31:45.006794+00:00",
+  "scope": "Canonical brand, homepage hero, investigator portrait/bio and shared ORCID identity",
+  "status": "PASS \u2014 scoped local UI checks",
+  "checks": [
+    "Desktop homepage: teal hero, lime accent and search; simple single-column content",
+    "Desktop investigator: supplied portrait and official icon load; requested bio present",
+    "320px mobile: homepage, guide byline, investigator and footer fit with no horizontal overflow",
+    "Homepage search submits and empty-result feedback renders for copper",
+    "All observed ORCID links point to https://orcid.org/0009-0003-5199-0737",
+    "Official unauthenticated monochrome iD icon renders at 24 CSS pixels; no recoloring",
+    "Canonical color values match saved CSS tokens",
+    "No browser console errors in inspected profile session",
+    "git diff --check passes"
+  ],
+  "limits": [
+    "Not a new scientific review or full corpus audit",
+    "Identifier was supplied manually, not authenticated through ORCID OAuth",
+    "Existing broader Mission Control holds remain unchanged"
+  ]
+}
