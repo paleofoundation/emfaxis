@@ -1,0 +1,29 @@
+{
+  "updated_at": "2026-10-16",
+  "source": "Explicit owner instruction in current task",
+  "display": "Author name immediately followed by official green ORCID icon, linked to that author\u2019s exact record",
+  "visible_identifier": false,
+  "visible_authentication_label": false,
+  "authentication_claim": "none",
+  "shared_renderer": "components/emf/orcid-link.tsx",
+  "manuscript": {
+    "title": "Mobilized, Not Magnetized",
+    "status": "unpublished",
+    "authors_in_order": [
+      {
+        "name": "Jonathan Pendergrass",
+        "orcid_url": "https://orcid.org/0009-0003-5199-0737"
+      },
+      {
+        "name": "Karen Pendergrass",
+        "orcid_url": "https://orcid.org/0000-0002-2348-7259"
+      }
+    ]
+  },
+  "asset": {
+    "file": "public/brand/orcid-id.gif",
+    "source": "https://info.orcid.org/wp-content/uploads/2021/12/orcid_16x16.gif",
+    "sha256": "e25df224f6eac1be4bb6bb112ceb7835ec61a06862c5b1465ae7e36e4422b1b8",
+    "modification": "none"
+  }
+}

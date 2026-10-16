@@ -5,7 +5,7 @@
   "plan": "EMF-INGEST-2026-10-08-v1.1",
   "plan_sha256": "403294b5c80f2cfb102f5ac2c4a0b5e3268da0843c4c09155b49e5c8af319ef5",
   "schema_sha256": "a2a913f0a707667ce3c21c3e97859a83b85fbff2478544440a5ac5c2bcfaa566",
-  "audience": "owner-private",
+  "audience": "public",
   "human_review": "pending",
   "full_text_reading_drafts": [
     "million-women",
@@ -26,5 +26,7 @@
     "bio_provenance": "Owner supplied 2026-10-09; Paleo Foundation role corroborated by team page",
     "orcid_authentication": "manually supplied; not collected through ORCID OAuth"
   },
-  "brand_contract": "research/contracts/brand.json"
+  "brand_contract": "research/contracts/brand.json",
+  "audience_provenance": "Native Sites get_site on 2026-10-16; existing audience preserved during identity-only edit",
+  "identity_display_contract": "research/contracts/identity-display.json"
 }

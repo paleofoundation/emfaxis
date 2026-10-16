@@ -37,12 +37,13 @@
 .intro .searchbox{color:var(--foreground);box-shadow:none}
 .intro .searchbox:focus-within{outline-color:var(--accent)}
 .intro .searchbox button{color:var(--accent-foreground)}
-.orcid-identity,.byline .orcid-identity{display:inline-flex;flex-wrap:wrap;align-items:center;gap:4px 8px;color:inherit;font-size:14px;margin:10px 0 0;max-width:100%;vertical-align:middle}
-.orcid-link,.footer-investigator a.orcid-link{display:inline-flex;align-items:center;gap:7px;min-width:0;font-size:14px;font-weight:400;text-decoration:underline;text-underline-offset:3px;letter-spacing:0}
-.orcid-link img{width:24px;height:24px;flex:none}
-.orcid-link>span,.byline .orcid-link>span{display:inline;color:inherit;font:inherit;margin:0;overflow-wrap:anywhere;min-width:0}
-.orcid-status,.byline .orcid-status{display:inline;font-size:12px;color:inherit;letter-spacing:0;margin:0}
-.byline .orcid-identity{margin:0 0 0 2px}
+/* Canonical identity display: author name followed by a linked ORCID icon. */
+.author-identity,.byline .author-identity,.investigator-strip .author-identity{display:inline;color:inherit;font:inherit;letter-spacing:0;margin:0}
+.author-identity>.author-name,.byline .author-name,.footer-investigator .author-name{display:inline;color:inherit;font:inherit;letter-spacing:0;margin:0}
+.orcid-link,.footer-investigator a.orcid-link{display:inline-flex;align-items:center;justify-content:center;vertical-align:middle;width:24px;height:24px;margin:0 0 0 5px;padding:0;line-height:0;letter-spacing:0;text-decoration:none;border-radius:50%}
+.orcid-link img{display:block;width:20px;height:20px;flex:none}
+.orcid-link:focus-visible{outline:2px solid var(--primary);outline-offset:3px}
+.footer-investigator .author-identity{display:block;font-weight:600}
 .investigator-card{align-items:center;padding:24px;gap:25px;background:var(--secondary)}
 .investigator-card>div:last-child{min-width:0}
 .investigator-card h3{font-size:1.8rem}
