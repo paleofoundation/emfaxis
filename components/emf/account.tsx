@@ -2,7 +2,7 @@
 import {createContext,useCallback,useContext,useEffect,useState,type ReactNode} from 'react';
 import {Bookmark,Check} from 'lucide-react';
 import {toast} from 'sonner';
-export type Saved={kind:'study'|'guide'|'question';itemId:string;note:string;savedAt:number;updatedAt:number};
+export type Saved={kind:'study'|'guide'|'question'|'source'|'outcome';itemId:string;note:string;savedAt:number;updatedAt:number};
 type State={user:{name:string;email:string}|null;items:Saved[];loading:boolean;error:string;refresh:()=>Promise<void>;save:(kind:Saved['kind'],id:string,note?:string,remove?:boolean)=>Promise<void>};
 const Context=createContext<State|null>(null);
 export function AccountProvider({children}:{children:ReactNode}){const [user,setUser]=useState<State['user']>(null);const [items,setItems]=useState<Saved[]>([]);const [loading,setLoading]=useState(true);const [error,setError]=useState('');

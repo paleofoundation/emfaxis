@@ -22,3 +22,22 @@ for(const path of ['public/resources/first-guide.html','public/resources/first-g
 const html=fs.readFileSync(new URL('../public/resources/first-guide.html',import.meta.url),'utf8');assert(html.includes('0.2-draft'));assert(html.includes('correction'));
 console.log(JSON.stringify({status:'PASS',scope:'Private draft structural invariants; not scientific approval',studies:studies.length,guides:guides.length,questions:questions.length,terms:terms.length,fullTextDrafts:reviews.length,legacyParagraphGaps:gaps.length}));
 if(process.argv.includes('--report'))fs.writeFileSync(new URL('../research/contracts/content-gaps.json',import.meta.url),JSON.stringify(gaps,null,2)+'\n');
+
+// Exposure/outcome fanout validates the shared public projection, never private candidates.
+const {sources,outcomes,evidenceRows,topicRegistry,rowsFor,citationsFor}=await import('../lib/evidence.ts');
+const {guideDepth}=await import('../lib/guide-depth.ts');
+assert.equal(topicRegistry.filter(t=>t.id.startsWith('S')).length,17);
+assert.equal(topicRegistry.filter(t=>t.id.startsWith('H')).length,17);
+assert.equal(new Set(evidenceRows.map(r=>r.id)).size,evidenceRows.length);
+for(const topic of [...sources,...outcomes]){
+ const expected=topic.kind==='source'?['properties','everyday-exposure','mechanisms','levels-and-limits','distance','evidence']:['measurement','evidence','confounding','controlled-studies','agency-assessments','interventions'];
+ assert.deepEqual(topic.modules.map(m=>m.id),expected,`module contract ${topic.id}`);
+ assert(topic.overview.length&&topic.faqs.length&&rowsFor(topic).length,`empty topic ${topic.id}`);
+ for(const id of citationsFor(topic))assert(sourceIds.has(id),`unknown citation ${topic.id}/${id}`);
+ for(const row of rowsFor(topic))assert(evidenceRows.includes(row),'comparison was independently copied');
+}
+for(const row of evidenceRows){assert(sources.some(t=>t.id===row.source));assert(outcomes.some(t=>t.id===row.outcome));for(const id of row.papers)assert(studyIds.has(id));assert(row.finding&&row.limit&&row.scope);}
+assert.equal(evidenceRows.find(r=>r.id==='wifi-sleep-gap').papers.length,0,'direct Wi-Fi result must remain absent');
+assert.deepEqual(Object.keys(guideDepth).sort(),guides.map(g=>g.id).sort());
+for(const [id,sections] of Object.entries(guideDepth)){assert(sections.length);for(const s of sections){assert(s.text&&s.title);for(const ref of s.refs||[])assert(sourceIds.has(ref),`unknown guide depth citation ${id}/${ref}`)}}
+console.log(JSON.stringify({status:'PASS',scope:'Selected public-source fanout; not completed scientific appraisal',sourceReadingEditions:sources.length,outcomeReadingEditions:outcomes.length,sharedComparisons:evidenceRows.length,guideExpansionSections:Object.values(guideDepth).flat().length,privatePilotImported:false}));

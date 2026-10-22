@@ -1,4 +1,5 @@
 import type { MetadataRoute } from 'next';
+import {sources,outcomes} from '@/lib/evidence';
 import { studies } from '@/lib/studies';
 import { guides } from '@/lib/guides';
 import { questions } from '@/lib/questions';
@@ -7,7 +8,10 @@ import { terms, termSlug } from '@/lib/glossary';
 export default function sitemap(): MetadataRoute.Sitemap {
   // Only indexable public pages; exclude search, corrections, and account routes.
   const paths = [
-    '/',
+    '/', '/sources', '/outcomes',
+    ...['radiofrequency','elf','intermediate-frequency','static'].map(id=>'/fields/'+id),
+    ...sources.map(t=>'/sources/'+t.id),
+    ...outcomes.map(t=>'/outcomes/'+t.id),
     '/disclaimer',
     '/glossary',
     '/guides',

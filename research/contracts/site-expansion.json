@@ -1,0 +1,61 @@
+{
+  "version": "2026-10-22-selected-source-expansion",
+  "state": "implemented; technical validation passed; awaiting publication",
+  "cause": [
+    "65-page plan was a specification, not execution",
+    "No exposure/outcome routes or canonical public comparison projection",
+    "35 legacy short guide sections were recorded but not expanded",
+    "Wi-Fi/Sleep return remained private and unapproved, with no canonical import"
+  ],
+  "implemented": {
+    "exposure_directory_entries": 17,
+    "outcome_directory_entries": 17,
+    "exposure_reading_editions": 5,
+    "outcome_reading_editions": 10,
+    "field_discovery_hubs": 4,
+    "expanded_existing_guides": 9,
+    "additional_guide_sections": 27,
+    "shared_comparisons": 11
+  },
+  "scope": "Architecture and selected-public-source reading migration. Existing factual findings, numerical values, access labels, IDs and correction notices preserved. No held pilot result released.",
+  "technical_checks": {
+    "content_contract": "PASS",
+    "typescript": "PASS",
+    "production_build": "PASS",
+    "http_routes": 35,
+    "unknown_source_404": "PASS",
+    "local_topic_saves_and_notes": "PASS",
+    "anonymous_invalid_cross_origin_rejection": "PASS",
+    "private_review_strings_in_client_build": "not found"
+  },
+  "browser_checks": [
+    "Exposure directory alias filter and availability toggle",
+    "Filter survives reload",
+    "Wi-Fi to sleep navigation",
+    "References link reveals bibliography",
+    "FAQ expands",
+    "Evidence drawer shows matching COSMOS/Million Women/INTERPHONE records",
+    "390px and 320px article rendering inspected"
+  ],
+  "remaining": [
+    "Full-text extraction/verification/appraisal and exact-version human review remain open",
+    "Direct Wi-Fi/Sleep verdict remains unavailable; no private candidate imported",
+    "12 source and 7 outcome overviews remain in preparation",
+    "Subtypes within brain-tumour hub require their own substantive reading editions",
+    "Field hubs are discovery indexes, not completed six-module evidence assessments",
+    "Reusable whole-theme parity and complete ingestion/review workspace are not claimed"
+  ],
+  "scientific_approval": "Not changed; human review pending; no certainty grades assigned",
+  "source_ui_adaptation": {
+    "base": "Existing EMF Axis shell and brand retained",
+    "reference": "One Match article navigation/history and reading-ui references",
+    "changes": [
+      "Add typed source/outcome route families and source-specific shared matrix",
+      "Move article hero into full page width and collapse body rail at 1250px",
+      "Restore hero investigator from existing supplied portrait and bio",
+      "Add compact section icons, shared terminal sequence and right-side research detail panel"
+    ],
+    "parity_claim": "No whole-theme parity claim"
+  },
+  "publication": null
+}

@@ -1,0 +1,240 @@
+[
+  {
+    "id": "S01",
+    "slug": "mobile-phones",
+    "path": "/sources/mobile-phones",
+    "title": "Mobile phones and health",
+    "question": "What health outcomes have been studied? Does call duration or technology matter?"
+  },
+  {
+    "id": "S02",
+    "slug": "cordless-phones",
+    "path": "/sources/cordless-phones",
+    "title": "Cordless and DECT phones",
+    "question": "What is known about handset use and brain tumours? Is a DECT base station a separate exposure?"
+  },
+  {
+    "id": "S03",
+    "slug": "wifi",
+    "path": "/sources/wifi",
+    "title": "Wi-Fi and health",
+    "question": "What evidence applies to routers and Wi-Fi devices? Does overnight exposure matter?"
+  },
+  {
+    "id": "S04",
+    "slug": "5g",
+    "path": "/sources/5g",
+    "title": "5G and health",
+    "question": "Which 5G bands have direct health research? What can older RF studies tell us?"
+  },
+  {
+    "id": "S05",
+    "slug": "base-stations",
+    "path": "/sources/base-stations",
+    "title": "Cell towers and base stations",
+    "question": "How does ambient exposure differ from phone use? What health studies examine nearby residents?"
+  },
+  {
+    "id": "S06",
+    "slug": "power-lines",
+    "path": "/sources/power-lines",
+    "title": "Power lines and health",
+    "question": "What exposure occurs near power lines? What is known about childhood leukaemia?"
+  },
+  {
+    "id": "S07",
+    "slug": "smart-meters",
+    "path": "/sources/smart-meters",
+    "title": "Smart meters and health",
+    "question": "How often do meters transmit? Are meter-specific health outcomes studied?"
+  },
+  {
+    "id": "S08",
+    "slug": "baby-monitors",
+    "path": "/sources/baby-monitors",
+    "title": "Baby monitors and health",
+    "question": "How do monitor types differ? What evidence directly concerns infants?"
+  },
+  {
+    "id": "S09",
+    "slug": "bluetooth",
+    "path": "/sources/bluetooth",
+    "title": "Bluetooth, earbuds, and wearables",
+    "question": "What do these devices emit? Is there direct long-term health evidence?"
+  },
+  {
+    "id": "S10",
+    "slug": "induction-hobs",
+    "path": "/sources/induction-hobs",
+    "title": "Induction hobs and health",
+    "question": "What exposures occur while cooking? What is known for pregnancy and implants?"
+  },
+  {
+    "id": "S11",
+    "slug": "microwave-ovens",
+    "path": "/sources/microwave-ovens",
+    "title": "Microwave ovens and health",
+    "question": "What exposure occurs outside the oven? What do leakage measurements mean?"
+  },
+  {
+    "id": "S12",
+    "slug": "electric-blankets",
+    "path": "/sources/electric-blankets",
+    "title": "Electric blankets and health",
+    "question": "What magnetic fields reach the body? Are pregnancy or cancer outcomes studied?"
+  },
+  {
+    "id": "S13",
+    "slug": "electric-vehicles",
+    "path": "/sources/electric-vehicles",
+    "title": "Electric vehicles and health",
+    "question": "What fields occur in the cabin or while charging? Are health outcomes measured?"
+  },
+  {
+    "id": "S14",
+    "slug": "household-wiring",
+    "path": "/sources/household-wiring",
+    "title": "Household wiring and appliances",
+    "question": "Which sources contribute to home ELF exposure? Can a device reading predict long-term exposure?"
+  },
+  {
+    "id": "S15",
+    "slug": "occupational-rf",
+    "path": "/sources/occupational-rf",
+    "title": "RF exposure at work",
+    "question": "What differs for antenna, radar, and broadcast workers? What outcomes have been studied?"
+  },
+  {
+    "id": "S16",
+    "slug": "occupational-elf",
+    "path": "/sources/occupational-elf",
+    "title": "ELF exposure at work",
+    "question": "How is workplace exposure measured? What do occupational cancer studies show?"
+  },
+  {
+    "id": "S17",
+    "slug": "mri-static-fields",
+    "path": "/sources/mri-static-fields",
+    "title": "MRI: static, gradient and RF exposures",
+    "question": "How does MRI exposure differ from everyday RF? What safety questions concern patients and staff?"
+  },
+  {
+    "id": "H01",
+    "slug": "brain-tumours",
+    "path": "/outcomes/brain-tumours",
+    "title": "EMF and brain tumours",
+    "question": "What is known for each tumour type? How do human and animal findings compare?"
+  },
+  {
+    "id": "H02",
+    "slug": "glioma",
+    "path": "/outcomes/glioma",
+    "title": "EMF and glioma",
+    "question": "What do cohorts and case-control studies show? What about heavy use and latency?"
+  },
+  {
+    "id": "H03",
+    "slug": "meningioma",
+    "path": "/outcomes/meningioma",
+    "title": "EMF and meningioma",
+    "question": "Is there an association? How well is long-term exposure measured?"
+  },
+  {
+    "id": "H04",
+    "slug": "acoustic-neuroma",
+    "path": "/outcomes/acoustic-neuroma",
+    "title": "EMF and acoustic neuroma",
+    "question": "What do studies show for vestibular schwannoma? Do laterality and latency change interpretation?"
+  },
+  {
+    "id": "H05",
+    "slug": "childhood-brain-tumours",
+    "path": "/outcomes/childhood-brain-tumours",
+    "title": "EMF and childhood brain tumours",
+    "question": "What do CEFALO and MOBI-Kids address? What remains unknown about lifetime exposure?"
+  },
+  {
+    "id": "H06",
+    "slug": "childhood-leukaemia",
+    "path": "/outcomes/childhood-leukaemia",
+    "title": "Magnetic fields and childhood leukaemia",
+    "question": "What does residential ELF epidemiology show? Can it establish causation?"
+  },
+  {
+    "id": "H07",
+    "slug": "other-cancers",
+    "path": "/outcomes/other-cancers",
+    "title": "EMF and cancers beyond the brain",
+    "question": "What evidence concerns blood, breast, liver, lung, or other cancers? Which findings are animal-only?"
+  },
+  {
+    "id": "H08",
+    "slug": "sleep",
+    "path": "/outcomes/sleep",
+    "title": "EMF and sleep",
+    "question": "Does exposure affect sleep quality, sleep stages, or insomnia? Are blinded studies available?"
+  },
+  {
+    "id": "H09",
+    "slug": "male-fertility",
+    "path": "/outcomes/male-fertility",
+    "title": "EMF and male fertility",
+    "question": "What happens to semen measures? Is conception or live birth studied?"
+  },
+  {
+    "id": "H10",
+    "slug": "female-fertility-pregnancy",
+    "path": "/outcomes/female-fertility-pregnancy",
+    "title": "EMF, female fertility, and pregnancy",
+    "question": "Are fertility, miscarriage, or birth outcomes associated with exposure?"
+  },
+  {
+    "id": "H11",
+    "slug": "ehs-symptoms",
+    "path": "/outcomes/ehs-symptoms",
+    "title": "Electromagnetic hypersensitivity and symptoms",
+    "question": "What symptoms do people report? What do blinded provocation studies test?"
+  },
+  {
+    "id": "H12",
+    "slug": "headache",
+    "path": "/outcomes/headache",
+    "title": "EMF and headaches",
+    "question": "Is headache associated with exposure? Can experiments separate exposure from expectation?"
+  },
+  {
+    "id": "H13",
+    "slug": "cognition",
+    "path": "/outcomes/cognition",
+    "title": "EMF, attention, and memory",
+    "question": "Are cognitive effects measured in blinded experiments? What about children?"
+  },
+  {
+    "id": "H14",
+    "slug": "dna-damage",
+    "path": "/outcomes/dna-damage",
+    "title": "EMF and DNA damage",
+    "question": "What do cell and animal assays measure? Does a biomarker establish human disease risk?"
+  },
+  {
+    "id": "H15",
+    "slug": "heating",
+    "path": "/outcomes/heating",
+    "title": "RF exposure and tissue heating",
+    "question": "How is heating measured? How do temperature, SAR, duration, and body size interact?"
+  },
+  {
+    "id": "H16",
+    "slug": "animal-cancer",
+    "path": "/outcomes/animal-cancer",
+    "title": "EMF and cancer in animals",
+    "question": "What do lifetime bioassays and tumour-promotion experiments show? Are results replicated?"
+  },
+  {
+    "id": "H17",
+    "slug": "tinnitus",
+    "path": "/outcomes/tinnitus",
+    "title": "EMF and tinnitus",
+    "question": "Is tinnitus incidence or severity associated with a defined exposure? Do blinded tests use validated outcomes?"
+  }
+]

@@ -1,5 +1,6 @@
 import {getChatGPTUser} from '@/app/chatgpt-auth';
 import {storage} from '@/lib/storage';
+import {sources,outcomes} from '@/lib/evidence';
 import {studies} from '@/lib/studies';
 import {guides} from '@/lib/guides';
 import {questions} from '@/lib/questions';
@@ -12,7 +13,7 @@ async function mutate(request:Request,remove=false){
  if(!request.headers.get('content-type')?.includes('application/json'))return json({error:'JSON is required.'},415);
  let data;try{const raw=await request.text();if(raw.length>12000)return json({error:'This note is too long.'},413);data=JSON.parse(raw);}catch{return json({error:'Invalid request.'},400);}
  if(!data||typeof data!=='object')return json({error:'Invalid item.'},400);
- const {kind,itemId,note}=data;const known=(kind==='study'?studies:kind==='guide'?guides:kind==='question'?questions.map(q=>({id:q.id.toLowerCase()})):[]).some(x=>x.id===itemId);
+ const {kind,itemId,note}=data;const known=(kind==='source'?sources:kind==='outcome'?outcomes:kind==='study'?studies:kind==='guide'?guides:kind==='question'?questions.map(q=>({id:q.id.toLowerCase()})):[]).some(x=>x.id===itemId);
  if(!known||note!==undefined&&(typeof note!=='string'||note.length>5000))return json({error:'Invalid item or note. Notes allow up to 5,000 characters.'},400);
  try{const db=storage();if(remove){await db.prepare('DELETE FROM saved_items WHERE user_id = ? AND kind = ? AND item_id = ?').bind(user.userId,kind,itemId).run();}else{const now=Date.now();if(note===undefined){await db.prepare('INSERT INTO saved_items (user_id,kind,item_id,note,saved_at,updated_at) VALUES (?,?,?,?,?,?) ON CONFLICT(user_id,kind,item_id) DO NOTHING').bind(user.userId,kind,itemId,'',now,now).run();}else{await db.prepare('INSERT INTO saved_items (user_id,kind,item_id,note,saved_at,updated_at) VALUES (?,?,?,?,?,?) ON CONFLICT(user_id,kind,item_id) DO UPDATE SET note = excluded.note, updated_at = excluded.updated_at').bind(user.userId,kind,itemId,note,now,now).run();}}return json({ok:true});}catch(e){console.error('Library write failed',e);return json({error:'Your change could not be saved. Please try again.'},503);}}
 export async function POST(r:Request){return mutate(r)}
