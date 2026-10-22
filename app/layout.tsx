@@ -1,11 +1,13 @@
 import type { Metadata } from 'next';
-import { Radio, Bookmark, ArrowUpRight, Zap } from 'lucide-react';
+import { Radio, ArrowUpRight, Zap } from 'lucide-react';
 import './globals.css';
-import {AccountProvider,AccountLink} from '@/components/emf/account';
+import './mobile.css';
+import {SiteHeader} from '@/components/emf/site-header';
+import {AccountProvider} from '@/components/emf/account';
 import {Toaster} from '@/components/ui/sonner';
 import {AuthorIdentity} from '@/components/emf/orcid-link';
 export const metadata:Metadata={title:{default:'EMF Axis: Electromagnetic Field Evidence',template:'%s · EMF Axis'},metadataBase:new URL('https://emfaxis.com'),robots:{index:true,follow:true},description:'Evidence reviews of electromagnetic fields, with study summaries, topic guides, source references, and explanations of findings and limitations.',icons:{icon:'/favicon.svg',shortcut:'/favicon.svg'}};
-export default function Layout({children}:{children:React.ReactNode}){return <html lang="en"><body><AccountProvider><a className="skip" href="#main">Skip to content</a><header className="header"><a href="/" className="brand"><span className="brand-icon"><Radio size={24}/></span>EMF<span className="brand-light">AXIS</span></a><nav aria-label="Main navigation"><a href="/sources">Exposures</a><a href="/outcomes">Health outcomes</a><a href="/questions">Questions</a><a href="/research">Research</a><a href="/guides">Guides</a><a href="/glossary">Glossary</a><a href="/search">Search</a></nav><AccountLink/><a className="library-nav" href="/library" aria-label="My library" title="My library"><Bookmark size={17}/>My library</a></header><main id="main">{children}</main><footer className="site-footer">
+export default function Layout({children}:{children:React.ReactNode}){return <html lang="en"><body><AccountProvider><a className="skip" href="#main">Skip to content</a><SiteHeader/><main id="main">{children}</main><footer className="site-footer">
 <div className="footer-inner">
 <div className="footer-top"><div className="footer-statement"><p className="eyebrow"><Zap size={16} aria-hidden="true"/> STAY CURIOUS. FOLLOW THE EVIDENCE.</p><h2>A clearer view<br/>of an invisible world.</h2><p>Good questions deserve traceable answers. Explore the research, understand its limits, and keep what matters.</p><a className="footer-cta" href="/research">Explore the research <ArrowUpRight size={19}/></a></div>
 <nav className="footer-nav" aria-label="Footer navigation">
