@@ -99,9 +99,9 @@
   },
   {
     "field": "radiofrequency",
-    "finding": "The authors reported an association with prolonged self-reported phone use under their analysis.",
+    "finding": "The authors report a calling-time association, but group totals and reference-category interpretation require clarification. Numerical effects remain held.",
     "id": "phone-other-cancers",
-    "limit": "Behavior is an exposure proxy; selection, confounding and reverse interpretation remain possible. This does not establish other-cancer risk in general.",
+    "limit": "Printed case/control totals conflict with Methods; screen-time coding conflicts with generic prose. Self-report, selection and confounding further limit interpretation; no general other-cancer effect is established.",
     "outcome": "other-cancers",
     "papers": [
       "E01-T01-R251"
@@ -203,9 +203,9 @@
   },
   {
     "field": "radiofrequency",
-    "finding": "No detectable acute temperature effect under the tested low-field conditions.",
+    "finding": "No consistent acute skin-temperature response under the tested low-field conditions; pooled-analysis wording requires clarification.",
     "id": "5g-skin-temperature",
-    "limit": "Healthy volunteers and superficial short-term endpoint; does not validate a guideline threshold or establish chronic safety.",
+    "limit": "Pooled result labelled differently in prose and Table 1; interpretation held. Healthy adults and superficial short-term endpoints do not establish chronic safety or validate guideline thresholds.",
     "outcome": "heating",
     "papers": [
       "E02-T03-R264"

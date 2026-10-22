@@ -1,0 +1,774 @@
+[
+  {
+    "basis": "full_text",
+    "formal_grade": null,
+    "full_review_release": "private_editorial_draft",
+    "human_review": "pending",
+    "paper_id": "5g-sleep",
+    "preview": "This small randomized crossover reported a genotype-specific sleep-spindle change after specified 5G exposure; its clinical meaning remains unresolved. The published supplement is now recovered. The Swiss registry confirms linkage to the same study programme, but exact registration-to-report correspondence and historical prespecification of the reported analyses remain unresolved. Selection, sample size, night effects and analysis choices limit generalization. This AI appraisal draft awaits distinct verification and human review; numerical publication remains held.",
+    "preview_source_check": "2026-10-22T15:40:34.235705+00:00",
+    "question_coverage": {
+      "answered": 7,
+      "partial": 8
+    },
+    "review_fingerprint": "cd76a9eeca2f159c2a1d5614ca57c17b598cd00bfe4a557bc641ce6ae64ec7c2",
+    "scientific_status": "AI_appraisal_draft",
+    "source_hash": "3a782822dd821fe547a633a9b8272237eda6c502041b4762629fe7d2fca0c892",
+    "source_id": "E02-T04-R188"
+  },
+  {
+    "basis": "full_text",
+    "formal_grade": null,
+    "full_review_release": "private_editorial_draft",
+    "human_review": "pending",
+    "paper_id": "E01-T01-R022",
+    "preview": "This five-country INTERPHONE analysis found no overall acoustic-neuroma increase with regular mobile-phone use, but reported an uncertain long-use same-side signal. Differential participation, recalled side of use and hearing-related behavioural changes complicate that subgroup. Duration definitions are not interchangeable, and regional components overlap earlier publications. The result informs historical phone exposure rather than every wireless device; human scientific review remains pending.",
+    "preview_source_check": "2026-10-22T15:23:20.841119+00:00",
+    "question_coverage": {
+      "answered": 12,
+      "not_applicable": 1,
+      "partial": 2
+    },
+    "review_fingerprint": "771becaa14aa4b82718e8e1b320f6c3dcc8d679448469b590901b867d015a668",
+    "scientific_status": "AI_appraisal_draft",
+    "source_hash": "c76f52e1e0856fd4ddaec5c2e0f1a97213088f702c996be839693a35b78d90b2",
+    "source_id": "E01-T01-R022"
+  },
+  {
+    "basis": "full_text",
+    "formal_grade": null,
+    "full_review_release": "private_editorial_draft",
+    "human_review": "pending",
+    "paper_id": "E01-T01-R126",
+    "preview": "This Swedish case-control report found no conclusive overall association between meningioma and mobile or cordless phone use, while retaining a signal in the highest cumulative-use group. A consistent latency or laterality pattern was absent, and some technology estimates were sparse. Retrospective histories, the low-use reference definition and overlapping study families limit interpretation. The finding should remain tumour-specific, with human scientific review pending.",
+    "preview_source_check": "2026-10-22T15:23:20.841119+00:00",
+    "question_coverage": {
+      "answered": 12,
+      "not_applicable": 1,
+      "partial": 2
+    },
+    "review_fingerprint": "af460790440f359a9a5702b9c993d99571d142683f537fd088bfdbcc4b3d7f9e",
+    "scientific_status": "AI_appraisal_draft",
+    "source_hash": "b66e747cd52c4bd25b03497fd34d60ddfb98996f048902d14f1071abc2691570",
+    "source_id": "E01-T01-R126"
+  },
+  {
+    "basis": "full_text",
+    "formal_grade": null,
+    "full_review_release": "private_editorial_draft",
+    "human_review": "pending",
+    "paper_id": "E01-T01-R127",
+    "preview": "This pooled Swedish case-control report found higher acoustic-neuroma odds with mobile and cordless phone histories, particularly in long-latency categories. Sparse extreme groups, retrospective reporting, hearing-related changes in ear preference and overlapping study periods limit causal interpretation. Its alternative-reference analysis does not rule out every bias. The report is one pooled dataset rather than independent confirmation of earlier components; human scientific review remains pending.",
+    "preview_source_check": "2026-10-22T15:23:20.841119+00:00",
+    "question_coverage": {
+      "answered": 11,
+      "not_applicable": 1,
+      "partial": 3
+    },
+    "review_fingerprint": "83ce992378af17cf079275266e188282809b3e514835831f9505e9fec750b8a9",
+    "scientific_status": "AI_appraisal_draft",
+    "source_hash": "ee7096853b0d4efc2b7f55789e3558339bd409b0f82554b89af5f40d485a25ff",
+    "source_id": "E01-T01-R127"
+  },
+  {
+    "basis": "full_text",
+    "formal_grade": null,
+    "full_review_release": "private_editorial_draft",
+    "human_review": "pending",
+    "paper_id": "E01-T01-R246",
+    "preview": "This INTEROCC case-control reanalysis used three occupational RF job-matrix linkage methods. It found no convincing consistent glioma or meningioma association, despite isolated positive findings in recent exposure windows. Job-level estimates, selection, recall, sparse exposed groups and multiple comparisons limit interpretation. The analysis shares participants with other INTEROCC reports and is not independent replication. Full numerical supplements and unit checks remain pending, along with human scientific review.",
+    "preview_source_check": "2026-10-22T15:37:54.630462+00:00",
+    "question_coverage": {
+      "answered": 11,
+      "not_applicable": 1,
+      "partial": 3
+    },
+    "review_fingerprint": "0a955e7bd88f23671da4540e7eaf5a6e6969d63c7ea0c8d8d991a1a6e99d59a3",
+    "scientific_status": "AI_appraisal_draft",
+    "source_hash": "6d3282c32bf51574c95a360b98d50180e836b36606f4ec734de1e499490cf299",
+    "source_id": "E01-T01-R246"
+  },
+  {
+    "basis": "full_text",
+    "formal_grade": null,
+    "full_review_release": "private_editorial_draft",
+    "human_review": "pending",
+    "paper_id": "E01-T01-R251",
+    "preview": "This clinical case-control report describes a phone-use association with breast-cancer status, but it cannot isolate RF dose or establish causation. Text and tables disagree about confirmed-case and control counts, so numerical effects remain held. The screen-time table also does not support a simple longer-use gradient, and suspected referrals are not confirmed cancers. Corrected group information and human scientific review are needed before stronger interpretation.",
+    "preview_source_check": "2026-10-22T15:23:20.841119+00:00",
+    "question_coverage": {
+      "answered": 7,
+      "not_applicable": 1,
+      "partial": 7
+    },
+    "review_fingerprint": "45b33e19e976a513ca93443cf83faad2e67194a6fd0801b8aceaffe18dbd777a",
+    "scientific_status": "AI_appraisal_draft",
+    "source_hash": "b1236422041203035a1b905f5e946c2497f1b4a0cc0634d8af5cb8d11577086d",
+    "source_id": "E01-T01-R251"
+  },
+  {
+    "basis": "full_text",
+    "formal_grade": null,
+    "full_review_release": "private_editorial_draft",
+    "human_review": "pending",
+    "paper_id": "E02-T03-R054",
+    "preview": "Tinnitus was more commonly reported among self-identified electromagnetically sensitive respondents in this selected German sample. The study did not measure environmental RF dose and found no association with its reported phone-use variable. Cross-sectional timing, response selection, sleep and psychological differences limit causal interpretation. Prior magnetic-pulse discrimination results do not prove a shared tinnitus mechanism. This AI appraisal supports a symptom-coexistence account, with human scientific review pending.",
+    "preview_source_check": "2026-10-22T15:31:00.088707+00:00",
+    "question_coverage": {
+      "answered": 11,
+      "not_applicable": 1,
+      "partial": 3
+    },
+    "review_fingerprint": "da03cc2d6d3740b8851a4771a8bb8631f03d3b585711823920c370947c7b4bab",
+    "scientific_status": "AI_appraisal_draft",
+    "source_hash": "1a2d168baebf2caed0528566163ff8d152ae18cbb5e988ff2c078efe2489c4bd",
+    "source_id": "E02-T03-R054"
+  },
+  {
+    "basis": "full_text",
+    "formal_grade": null,
+    "full_review_release": "private_editorial_draft",
+    "human_review": "pending",
+    "paper_id": "E02-T03-R175",
+    "preview": "This prospective COSMOS analysis used operator call records and found no clear tinnitus gradient according to the authors; a weak headache pattern attenuated after adjustment. Exact tinnitus numbers remain held because printed counts and estimates conflict between the text and table. Short baseline records, self-reported symptoms and follow-up selection limit causal interpretation. The study does not establish effects of measured RF or sound dose, and human scientific review remains pending.",
+    "preview_source_check": "2026-10-22T15:31:00.088707+00:00",
+    "question_coverage": {
+      "answered": 9,
+      "not_applicable": 1,
+      "partial": 5
+    },
+    "review_fingerprint": "e04d9fe87d49ea596329d13f77c3f88879d6abc3392f9db596f6fba375167891",
+    "scientific_status": "AI_appraisal_draft",
+    "source_hash": "3a48d33c71a5492bb775448260658e5b7edd2ec531db94155ac387740cad4df0",
+    "source_id": "E02-T03-R175"
+  },
+  {
+    "basis": "full_text",
+    "formal_grade": null,
+    "full_review_release": "private_editorial_draft",
+    "human_review": "pending",
+    "paper_id": "E02-T03-R264",
+    "preview": "This randomized, blinded crossover experiment did not detect a consistent acute skin-temperature response to the tested low-level 26 GHz exposure in healthy young adults. Its short duration, selected sample and surface endpoints limit generalisation. A pooled-analysis table label differs from the prose and needs clarification. The study does not directly validate guideline thresholds or establish chronic safety. This AI appraisal remains pending human scientific review.",
+    "preview_source_check": "2026-10-22T15:31:00.088707+00:00",
+    "question_coverage": {
+      "answered": 9,
+      "partial": 6
+    },
+    "review_fingerprint": "31132ca29cd40d049403a2320fbf343a046222ca12052ba8e724061c7e7ed2a1",
+    "scientific_status": "AI_appraisal_draft",
+    "source_hash": "87887a64be66f5daae2c3af5cdc8ac9fd7c10502f898f0f84a32dddf23936fd8",
+    "source_id": "E02-T03-R264"
+  },
+  {
+    "basis": "full_text",
+    "formal_grade": null,
+    "full_review_release": "private_editorial_draft",
+    "human_review": "pending",
+    "paper_id": "E03-T05-R273",
+    "preview": "This Babol case-control report associates residential proximity to power lines with female infertility, but it did not measure individual magnetic-field dose. Clinic and control selection, uncertain timing and residual confounding limit causal interpretation. Printed tables contain incompatible counts, so numerical associations remain held pending correction or clarification. A related letter may share participants. This AI appraisal draft supports a cautious methodological account, not relocation advice or a verified risk estimate.",
+    "preview_source_check": "2026-10-22T15:23:20.841119+00:00",
+    "question_coverage": {
+      "answered": 5,
+      "not_applicable": 1,
+      "partial": 9
+    },
+    "review_fingerprint": "bc9a1ae7141996cf205cf3b7d67d11626f7f413093d945e4444b885438189cd8",
+    "scientific_status": "AI_appraisal_draft",
+    "source_hash": "4b2ee67f2a188c9f227070da743aede81f813bf6d5418e5d3037adb11ca276b4",
+    "source_id": "E03-T05-R273"
+  },
+  {
+    "basis": "full_text",
+    "formal_grade": null,
+    "full_review_release": "private_editorial_draft",
+    "human_review": "pending",
+    "paper_id": "E03-T06-R073",
+    "preview": "This prospective Chinese cohort examined clinically recognised miscarriage using residential 50 Hz field measurements. Results depended on the exposure metric: a maximum-alley association contrasted with a very imprecise front-door estimate. Short site measurements, missing personal activity histories and enrolment after some early losses limit causal interpretation. The authors did not confirm an association overall. This AI appraisal draft does not establish an individual risk, safe distance or preventive intervention.",
+    "preview_source_check": "2026-10-22T15:27:50.871470+00:00",
+    "question_coverage": {
+      "answered": 10,
+      "not_applicable": 1,
+      "partial": 4
+    },
+    "review_fingerprint": "4e62e6c813e22951c939964d4accf6c9c7171a0bb48efa26218b7ce7eb7bdfad",
+    "scientific_status": "AI_appraisal_draft",
+    "source_hash": "d86ec0a831d232ae275ba7189ea0eba1dec6d3eb25cca8892df4ab642cabe9bd",
+    "source_id": "E03-T06-R073"
+  },
+  {
+    "basis": "full_text",
+    "formal_grade": null,
+    "full_review_release": "private_editorial_draft",
+    "human_review": "pending",
+    "paper_id": "E03-T06-R109",
+    "preview": "This pooled analysis of four birth cohorts examined maternal calling frequency and birth outcomes. It found a pregnancy-duration signal without a consistent fetal-growth association, while important preterm-birth category estimates remained imprecise. Calling frequency, sometimes recalled years later, is an uncertain RF-dose proxy and may reflect stress or other behaviours. The analysis does not establish fetal radiation harm or miscarriage risk. Full online sensitivity tables and human scientific review remain pending.",
+    "preview_source_check": "2026-10-22T15:27:50.871470+00:00",
+    "question_coverage": {
+      "answered": 10,
+      "not_applicable": 1,
+      "partial": 4
+    },
+    "review_fingerprint": "d3070c8d0e23541b2183e021c976c3a0b595ed716942b0dc72481ade3466bbd1",
+    "scientific_status": "AI_appraisal_draft",
+    "source_hash": "257b7dc64dd3b11051b8c4b6c538b70942c992df58061b67afe6c54616b344d7",
+    "source_id": "E03-T06-R109"
+  },
+  {
+    "basis": "full_text",
+    "formal_grade": null,
+    "full_review_release": "private_editorial_draft",
+    "human_review": "pending",
+    "paper_id": "E03-T06-R135",
+    "preview": "This induction-cooker study developed an exposure-estimation method from household field measurements and a small validation sample. Predictions showed moderate rank correlations, which do not establish accurate individual or fetal dose. Fixed posture, clustered measurements and appliance differences limit generalisation, and model-preference wording needs clarification. The paper is useful for understanding exposure assessment, but it does not test pregnancy outcomes or demonstrate cooker-related health effects. Human scientific review remains pending.",
+    "preview_source_check": "2026-10-22T15:27:50.871470+00:00",
+    "question_coverage": {
+      "answered": 9,
+      "not_applicable": 1,
+      "partial": 5
+    },
+    "review_fingerprint": "4d820b189b137346bdc2a8c7c3f27067135e459a0071bd4ea22819fd2664b6f9",
+    "scientific_status": "AI_appraisal_draft",
+    "source_hash": "d7e978f43d6b521b80076456b4d9e9c2cd6b5b4476889cb0055ea848070bde10",
+    "source_id": "E03-T06-R135"
+  },
+  {
+    "basis": "full_text",
+    "formal_grade": null,
+    "full_review_release": "private_editorial_draft",
+    "human_review": "pending",
+    "paper_id": "E03-T06-R139",
+    "preview": "This Japanese internet-panel cohort reported small associations between selected induction-cooker use categories and preterm delivery, without a consistent birth-weight association. It measured reported appliance use, not personal magnetic-field dose. Substantial nonresponse, self-reported outcomes and selection of positive comparisons for adjusted models limit causal interpretation. The results support further investigation, not a claim that induction cooking causes pregnancy harm or that changing cookers prevents it. Human review is pending.",
+    "preview_source_check": "2026-10-22T15:27:50.871470+00:00",
+    "question_coverage": {
+      "answered": 9,
+      "not_applicable": 1,
+      "partial": 5
+    },
+    "review_fingerprint": "52ca404c7aa0786cb07e584a5efb24b21dc1e1d634b14372137e2a82765b89ad",
+    "scientific_status": "AI_appraisal_draft",
+    "source_hash": "0d4b595ea0b9b78c0bf4812518c1fcb041a7411316d33c7689c169f8ee842100",
+    "source_id": "E03-T06-R139"
+  },
+  {
+    "basis": "full_text",
+    "formal_grade": null,
+    "full_review_release": "private_editorial_draft",
+    "human_review": "pending",
+    "paper_id": "E04-T07-R230",
+    "preview": "This Swedish case-control analysis found no coherent association between occupational ELF exposure estimates and meningioma. A rendered table nevertheless shows an isolated intermediate-category elevation, making the paper’s narrative claim of no significant categories too absolute. Group-based exposure assignment, selection and overlapping research samples limit interpretation. The result is specific to this historical population and outcome, not a workplace safety threshold. Human scientific review remains pending.",
+    "preview_source_check": "2026-10-22T15:23:20.841119+00:00",
+    "question_coverage": {
+      "answered": 11,
+      "not_applicable": 1,
+      "partial": 3
+    },
+    "review_fingerprint": "4a49cb3c832547eba13d78aa16440d63d7efa953d3140e57f6490b0f5d0ff44e",
+    "scientific_status": "AI_appraisal_draft",
+    "source_hash": "47a7cb32c03abf1a20da841f7e0853cbf40de36575e1e9251db51642a6d2b9a0",
+    "source_id": "E04-T07-R230"
+  },
+  {
+    "basis": "full_text",
+    "formal_grade": null,
+    "full_review_release": "private_editorial_draft",
+    "human_review": "pending",
+    "paper_id": "E04-T07-R252",
+    "preview": "This review reports associations between some higher residential-field categories, older electric-blanket use and childhood leukemia. It combines heterogeneous observational studies and shares primary populations with earlier syntheses. Exposure methods, equipment era, selection, confounding and possible overlap limit causal interpretation. Pooled categories do not prove a biological threshold or universal safe distance. The original appliance studies and supplements need checking; this AI appraisal remains pending human scientific review.",
+    "preview_source_check": "2026-10-22T15:37:54.630462+00:00",
+    "question_coverage": {
+      "answered": 10,
+      "not_applicable": 1,
+      "partial": 4
+    },
+    "review_fingerprint": "97baa1da315c855761f9097365e7bc24b72b79cc6a92641bc2bdf2d5572cad63",
+    "scientific_status": "AI_appraisal_draft",
+    "source_hash": "112d5cdd49d3c37ac5d08e6dcdfb439570588aefbf9577eed5b3ed4d5c10cfa5",
+    "source_id": "E04-T07-R252"
+  },
+  {
+    "basis": "full_text",
+    "formal_grade": null,
+    "full_review_release": "private_editorial_draft",
+    "human_review": "pending",
+    "paper_id": "E06-T11-R137",
+    "preview": "This residential measurement survey shows why device mode, transmission duty cycle and placement matter when comparing RF exposure. It measured smart meters, DECT equipment, monitors and selected Bluetooth peripherals, rather than following people for disease. Convenience sampling and incident-field assumptions limit generalisation. Some manuscript numeric statements conflict and remain held. This is an AI appraisal draft awaiting independent source checks and human review.",
+    "preview_source_check": "2026-10-22T15:23:20.841119+00:00",
+    "question_coverage": {
+      "answered": 8,
+      "not_applicable": 1,
+      "partial": 6
+    },
+    "review_fingerprint": "4037859bc772d151fbe360dd8f95b8876c9636d14e5720d8387b2ea40cec869f",
+    "scientific_status": "AI_appraisal_draft",
+    "source_hash": "ed61372a455f8a087008093ecd37a1a2595b05b9f5e564f02f2a6bc1502e44b0",
+    "source_id": "E06-T11-R137"
+  },
+  {
+    "basis": "full_text",
+    "formal_grade": null,
+    "full_review_release": "private_editorial_draft",
+    "human_review": "pending",
+    "paper_id": "E06-T11-R168",
+    "preview": "This review maps potentially high occupational RF exposures using published measurement maxima, rather than following a new worker health cohort. Some heating, RFID and plasma scenarios exceeded external action levels, with important averaging and equipment-condition caveats. Maximum values do not describe typical workers or quantify cancer risk. Accident and repair scenarios differ from normal household appliance use. Original measurements and current standards need separate checking; human scientific review is pending.",
+    "preview_source_check": "2026-10-22T15:36:44.825470+00:00",
+    "question_coverage": {
+      "answered": 11,
+      "partial": 4
+    },
+    "review_fingerprint": "5e66833fa1bddf90b9c73db619e675ef0cfa34ebc8b106697ce6f9e90ba2e3ff",
+    "scientific_status": "AI_appraisal_draft",
+    "source_hash": "e65081c9e03718927be0fbda7a14e3272b3c67377eacde5c74103817bb858742",
+    "source_id": "E06-T11-R168"
+  },
+  {
+    "basis": "full_text",
+    "formal_grade": null,
+    "full_review_release": "private_editorial_draft",
+    "human_review": "pending",
+    "paper_id": "E06-T11-R191",
+    "preview": "This perspective explains why occupational EMF exposure may differ from public exposure through task peaks, intermittency, close sources and mixed frequencies. It includes MRI examples but reports no new clinical cohort or systematic health-effect synthesis. Illustrative permitted-exposure calculations are not measured average worker doses, and cited biological changes do not automatically establish disease. Primary sources are needed for quantitative claims. This AI appraisal remains pending human scientific review.",
+    "preview_source_check": "2026-10-22T15:36:44.825470+00:00",
+    "question_coverage": {
+      "answered": 11,
+      "not_applicable": 2,
+      "partial": 2
+    },
+    "review_fingerprint": "da1a85d272ebdeccfd935efab994922c265d044d287667a5eed92588d0980e6e",
+    "scientific_status": "AI_appraisal_draft",
+    "source_hash": "83217a00a05241b87150ba67f2d1b5f506d9f7ca85e6e37e4f23bcde63a8004d",
+    "source_id": "E06-T11-R191"
+  },
+  {
+    "basis": "full_text",
+    "formal_grade": null,
+    "full_review_release": "private_editorial_draft",
+    "human_review": "pending",
+    "paper_id": "E06-T11-R239",
+    "preview": "This computational study models fields near a DC charger and inside a vehicle; it does not observe human health outcomes. Its distance and shielding patterns depend on selected geometries and a simplified transformer source. Exact compliance percentages remain held because printed summaries conflict, with additional category/frequency inconsistencies. Independent measurement validation and broader models are needed before generalisation. This AI appraisal remains pending human scientific review.",
+    "preview_source_check": "2026-10-22T15:36:44.825470+00:00",
+    "question_coverage": {
+      "answered": 9,
+      "not_applicable": 1,
+      "partial": 5
+    },
+    "review_fingerprint": "7854485a8997c3ab1edefb50b980badef41d4be0b37cf5fc23ba15c3d1159fea",
+    "scientific_status": "AI_appraisal_draft",
+    "source_hash": "b1c3f16128193bf5d708204decb04809a710578ef6dc2b7ed8a002a2ea25a2a7",
+    "source_id": "E06-T11-R239"
+  },
+  {
+    "basis": "full_text",
+    "formal_grade": null,
+    "full_review_release": "private_editorial_draft",
+    "human_review": "pending",
+    "paper_id": "ahlbom",
+    "preview": "Ahlbom’s participant-level pooled analysis found an association between higher residential power-frequency magnetic-field categories and childhood leukaemia. Harmonized inputs improve comparison, but selection bias, exposure-history error and sparse higher-exposure groups limit causal interpretation. The category boundary is not a demonstrated safety threshold, and overlapping pooled reports are not independent cohorts. This full-text AI appraisal draft awaits distinct source verification and human review.",
+    "preview_source_check": "2026-10-22T15:40:34.235705+00:00",
+    "question_coverage": {
+      "answered": 8,
+      "not_applicable": 1,
+      "partial": 6
+    },
+    "review_fingerprint": "8565ca39066b778db73b833a400ae6ad019d46d0e06403bb629dd7eef6c4c50a",
+    "scientific_status": "AI_appraisal_draft",
+    "source_hash": "8ba47861df71e392d85e226be3d88bd783ad830287b0f02e145f3ffae7832be6",
+    "source_id": "E04-T07-R073"
+  },
+  {
+    "basis": "full_text",
+    "formal_grade": null,
+    "full_review_release": "private_editorial_draft",
+    "human_review": "pending",
+    "paper_id": "cosmos",
+    "preview": "COSMOS followed adult phone users through cancer registries and improved reported call histories using operator-data calibration. Its main comparisons did not show increased brain-tumour incidence. Calibration and prospective ascertainment are strengths, while changing use, residual exposure error and sparse rare-tumour/high-use events limit inference. This recovered full-text AI appraisal draft awaits independent source checks and human review; it does not establish lifetime safety for every wireless exposure.",
+    "preview_source_check": "2026-10-22T15:40:34.235705+00:00",
+    "question_coverage": {
+      "answered": 8,
+      "not_applicable": 1,
+      "partial": 6
+    },
+    "review_fingerprint": "198bf3d0aac8b08993c3fb14dfb64daf89d90e3f26d5399c3b98e1b562e113ea",
+    "scientific_status": "AI_appraisal_draft",
+    "source_hash": "196ba37f8536c21dd24c1614bec39c62486f695a7d38c8d309521167defcc79f",
+    "source_id": "E01-T01-R240"
+  },
+  {
+    "basis": "full_text",
+    "formal_grade": null,
+    "full_review_release": "private_editorial_draft",
+    "human_review": "pending",
+    "paper_id": "de-iuliis",
+    "preview": "This laboratory study exposed purified human sperm to a controlled RF signal and reported changes in function and oxidative/DNA assays. It did not measure conception or infertility in phone users. A later correction changes one figure panel and clarifies biological replication, so the corrected record is essential. Small replication, exposure modeling and the isolated-cell preparation constrain interpretation. This AI appraisal draft awaits independent source verification and human scientific review.",
+    "preview_source_check": "2026-10-22T15:40:34.235705+00:00",
+    "question_coverage": {
+      "answered": 7,
+      "not_applicable": 1,
+      "partial": 7
+    },
+    "review_fingerprint": "22c5a672dcac50f2aea3cf1b1f5111a18cc3e3f149677d9185816d2f2de65f0e",
+    "scientific_status": "AI_appraisal_draft",
+    "source_hash": "39500eb72c725d09bf08e5f7f091052f65d5fc6c25f86d2225d2738a80552105",
+    "source_id": "E03-T05-R089"
+  },
+  {
+    "basis": "publisher_fulltext_web_snapshot",
+    "formal_grade": null,
+    "full_review_release": "private_editorial_draft",
+    "human_review": "pending",
+    "paper_id": "draper",
+    "preview": "Draper’s registry study found a childhood-leukaemia association with birth-address proximity to high-voltage lines, extending farther than expected from line-related fields. Distance is a proxy, and chance, confounding and later residential history remain important. The result does not establish a universal safe distance or individual risk. This inspected full-article web snapshot supports an AI appraisal draft, with original-file, numerical and human scientific checks still incomplete.",
+    "preview_source_check": "2026-10-22T15:40:34.235705+00:00",
+    "question_coverage": {
+      "answered": 10,
+      "not_applicable": 1,
+      "partial": 4
+    },
+    "review_fingerprint": "818d5b85b1af4b87f1338141c0869e3692e11889e6758b61556f9ed46926ac10",
+    "scientific_status": "AI_appraisal_draft",
+    "source_hash": "b6a67b74bf4c77b8ea907d8b1773edd17c9806919fee5d53da340cde764b99ce",
+    "source_id": "E04-T07-R119"
+  },
+  {
+    "basis": "full_text",
+    "formal_grade": null,
+    "full_review_release": "private_editorial_draft",
+    "human_review": "pending",
+    "paper_id": "eltiti",
+    "preview": "Eltiti’s experiment compared GSM/UMTS-like signals with sham in sensitive volunteers and controls. Blinded tests did not show an attributable increase in symptoms, while open-label reports differed. The result addresses an acute trigger, not whether symptoms are real or whether every chronic outcome is excluded. Withdrawals and an unresolved control-count discrepancy remain visible. This full-text AI appraisal draft awaits distinct source verification and human scientific review.",
+    "preview_source_check": "2026-10-22T15:40:34.235705+00:00",
+    "question_coverage": {
+      "answered": 10,
+      "partial": 5
+    },
+    "review_fingerprint": "8b99f5afbc5a25f4183f94bb79de135d845887061f5f934891b6d49f36791177",
+    "scientific_status": "AI_appraisal_draft",
+    "source_hash": "c1d4c5866def4c811a5498f4808379b16406105abd1e58f7261251740dc22135",
+    "source_id": "E02-T03-R025"
+  },
+  {
+    "basis": "abstract_only",
+    "formal_grade": null,
+    "full_review_release": "private_editorial_draft",
+    "human_review": "pending",
+    "paper_id": "greenland",
+    "preview": "Greenland’s pooled analysis reports a childhood-leukaemia association concentrated in higher residential magnetic-field categories, while wire-code relationships varied. It reuses earlier participant data and is not independent of the original studies, so publication count is not independent replication. Original methods and tables remain unrecovered in this pass. This explicit partial AI appraisal preserves the association without treating a category as a safety threshold; independent source verification and human review remain pending.",
+    "preview_source_check": "2026-10-22T15:40:34.235705+00:00",
+    "question_coverage": {
+      "answered": 4,
+      "not_accessible": 2,
+      "not_applicable": 1,
+      "partial": 8
+    },
+    "review_fingerprint": "a391ec9ca0927b6827dd7b0b4eec358e8dd87706e00a21bf46eb8c9149479e38",
+    "scientific_status": "AI_appraisal_draft",
+    "source_hash": "02f18098ac79984c88822cc30667fc69e1b80f36c6c5e4a038161fa56156247d",
+    "source_id": "E04-T07-R074"
+  },
+  {
+    "basis": "publisher_fulltext_web_snapshot",
+    "formal_grade": null,
+    "full_review_release": "private_editorial_draft",
+    "human_review": "pending",
+    "paper_id": "hatch",
+    "preview": "Hatch’s prospective preconception cohorts found little overall association between reported front-pocket carrying and conception probability, with a more suggestive leaner-BMI subgroup. Carrying hours are an imprecise RF-dose proxy, and semen-kit results concern a selected subset. A malformed abstract interval remains numerically held pending table verification. This inspected full-article web reading is an AI appraisal draft requiring independent source checks and human scientific review.",
+    "preview_source_check": "2026-10-22T15:40:34.235705+00:00",
+    "question_coverage": {
+      "answered": 7,
+      "not_applicable": 1,
+      "partial": 7
+    },
+    "review_fingerprint": "d5726c18fb917c762bdd17ceee26a1f2c2b005f8cf6264aa149e917febd1410f",
+    "scientific_status": "AI_appraisal_draft",
+    "source_hash": "c5bfab888da279b59afdc60d9bb84fe36bb113fbf782e8f738841d20f9e608af",
+    "source_id": "E03-T05-R303"
+  },
+  {
+    "basis": "publisher_fulltext_web_snapshot",
+    "formal_grade": null,
+    "full_review_release": "private_editorial_draft",
+    "human_review": "pending",
+    "paper_id": "headache",
+    "preview": "This blinded crossover found no demonstrated acute head-pain difference between its specified GSM signal and sham in selected phone-specific symptom reporters. Repeated sessions do not replace independent participants, and the authors’ nocebo explanation was not isolated experimentally. The publisher text is available as an inspected web snapshot; original PDF bytes and some checks remain unavailable. This AI appraisal draft awaits independent source verification and human review.",
+    "preview_source_check": "2026-10-22T15:40:34.235705+00:00",
+    "question_coverage": {
+      "answered": 8,
+      "partial": 7
+    },
+    "review_fingerprint": "32b07b1f9b39969eccd139cafbaf37add17586f3b7acdf9b182bc5bf18b29bda",
+    "scientific_status": "AI_appraisal_draft",
+    "source_hash": "f0d9e44c579f291d5aa6368e2a10a88c710f060206a8688596057d0d2c2660e8",
+    "source_id": "E02-T03-R026"
+  },
+  {
+    "basis": "full_text",
+    "formal_grade": null,
+    "full_review_release": "private_editorial_draft",
+    "human_review": "pending",
+    "paper_id": "hermes",
+    "preview": "HERMES related modeled RF brain dose to changes in adolescents’ memory-test scores. Its full-sample figural-memory interval included no difference, while selected analyses were more suggestive. Exposure modeling, correlated behavior and overlapping programme reports limit causal and replication claims. The result concerns a particular cognitive test, not diagnosed brain injury. This full-text AI appraisal draft requires distinct source verification and human scientific review.",
+    "preview_source_check": "2026-10-22T15:40:34.235705+00:00",
+    "question_coverage": {
+      "answered": 8,
+      "not_applicable": 1,
+      "partial": 6
+    },
+    "review_fingerprint": "6b70e98c331c40542e950e8a22d392ead5f5312b65844ba25fcc4540a216c17b",
+    "scientific_status": "AI_appraisal_draft",
+    "source_hash": "becf7944b0c82b079c6d196edbd715f8116383da673b4f602aeb8f0dbb766227",
+    "source_id": "E04-T08-R060"
+  },
+  {
+    "basis": "abstract_only",
+    "formal_grade": null,
+    "full_review_release": "private_editorial_draft",
+    "human_review": "pending",
+    "paper_id": "interphone",
+    "preview": "INTERPHONE’s abstract reports no overall increase in the studied brain tumours but an elevated glioma estimate in the highest recalled-use category, alongside major recall and participation concerns. Those findings do not prove protection or causation. The original report and appendices remain unrecovered here, so this is an explicit partial AI appraisal. A later metadata-linked erratum concerns an author’s name, not an established numerical-result correction; human review remains pending.",
+    "preview_source_check": "2026-10-22T15:40:34.235705+00:00",
+    "question_coverage": {
+      "answered": 3,
+      "not_accessible": 2,
+      "not_applicable": 1,
+      "partial": 9
+    },
+    "review_fingerprint": "3627a4ab89b91dfecd4356b23820dc9fa3f54322012a5b1945b9f88ffd159af2",
+    "scientific_status": "AI_appraisal_draft",
+    "source_hash": "2fea18b59f5c672cb8bef62fe7f2bf5b79484d472ac176d1b9164e01b4ccc2a1",
+    "source_id": "E01-T01-R079"
+  },
+  {
+    "basis": "full_text",
+    "formal_grade": null,
+    "full_review_release": "private_editorial_draft",
+    "human_review": "pending",
+    "paper_id": "million-women",
+    "preview": "The updated Million Women cohort found no increased brain-tumour incidence in its reported phone-use categories. Prospective reporting and cancer-registry linkage strengthen the comparison, while coarse exposure histories, relatively few very heavy users and limited rare-subtype precision constrain extrapolation. This extends an existing cohort rather than adding independent participants. The findings apply to the studied older UK women and follow-up; supplements and human scientific review remain pending.",
+    "preview_source_check": "2026-10-22T15:23:20.841119+00:00",
+    "question_coverage": {
+      "answered": 12,
+      "partial": 3
+    },
+    "review_fingerprint": "56fe86820c2aaed0b2c40d42b599fd1c8858e31cd80a506e6a2114aab3c263bd",
+    "scientific_status": "AI_appraisal_draft",
+    "source_hash": "b58f11309819761ae33981e7aab41078cbc906eae58c30a46a6fc6b5f4c0dcd8",
+    "source_id": "E01-T01-R222"
+  },
+  {
+    "basis": "full_text",
+    "formal_grade": null,
+    "full_review_release": "private_editorial_draft",
+    "human_review": "pending",
+    "paper_id": "mobi-kids",
+    "preview": "MOBI-Kids compared wireless-phone histories in young people with brain tumours and hospital controls. Its main analyses did not show increased neuroepithelial tumour risk, but proxy reporting, participation differences, prediagnosis behavior and modeled exposure limit causal interpretation. Below-one estimates are not evidence that phones protect against tumours. This full-text AI appraisal draft requires independent source verification and human scientific review; supplements and protocol checks remain incomplete.",
+    "preview_source_check": "2026-10-22T15:40:34.235705+00:00",
+    "question_coverage": {
+      "answered": 8,
+      "not_applicable": 1,
+      "partial": 6
+    },
+    "review_fingerprint": "46d4d1a2f52c0098bb32e07b9fba41e9651028296f376335243012c0fdd1fe7a",
+    "scientific_status": "AI_appraisal_draft",
+    "source_hash": "de665e5fc0166d3ee41df4a858020fc30c021d330696b69f3387f110f2197d3c",
+    "source_id": "E01-T01-R223"
+  },
+  {
+    "basis": "full_text",
+    "formal_grade": null,
+    "full_review_release": "private_editorial_draft",
+    "human_review": "pending",
+    "paper_id": "ntp-rats",
+    "preview": "NTP’s rat report found tumour signals under controlled long-term whole-body RF exposure, with its clearest programme judgment concerning male-rat heart schwannomas. Tissue, sex, dose, shared controls, litter structure and survival differences matter. These animal findings cannot calculate an individual phone user’s cancer risk. This AI appraisal draft reads the relevant chronic-arm summary and methods; complete appendix/table verification and human scientific review remain unfinished.",
+    "preview_source_check": "2026-10-22T15:40:34.235705+00:00",
+    "question_coverage": {
+      "answered": 7,
+      "partial": 8
+    },
+    "review_fingerprint": "dd45e8ba413a7faa1a268af59e76096825d5bccebcaf52fb6a6dac8d7938bbc7",
+    "scientific_status": "AI_appraisal_draft",
+    "source_hash": "6b868008e4ce9edfa4eb380165d97b32116cd1424a6c54882cd6620777b241cb",
+    "source_id": "E01-T02-R130"
+  },
+  {
+    "basis": "full_text",
+    "formal_grade": null,
+    "full_review_release": "private_editorial_draft",
+    "human_review": "pending",
+    "paper_id": "rahban",
+    "preview": "Rahban’s cross-sectional conscript study related reported phone habits to semen measurements. Some count-related associations were observed, while other semen outcomes and carrying location did not show consistent adverse patterns. Reported use is not measured RF dose, and volunteer selection, lifestyle differences and changing technology complicate causality. This full-text AI appraisal draft remains pending independent source verification and human review; semen measures are not the same as conception outcomes.",
+    "preview_source_check": "2026-10-22T15:40:34.235705+00:00",
+    "question_coverage": {
+      "answered": 9,
+      "not_applicable": 1,
+      "partial": 5
+    },
+    "review_fingerprint": "7acb081f5d91eba079f458085bfcff61a100648f491ff1ef733a74332fa654ab",
+    "scientific_status": "AI_appraisal_draft",
+    "source_hash": "63121523ab8215aa8469e70b23cf71f5e632dd43a886898ba8bd2b8b506b18ce",
+    "source_id": "E03-T05-R342"
+  },
+  {
+    "basis": "abstract_only",
+    "formal_grade": null,
+    "full_review_release": "private_editorial_draft",
+    "human_review": "pending",
+    "paper_id": "ramazzini",
+    "preview": "Ramazzini’s abstract reports a male-rat heart schwannoma signal under a defined lifespan far-field RF protocol, with other reported increases not statistically significant. Full methods, tumour denominators and survival analysis remain unrecovered here, limiting appraisal. The result is animal-hazard evidence and cannot calculate personal human risk. This explicit abstract-basis AI draft preserves the source signal, access gaps and pending independent verification and human review.",
+    "preview_source_check": "2026-10-22T15:40:34.235705+00:00",
+    "question_coverage": {
+      "answered": 3,
+      "not_accessible": 3,
+      "partial": 9
+    },
+    "review_fingerprint": "4a663f0988efad6893ab55a91a083f1d6862de08a1912904ab9a0d15e710a715",
+    "scientific_status": "AI_appraisal_draft",
+    "source_hash": "fb1e55d1c7a04a9445e22b83dab0777a5b0dd89d253cbcd25cd45641980cb12c",
+    "source_id": "E01-T02-R128"
+  },
+  {
+    "basis": "abstract_only",
+    "formal_grade": null,
+    "full_review_release": "private_editorial_draft",
+    "human_review": "pending",
+    "paper_id": "wifi-pmid-17293700",
+    "preview": "This historical survey measured Wi-Fi and background RF at varied sites and found Wi-Fi levels far below the limits it used. Its laptop measurements represent a distant bystander scenario; body-contact exposure was explicitly outside scope. It is exposure evidence, not a health-outcome trial or a current audit of every WLAN band. This AI appraisal remains abstract-only, with full methods and uncertainty inaccessible and human scientific review pending.",
+    "preview_source_check": "2026-10-22T15:24:38.159099+00:00",
+    "question_coverage": {
+      "not_accessible": 2,
+      "not_applicable": 1,
+      "not_identifiable": 1,
+      "partial": 11
+    },
+    "review_fingerprint": "ac8b4e16ed0876021851b34612297f962442503e1414e0574f22408c74dab065",
+    "scientific_status": "AI_appraisal_draft",
+    "source_hash": "900e57ba38e09f701239ee979ea538ed663e9ca9b397c63911d58ff29f26bbbb",
+    "source_id": "wifi-pmid-17293700"
+  },
+  {
+    "basis": "abstract_only",
+    "formal_grade": null,
+    "full_review_release": "private_editorial_draft",
+    "human_review": "pending",
+    "paper_id": "wifi-pmid-21856328",
+    "preview": "This school study measured Wi-Fi transmission duty factors during lessons. It helps explain intermittent exposure, while its final power-density and child-model SAR examples are calculations using earlier project results. These are not measured child-health outcomes or universal network averages. This AI appraisal remains abstract-only; capture validation, lesson sampling and companion-model details are inaccessible. The project relationship is retained, and human scientific review is pending.",
+    "preview_source_check": "2026-10-22T15:24:38.159515+00:00",
+    "question_coverage": {
+      "not_accessible": 2,
+      "not_applicable": 1,
+      "partial": 12
+    },
+    "review_fingerprint": "ac8c4f199d5f0ca6e7a5b70f449f8980d7d7452c8dacb8e3ca43c2cf57c9e1fa",
+    "scientific_status": "AI_appraisal_draft",
+    "source_hash": "8a821f3c9b971ad64cb6bc46aee8db6189cfa1d80f4221ea08e3e2985ccf5ab6",
+    "source_id": "wifi-pmid-21856328"
+  },
+  {
+    "basis": "abstract_only",
+    "formal_grade": null,
+    "full_review_release": "private_editorial_draft",
+    "human_review": "pending",
+    "paper_id": "wifi-pmid-22004929",
+    "preview": "This laboratory study measured emissions and spatial patterns from Wi-Fi devices used in schools. It describes equipment, not a child-health or fertility cohort. Laptop and access-point results use different integration geometries, and local power density is distinct from absorbed dose. This AI appraisal remains abstract-only; full operating conditions, calibration and uncertainty are inaccessible. The related school duty-factor work is complementary, with human scientific review pending.",
+    "preview_source_check": "2026-10-22T15:24:38.159886+00:00",
+    "question_coverage": {
+      "not_accessible": 2,
+      "not_applicable": 1,
+      "partial": 12
+    },
+    "review_fingerprint": "17901950c8c2e54f96483b8e0f8b251b2ae9775035104f3e13bb55202b2efeab",
+    "scientific_status": "AI_appraisal_draft",
+    "source_hash": "6a138b22a43ab5eb1b42e20a82d7ac8cd9d717369d1978e56d85a308ddc23540",
+    "source_id": "wifi-pmid-22004929"
+  },
+  {
+    "basis": "abstract_only",
+    "formal_grade": null,
+    "full_review_release": "private_editorial_draft",
+    "human_review": "pending",
+    "paper_id": "wifi-pmid-23085070",
+    "preview": "This study found WLAN activity varied by environment, task and physical data rate, so continuous-transmission assumptions can differ from observed use. Overall summaries, file-transfer scenarios and theoretical bounds describe different quantities. Duty cycle alone is not a clinical effect or a person’s absorbed dose. This AI appraisal remains abstract-only because the full paper is inaccessible; sampling and calculation details are incomplete, with human scientific review pending.",
+    "preview_source_check": "2026-10-22T15:24:38.160250+00:00",
+    "question_coverage": {
+      "not_accessible": 2,
+      "not_applicable": 1,
+      "not_identifiable": 1,
+      "partial": 11
+    },
+    "review_fingerprint": "7badd06e7e7211a5f78ca048062b7eb4481198547faf821c3c918c04994d6c34",
+    "scientific_status": "AI_appraisal_draft",
+    "source_hash": "d88ac6f56a475df3d461765f3eecde56309cbabd754aa624279f0e9f3fd40304",
+    "source_id": "wifi-pmid-23085070"
+  },
+  {
+    "basis": "abstract_only",
+    "formal_grade": null,
+    "full_review_release": "private_editorial_draft",
+    "human_review": "pending",
+    "paper_id": "wifi-pmid-26600173",
+    "preview": "This report describes two acute Wi-Fi experiments on waking EEG and sustained attention, with no measurable effects reported in the abstract. It does not directly test sleep or long-term cognitive disease. The quoted absorption value is a normalization condition, and the actual delivered dose needs the full methods. This AI appraisal remains abstract-only; control, masking, participant flow and precision are unresolved, with human scientific review pending.",
+    "preview_source_check": "2026-10-22T15:24:38.160618+00:00",
+    "question_coverage": {
+      "not_accessible": 3,
+      "not_extracted": 1,
+      "partial": 11
+    },
+    "review_fingerprint": "6c84ab715f22f57b517779839485962a64e5d7b9ac08c6f3c8a856aa153f5150",
+    "scientific_status": "AI_appraisal_draft",
+    "source_hash": "a650e8afdb795249f954d92dbfb4ef4cc25a8dbaad462022cb508d141d9ec1e9",
+    "source_id": "wifi-pmid-26600173"
+  },
+  {
+    "basis": "abstract_only",
+    "formal_grade": null,
+    "full_review_release": "private_editorial_draft",
+    "human_review": "pending",
+    "paper_id": "wifi-pmid-32104921",
+    "preview": "This engineering report describes the head-exposure facility used for a Wi-Fi sleep project. It explains signal delivery and distinguishes regional absorption from spatial peaks, while noting variation with head position. It does not report an independent health-outcome trial. This AI appraisal remains abstract-only because the full methods, validation and uncertainty analysis are inaccessible. The facility stays linked to the shared sleep/memory project, and human scientific review is pending.",
+    "preview_source_check": "2026-10-22T15:24:38.157124+00:00",
+    "question_coverage": {
+      "answered": 1,
+      "not_accessible": 1,
+      "not_applicable": 1,
+      "partial": 12
+    },
+    "review_fingerprint": "2f1696db92d2295a0be3415985b2cef3f0b6a0d81ce6552d50ccb2d28ccb4380",
+    "scientific_status": "AI_appraisal_draft",
+    "source_hash": "5d5d2ec8c56cfdebaad73c8565e9687180dc3fa8e7a19dcdc55a731fb4f8061d",
+    "source_id": "wifi-pmid-32104921"
+  },
+  {
+    "basis": "abstract_only",
+    "formal_grade": null,
+    "full_review_release": "private_editorial_draft",
+    "human_review": "pending",
+    "paper_id": "wifi-pmid-32408065",
+    "preview": "This randomized crossover study reported no statistically significant acute changes in subjective sleep or sleep macrostructure, alongside reduced NREM alpha EEG power under Wi-Fi. The physiological difference alone does not establish a sleep disorder. The sleep and memory reports share a participant project. This AI appraisal remains abstract-only because the full sleep report is inaccessible; effect estimates, analysis details and harms assessment are incomplete, with human scientific review pending.",
+    "preview_source_check": "2026-10-22T15:24:38.161050+00:00",
+    "question_coverage": {
+      "not_accessible": 1,
+      "not_extracted": 1,
+      "partial": 13
+    },
+    "review_fingerprint": "d783244f2661a706833236b662dc27f293d7a38966d45a2b1ce330642aee40ed",
+    "scientific_status": "AI_appraisal_draft",
+    "source_hash": "af920e6efbca4090e760ceab554cfc66ab3fd939ba69b575d759d6da26792b6e",
+    "source_id": "wifi-pmid-32408065"
+  },
+  {
+    "basis": "publisher_fulltext_web_snapshot",
+    "formal_grade": null,
+    "full_review_release": "private_editorial_draft",
+    "human_review": "pending",
+    "paper_id": "wifi-pmid-33166026",
+    "preview": "This exploratory crossover study reported greater overnight word-pair retention under Wi-Fi, while other memory comparisons and associated physiology did not corroborate a broad effect. The authors regard the declarative result as inconclusive. Its participants are a subset of the companion sleep project, so these reports are not independent replication. This AI appraisal uses a publisher fulltext snapshot; the original PDF and supplement remain unavailable, and human scientific review is pending.",
+    "preview_source_check": "2026-10-22T15:24:38.158317+00:00",
+    "question_coverage": {
+      "answered": 1,
+      "not_extracted": 1,
+      "partial": 13
+    },
+    "review_fingerprint": "c7745cc02dea5bfdd8c2af457184acaecc7cc6c7b40e80cd024f7216fa5f4183",
+    "scientific_status": "AI_appraisal_draft",
+    "source_hash": "aa9d420870dc50ab625eef3e4c6d7dab29e01aae8a38fa76e0e9e20edceceba5",
+    "source_id": "wifi-pmid-33166026"
+  }
+]

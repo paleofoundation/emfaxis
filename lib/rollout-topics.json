@@ -1947,7 +1947,7 @@
               "E01-T01-R251",
               "million-women"
             ],
-            "text": "The breast-cancer report found an association between prolonged self-reported phone use and confirmed case status, with broad uncertainty and an explicitly noncausal interpretation. The cohort did not find increased eye-tumour risk in its reported phone-use groups. These observations concern different outcomes and populations; one cannot cancel or confirm the other as a generic test of “cancer.”"
+            "text": "The breast-cancer authors report a calling-time association, but the printed group totals conflict with the Methods and screen-time reference coding conflicts with broad prose claims. Its numerical effects remain held pending clarification. The cohort did not find increased eye-tumour risk in its reported phone-use groups. These are different outcomes and populations; one cannot cancel or confirm the other as a generic test of cancer."
           }
         ],
         "title": "Describe the actual selected observations"
@@ -2023,7 +2023,7 @@
       }
     ],
     "pageId": "H07",
-    "takeaway": "The recovered evidence includes a small observational breast-cancer report and an eye-tumour analysis within a phone cohort. Neither establishes a general cancer effect of EMFs.",
+    "takeaway": "The selected breast-cancer report has unresolved group-count and interpretation problems, so its numerical effects are held. The separate eye-tumour cohort analysis does not establish a general cancer effect of EMFs.",
     "title": "Other cancers and electromagnetic fields"
   },
   {
@@ -2208,7 +2208,7 @@
               "E02-T03-R264",
               "E06-T11-R168"
             ],
-            "text": "The acute 26 GHz study detected no exposure-related skin-temperature change at its tested low fields; temperatures also changed over time during sham sessions. At the other end of the exposure spectrum, the occupational review describes suspected overexposure and repair accidents. These are useful observations within their respective conditions, not contradictory results that can be averaged into one heating score."
+            "text": "The acute 26 GHz study did not detect a consistent skin-temperature response at its tested low fields; temperatures also changed over time during sham sessions. A pooled regional-analysis label differs between prose and Table 1, so every analysis cannot simply be called null. At the other end of the exposure spectrum, the occupational review describes suspected overexposure and repair accidents. These are useful observations within their respective conditions, not contradictory results that can be averaged into one heating score."
           }
         ],
         "title": "The dose and scenario determine applicability"
@@ -2286,7 +2286,7 @@
       }
     ],
     "pageId": "H15",
-    "takeaway": "RF can heat tissue at sufficient exposure. The recovered acute 26 GHz experiment found no detectable skin-temperature effect under its tested conditions, which does not settle every thermal scenario.",
+    "takeaway": "RF can heat tissue at sufficient exposure. The recovered acute 26 GHz experiment found no consistent skin-temperature response under its tested conditions. A pooled-analysis discrepancy remains unresolved, and this does not settle every thermal scenario.",
     "title": "Heating and electromagnetic exposure"
   },
   {

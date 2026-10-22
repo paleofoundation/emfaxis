@@ -50,3 +50,8 @@ assert.equal(recovered.length,44);assert.equal(recovered.flatMap(s=>s.claims).le
 for(const s of recovered){assert(s.url.startsWith('https://'));assert(s.fingerprint.length===64);for(const c of s.claims)assert.equal(c.scientific_review,'pending')}
 for(const f of ['recovered-sources.json','rollout-pages.json','rollout-topics.json','topic-overrides.json']){const raw=fs.readFileSync(new URL('../lib/'+f,import.meta.url),'utf8');assert(!/private_source_file|private_pdf_path|supporting_passage_excerpt|\/Users\/kmfp|human_approved/.test(raw),'private or approval material in '+f)}
 console.log(JSON.stringify({status:'PASS',plannedPages:65,populatedSources:17,populatedOutcomes:17,plannedQuestions:16,plannedGuidesAndMethods:11,fields:4,recoveredSources:44,sourceCheckedClaims:100,scientificReview:'pending'}));
+
+const appraisals=JSON.parse(fs.readFileSync(new URL('../lib/appraisal-previews.json',import.meta.url),'utf8'));
+assert.equal(new Set(appraisals.map(a=>a.paper_id)).size,appraisals.length);
+for(const a of appraisals){assert(sourceIds.has(a.paper_id),'unknown appraisal record');assert.equal(a.human_review,'pending');assert.equal(a.formal_grade,null);assert(a.preview.split(/\s+/).length>=50&&a.preview.split(/\s+/).length<=90);assert.equal(Object.values(a.question_coverage).reduce((n,x)=>n+x,0),15);assert(a.review_fingerprint.length===64&&a.source_hash.length===64);assert(!('answers' in a)&&!('narrative' in a)&&!('integrity' in a),'private appraisal body leaked')}
+console.log(JSON.stringify({status:'PASS',appraisalPreviews:appraisals.length,fullPrivateAppraisalsInPublicPayload:0,humanScientificApprovals:0}));

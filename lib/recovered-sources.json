@@ -248,9 +248,9 @@
       {
         "basis": "full_text",
         "id": "E01-T01-R251-c01",
-        "locator": "PDF physical p3, Participants; p8, Table 4; p9, Conclusion",
+        "locator": "PDF physical pp1,3,6,8–9; Table 2 group totals and Table 4 reference categories",
         "scientific_review": "pending",
-        "text": "This multicentre case-control report found an association between prolonged self-reported phone use and confirmed breast-cancer status. Women referred for mammography without a diagnosis were a separate exploratory group, not additional confirmed cancers."
+        "text": "The authors report an association between longer self-reported calling and confirmed breast-cancer status, with a separate exploratory mammography-referral group. However, printed case/control totals conflict with the Methods, and screen-time reference coding conflicts with generic prose. Numerical effects require clarification and remain held."
       },
       {
         "basis": "full_text",
@@ -261,9 +261,9 @@
       }
     ],
     "doi": "10.4103/jrms.jrms_679_25",
-    "fingerprint": "f261a5cc4112c98b823f62c9fd26fee94e2c61c659572258966b18cd58c316c8",
+    "fingerprint": "589429499c53fa70eb04cac9a0d16da01ac8c5b8ccf28337921856dc283db8f9",
     "id": "E01-T01-R251",
-    "integrity_status": "Metadata and selected full-text passages checked; comprehensive correction and protocol audit pending",
+    "integrity_status": "Printed case/control totals conflict with Methods; screen-time reference coding conflicts with generic prose. Quantitative effects held pending clarification.",
     "limitations": "Selected-passage extraction; complete scientific review pending. Tahmasebi 2025 multicentre case-control report; independent-family status not fully searched.",
     "pages": [
       {
@@ -371,9 +371,9 @@
       }
     ],
     "doi": "10.1093/ije/dyz127",
-    "fingerprint": "dd99745f9b28820a1ad7191ec70295dd0d05b291e588d5522250c287ffdb9dbd",
+    "fingerprint": "f7adf6ec6c29d2a576ad67bd9eb025489ba95bd4e61945e3a5d1a08e6b16bf54",
     "id": "E02-T03-R175",
-    "integrity_status": "Metadata and selected full-text passages checked; comprehensive correction and protocol audit pending",
+    "integrity_status": "Printed tinnitus denominators and highest-category estimates differ between sections and Table 2; exact numerical summaries held pending clarification.",
     "limitations": "Selected-passage extraction; complete scientific review pending. COSMOS Sweden/Finland symptom follow-up; related to broader COSMOS cohort reports, not independent replication of the cohort.",
     "pages": [
       {
@@ -413,9 +413,9 @@
       {
         "basis": "full_text",
         "id": "E02-T03-R264-c01",
-        "locator": "PDF physical pp10–11, Discussion and Conclusion",
+        "locator": "PDF physical p6 regional-results prose; p7 Table 1; pp10–11 limitations and Conclusion",
         "scientific_review": "pending",
-        "text": "The controlled 26 GHz crossover study detected no acute exposure-related change in the monitored superficial skin-temperature measures under its tested low field strengths. Temperature changes over the session also occurred during sham exposure."
+        "text": "The controlled 26 GHz crossover study did not detect a consistent acute skin-temperature response at the tested low field strengths. A pooled regional comparison is labelled differently in the results prose and Table 1, so it cannot be described as every analysis being null. Exact interpretation of that pooled result remains held."
       },
       {
         "basis": "full_text",
@@ -426,9 +426,9 @@
       }
     ],
     "doi": "10.1038/s41598-026-49616-7",
-    "fingerprint": "1a04060e8ffb092701adbe0a01b4354e442ff48cdb9a9d693f9641a97b08dd9d",
+    "fingerprint": "a4fe4599570fe4a04bcd77f10e7a89cf12fab85096dddb2e4cd73e430169eff3",
     "id": "E02-T03-R264",
-    "integrity_status": "Metadata and selected full-text passages checked; comprehensive correction and protocol audit pending",
+    "integrity_status": "Pooled regional analysis labelled differently in Results prose and Table 1; exact interpretation held; no blanket every-analysis-null claim.",
     "limitations": "Selected-passage extraction; complete scientific review pending. Michelant 26 GHz laboratory protocol; other physiological outcomes planned for separate reports, no independent family count.",
     "pages": [
       {
@@ -486,9 +486,9 @@
       }
     ],
     "doi": "10.15171/ijoem.2019.1429",
-    "fingerprint": "4704788583b86bf9565da9bd6a9168c0fa093b3380000e84718b5742d69dea4b",
+    "fingerprint": "ef6a27a9b4aef12d2379cf58176359aeef2d091579fd5c2e2eb206a093c6ee06",
     "id": "E03-T05-R273",
-    "integrity_status": "Printed Table 2 has conflicting counts; numerical claims held; qualitative author-reported association only",
+    "integrity_status": "Printed Tables 1–2 have incompatible counts or labels; numerical claims held; qualitative author-reported association only",
     "limitations": "Selected-passage extraction; complete scientific review pending. Babol female-infertility series; E03-T05-R280 letter has same city and case/control counts but dates differ. Overlap unresolved, do not count both.",
     "pages": [
       {
@@ -656,9 +656,9 @@
       }
     ],
     "doi": "10.3390/ijerph191911912",
-    "fingerprint": "e911003460e5a3cd857998034d4b0f6664141f481a9d7f6752d8f642e0a827dd",
+    "fingerprint": "89389306c30736aba5332a353406974c3dc3262dd63537a077fcdb8c65b6998e",
     "id": "E03-T06-R135",
-    "integrity_status": "Metadata and selected full-text passages checked; comprehensive correction and protocol audit pending",
+    "integrity_status": "Validation concerns rank correlations, not individual dose agreement or health outcomes; preferred-model wording varies, so a unique superior model is not asserted.",
     "limitations": "Selected-passage extraction; complete scientific review pending. Kitajima induction exposure-model surveys; related Perinatal Cohort outcome reports require separate linking.",
     "pages": [
       {
@@ -887,14 +887,14 @@
       {
         "basis": "full_text",
         "id": "E06-T11-R137-c03",
-        "locator": "PDF physical p17, Bluetooth devices; p34, Table 4 continuation",
+        "locator": "PDF physical p17, Bluetooth devices; pp33–34, Table 5 (p34 continuation)",
         "scientific_review": "pending",
         "text": "The Bluetooth measurements concerned a computer mouse and two speakers during failed pairing attempts. They do not characterize earbuds worn at the head or every Bluetooth operating mode."
       },
       {
         "basis": "full_text",
         "id": "E06-T11-R137-c04",
-        "locator": "PDF physical pp17–18, Other; p34, Table 4 continuation; p19, Discussion A",
+        "locator": "PDF physical pp17–18, Other; pp33–34, Table 5 (p34 continuation); p19, Discussion A",
         "scientific_review": "pending",
         "text": "The report separately measured DECT handsets, a base station in standby and active states, and both parent and baby units of two monitor systems. Duty cycle and device placement matter when comparing these sources."
       },
@@ -907,9 +907,9 @@
       }
     ],
     "doi": "10.1097/hp.0000000000001032",
-    "fingerprint": "b1fd9840c2f36eceea08f3aaa72a45810cb5c730b0087766d25c0a0fe3e7274a",
+    "fingerprint": "7704d78449526cfc86fe5f7666f23a14461888b3a37592fc5d4538081d2fba45",
     "id": "E06-T11-R137",
-    "integrity_status": "Metadata and selected full-text passages checked; comprehensive correction and protocol audit pending",
+    "integrity_status": "Repository manuscript peak-distance and Wi-Fi range statements conflict with body/table; affected numerical claims held. Table label corrected to Table 5.",
     "limitations": "Selected-passage extraction; complete scientific review pending. Aerts residential emissions survey 2017; one measurement report, regardless of how many device pages cite it.",
     "pages": [
       {

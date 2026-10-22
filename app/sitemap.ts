@@ -9,7 +9,7 @@ import { terms, termSlug } from '@/lib/glossary';
 export default function sitemap(): MetadataRoute.Sitemap {
   // Only indexable public pages; exclude search, corrections, and account routes.
   const paths = [
-    '/', '/sources', '/outcomes', '/fields',
+    '/', '/sources', '/outcomes', '/fields', '/research/progress',
     ...rolloutPages.map(p=>'/'+p.kind+'s/'+p.id),
     ...recoveredSources.map(s=>'/research/'+s.id),
     ...['radiofrequency','elf','intermediate-frequency','static'].map(id=>'/fields/'+id),
