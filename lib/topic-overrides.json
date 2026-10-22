@@ -21,6 +21,42 @@
         ]
       }
     },
+    "animal-cancer": {
+      "modules": {
+        "evidence": [
+          {
+            "refs": [
+              "E01-T01-R257"
+            ],
+            "text": "A later Japanese male-rat experiment reported no statistically significant tumour increase under its survival-adjusted analysis. It used prenatal-to-lifetime whole-body handset-type RF exposure at one level, with sham and cage controls. Rare tumours, different survival and growth, and apparatus-related exclusions limit the conclusion. The tumour table and Results also conflict with the Discussion about an exposed cardiac schwannoma; a zero-exposed-tumour statement and exact counts remain held."
+          }
+        ]
+      }
+    },
+    "base-stations": {
+      "modules": {
+        "evidence": [
+          {
+            "refs": [
+              "E02-T03-R147"
+            ],
+            "text": "A prospective Swiss adolescent study modelled exposure from base stations and broadcast transmitters at home and school. Its analyses did not produce a consistent symptom pattern: isolated positive findings for tiredness or concentration occurred alongside null and inverse results. The model reduces reliance on participants guessing their exposure, but it does not measure individual absorbed dose, and the selected sample and many comparisons limit causal interpretation."
+          },
+          {
+            "refs": [
+              "E02-T03-R018"
+            ],
+            "text": "A controlled UMTS experiment provides a different comparison from residential observation: the same selected adult volunteers received blinded sham and active exposure on separate visits. Well-being analyses detected no statistically significant actual-exposure effect, and nominal cognitive signals did not survive multiplicity adjustment. The control-channel signal and short exposure window do not reproduce chronic residence, handset-at-ear exposure, Wi-Fi or modern 5G traffic."
+          },
+          {
+            "refs": [
+              "E02-T04-R122"
+            ],
+            "text": "QUALIFEX assessed ambient RF and sleep using modelled exposure, prospective questionnaires and measurements in a linked subset. Its overall pattern was inconsistent rather than every analysis being null. Environmental models, bedroom measurements and phone-use duration were different exposure surrogates, with limited variation and missing-data replacement. This observational follow-up cannot reproduce a blinded exposure trial or identify an individual tower-related sleep effect."
+          }
+        ]
+      }
+    },
     "cognition": {
       "modules": {
         "controlled-studies": [
@@ -31,6 +67,20 @@
               "hermes"
             ],
             "text": "The waking Wi-Fi abstract reports no measurable effect on EEG power or vigilance reaction time. The overnight memory full-text snapshot describes a sham-controlled crossover, exploratory analyses without multiple-testing correction and an order imbalance after exclusions. Neither acute experiment is a direct replication of the HERMES observational association. Their populations, outcomes and exposure estimates differ. The shared sleep-project sample should not be counted twice. Full scientific appraisal remains pending. No general claim that Wi-Fi improves or impairs cognition is established by the selected records. The record for each report identifies whether an abstract or fuller text was available. A longitudinal developmental question would require evidence matching that time window. These distinctions are part of the result’s interpretation."
+          },
+          {
+            "refs": [
+              "E02-T03-R018"
+            ],
+            "text": "The same UMTS crossover experiment measured reaction, working-memory and attention tasks. Two nominal findings arose in different tasks and participant groups; neither survived adjustment for the multiple cognitive endpoints. That pattern does not establish consistent impairment or clinical equivalence. Practice effects, outcome-specific completion and the acute far-field signal remain relevant when comparing it with longitudinal phone-use studies."
+          }
+        ],
+        "evidence": [
+          {
+            "refs": [
+              "E04-T08-R052"
+            ],
+            "text": "The ExPOSURE follow-up adds younger Australian children and a separate cordless-call comparison to the adolescent evidence. Increased mobile calling accompanied faster inhibition responses but less improvement on some other tasks; a cordless detection-accuracy contrast was also reported. This mixed pattern does not establish general cognitive damage. Development and repeated testing can improve performance within both groups, so within-child improvement is distinct from the estimated difference between changes in phone use."
           }
         ]
       },
@@ -53,6 +103,22 @@
     },
     "ehs-symptoms": {
       "modules": {
+        "controlled-studies": [
+          {
+            "refs": [
+              "E02-T03-R018"
+            ],
+            "text": "An acute randomized, double-blind crossover study tested a UMTS base-station-like signal in adults with and without self-reported RF sensitivity. The reported questionnaire analyses detected no statistically significant effect of actual exposure on well-being. Perceived exposure correlated with poorer well-being independently of the assigned exposure condition, but that observational relationship cannot identify an individual symptom cause or establish a psychological diagnosis. Short exposure and selected volunteers limit transfer."
+          }
+        ],
+        "evidence": [
+          {
+            "refs": [
+              "E02-T03-R147"
+            ],
+            "text": "Evidence about self-reported symptoms also includes an adolescent cohort with modelled fixed-transmitter exposure. Positive findings in some prospective comparisons did not recur consistently in repeated-wave or exposure-change analyses. The participants were a general adolescent cohort, rather than a group selected for electromagnetic hypersensitivity. That distinction, questionnaire outcomes and the study’s limited participation matter when interpreting its mixed findings."
+          }
+        ],
         "measurement": [
           {
             "refs": [
@@ -65,12 +131,60 @@
     },
     "headache": {
       "modules": {
+        "controlled-studies": [
+          {
+            "refs": [
+              "E02-T03-R147"
+            ],
+            "text": "The Swiss fixed-transmitter cohort measured headache impact by questionnaire alongside several other symptoms. Its headache comparisons did not show a consistent exposure-related pattern. This was an observational ambient-exposure study, so it complements a sham-controlled headache experiment without reproducing its exposure, participants or causal contrast. Its symptom tables and related HERMES publications should not be counted as independent experiments."
+          }
+        ],
         "evidence": [
           {
             "refs": [
               "E02-T03-R175"
             ],
             "text": "The recovered COSMOS symptom follow-up adds a prospective comparison using call-time information. Its headache association was small and weakened with adjustment; tinnitus and hearing-loss findings did not show an association with call time. Limited baseline call records, only two symptom assessments and self-report constrain interpretation. This is not a sham-controlled RF exposure trial."
+          }
+        ]
+      }
+    },
+    "male-fertility": {
+      "modules": {
+        "evidence": [
+          {
+            "refs": [
+              "E03-T05-R297"
+            ],
+            "text": "The recovered reproductive-review protocol separates experiments in non-human mammals from human sperm exposed in vitro. A change in an isolated sperm marker and a change in the ability of people to conceive are different endpoints. The protocol sets out planned eligibility, bias assessment and synthesis methods; it supplies no completed pooled fertility effect and should not be counted as another result-bearing study."
+          }
+        ]
+      }
+    },
+    "mobile-phones": {
+      "modules": {
+        "evidence": [
+          {
+            "refs": [
+              "E02-T04-R161"
+            ],
+            "text": "The recovered COSMOS sleep analysis followed adults using operator-recorded voice calling near baseline and later questionnaire sleep outcomes. Most outcomes did not show a consistent adverse pattern. An insomnia association in the highest ordinary call-time group weakened when the proxy accounted for network-related RF differences. This weakens a simple RF-specific explanation, but the observational contrasts do not establish a particular behavioral cause."
+          }
+        ],
+        "levels-and-limits": [
+          {
+            "refs": [
+              "E03-T06-R149"
+            ],
+            "text": "A pregnancy report derived a cutoff from listed phone-model SAR to distinguish small-for-gestational-age births in its own hospital dataset. That statistical classification is different from a regulatory limit, a measured fetal dose or a validated prediction rule. The report’s indirect exposure, selected population and unresolved covariate-table issue prevent using the cutoff as a phone-buying or pregnancy-protection threshold."
+          }
+        ],
+        "mechanisms": [
+          {
+            "refs": [
+              "E05-T10-R110"
+            ],
+            "text": "Phones and accessories can also contain permanent magnets. In a laboratory test, close positioning of an iPhone 12 activated the magnetic response of selected pacemaker and defibrillator demo generators. The response depended on position and stopped when the phone was removed. This is evidence about a particular static-magnet interaction with device operation. No implanted patients were studied, and the experiment does not estimate clinical event frequency or compatibility across later products."
           }
         ]
       }
@@ -99,6 +213,20 @@
               "5g-sleep"
             ],
             "text": "The Wi-Fi project used acute sham exposure comparisons in healthy young men. Its memory analysis excluded participants after protocol deviations, leaving unbalanced exposure order, and used exploratory analyses without a multiple-testing correction. The 5G experiment tests a different signal and genetic subgroup. More publications from the Wi-Fi participant family do not enlarge its independent sample."
+          }
+        ],
+        "evidence": [
+          {
+            "refs": [
+              "E02-T04-R161"
+            ],
+            "text": "The COSMOS sleep report adds a prospective adult comparison to the acute laboratory experiments. It recorded voice calls near baseline and later assessed several questionnaire sleep outcomes. The main sleep-disturbance measure showed no consistent adverse pattern, while an ordinary-call insomnia association weakened with network-based RF weighting. The insomnia indicator was not a complete clinical diagnosis, and selection, proxy exposure and unmeasured behavior remain limitations."
+          },
+          {
+            "refs": [
+              "E02-T04-R122"
+            ],
+            "text": "The QUALIFEX sleep follow-up combines prospective questionnaires with a smaller linked actigraphy and bedroom-measurement study. Several longitudinal contrasts were nominally significant, without a consistent adverse exposure-response pattern; the authors did not apply formal multiplicity correction. Nested sleep-duration and efficiency comparisons were not statistically significant. An omitted sleepiness-scale item, model or diary replacement and differing analysis denominators qualify interpretation. Actigraphy is not an EEG sleep-stage measurement."
           }
         ],
         "interventions": [

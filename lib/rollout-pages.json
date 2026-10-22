@@ -705,6 +705,12 @@
           {
             "refs": [],
             "text": "Pathology methods and survival handling also need to be comparable enough for the outcome to mean the same thing. A failure to reproduce a finding under a substantially different protocol can narrow the hypothesis without settling the original comparison. The useful discussion names those differences rather than treating every animal report as an equal vote."
+          },
+          {
+            "refs": [
+              "E01-T01-R257"
+            ],
+            "text": "Later animal evidence includes a coordinated Japanese programme with long-term tumour and parallel genotoxicity arms. Its reported survival-adjusted tumour comparisons were not statistically significant, while rare events, survival differences and exclusions limit what can be ruled out. A conflicting statement about an exposed cardiac schwannoma prevents a zero-case claim. This result belongs alongside the earlier bioassays with its own design and uncertainty; it supplies no direct human cancer-risk estimate."
           }
         ],
         "title": "Specify what would count as confirmation"
@@ -796,6 +802,12 @@
               "mobi-kids"
             ],
             "text": "It should not be relabeled as proof of general developmental injury, reduced intelligence or a clinical neurological disorder. Those would require evidence about those outcomes. Likewise, a brain-tumour result cannot be used as a direct answer about attention or memory simply because both involve the brain."
+          },
+          {
+            "refs": [
+              "E04-T08-R052"
+            ],
+            "text": "The Australian ExPOSURE follow-up illustrates why a child study needs its own exposure and outcome description. It compared parent-reported changes in mobile and cordless voice calls with repeated cognitive tests, finding isolated changes in mixed directions. It did not directly measure absorbed dose or diagnose cognitive impairment. Its earlier cross-sectional publication and this follow-up belong to one programme, while dropout, short follow-up and multiple comparisons remain important limits."
           }
         ],
         "title": "A cognitive test is another research question"
@@ -940,6 +952,18 @@
               "5g-sleep"
             ],
             "text": "A bedside trial intended to answer a clinical question would need outcomes such as sleep quality, awakenings or insomnia symptoms, with an appropriate comparator and duration. The study’s actual endpoint should remain visible even when a headline uses the broader term “sleep.”"
+          },
+          {
+            "refs": [
+              "E02-T04-R161"
+            ],
+            "text": "A prospective phone-use cohort cannot directly test sleeping beside an idle phone. The recovered COSMOS analysis used baseline voice-call/network records and later self-reported sleep; it did not measure nighttime proximity, screen light or changing use continuously. Its mixed results and weaker insomnia association after RF-network weighting do not establish that bedside RF exposure causes insomnia or that moving a phone away improves sleep."
+          },
+          {
+            "refs": [
+              "E02-T04-R122"
+            ],
+            "text": "QUALIFEX adds prospective sleep questionnaires and a linked actigraphy/bedroom-measurement subset. These distinguish reported sleep disturbance from movement-derived sleep duration and efficiency, while leaving RF exposure imperfectly measured. Nominal longitudinal findings and missing-data limitations remain visible. The report did not isolate Wi-Fi or test switching a router off, so it supplies no direct estimate of whether that change improves sleep."
           }
         ],
         "title": "An EEG change is not an insomnia diagnosis"
@@ -1226,6 +1250,12 @@
               "eltiti"
             ],
             "text": "The record also retains withdrawals and an unresolved discrepancy in control counts. Those details affect appraisal and should remain visible. A negative acute test cannot answer every chronic-exposure question, just as a symptom report near a tower cannot by itself identify RF as its cause."
+          },
+          {
+            "refs": [
+              "E02-T03-R018"
+            ],
+            "text": "A sham-controlled UMTS study tested an acute base-station-like signal in selected volunteers. Its questionnaire analyses found no statistically significant actual-exposure effect on well-being. This helps assess a short-term causal contrast under the tested conditions, with no equivalence threshold or conclusion about long-term residence at a particular address. It also provides no overnight sleep outcome."
           }
         ],
         "title": "What the blinded trial contributes"
@@ -1243,6 +1273,12 @@
               "ramazzini"
             ],
             "text": "Animal far-field experiments can contribute hazard context, but Ramazzini’s lifetime rat protocol is not an observed disease rate among tower neighbors. Its tumour finding needs its species and dosimetry attached. Transferring it directly to a residential distance would skip the steps needed for a human risk estimate."
+          },
+          {
+            "refs": [
+              "E02-T03-R147"
+            ],
+            "text": "One direct residential-exposure comparison followed Swiss adolescents using geospatial estimates for base-station and broadcast signals at home and school. The symptom results were mixed across analysis approaches and did not establish a consistent association. A modelled ambient field, a reported distance from a tower and a person’s absorbed dose are different quantities; none supplies an individual risk estimate from an address alone."
           }
         ],
         "title": "Use the study design that matches the question"
@@ -1843,6 +1879,12 @@
               "de-iuliis-correction"
             ],
             "text": "The publisher’s correction changes a figure and clarifies biological replication. It belongs with the original whenever that experiment is discussed. A corrected cell result still needs a separate translation argument before it can be applied to ordinary phone carrying."
+          },
+          {
+            "refs": [
+              "E03-T05-R297"
+            ],
+            "text": "A systematic-review protocol can help clarify which fertility question a body of evidence is designed to answer. The recovered RF protocol separates human sperm exposed in vitro from mammalian reproductive experiments. It does not test carrying a phone in a pocket, report a completed pooled effect or establish how those laboratory markers translate into a couple’s chance of conception."
           }
         ],
         "title": "Why purified sperm cannot answer pocket risk"
@@ -2533,6 +2575,12 @@
               "foph-wlan"
             ],
             "text": "FOPH’s WLAN guidance specifically cautions that measuring wireless emissions requires more complex techniques than ordinary commercially available handheld equipment provides. That source-specific limitation is important when an online demonstration treats a brief display reading as a complete WLAN assessment."
+          },
+          {
+            "refs": [
+              "E06-T11-R208"
+            ],
+            "text": "An electric-bus survey used separate instruments for magnetic flux density and selected RF bands. Its onboard RF includes cellular contributions, while measurements around charging equipment describe a different source and geometry. Broad instrument bandwidth does not by itself document a complete frequency-weighted reference-level assessment. Printed averaging and labelling issues keep exact comparisons open until the method and underlying data can be reconciled."
           }
         ],
         "title": "A meter must fit the field and question"
@@ -2573,6 +2621,30 @@
               "cosmos"
             ],
             "text": "HERMES used modeled brain dose and COSMOS used phone-use information. These examples show why exposure assessment is part of causal interpretation, not a box ticked once a number exists. Ask how well the measure captures the biologically relevant source, tissue and period."
+          },
+          {
+            "refs": [
+              "E02-T03-R147"
+            ],
+            "text": "The adolescent fixed-transmitter study illustrates what a propagation model contributes: it combines source, terrain, building and address information instead of asking participants to estimate their own field exposure. It still misses time elsewhere and does not directly measure absorbed dose. Its symptom findings cannot validate the model simply because one analysis is positive or negative. Exposure validation and health-outcome analysis remain separate questions."
+          },
+          {
+            "refs": [
+              "E02-T04-R161"
+            ],
+            "text": "COSMOS used operator call records and network information to improve its RF exposure proxy. Weighting for different network output changed the insomnia association, illustrating why equal minutes of calling need not mean equal RF exposure. A fixed network weight remains a modelling assumption, and the record does not directly measure each participant’s absorbed dose, nighttime position or changing behavior between surveys."
+          },
+          {
+            "refs": [
+              "E03-T06-R149"
+            ],
+            "text": "The pregnancy study using listed phone-model SAR illustrates a measurement mismatch. A rating assigned by device model is not a measurement of absorbed dose in the pregnant user or fetus, and recalled total phone time combines activities with different positions and radio traffic. The paper does not fully specify the historical lookup column and model mapping. Its derived classification cutoff cannot be substituted for an exposure limit or individualized dose assessment."
+          },
+          {
+            "refs": [
+              "E02-T04-R122"
+            ],
+            "text": "QUALIFEX used phone-call duration, environmental exposure models and bedroom measurements to address different parts of an RF–sleep question. Technical or missing readings could be replaced by predictions, and some missing nights could use diaries. Those substitutions retain observations under assumptions rather than creating complete measured exposure and sleep. Movement-based sleep estimates also do not measure EEG sleep architecture."
           }
         ],
         "title": "Match the measurement to the evidence"
@@ -2805,6 +2877,24 @@
               "million-women"
             ],
             "text": "Changing use, confounding, loss to follow-up, latency and rare outcomes remain relevant. A large enrolled population can still produce limited information about a very rare subtype or an uncommon exposure pattern. Read the events and exposure contrast rather than judging the study only by its headline sample size."
+          },
+          {
+            "refs": [
+              "E02-T04-R161"
+            ],
+            "text": "The COSMOS sleep comparison combines prospectively recorded calls with sleep questionnaires at separated survey waves. That helps establish temporal order, while leaving exposure changes, unmeasured stress and sleep problems arising and resolving between surveys incompletely observed. It also illustrates why an observed association, an RF-specific mechanism and a clinically diagnosed disorder are separate claims requiring different evidence."
+          },
+          {
+            "refs": [
+              "E04-T08-R052"
+            ],
+            "text": "ExPOSURE compares changes in phone calling with changes in child cognitive performance. Children generally improved over time, which is different from a benefit or harm attributable to calling. Some task scales were transformed before regression; those coefficients cannot be read directly as ordinary milliseconds or percentage-point losses. The earlier cross-sectional report and longitudinal follow-up are related evidence, and a printed descriptive-table inconsistency keeps the affected numerical interpretation open."
+          },
+          {
+            "refs": [
+              "E02-T04-R122"
+            ],
+            "text": "The QUALIFEX follow-up and its nested sleep study illustrate related evidence within one programme. The follow-up extends an earlier baseline report, and the nested participants came from that same cohort. Actigraphy and exposure measurements add information without making the subset an independent replication. Nominal longitudinal findings were evaluated for consistency without formal multiplicity correction; the public summary retains that fact alongside the inconsistent overall pattern."
           }
         ],
         "title": "Follow exposure information toward later outcomes"
@@ -2844,6 +2934,12 @@
               "5g-sleep"
             ],
             "text": "Their results are limited by sample, tested signal, duration and endpoint. A trial of short-term discomfort cannot settle a decades-long tumour question. The sleep experiment is controlled too, but its EEG endpoint is distinct from a clinical sleep disorder. Matching the question remains essential even with randomization."
+          },
+          {
+            "refs": [
+              "E02-T03-R018"
+            ],
+            "text": "In the UMTS crossover experiment, actual exposure, perceived exposure and subjective well-being were separate measurements. The randomized exposure contrast and the observational perception–well-being correlation answer different questions. Repeated sessions remain paired observations from the same people, while some tasks have different completion denominators. An absence of statistical significance supplies neither a clinical equivalence bound nor an explanation for a particular person’s symptoms."
           }
         ],
         "title": "Test a defined short-term signal comparison"
@@ -2867,6 +2963,13 @@
               "ntp-rats"
             ],
             "text": "Translation to people requires species or tissue relevance, dosimetry, temperature and schedule to be assessed. A controlled result does not erase the model mismatch. An isolated-cell response is not a clinical infertility outcome, and an animal tumour count does not supply an individual phone-use risk."
+          },
+          {
+            "refs": [
+              "E06-T12-R016",
+              "E05-T10-R110"
+            ],
+            "text": "Bench interference experiments make the distinction between a physical mechanism and a clinical benefit concrete. The transient-field pacemaker report compared lead arrangements in swine tissue and saline. It showed reduced susceptibility in one tested arrangement, but retained inhibition under some conditions and did not provide a controlled patient-outcome comparison. Repeated pulses are not independent patients, and an uncontrolled clinical anecdote cannot establish long-term mechanical safety or benefit. The phone-magnet experiment likewise studied generator responses, not patient event rates."
           }
         ],
         "title": "Control exposure while changing the biological model"
@@ -2885,6 +2988,12 @@
           {
             "refs": [],
             "text": "A synthesis should reconcile report families, align exposures and outcomes, explain why studies differ and preserve missing information. Reviews, engineering reports and official guidance have useful roles too, but they should be identified as such rather than counted as new primary clinical experiments."
+          },
+          {
+            "refs": [
+              "E05-T09-R560"
+            ],
+            "text": "The electric-vehicle cardiovascular review illustrates why an inclusion table needs an auditable selection history. Its rendered flowchart does not reconcile, and general field experiments appear alongside direct vehicle studies despite a narrower stated eligibility rule. Those problems require clarification. They do not justify inventing corrected counts or pooling heterogeneous measurements, implant tests and proposed mechanisms into one patient-risk estimate."
           }
         ],
         "title": "Combine compatible evidence without counting it twice"
@@ -2993,6 +3102,12 @@
           {
             "refs": [],
             "text": "Replication should mean more than another paper using the word RF. The relevant question is whether an independent study tests a sufficiently comparable exposure and biological endpoint, with differences explained. A shared tumour signal across different protocols can be informative while still requiring careful assessment of those differences."
+          },
+          {
+            "refs": [
+              "E01-T01-R257"
+            ],
+            "text": "The Japanese lifetime rat report illustrates why statistical nonsignificance and equivalence differ. Rare tumours at one exposure level leave uncertainty, and differential survival changes opportunities to observe late pathology. Equipment-related exclusions and the animal/litter/chamber hierarchy also matter. An internal tumour-table contradiction keeps exact numerical comparisons open; choosing the most reassuring or most alarming sentence would not resolve it."
           }
         ],
         "title": "Appraise the animal result before extrapolating it"
@@ -3280,6 +3395,13 @@
               "cosmos"
             ],
             "text": "The same issue arises with phone cohorts, which use reported or calibrated use measures. An RF reading beside a device is not automatically the exposure metric used in a cancer analysis. Match source, quantity and time window before drawing an evidence-based comparison."
+          },
+          {
+            "refs": [
+              "E05-T10-R110",
+              "E06-T12-R016"
+            ],
+            "text": "An implanted electronic device introduces a specific compatibility question. Laboratory studies can test whether a defined source changes generator operation; that result does not describe a household’s average exposure or the frequency of clinical events. The iPhone magnet experiment used demo generators, while the transient-field experiment used an artificial chest model. Their different sources, geometries and endpoints need to remain identifiable when interpreting household EMF claims."
           }
         ],
         "title": "A room reading does not reproduce a cohort exposure history"
@@ -3542,6 +3664,12 @@
               "headache"
             ],
             "text": "Eltiti’s blinded results did not show the tested base-station-like signals increasing symptom number or severity. The selected headache experiment found no significant difference in pain and discomfort between real and sham exposure. Their samples, signals and acute durations remain important limits."
+          },
+          {
+            "refs": [
+              "E02-T03-R018"
+            ],
+            "text": "A blinded UMTS experiment found no statistically significant actual-exposure effect on its well-being questionnaires, while perceived exposure was associated with poorer well-being. The latter association did not depend on actual exposure, but it cannot diagnose an individual or prove what caused their symptoms. Careful interpretation keeps a person’s symptoms, their exposure attribution and the randomized laboratory result distinct."
           }
         ],
         "title": "What a blinded test is designed to separate"
@@ -3679,6 +3807,12 @@
               "hermes"
             ],
             "text": "The selected INTERPHONE and HERMES records show why both matter. Their subgroup findings need the full comparison and uncertainty, while their exposure and bias limitations need scientific interpretation. Displaying the interesting estimate accurately is necessary, but does not complete the causal assessment."
+          },
+          {
+            "refs": [
+              "E05-T09-R560"
+            ],
+            "text": "Source fidelity can identify an unresolved reporting problem without assigning a certainty grade. In the electric-vehicle cardiovascular review, the selection diagram fails to reconcile and the included studies have mixed applicability. We retain those observable limitations and trace substantive claims back to original reports. A checked description of that problem is not full scientific approval of either the review or its cited studies."
           }
         ],
         "title": "Check what was reported before judging how persuasive it is"
@@ -3698,6 +3832,12 @@
               "de-iuliis-correction"
             ],
             "text": "The 5G sleep finding concerns a physiological feature; the sperm-cell finding concerns an isolated preparation. Neither receives a clinical disease grade merely because a change was reported. An editorial assessment must explain applicability and missing inputs rather than invent a certainty category when appraisal is incomplete."
+          },
+          {
+            "refs": [
+              "E03-T05-R297"
+            ],
+            "text": "A published protocol records intended methods, not the outcome of applying them. The recovered RF reproductive-review protocol plans risk-of-bias assessment and certainty grading across animal and human-sperm experiments. Its existence does not confer a certainty grade on this website, and its results must be reconciled with later completed reviews, amendments and study-family overlap."
           }
         ],
         "title": "Keep effect size separate from certainty"
@@ -3879,6 +4019,12 @@
               "cosmos"
             ],
             "text": "The final translation to humans is a separate step involving tissue relevance, species and actual exposure. Neither this methods guide nor the experiment itself supplies a personal cancer-risk calculation. Use the animal outcome page for the bounded findings and the translation guide for the additional reasoning needed to connect them with human studies."
+          },
+          {
+            "refs": [
+              "E01-T01-R257"
+            ],
+            "text": "The Japanese report adds new animals to a programme coordinated with Korean investigators, rather than reanalysing the U.S. NTP animals. Shared protocol development and review infrastructure matter when counting independence. Its single exposure level and implementation differ from NTP, and the authors distinguish it from quantitative direct replication. The unresolved table/Discussion tumour discrepancy requires source reconciliation before exact tumour comparisons."
           }
         ],
         "title": "Distinguish convergence from a duplicate experiment"

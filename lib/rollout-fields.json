@@ -134,6 +134,12 @@
           {
             "refs": [],
             "text": "The outcome pages link back to these source-specific comparisons. No pooled RF effect estimate or certainty grade is assigned in this reading edition. Source recovery has expanded what can be read; it has not completed a systematic literature review."
+          },
+          {
+            "refs": [
+              "E06-T11-R208"
+            ],
+            "text": "A radiofrequency field recorded inside a vehicle can include signals from cellular networks and passenger phones. The electric-bus survey separated selected RF bands and found cellular contributions; it did not isolate the vehicle battery or motor as the cause of every onboard RF reading. These environmental measurements are distinct from absorbed dose, clinical outcomes and a vehicle-wide safety conclusion."
           }
         ],
         "title": "Follow the source and the endpoint"
@@ -448,6 +454,12 @@
           {
             "refs": [],
             "text": "The source pages therefore show what the engineering work characterizes and what the human observational study leaves unresolved. Scientific appraisal and human review remain pending, and no pooled intermediate-frequency health verdict is assigned."
+          },
+          {
+            "refs": [
+              "E06-T12-R016"
+            ],
+            "text": "Brief transient fields require a different description from a continuous single-frequency exposure. A pacemaker bench study used an impulse source near an artificial chest model and found that lead geometry changed induced voltage and pacing inhibition. The tested multiple-twist arrangement reduced interference but did not eliminate it under every condition. The source’s statistical annotations also need clarification. This model cannot establish ordinary household risk or a clinically proven implantation technique."
           }
         ],
         "title": "Engineering and health evidence remain separate"
@@ -603,6 +615,12 @@
           {
             "refs": [],
             "text": "The MRI and occupational pages provide the more specific reading paths. The absence of an assessed clinical comparison in a table remains a coverage limit, rather than evidence that an effect exists or does not exist. Scientific appraisal and human review of this edition are pending."
+          },
+          {
+            "refs": [
+              "E05-T10-R110"
+            ],
+            "text": "A bench study of iPhone 12 and MagSafe configurations linked a mapped static magnetic field to changes in the operation of tested cardiac implant generators. Relative position and device design mattered, and the observed magnet-mode changes were reversible on removing the phone. Manufacturer-supplied demo devices and programming assistance were part of the experiment. The findings identify a physical device interaction under laboratory conditions, with patient anatomy, newer products and real-world event frequency still unresolved."
           }
         ],
         "title": "What the selected sources can establish"

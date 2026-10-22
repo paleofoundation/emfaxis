@@ -364,5 +364,148 @@
     "scope": "Complex workplace exposure and worker-specific assessment context.",
     "source": "occupational-elf",
     "stream": "Context"
+  },
+  {
+    "field": "radiofrequency",
+    "finding": "No consistent symptom pattern across cross-sectional, cohort and exposure-change analyses; isolated positive and inverse associations occurred.",
+    "id": "v4-base-adolescent-symptoms",
+    "limit": "General cohort, not selected EHS cases; modelled dose proxy, limited participation, multiple tests and related HERMES reports constrain interpretation.",
+    "outcome": "ehs-symptoms",
+    "papers": [
+      "E02-T03-R147"
+    ],
+    "scope": "Swiss adolescents; modelled fixed-transmitter ambient exposure and one-year questionnaire symptoms.",
+    "source": "base-stations",
+    "stream": "Human"
+  },
+  {
+    "field": "radiofrequency",
+    "finding": "Headache comparisons did not show a consistent exposure-related pattern.",
+    "id": "v4-base-adolescent-headache",
+    "limit": "Observational ambient-exposure contrast; cannot reproduce an acute sham experiment or establish individual risk. Related HERMES family.",
+    "outcome": "headache",
+    "papers": [
+      "E02-T03-R147"
+    ],
+    "scope": "Swiss adolescents; modelled base-station/broadcast exposure and questionnaire headache impact.",
+    "source": "base-stations",
+    "stream": "Human"
+  },
+  {
+    "field": "radiofrequency",
+    "finding": "Most outcomes showed no consistent adverse pattern; highest ordinary-call insomnia association weakened with network-based RF weighting.",
+    "id": "v4-phone-sleep-cosmos",
+    "limit": "Observational proxy and questionnaire indicator; unmeasured behavior/stress, selection and multiple tests. Related COSMOS programme; exact report overlap unresolved.",
+    "outcome": "sleep",
+    "papers": [
+      "E02-T04-R161"
+    ],
+    "scope": "Swedish/Finnish adults; baseline operator voice-call/network metrics and later self-reported sleep.",
+    "source": "mobile-phones",
+    "stream": "Human"
+  },
+  {
+    "field": "radiofrequency",
+    "finding": "Isolated task differences occurred in mixed directions; evidence of a consistent association was limited.",
+    "id": "v4-cordless-child-cognition",
+    "limit": "Parent-reported call proxy, low use, attrition, short follow-up and multiple comparisons; transformed scales and a printed table inconsistency. Related earlier ExPOSURE report.",
+    "outcome": "cognition",
+    "papers": [
+      "E04-T08-R052"
+    ],
+    "scope": "Australian primary-school ExPOSURE follow-up; reported changes in voice calls and repeated cognitive tests.",
+    "source": "cordless-phones",
+    "stream": "Human"
+  },
+  {
+    "field": "radiofrequency",
+    "finding": "Isolated task differences occurred in mixed directions; evidence of a consistent association was limited.",
+    "id": "v4-mobile-child-cognition",
+    "limit": "Parent-reported call proxy, low use, attrition, short follow-up and multiple comparisons; transformed scales and a printed table inconsistency. Related earlier ExPOSURE report.",
+    "outcome": "cognition",
+    "papers": [
+      "E04-T08-R052"
+    ],
+    "scope": "Australian primary-school ExPOSURE follow-up; reported changes in voice calls and repeated cognitive tests.",
+    "source": "mobile-phones",
+    "stream": "Human"
+  },
+  {
+    "field": "radiofrequency",
+    "finding": "Authors reported higher listed model SAR in the small-for-gestational-age group; daily use-time was similar.",
+    "id": "v4-phone-pregnancy-SAR",
+    "limit": "No measured maternal/fetal dose or reported adjusted causal model. Education-table/test inconsistency unresolved; same-data cutoff is not a safety threshold.",
+    "outcome": "female-fertility-pregnancy",
+    "papers": [
+      "E03-T06-R149"
+    ],
+    "scope": "Selected Konya hospital deliveries; listed phone-model SAR and recalled daily phone use.",
+    "source": "mobile-phones",
+    "stream": "Human"
+  },
+  {
+    "field": "radiofrequency",
+    "finding": "No statistically significant actual-exposure effect on well-being in the reported questionnaire analyses.",
+    "id": "v4-base-umts-symptoms",
+    "limit": "Short controlled exposure; no equivalence bound, individual symptom cause or chronic residential safety inference. Perceived exposure is a separate observational contrast.",
+    "outcome": "ehs-symptoms",
+    "papers": [
+      "E02-T03-R018"
+    ],
+    "scope": "Acute blinded UMTS crossover in selected adults with and without self-reported RF sensitivity.",
+    "source": "base-stations",
+    "stream": "Human"
+  },
+  {
+    "field": "radiofrequency",
+    "finding": "Two nominal task/group findings did not survive the reported adjustment for multiple cognitive endpoints.",
+    "id": "v4-base-umts-cognition",
+    "limit": "Selected volunteers, practice and completion differences; no consistent impairment, clinical equivalence or transfer to chronic/current-generation exposure.",
+    "outcome": "cognition",
+    "papers": [
+      "E02-T03-R018"
+    ],
+    "scope": "Acute UMTS crossover; reaction, working-memory and attention tasks.",
+    "source": "base-stations",
+    "stream": "Human"
+  },
+  {
+    "field": "radiofrequency",
+    "finding": "No statistically significant tumour increase under the reported survival-adjusted analysis; exact counts and a zero-exposed-tumour claim remain held.",
+    "id": "v4-rf-japanese-animal-cancer",
+    "limit": "Rare events, different survival/growth and apparatus exclusions; table/Results contradict Discussion about an exposed cardiac schwannoma. Coordinated Japan–Korea programme; no direct human risk estimate.",
+    "outcome": "animal-cancer",
+    "papers": [
+      "E01-T01-R257"
+    ],
+    "scope": "Japanese male rats; prenatal-to-lifetime whole-body handset-type RF at one level, with sham and cage controls.",
+    "source": "mobile-phones",
+    "stream": "Animal"
+  },
+  {
+    "field": "radiofrequency",
+    "finding": "Cellular bands contribute to onboard RF; a reading inside a bus is not automatically attributable to its motor or battery.",
+    "id": "v4-bus-rf-characterisation",
+    "limit": "Local vehicles/routes and dependent readings. Averaging, time labels and reference comparisons require clarification; exact numbers and compliance claims held. No health or implant outcomes.",
+    "outcome": "exposure-characterisation",
+    "papers": [
+      "E06-T11-R208"
+    ],
+    "scope": "Band-selective RF measurements at sampled positions on operating electric buses in Samsun, Turkey.",
+    "source": "electric-vehicles",
+    "stream": "Engineering"
+  },
+  {
+    "field": "radiofrequency",
+    "finding": "Some longitudinal contrasts were nominally significant without a consistent adverse exposure-response pattern across outcomes and exposure measures.",
+    "id": "v4-cordless-qualifex-sleep",
+    "limit": "No formal multiplicity correction; proxy exposure, selection, missing sleepiness item and replacement assumptions. Linked nested actigraphy is not independent replication or EEG architecture. No cordless-specific causal or Wi-Fi switch-off conclusion.",
+    "outcome": "sleep",
+    "papers": [
+      "E02-T04-R122"
+    ],
+    "scope": "QUALIFEX adult sleep follow-up; cordless/mobile call durations and separate ambient-exposure surrogates.",
+    "source": "cordless-phones",
+    "stream": "Human"
   }
 ]

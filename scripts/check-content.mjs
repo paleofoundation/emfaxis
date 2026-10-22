@@ -46,12 +46,22 @@ console.log(JSON.stringify({status:'PASS',scope:'Selected public-source fanout; 
 const planned=JSON.parse(fs.readFileSync(new URL('../lib/rollout-pages.json',import.meta.url),'utf8'));
 assert.equal(topicRegistry.length,65);assert.equal(planned.length,27);assert.equal(sources.length,17);assert.equal(outcomes.length,17);
 for(const p of planned){assert(p.overview.length>=2&&p.sections.length>=4&&p.faqs.length>=3);const words=[...p.overview,...p.sections.flatMap(s=>s.paragraphs)].map(p=>p.text).join(' ').split(/\s+/).length;assert(words>=500,'thin planned article '+p.id);for(const para of [...p.overview,...p.sections.flatMap(s=>s.paragraphs)])for(const ref of para.refs||[])assert(sourceIds.has(ref),'orphan planned reference '+ref)}
-assert.equal(recovered.length,44);assert.equal(recovered.flatMap(s=>s.claims).length,100);
+assert(recovered.length>=44,'lost baseline source records');assert(recovered.flatMap(s=>s.claims).length>=100,'lost baseline source claims');
+const baseline=JSON.parse(fs.readFileSync(new URL('../research/contracts/recovered-baseline.json',import.meta.url),'utf8'));
+for(const id of baseline.source_ids)assert(recovered.some(s=>s.id===id),'lost baseline canonical source '+id);
+for(const id of baseline.claim_ids)assert(recovered.some(s=>s.claims.some(c=>c.id===id)),'lost baseline claim identity '+id);
 for(const s of recovered){assert(s.url.startsWith('https://'));assert(s.fingerprint.length===64);for(const c of s.claims)assert.equal(c.scientific_review,'pending')}
 for(const f of ['recovered-sources.json','rollout-pages.json','rollout-topics.json','topic-overrides.json']){const raw=fs.readFileSync(new URL('../lib/'+f,import.meta.url),'utf8');assert(!/private_source_file|private_pdf_path|supporting_passage_excerpt|\/Users\/kmfp|human_approved/.test(raw),'private or approval material in '+f)}
-console.log(JSON.stringify({status:'PASS',plannedPages:65,populatedSources:17,populatedOutcomes:17,plannedQuestions:16,plannedGuidesAndMethods:11,fields:4,recoveredSources:44,sourceCheckedClaims:100,scientificReview:'pending'}));
+console.log(JSON.stringify({status:'PASS',plannedPages:65,populatedSources:17,populatedOutcomes:17,plannedQuestions:16,plannedGuidesAndMethods:11,fields:4,recoveredSources:recovered.length,sourceCheckedClaims:recovered.flatMap(s=>s.claims).length,scientificReview:'pending'}));
 
 const appraisals=JSON.parse(fs.readFileSync(new URL('../lib/appraisal-previews.json',import.meta.url),'utf8'));
 assert.equal(new Set(appraisals.map(a=>a.paper_id)).size,appraisals.length);
 for(const a of appraisals){assert(sourceIds.has(a.paper_id),'unknown appraisal record');assert.equal(a.human_review,'pending');assert.equal(a.formal_grade,null);assert(a.preview.split(/\s+/).length>=50&&a.preview.split(/\s+/).length<=90);assert.equal(Object.values(a.question_coverage).reduce((n,x)=>n+x,0),15);assert(a.review_fingerprint.length===64&&a.source_hash.length===64);assert(!('answers' in a)&&!('narrative' in a)&&!('integrity' in a),'private appraisal body leaked')}
 console.log(JSON.stringify({status:'PASS',appraisalPreviews:appraisals.length,fullPrivateAppraisalsInPublicPayload:0,humanScientificApprovals:0}));
+const archiveStatus=JSON.parse(fs.readFileSync(new URL('../lib/archive-status.json',import.meta.url),'utf8'));
+assert.equal(archiveStatus.checked_previews,appraisals.length);assert.equal(archiveStatus.recovered_source_records,recovered.length);assert.equal(archiveStatus.checked_qualitative_claims,recovered.flatMap(s=>s.claims).length);
+assert.equal(archiveStatus.initial_screening.expected,810);assert(archiveStatus.initial_screening.screened<=810);
+assert.equal(Object.values(archiveStatus.initial_screening.decisions).reduce((n,x)=>n+x,0),archiveStatus.initial_screening.screened);
+assert.equal(archiveStatus.human_approved,0);assert.equal(archiveStatus.formal_grades,0);assert.equal(archiveStatus.new_numeric_claims_released,0);
+const editorialUpdates=JSON.parse(fs.readFileSync(new URL('../lib/editorial-updates.json',import.meta.url),'utf8'));
+for(const update of editorialUpdates){assert(topicRegistry.some(p=>p.path===update.path));for(const id of update.source_ids)assert(sourceIds.has(id));}

@@ -3,3 +3,4 @@ export type AppraisalPreviewRecord={paper_id:string;source_id:string;basis:'full
 export const appraisalPreviews=data as AppraisalPreviewRecord[];
 export const appraisalFor=(id:string)=>appraisalPreviews.find(r=>r.paper_id===id);
 export const appraisalBasis=(basis:string)=>basis==='abstract_only'?'Abstract only':basis==='publisher_fulltext_web_snapshot'?'Publisher full-text web snapshot':basis==='context_full_text'?'Context full text':'Full text';
+export const appraisalReadingBasis=(paperId:string,fallback:string)=>{const draft=appraisalFor(paperId);return draft?appraisalBasis(draft.basis):fallback;};

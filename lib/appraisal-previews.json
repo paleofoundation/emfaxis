@@ -111,6 +111,40 @@
     "formal_grade": null,
     "full_review_release": "private_editorial_draft",
     "human_review": "pending",
+    "paper_id": "E01-T01-R257",
+    "preview": "This Japanese arm of a coordinated animal programme examined long-term handset-type RF exposure in male rats. It reported no statistically significant survival-adjusted tumour increase and no statistically significant increase in the selected genotoxicity assays. Single-dose design, rare tumours, survival differences and equipment-related exclusions limit interpretation. A contradiction between the tumour table and Discussion prevents a zero-exposed-tumour claim. This is animal evidence, with no direct human cancer-risk estimate. Source reconciliation and human scientific review remain pending.",
+    "preview_source_check": "2026-10-22",
+    "question_coverage": {
+      "answered": 7,
+      "partial": 8
+    },
+    "review_fingerprint": "f19cf39aeb6f33c9288ebfde1048b82f72cafc11ab696bf12d084bc944d62c8b",
+    "scientific_status": "AI_appraisal_draft",
+    "source_hash": "b52a48f3bc20caa3dddede64cb73d1dc7e81887cfc87db3ef2ab8a090353988d",
+    "source_id": "E01-T01-R257"
+  },
+  {
+    "basis": "full_text",
+    "formal_grade": null,
+    "full_review_release": "private_editorial_draft",
+    "human_review": "pending",
+    "paper_id": "E02-T03-R018",
+    "preview": "This randomized, double-blind crossover experiment tested acute UMTS base-station-like exposure in adults with and without self-reported RF sensitivity. It detected no statistically significant exposure effect on well-being. Two nominal cognitive findings did not survive adjustment for multiple outcomes. The study helps separate actual exposure, perceived exposure and symptoms, but does not establish long-term safety, sleep effects or individual symptom causes. Human scientific review remains pending.",
+    "preview_source_check": "2026-10-22",
+    "question_coverage": {
+      "answered": 4,
+      "partial": 11
+    },
+    "review_fingerprint": "50f8cbdef6b25f60ae65bc23e96c36ea1248b8f3d195b09374352b90c8efed5e",
+    "scientific_status": "AI_appraisal_draft",
+    "source_hash": "f7cd40a0ec2904b0a3790bc0c2325c9817f6d797f86055428d1e1700d319802a",
+    "source_id": "E02-T03-R018"
+  },
+  {
+    "basis": "full_text",
+    "formal_grade": null,
+    "full_review_release": "private_editorial_draft",
+    "human_review": "pending",
     "paper_id": "E02-T03-R054",
     "preview": "Tinnitus was more commonly reported among self-identified electromagnetically sensitive respondents in this selected German sample. The study did not measure environmental RF dose and found no association with its reported phone-use variable. Cross-sectional timing, response selection, sleep and psychological differences limit causal interpretation. Prior magnetic-pulse discrimination results do not prove a shared tinnitus mechanism. This AI appraisal supports a symptom-coexistence account, with human scientific review pending.",
     "preview_source_check": "2026-10-22T15:31:00.088707+00:00",
@@ -123,6 +157,24 @@
     "scientific_status": "AI_appraisal_draft",
     "source_hash": "1a2d168baebf2caed0528566163ff8d152ae18cbb5e988ff2c078efe2489c4bd",
     "source_id": "E02-T03-R054"
+  },
+  {
+    "basis": "full_text",
+    "formal_grade": null,
+    "full_review_release": "private_editorial_draft",
+    "human_review": "pending",
+    "paper_id": "E02-T03-R147",
+    "preview": "This Swiss adolescent cohort modelled RF exposure from fixed transmitters at home and school. Results were inconsistent across analyses: isolated positive symptom associations occurred alongside null and inverse findings, including in the recovered change-analysis supplement. Limited participation, modelled exposure, self-reported outcomes and multiple comparisons constrain causal interpretation. It belongs to the HERMES study family. Exact participant overlap, quantitative appraisal and human scientific review remain pending.",
+    "preview_source_check": "2026-10-22",
+    "question_coverage": {
+      "answered": 8,
+      "not_applicable": 1,
+      "partial": 6
+    },
+    "review_fingerprint": "0ea67e88f81f938d96aafc8e811f02ab235159ceef7917ab52009e09d81c3f8c",
+    "scientific_status": "AI_appraisal_draft",
+    "source_hash": "78f0a88cfe9a4f51c846a7c8145b58bc3e8b3735566303a4e165f8977f41a4bf",
+    "source_id": "E02-T03-R147"
   },
   {
     "basis": "full_text",
@@ -158,6 +210,40 @@
     "scientific_status": "AI_appraisal_draft",
     "source_hash": "87887a64be66f5daae2c3af5cdc8ac9fd7c10502f898f0f84a32dddf23936fd8",
     "source_id": "E02-T03-R264"
+  },
+  {
+    "basis": "full_text",
+    "formal_grade": null,
+    "full_review_release": "private_editorial_draft",
+    "human_review": "pending",
+    "paper_id": "E02-T04-R122",
+    "preview": "This QUALIFEX report followed everyday RF exposure and self-reported sleep, with a smaller linked actigraphy and bedroom-measurement study. It found no consistent adverse exposure-response pattern, although some longitudinal contrasts were nominally significant. Exposure proxies, limited variation, missing-data replacement and an omitted sleepiness-scale item qualify interpretation. The nested sample is not independent replication, and the study does not test switching Wi-Fi off. Human scientific review remains pending.",
+    "preview_source_check": "2026-10-22",
+    "question_coverage": {
+      "answered": 6,
+      "partial": 9
+    },
+    "review_fingerprint": "a9f884dfe07a577068751de50ff155dea56809866b31a6aaf47f0cd190c021af",
+    "scientific_status": "AI_appraisal_draft",
+    "source_hash": "df6ca95f473883b384748c8093599ae0d76ed19b10f25aa03d2398987a59445e",
+    "source_id": "E02-T04-R122"
+  },
+  {
+    "basis": "full_text",
+    "formal_grade": null,
+    "full_review_release": "private_editorial_draft",
+    "human_review": "pending",
+    "paper_id": "E02-T04-R161",
+    "preview": "This prospective COSMOS analysis used operator-recorded mobile calling and later self-reported sleep in Swedish and Finnish adults. Most sleep outcomes showed no consistent adverse pattern. An insomnia association in the highest ordinary call-time group weakened with network-based RF weighting. Selection, proxy exposure, unmeasured behavior and questionnaire definitions limit causal interpretation. The native supplement was read; original-table verification, study-family reconciliation and human scientific review remain pending.",
+    "preview_source_check": "2026-10-22",
+    "question_coverage": {
+      "answered": 3,
+      "partial": 12
+    },
+    "review_fingerprint": "dc550412892cbeb4608d124f9624f38ed7fc6f505f72fbcca16a209550cd9a2d",
+    "scientific_status": "AI_appraisal_draft",
+    "source_hash": "43c1ed7eb326a91cb5922f95a8fd66e04aabe33e68b08e7fd63df1b165804ba0",
+    "source_id": "E02-T04-R161"
   },
   {
     "basis": "full_text",
@@ -254,6 +340,23 @@
     "formal_grade": null,
     "full_review_release": "private_editorial_draft",
     "human_review": "pending",
+    "paper_id": "E03-T06-R149",
+    "preview": "This retrospective hospital study reported higher listed phone-model SAR among mothers of small-for-gestational-age babies, while reported daily use-time was similar between groups. Listed SAR did not measure maternal or fetal absorbed dose. Selection, recall, lack of a reported adjusted causal model and a printed covariate-table inconsistency limit interpretation. Its data-derived cutoff is not a validated safety threshold. Exact numbers and human scientific review remain pending.",
+    "preview_source_check": "2026-10-22",
+    "question_coverage": {
+      "answered": 4,
+      "partial": 11
+    },
+    "review_fingerprint": "c1e1a16614f21923e5f8985ee6b49f03480e155c76daf7691416e86ee871ebf0",
+    "scientific_status": "AI_appraisal_draft",
+    "source_hash": "1efa019214ca44b375dfca966e52dfe2fd8dedcdfded9120b4178da307f2bd9e",
+    "source_id": "E03-T06-R149"
+  },
+  {
+    "basis": "full_text",
+    "formal_grade": null,
+    "full_review_release": "private_editorial_draft",
+    "human_review": "pending",
     "paper_id": "E04-T07-R230",
     "preview": "This Swedish case-control analysis found no coherent association between occupational ELF exposure estimates and meningioma. A rendered table nevertheless shows an isolated intermediate-category elevation, making the paper’s narrative claim of no significant categories too absolute. Group-based exposure assignment, selection and overlapping research samples limit interpretation. The result is specific to this historical population and outcome, not a workplace safety threshold. Human scientific review remains pending.",
     "preview_source_check": "2026-10-22T15:23:20.841119+00:00",
@@ -284,6 +387,57 @@
     "scientific_status": "AI_appraisal_draft",
     "source_hash": "112d5cdd49d3c37ac5d08e6dcdfb439570588aefbf9577eed5b3ed4d5c10cfa5",
     "source_id": "E04-T07-R252"
+  },
+  {
+    "basis": "full_text",
+    "formal_grade": null,
+    "full_review_release": "private_editorial_draft",
+    "human_review": "pending",
+    "paper_id": "E04-T08-R052",
+    "preview": "This Australian child cohort measured mobile and cordless calling separately and repeated cognitive tests. Isolated changes appeared in mixed directions, while most comparisons did not show a significant difference. Reported call counts were exposure proxies, and dropout, multiple tests and short follow-up limit interpretation. It shares the ExPOSURE study family with an earlier report. A printed descriptive-table inconsistency and all exact numerical effects remain held; human scientific review is pending.",
+    "preview_source_check": "2026-10-22",
+    "question_coverage": {
+      "answered": 3,
+      "partial": 12
+    },
+    "review_fingerprint": "d2e920a65f3354f991622440201864e0899249f16b5563b661e103199d0680a8",
+    "scientific_status": "AI_appraisal_draft",
+    "source_hash": "87d036b80e51f88479e3fb08b5154fb6516a06219a064b041886f5e936adc3a5",
+    "source_id": "E04-T08-R052"
+  },
+  {
+    "basis": "context_full_text",
+    "formal_grade": null,
+    "full_review_release": "private_editorial_draft",
+    "human_review": "pending",
+    "paper_id": "E05-T09-R560",
+    "preview": "This review combines electric-vehicle and charging studies with broader field-exposure research. Its short monitored device studies and mechanistic discussion answer different questions; neither establishes universal implant safety or chronic cardiovascular harm. The study-selection diagram does not reconcile, and some included studies fall outside the stated EV focus. Direct exposure and device claims need their original reports. This AI appraisal remains pending human scientific review.",
+    "preview_source_check": "2026-10-22",
+    "question_coverage": {
+      "answered": 2,
+      "partial": 13
+    },
+    "review_fingerprint": "15506cee87e066860a8322af44a90ef22bde7ebdd634d54760a9bd34a1467dd1",
+    "scientific_status": "AI_appraisal_draft",
+    "source_hash": "2b0a79dbae8fac5866dad50aa0cc4df61febf95c5a33efe4fa2e354ae8031bc8",
+    "source_id": "E05-T09-R560"
+  },
+  {
+    "basis": "full_text",
+    "formal_grade": null,
+    "full_review_release": "private_editorial_draft",
+    "human_review": "pending",
+    "paper_id": "E05-T10-R110",
+    "preview": "This laboratory study tested whether iPhone 12 and MagSafe accessories could activate the magnetic response of pacemakers and defibrillators. It demonstrated position-dependent, reversible device-mode changes in tested demo generators. The mechanism concerns static magnets, rather than chronic RF illness. No implanted patients were studied, so real-world event frequency and patient outcomes remain unresolved. Manufacturer device support, model coverage and geometry limit generalization. This AI appraisal draft awaits human scientific review.",
+    "preview_source_check": "2026-10-22",
+    "question_coverage": {
+      "answered": 10,
+      "partial": 5
+    },
+    "review_fingerprint": "c6ddd0690d7639a17168a8b7e7269fd90edb4b0eb300b4d5a27457bd0386d0ce",
+    "scientific_status": "AI_appraisal_draft",
+    "source_hash": "1f44f111bfe8fdda8bbfe03b97bbf9a8d8e639cc4b03abb737d9315bdabb7492",
+    "source_id": "E05-T10-R110"
   },
   {
     "basis": "full_text",
@@ -343,6 +497,24 @@
     "formal_grade": null,
     "full_review_release": "private_editorial_draft",
     "human_review": "pending",
+    "paper_id": "E06-T11-R208",
+    "preview": "This electric-bus case study measured magnetic and radiofrequency fields across routes, seating areas and charging locations. It documents local exposure variation, without measuring passenger illness or implant effects. Onboard RF also reflects cellular networks and phone use. Averaging methods, time labels and reference-level comparisons need clarification, so exact numbers and compliance conclusions remain held. This AI appraisal remains pending human scientific review.",
+    "preview_source_check": "2026-10-22",
+    "question_coverage": {
+      "answered": 3,
+      "not_applicable": 1,
+      "partial": 11
+    },
+    "review_fingerprint": "dc0ffdff9ce8d948100bf36f5e3a9f087e7a2844683fe5eb5081390864799047",
+    "scientific_status": "AI_appraisal_draft",
+    "source_hash": "ef992a05ad0af43f33b51c3875b6c992d2773fe512de01e8b25e131c92777bd1",
+    "source_id": "E06-T11-R208"
+  },
+  {
+    "basis": "full_text",
+    "formal_grade": null,
+    "full_review_release": "private_editorial_draft",
+    "human_review": "pending",
     "paper_id": "E06-T11-R239",
     "preview": "This computational study models fields near a DC charger and inside a vehicle; it does not observe human health outcomes. Its distance and shielding patterns depend on selected geometries and a simplified transformer source. Exact compliance percentages remain held because printed summaries conflict, with additional category/frequency inconsistencies. Independent measurement validation and broader models are needed before generalisation. This AI appraisal remains pending human scientific review.",
     "preview_source_check": "2026-10-22T15:36:44.825470+00:00",
@@ -355,6 +527,23 @@
     "scientific_status": "AI_appraisal_draft",
     "source_hash": "b1c3f16128193bf5d708204decb04809a710578ef6dc2b7ed8a002a2ea25a2a7",
     "source_id": "E06-T11-R239"
+  },
+  {
+    "basis": "full_text",
+    "formal_grade": null,
+    "full_review_release": "private_editorial_draft",
+    "human_review": "pending",
+    "paper_id": "E06-T12-R016",
+    "preview": "This bench study found that transient fields could inhibit selected dual-chamber pacemakers in a swine-tissue/saline model. A multiple-twist arrangement reduced voltage and inhibition, without eliminating every event. Statistical annotations and prose need clarification. Repeated measurements and an inadequately described clinical anecdote do not establish patient safety or benefit. Device type, geometry and potential mechanical lead harms limit transfer. This AI appraisal remains pending human scientific review.",
+    "preview_source_check": "2026-10-22",
+    "question_coverage": {
+      "answered": 2,
+      "partial": 13
+    },
+    "review_fingerprint": "779777d61f11b628f9609d6f543b681bfc3138f490ce109129c561e09390e398",
+    "scientific_status": "AI_appraisal_draft",
+    "source_hash": "e64283540b181faae5528202258632e417c340229a1a62de0ecfee518d454a87",
+    "source_id": "E06-T12-R016"
   },
   {
     "basis": "full_text",

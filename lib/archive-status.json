@@ -1,0 +1,24 @@
+{
+  "updated_at": "2026-10-22",
+  "initial_screening": {
+    "expected": 810,
+    "screened": 810,
+    "decisions": {
+      "include_context": 186,
+      "include_primary": 442,
+      "exclude_scope": 148,
+      "protocol_or_companion": 26,
+      "uncertain": 7,
+      "integrity_notice": 1
+    }
+  },
+  "appraisal_drafts": 54,
+  "checked_previews": 54,
+  "archive_entries_with_draft": 38,
+  "substantive_appraisal_pending": 652,
+  "recovered_source_records": 56,
+  "checked_qualitative_claims": 135,
+  "human_approved": 0,
+  "formal_grades": 0,
+  "new_numeric_claims_released": 0
+}

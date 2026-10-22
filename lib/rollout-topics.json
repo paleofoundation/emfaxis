@@ -100,6 +100,18 @@
               "E01-T01-R127"
             ],
             "text": "The meningioma report found no conclusive association with mobile or cordless use; its highest cumulative-use signal lacked a consistent latency pattern. The pooled acoustic-neuroma report found higher odds with longer wireless-phone histories. Retrospective histories, small long-latency groups and overlapping samples require appraisal before combining those findings. A base-station measurement cannot settle that disagreement."
+          },
+          {
+            "refs": [
+              "E04-T08-R052"
+            ],
+            "text": "A longitudinal Australian child study measured cordless and mobile calling separately using parent reports. Children repeated several cognitive tasks, and the analysis compared changes in calling with changes in performance. An isolated cordless detection-accuracy finding occurred alongside many non-significant comparisons; mobile-task changes ran in different directions. Reported call counts, attrition and multiple tests limit causal interpretation. This is follow-up of the ExPOSURE programme, rather than an independent replication of its earlier cross-sectional report."
+          },
+          {
+            "refs": [
+              "E02-T04-R122"
+            ],
+            "text": "The QUALIFEX sleep report also collected cordless and mobile call duration separately from modelled ambient exposure. Some longitudinal contrasts were nominally significant, but the results did not form a consistent adverse exposure-response pattern across sleep outcomes and exposure measures. Call duration does not isolate absorbed RF from behaviour. The linked actigraphy subset belongs to the same cohort, and neither component randomly assigned cordless-phone use."
           }
         ],
         "title": "Read each tumour outcome separately"
@@ -116,13 +128,15 @@
         "refs": [
           "E06-T11-R137",
           "E01-T01-R126",
-          "E01-T01-R127"
+          "E01-T01-R127",
+          "E04-T08-R052",
+          "E02-T04-R122"
         ],
-        "text": "Our selected full texts include a residential emissions survey and Swedish case-control reports that asked separately about mobile and cordless phones. The latter are not all independent replications: the acoustic-neuroma analysis pools earlier study periods, and related reports share a research series. Scientific review and family-level reconciliation remain open."
+        "text": "Selected full texts include a residential emissions survey, Swedish tumour case-control reports, an Australian child cognition follow-up and the QUALIFEX sleep study. The child findings were mixed, and the sleep comparisons did not form a consistent adverse exposure-response pattern. Related reports and nested samples require family-level reconciliation rather than independent-study counting. Scientific review and source-specific numerical holds remain open."
       }
     ],
     "pageId": "S02",
-    "takeaway": "The available measurements describe particular DECT devices; the selected tumour studies give different results by diagnosis and design. They do not establish one verdict for every cordless system.",
+    "takeaway": "Selected sources cover DECT emissions, tumour case-control reports and longitudinal cognition or sleep comparisons. Their exposure measures, designs and results differ; they do not establish one verdict for every cordless system.",
     "title": "Cordless and DECT phones"
   },
   {
@@ -915,6 +929,12 @@
               "E06-T11-R239"
             ],
             "text": "The report considers standing positions near the charger and seated adult and child models during charging. It does not follow people through journeys or map their real daily movements. A useful field survey would state whether a vehicle was driving, charging or idle, alongside the current, location and equipment configuration rather than supplying one number for the whole category."
+          },
+          {
+            "refs": [
+              "E06-T11-R208"
+            ],
+            "text": "Direct measurements on operating electric buses sampled different cabin positions, journeys and charging locations. They show local exposure variation, with magnetic flux density and radiofrequency electric fields measured separately. Cellular bands also contributed to onboard RF, so a reading inside a bus cannot automatically be assigned to its motor or battery. The study measured environmental fields, with no passenger illness or implanted-device outcomes."
           }
         ],
         "title": "Charging and driving need separate descriptions"
@@ -975,6 +995,18 @@
               "E06-T11-R239"
             ],
             "text": "The distinction between a model and its validation is particularly important when an article describes realistic anatomical figures. “Realistic” here refers to the computational body geometry, not to a measured group of volunteers. The paper’s adult and child images do not add two clinical populations, and changing the simulated distance does not create a trial of an intervention. An informative follow-up would compare model predictions with measurements around the specified charger, then examine additional source configurations. Only a separately designed outcome study could address a claim about symptoms or long-term disease among people using those installations."
+          },
+          {
+            "refs": [
+              "E05-T09-R560"
+            ],
+            "text": "A cardiovascular review brings together actual vehicle and charging reports with broader field-provocation experiments. It recruits no new participants, and its measured fields, implant-function tests and proposed mechanisms are different evidence streams. The selection-flow totals do not reconcile, and some summarized studies fall outside its stated EV focus. Original reports are needed before accepting device-event counts or clinical conclusions; the review does not establish universal implant compatibility or chronic cardiovascular harm."
+          },
+          {
+            "refs": [
+              "E06-T11-R208"
+            ],
+            "text": "The bus survey adds real measurements to the charging-station simulation, but each has specific limits. The bus report contains an unresolved printed averaging equation, inconsistent time labels and differing magnetic reference values. Exact averages and compliance conclusions remain held pending technical clarification. Its local routes and repeated readings cannot certify every vehicle, establish chronic disease risk or replace device-specific compatibility studies."
           }
         ],
         "title": "What is missing from a health comparison"
@@ -983,19 +1015,22 @@
     "overview": [
       {
         "refs": [
+          "E06-T11-R208",
           "E06-T11-R239"
         ],
-        "text": "“Electric vehicle exposure” can mean sitting in a moving car, standing by a charger, handling a cable or being near a wireless charging arrangement. Those are different source geometries and frequency components. Our recovered primary full text concerns a modelled DC charging station, not a clinical comparison of drivers of electric and conventional cars."
+        "text": "“Electric vehicle exposure” can mean riding in a vehicle, standing by a charger, handling a cable or being near wireless charging equipment. Those settings have different source geometries and frequency components. The selected evidence now includes direct electric-bus measurements as well as a modelled DC charging station; neither measured disease in drivers or passengers."
       },
       {
         "refs": [
-          "E06-T11-R239"
+          "E06-T11-R239",
+          "E06-T11-R208",
+          "E05-T09-R560"
         ],
-        "text": "The model calculates fields within anatomical adult and child representations and compares them with guideline values. The authors also identify field validation and multiple simultaneous sources as future work. We retain that restricted scope; internally inconsistent percentage statements are held from the public numerical comparison pending resolution."
+        "text": "The charging model uses anatomical representations, while the bus survey records environmental fields at particular locations and operating states. Their exact numerical and compliance comparisons remain held where printed methods or results conflict. A cardiovascular review adds context but has unresolved study-selection reporting and mixes direct EV studies with general field experiments. Source measurements, device compatibility and chronic health outcomes need separate assessment."
       }
     ],
     "pageId": "S13",
-    "takeaway": "The recovered charging study is a simulation of a particular transformer and configuration. It does not measure disease and cannot certify every electric vehicle or charging system.",
+    "takeaway": "Direct bus measurements, charging-system models and implant studies answer different questions. The checked sources describe specific equipment and conditions, with unresolved methods and reporting issues; they do not establish one health verdict for every electric vehicle.",
     "title": "Electric vehicles and health"
   },
   {
@@ -2078,6 +2113,12 @@
               "E03-T06-R139"
             ],
             "text": "The four-cohort pregnancy paper is another example of complementary information within established study families. It combines cohort-specific estimates rather than recruiting four new independent replications of every earlier birth-cohort report. The authors note that reported calling could reflect factors such as stress and that some information was collected well after pregnancy. The induction study has a different exposure proxy and its own follow-up and response problems. A reliable overview needs those differences beside the findings; it should not convert the presence of several papers into a single combined estimate of risk from any electrical device."
+          },
+          {
+            "refs": [
+              "E03-T06-R149"
+            ],
+            "text": "A retrospective Konya hospital study reported higher listed phone-model SAR among mothers of babies classified as small for gestational age, while recalled daily use-time was similar between growth groups. It assigned SAR from a phone listing rather than measuring maternal or fetal dose. Selection, recall, no reported adjusted causal model and a covariate-table inconsistency limit interpretation. The same-data prediction cutoff is not an independently validated safety threshold."
           }
         ],
         "title": "The recovered findings are not one pattern"
@@ -2121,6 +2162,12 @@
               "hse-workplace"
             ],
             "text": "FOPH’s induction fact sheet distinguishes measured configurations and limit comparisons from the limited pregnancy literature. HSE’s workplace framework separately considers expectant workers at particular risk, within its UK remit. Neither document makes all home sources equivalent or supplies an individual prediction from one household reading. Formal source appraisal remains necessary for each outcome."
+          },
+          {
+            "refs": [
+              "E03-T05-R297"
+            ],
+            "text": "The recovered RF reproductive protocol includes pregnancy and developmental outcomes in experimental mammals exposed in utero. That experimental stream is distinct from observational pregnancy studies in people. Its planned exposure controls and bias assessment describe how evidence would be assessed, rather than a completed conclusion about miscarriage, birth outcomes or human risk."
           }
         ],
         "title": "Guidance and clinical outcomes have different scopes"

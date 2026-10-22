@@ -1,0 +1,260 @@
+[
+  {
+    "path": "/fields/radiofrequency",
+    "date": "2026-10-22",
+    "title": "Additional source-checked findings",
+    "source_ids": [
+      "E06-T11-R208"
+    ],
+    "text": "Added bounded findings and methods context from the linked reports, with appraisal previews where available. Study design, applicability and unresolved inputs remain visible. Human scientific review and numerical candidates are pending."
+  },
+  {
+    "path": "/fields/intermediate-frequency",
+    "date": "2026-10-22",
+    "title": "Additional source-checked findings",
+    "source_ids": [
+      "E06-T12-R016"
+    ],
+    "text": "Added bounded findings and methods context from the linked reports, with appraisal previews where available. Study design, applicability and unresolved inputs remain visible. Human scientific review and numerical candidates are pending."
+  },
+  {
+    "path": "/fields/static",
+    "date": "2026-10-22",
+    "title": "Additional source-checked findings",
+    "source_ids": [
+      "E05-T10-R110"
+    ],
+    "text": "Added bounded findings and methods context from the linked reports, with appraisal previews where available. Study design, applicability and unresolved inputs remain visible. Human scientific review and numerical candidates are pending."
+  },
+  {
+    "path": "/guides/exposure-measurement",
+    "date": "2026-10-22",
+    "title": "Additional source-checked findings",
+    "source_ids": [
+      "E02-T03-R147",
+      "E02-T04-R122",
+      "E02-T04-R161",
+      "E03-T06-R149",
+      "E06-T11-R208"
+    ],
+    "text": "Added bounded findings and methods context from the linked reports, with appraisal previews where available. Study design, applicability and unresolved inputs remain visible. Human scientific review and numerical candidates are pending."
+  },
+  {
+    "path": "/guides/study-designs",
+    "date": "2026-10-22",
+    "title": "Additional source-checked findings",
+    "source_ids": [
+      "E02-T03-R018",
+      "E02-T04-R122",
+      "E02-T04-R161",
+      "E04-T08-R052",
+      "E05-T09-R560",
+      "E05-T10-R110",
+      "E06-T12-R016"
+    ],
+    "text": "Added bounded findings and methods context from the linked reports, with appraisal previews where available. Study design, applicability and unresolved inputs remain visible. Human scientific review and numerical candidates are pending."
+  },
+  {
+    "path": "/guides/animal-to-human",
+    "date": "2026-10-22",
+    "title": "Additional source-checked findings",
+    "source_ids": [
+      "E01-T01-R257"
+    ],
+    "text": "Added bounded findings and methods context from the linked reports, with appraisal previews where available. Study design, applicability and unresolved inputs remain visible. Human scientific review and numerical candidates are pending."
+  },
+  {
+    "path": "/guides/home-exposure",
+    "date": "2026-10-22",
+    "title": "Additional source-checked findings",
+    "source_ids": [
+      "E05-T10-R110",
+      "E06-T12-R016"
+    ],
+    "text": "Added bounded findings and methods context from the linked reports, with appraisal previews where available. Study design, applicability and unresolved inputs remain visible. Human scientific review and numerical candidates are pending."
+  },
+  {
+    "path": "/guides/symptoms-and-support",
+    "date": "2026-10-22",
+    "title": "Additional source-checked findings",
+    "source_ids": [
+      "E02-T03-R018"
+    ],
+    "text": "Added bounded findings and methods context from the linked reports, with appraisal previews where available. Study design, applicability and unresolved inputs remain visible. Human scientific review and numerical candidates are pending."
+  },
+  {
+    "path": "/guides/how-we-grade-evidence",
+    "date": "2026-10-22",
+    "title": "Additional source-checked findings",
+    "source_ids": [
+      "E03-T05-R297",
+      "E05-T09-R560"
+    ],
+    "text": "Added bounded findings and methods context from the linked reports, with appraisal previews where available. Study design, applicability and unresolved inputs remain visible. Human scientific review and numerical candidates are pending."
+  },
+  {
+    "path": "/outcomes/sleep",
+    "date": "2026-10-22",
+    "title": "Additional source-checked findings",
+    "source_ids": [
+      "E02-T04-R122",
+      "E02-T04-R161"
+    ],
+    "text": "Added bounded findings and methods context from the linked reports, with appraisal previews where available. Study design, applicability and unresolved inputs remain visible. Human scientific review and numerical candidates are pending."
+  },
+  {
+    "path": "/outcomes/male-fertility",
+    "date": "2026-10-22",
+    "title": "Additional source-checked findings",
+    "source_ids": [
+      "E03-T05-R297"
+    ],
+    "text": "Added bounded findings and methods context from the linked reports, with appraisal previews where available. Study design, applicability and unresolved inputs remain visible. Human scientific review and numerical candidates are pending."
+  },
+  {
+    "path": "/outcomes/female-fertility-pregnancy",
+    "date": "2026-10-22",
+    "title": "Additional source-checked findings",
+    "source_ids": [
+      "E03-T05-R297",
+      "E03-T06-R149"
+    ],
+    "text": "Added bounded findings and methods context from the linked reports, with appraisal previews where available. Study design, applicability and unresolved inputs remain visible. Human scientific review and numerical candidates are pending."
+  },
+  {
+    "path": "/outcomes/ehs-symptoms",
+    "date": "2026-10-22",
+    "title": "Additional source-checked findings",
+    "source_ids": [
+      "E02-T03-R018",
+      "E02-T03-R147"
+    ],
+    "text": "Added bounded findings and methods context from the linked reports, with appraisal previews where available. Study design, applicability and unresolved inputs remain visible. Human scientific review and numerical candidates are pending."
+  },
+  {
+    "path": "/outcomes/headache",
+    "date": "2026-10-22",
+    "title": "Additional source-checked findings",
+    "source_ids": [
+      "E02-T03-R147"
+    ],
+    "text": "Added bounded findings and methods context from the linked reports, with appraisal previews where available. Study design, applicability and unresolved inputs remain visible. Human scientific review and numerical candidates are pending."
+  },
+  {
+    "path": "/outcomes/cognition",
+    "date": "2026-10-22",
+    "title": "Additional source-checked findings",
+    "source_ids": [
+      "E02-T03-R018",
+      "E04-T08-R052"
+    ],
+    "text": "Added bounded findings and methods context from the linked reports, with appraisal previews where available. Study design, applicability and unresolved inputs remain visible. Human scientific review and numerical candidates are pending."
+  },
+  {
+    "path": "/outcomes/animal-cancer",
+    "date": "2026-10-22",
+    "title": "Additional source-checked findings",
+    "source_ids": [
+      "E01-T01-R257"
+    ],
+    "text": "Added bounded findings and methods context from the linked reports, with appraisal previews where available. Study design, applicability and unresolved inputs remain visible. Human scientific review and numerical candidates are pending."
+  },
+  {
+    "path": "/questions/ntp-and-ramazzini",
+    "date": "2026-10-22",
+    "title": "Additional source-checked findings",
+    "source_ids": [
+      "E01-T01-R257"
+    ],
+    "text": "Added bounded findings and methods context from the linked reports, with appraisal previews where available. Study design, applicability and unresolved inputs remain visible. Human scientific review and numerical candidates are pending."
+  },
+  {
+    "path": "/questions/children-and-phones",
+    "date": "2026-10-22",
+    "title": "Additional source-checked findings",
+    "source_ids": [
+      "E04-T08-R052"
+    ],
+    "text": "Added bounded findings and methods context from the linked reports, with appraisal previews where available. Study design, applicability and unresolved inputs remain visible. Human scientific review and numerical candidates are pending."
+  },
+  {
+    "path": "/questions/sleeping-near-phone",
+    "date": "2026-10-22",
+    "title": "Additional source-checked findings",
+    "source_ids": [
+      "E02-T04-R122",
+      "E02-T04-R161"
+    ],
+    "text": "Added bounded findings and methods context from the linked reports, with appraisal previews where available. Study design, applicability and unresolved inputs remain visible. Human scientific review and numerical candidates are pending."
+  },
+  {
+    "path": "/questions/living-near-tower",
+    "date": "2026-10-22",
+    "title": "Additional source-checked findings",
+    "source_ids": [
+      "E02-T03-R018",
+      "E02-T03-R147"
+    ],
+    "text": "Added bounded findings and methods context from the linked reports, with appraisal previews where available. Study design, applicability and unresolved inputs remain visible. Human scientific review and numerical candidates are pending."
+  },
+  {
+    "path": "/questions/phone-pocket-fertility",
+    "date": "2026-10-22",
+    "title": "Additional source-checked findings",
+    "source_ids": [
+      "E03-T05-R297"
+    ],
+    "text": "Added bounded findings and methods context from the linked reports, with appraisal previews where available. Study design, applicability and unresolved inputs remain visible. Human scientific review and numerical candidates are pending."
+  },
+  {
+    "path": "/sources/mobile-phones",
+    "date": "2026-10-22",
+    "title": "Additional source-checked findings",
+    "source_ids": [
+      "E02-T04-R161",
+      "E03-T06-R149",
+      "E05-T10-R110"
+    ],
+    "text": "Added bounded findings and methods context from the linked reports, with appraisal previews where available. Study design, applicability and unresolved inputs remain visible. Human scientific review and numerical candidates are pending."
+  },
+  {
+    "path": "/sources/cordless-phones",
+    "date": "2026-10-22",
+    "title": "Additional source-checked findings",
+    "source_ids": [
+      "E02-T04-R122",
+      "E04-T08-R052"
+    ],
+    "text": "Added bounded findings and methods context from the linked reports, with appraisal previews where available. Study design, applicability and unresolved inputs remain visible. Human scientific review and numerical candidates are pending."
+  },
+  {
+    "path": "/sources/base-stations",
+    "date": "2026-10-22",
+    "title": "Additional source-checked findings",
+    "source_ids": [
+      "E02-T03-R018",
+      "E02-T03-R147",
+      "E02-T04-R122"
+    ],
+    "text": "Added bounded findings and methods context from the linked reports, with appraisal previews where available. Study design, applicability and unresolved inputs remain visible. Human scientific review and numerical candidates are pending."
+  },
+  {
+    "path": "/sources/electric-vehicles",
+    "date": "2026-10-22",
+    "title": "Additional source-checked findings",
+    "source_ids": [
+      "E05-T09-R560",
+      "E06-T11-R208"
+    ],
+    "text": "Added bounded findings and methods context from the linked reports, with appraisal previews where available. Study design, applicability and unresolved inputs remain visible. Human scientific review and numerical candidates are pending."
+  },
+  {
+    "path": "/guides/rf-animal-experiments",
+    "date": "2026-10-22",
+    "title": "Additional source-checked findings",
+    "source_ids": [
+      "E01-T01-R257"
+    ],
+    "text": "Added bounded findings and methods context from the linked reports, with appraisal previews where available. Study design, applicability and unresolved inputs remain visible. Human scientific review and numerical candidates are pending."
+  }
+]
