@@ -1,9 +1,10 @@
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import {sources,outcomes} from '../lib/evidence.ts';
+import {rolloutPages,recoveredSources} from '../lib/rollout.ts';
 import {guides} from '../lib/guides.ts';
 const base=process.env.EMF_CHECK_ORIGIN||'http://127.0.0.1:5173';
-const routes=['/','/sources','/outcomes','/search?q=router','/research/cosmos','/questions/t08','/glossary/sar',...['radiofrequency','elf','intermediate-frequency','static'].map(id=>'/fields/'+id),...sources.map(t=>'/sources/'+t.id),...outcomes.map(t=>'/outcomes/'+t.id),...guides.map(t=>'/guides/'+t.id)];
+const routes=[...rolloutPages.map(p=>'/'+p.kind+'s/'+p.id),...recoveredSources.map(s=>'/research/'+s.id),'/','/sources','/outcomes','/search?q=router','/research/cosmos','/questions/t08','/glossary/sar',...['radiofrequency','elf','intermediate-frequency','static'].map(id=>'/fields/'+id),...sources.map(t=>'/sources/'+t.id),...outcomes.map(t=>'/outcomes/'+t.id),...guides.map(t=>'/guides/'+t.id)];
 const results=[];
 for(const route of routes){
  const response=await fetch(base+route),html=await response.text();

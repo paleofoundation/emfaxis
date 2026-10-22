@@ -4,7 +4,7 @@ const auth={Cookie:'__sites_local_auth=1','Content-Type':'application/json',Orig
 const baseline=await (await fetch(url,{headers:auth})).json();assert(Array.isArray(baseline.items),'library read');
 const tested=[];
 try{
- for(const [kind,itemId] of [['source','5g'],['outcome','dna-damage']]){
+ for(const [kind,itemId] of [['source','5g'],['outcome','dna-damage'],['source','bluetooth'],['outcome','tinnitus'],['guide','exposure-measurement'],['question','router-at-night'],['study','wifi-pmid-32408065']]){
   assert(!baseline.items.some(i=>i.kind===kind&&i.itemId===itemId),'test record already exists; preserve it');
   const body=JSON.stringify({kind,itemId,note:'Temporary local EMF route validation'});
   assert.equal((await fetch(url,{method:'POST',headers:auth,body})).status,200);tested.push({kind,itemId});

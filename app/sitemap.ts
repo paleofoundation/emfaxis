@@ -1,3 +1,4 @@
+import {rolloutPages,recoveredSources} from '@/lib/rollout';
 import type { MetadataRoute } from 'next';
 import {sources,outcomes} from '@/lib/evidence';
 import { studies } from '@/lib/studies';
@@ -8,7 +9,9 @@ import { terms, termSlug } from '@/lib/glossary';
 export default function sitemap(): MetadataRoute.Sitemap {
   // Only indexable public pages; exclude search, corrections, and account routes.
   const paths = [
-    '/', '/sources', '/outcomes',
+    '/', '/sources', '/outcomes', '/fields',
+    ...rolloutPages.map(p=>'/'+p.kind+'s/'+p.id),
+    ...recoveredSources.map(s=>'/research/'+s.id),
     ...['radiofrequency','elf','intermediate-frequency','static'].map(id=>'/fields/'+id),
     ...sources.map(t=>'/sources/'+t.id),
     ...outcomes.map(t=>'/outcomes/'+t.id),

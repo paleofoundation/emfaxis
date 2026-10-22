@@ -1,0 +1,368 @@
+[
+  {
+    "field": "radiofrequency",
+    "finding": "The sleep abstract reported no significant subjective-sleep or macrostructure difference, with reduced NREM alpha EEG. The shared-sample memory result was considered inconclusive.",
+    "id": "wifi-sleep-direct",
+    "limit": "Sleep report abstract only; restricted acute sample. Memory analysis shares participants and uses exploratory analyses, so it is not independent replication.",
+    "outcome": "sleep",
+    "papers": [
+      "wifi-pmid-32408065",
+      "wifi-pmid-33166026"
+    ],
+    "scope": "Acute Wi-Fi versus sham in healthy young men; subjective sleep, macrostructure and EEG.",
+    "source": "wifi",
+    "stream": "Human"
+  },
+  {
+    "field": "radiofrequency",
+    "finding": "The waking abstract reported no measurable EEG-power or vigilance effect. The memory paper reported a declarative result its authors classified as inconclusive.",
+    "id": "wifi-waking",
+    "limit": "Different endpoints and participant samples; abstract-only waking methods and exploratory memory analysis. No general cognitive effect follows.",
+    "outcome": "cognition",
+    "papers": [
+      "wifi-pmid-26600173",
+      "wifi-pmid-33166026"
+    ],
+    "scope": "Acute waking EEG and vigilance, plus overnight memory in a separate project.",
+    "source": "wifi",
+    "stream": "Human"
+  },
+  {
+    "field": "radiofrequency",
+    "finding": "Prospective cohorts did not show increased glioma risk under their studied conditions; INTERPHONE found elevated odds in its highest recalled-use group.",
+    "id": "phone-glioma",
+    "limit": "Use proxies, recall and selection, latency and sparse extreme-use data limit causal conclusions. Selected reports, not a completed synthesis.",
+    "outcome": "glioma",
+    "papers": [
+      "cosmos",
+      "million-women",
+      "interphone"
+    ],
+    "scope": "Selected prospective cohorts and recalled-use case-control evidence.",
+    "source": "mobile-phones",
+    "stream": "Human"
+  },
+  {
+    "field": "radiofrequency",
+    "finding": "Selected cohorts did not show increased risk; the Swedish case-control paper found no conclusive overall association, with a highest-use signal.",
+    "id": "phone-meningioma",
+    "limit": "Multiple comparisons, few fully unexposed participants and mixed phone use complicate the case-control analyses.",
+    "outcome": "meningioma",
+    "papers": [
+      "million-women",
+      "E01-T01-R126"
+    ],
+    "scope": "Mobile use and meningioma; selected cohort and case-control records.",
+    "source": "mobile-phones",
+    "stream": "Human"
+  },
+  {
+    "field": "radiofrequency",
+    "finding": "The report found no conclusive overall association; a highest cumulative-use signal lacked a consistent latency pattern.",
+    "id": "cordless-meningioma",
+    "limit": "Retrospective exposure, multiple phone types and comparisons prevent one causal verdict for every cordless system.",
+    "outcome": "meningioma",
+    "papers": [
+      "E01-T01-R126"
+    ],
+    "scope": "Recalled wireless-phone use in a Swedish case-control study.",
+    "source": "cordless-phones",
+    "stream": "Human"
+  },
+  {
+    "field": "radiofrequency",
+    "finding": "The pooled report described elevated odds with longer latency under its analyses.",
+    "id": "cordless-acoustic",
+    "limit": "Small newer case groups, recalled use, mixed phone types and hearing-loss effects on preferred ear limit inference.",
+    "outcome": "acoustic-neuroma",
+    "papers": [
+      "E01-T01-R127"
+    ],
+    "scope": "Pooled Swedish case-control wireless-phone histories.",
+    "source": "cordless-phones",
+    "stream": "Human"
+  },
+  {
+    "field": "radiofrequency",
+    "finding": "The selected cohort did not show increased risk. Case-control reports differ, including long-latency or same-side signals with important uncertainty.",
+    "id": "phone-acoustic",
+    "limit": "Subtype rarity, recall, participation and hearing loss complicate comparisons. Studies overlap in exposure questions and should not be pooled casually.",
+    "outcome": "acoustic-neuroma",
+    "papers": [
+      "million-women",
+      "E01-T01-R022",
+      "E01-T01-R127"
+    ],
+    "scope": "Cohort and separate case-control acoustic-neuroma diagnoses.",
+    "source": "mobile-phones",
+    "stream": "Human"
+  },
+  {
+    "field": "radiofrequency",
+    "finding": "The authors reported an association with prolonged self-reported phone use under their analysis.",
+    "id": "phone-other-cancers",
+    "limit": "Behavior is an exposure proxy; selection, confounding and reverse interpretation remain possible. This does not establish other-cancer risk in general.",
+    "outcome": "other-cancers",
+    "papers": [
+      "E01-T01-R251"
+    ],
+    "scope": "A selected breast-cancer case-control report; different from brain-tumour studies.",
+    "source": "mobile-phones",
+    "stream": "Human"
+  },
+  {
+    "field": "radiofrequency",
+    "finding": "More frequent calls were associated with shorter gestation, while birthweight/growth findings did not show an association.",
+    "id": "phone-pregnancy",
+    "limit": "Recalled phone use is a dose proxy; stress and other confounding may explain the gestation result.",
+    "outcome": "female-fertility-pregnancy",
+    "papers": [
+      "E03-T06-R109"
+    ],
+    "scope": "Phone-use histories across four birth cohorts.",
+    "source": "mobile-phones",
+    "stream": "Human"
+  },
+  {
+    "field": "intermediate-frequency",
+    "finding": "The report described a weak preterm-birth association and no birthweight association, interpreted cautiously by the authors.",
+    "id": "induction-pregnancy",
+    "limit": "Incomplete follow-up, self-report, confounding and multiple analyses; pan, distance and wattage were not individual exposure measurements.",
+    "outcome": "female-fertility-pregnancy",
+    "papers": [
+      "E03-T06-R139"
+    ],
+    "scope": "Internet-based pregnancy follow-up using self-reported cooker use.",
+    "source": "induction-hobs",
+    "stream": "Human"
+  },
+  {
+    "field": "elf",
+    "finding": "The authors reported higher infertility odds for the closer distance category.",
+    "id": "line-female-infertility",
+    "limit": "Distance is a proxy; selection and confounding remain. Printed Table 2 has inconsistent counts, so numerical claims are held.",
+    "outcome": "female-fertility-pregnancy",
+    "papers": [
+      "E03-T05-R273"
+    ],
+    "scope": "Case-control residential distance to high-voltage lines.",
+    "source": "power-lines",
+    "stream": "Human"
+  },
+  {
+    "field": "elf",
+    "finding": "Average front-door measurements did not show an association; a maximum alley metric did under the authors’ analysis.",
+    "id": "wiring-pregnancy",
+    "limit": "Results depend on metric. No complete personal dosimetry or activity assessment; not a general causal finding for home wiring.",
+    "outcome": "female-fertility-pregnancy",
+    "papers": [
+      "E03-T06-R073"
+    ],
+    "scope": "Residential measurements and miscarriage in one cohort.",
+    "source": "household-wiring",
+    "stream": "Human"
+  },
+  {
+    "field": "elf",
+    "finding": "The review reported an association in older blanket-use analyses, separately from measured residential fields.",
+    "id": "blanket-leukaemia",
+    "limit": "Small historical evidence base and study quality limit translation to a current product. No present-day product risk estimate is assigned.",
+    "outcome": "childhood-leukaemia",
+    "papers": [
+      "E04-T07-R252"
+    ],
+    "scope": "Historical electric-blanket-use studies within a systematic review.",
+    "source": "electric-blankets",
+    "stream": "Review"
+  },
+  {
+    "field": "radiofrequency",
+    "finding": "No clear consistent overall association; isolated time-window findings required cautious interpretation.",
+    "id": "occupation-rf-brain",
+    "limit": "Grouped exposure proxies, recall, selection and multiple comparisons; job title is not personal absorbed dose.",
+    "outcome": "brain-tumours",
+    "papers": [
+      "E01-T01-R246"
+    ],
+    "scope": "INTEROCC job-exposure-matrix estimates; adult glioma and meningioma.",
+    "source": "occupational-rf",
+    "stream": "Human"
+  },
+  {
+    "field": "elf",
+    "finding": "No overall association or consistent exposure-response pattern; one intermediate category was elevated.",
+    "id": "occupation-elf-meningioma",
+    "limit": "Exposure misclassification and the isolated category result limit a causal interpretation.",
+    "outcome": "meningioma",
+    "papers": [
+      "E04-T07-R230"
+    ],
+    "scope": "Job-matrix occupational ELF estimates and meningioma.",
+    "source": "occupational-elf",
+    "stream": "Human"
+  },
+  {
+    "field": "radiofrequency",
+    "finding": "No detectable acute temperature effect under the tested low-field conditions.",
+    "id": "5g-skin-temperature",
+    "limit": "Healthy volunteers and superficial short-term endpoint; does not validate a guideline threshold or establish chronic safety.",
+    "outcome": "heating",
+    "papers": [
+      "E02-T03-R264"
+    ],
+    "scope": "Controlled acute 26 GHz versus sham; superficial skin temperature.",
+    "source": "5g",
+    "stream": "Human"
+  },
+  {
+    "field": "radiofrequency",
+    "finding": "Call time was not associated with tinnitus or hearing loss in the report; a small headache result weakened with adjustment.",
+    "id": "phone-tinnitus",
+    "limit": "Limited baseline call records, two symptom timepoints and self-report; no continuous personal RF dose.",
+    "outcome": "tinnitus",
+    "papers": [
+      "E02-T03-R175"
+    ],
+    "scope": "COSMOS symptom follow-up and call-time estimates.",
+    "source": "mobile-phones",
+    "stream": "Human"
+  },
+  {
+    "field": "radiofrequency",
+    "finding": "Tinnitus was more common in the sensitivity group, while phone-use measures did not explain the contrast.",
+    "id": "phone-tinnitus-ehs",
+    "limit": "No measured field attribution; cross-sectional self-report cannot establish direction or an RF cause.",
+    "outcome": "ehs-symptoms",
+    "papers": [
+      "E02-T03-R054"
+    ],
+    "scope": "Cross-sectional tinnitus and self-identified electromagnetic hypersensitivity.",
+    "source": "mobile-phones",
+    "stream": "Human"
+  },
+  {
+    "field": "radiofrequency",
+    "finding": "The linked sources characterize the specified exposure or assessment setting; they do not add an independent human disease trial.",
+    "id": "smart-meters-exposure",
+    "limit": "Read the device, task, position, duration and source basis. A measured or modeled field cannot by itself establish a clinical risk or a treatment benefit.",
+    "outcome": "exposure-characterisation",
+    "papers": [
+      "E06-T11-R137",
+      "ukhsa-smart-meters"
+    ],
+    "scope": "Measured residential communication modules; transmission peaks, duty cycles and placement.",
+    "source": "smart-meters",
+    "stream": "Engineering"
+  },
+  {
+    "field": "radiofrequency",
+    "finding": "The linked sources characterize the specified exposure or assessment setting; they do not add an independent human disease trial.",
+    "id": "baby-monitors-exposure",
+    "limit": "Read the device, task, position, duration and source basis. A measured or modeled field cannot by itself establish a clinical risk or a treatment benefit.",
+    "outcome": "exposure-characterisation",
+    "papers": [
+      "E06-T11-R137",
+      "foph-baby-monitors"
+    ],
+    "scope": "Parent and baby units of selected monitor systems, operating states and placement guidance.",
+    "source": "baby-monitors",
+    "stream": "Engineering"
+  },
+  {
+    "field": "radiofrequency",
+    "finding": "The linked sources characterize the specified exposure or assessment setting; they do not add an independent human disease trial.",
+    "id": "bluetooth-exposure",
+    "limit": "Read the device, task, position, duration and source basis. A measured or modeled field cannot by itself establish a clinical risk or a treatment benefit.",
+    "outcome": "exposure-characterisation",
+    "papers": [
+      "E06-T11-R137",
+      "foph-bluetooth"
+    ],
+    "scope": "Mouse and speakers during failed pairing; official Bluetooth context.",
+    "source": "bluetooth",
+    "stream": "Engineering"
+  },
+  {
+    "field": "radiofrequency",
+    "finding": "The linked sources characterize the specified exposure or assessment setting; they do not add an independent human disease trial.",
+    "id": "microwave-ovens-exposure",
+    "limit": "Read the device, task, position, duration and source basis. A measured or modeled field cannot by itself establish a clinical risk or a treatment benefit.",
+    "outcome": "exposure-characterisation",
+    "papers": [
+      "fda-microwave"
+    ],
+    "scope": "Microwave cooking, US product standard, leakage, interlocks and heat injuries.",
+    "source": "microwave-ovens",
+    "stream": "Context"
+  },
+  {
+    "field": "intermediate-frequency",
+    "finding": "The linked sources characterize the specified exposure or assessment setting; they do not add an independent human disease trial.",
+    "id": "induction-hobs-exposure",
+    "limit": "Read the device, task, position, duration and source basis. A measured or modeled field cannot by itself establish a clinical risk or a treatment benefit.",
+    "outcome": "exposure-characterisation",
+    "papers": [
+      "E03-T06-R135",
+      "foph-induction"
+    ],
+    "scope": "Defined pan, power, geometry and fixed-posture induction exposure model.",
+    "source": "induction-hobs",
+    "stream": "Engineering"
+  },
+  {
+    "field": "intermediate-frequency",
+    "finding": "The linked sources characterize the specified exposure or assessment setting; they do not add an independent human disease trial.",
+    "id": "electric-vehicles-exposure",
+    "limit": "Read the device, task, position, duration and source basis. A measured or modeled field cannot by itself establish a clinical risk or a treatment benefit.",
+    "outcome": "exposure-characterisation",
+    "papers": [
+      "E06-T11-R239"
+    ],
+    "scope": "Transformer-related model in a DC charging system, rather than whole-vehicle exposure.",
+    "source": "electric-vehicles",
+    "stream": "Engineering"
+  },
+  {
+    "field": "static",
+    "finding": "The linked sources characterize the specified exposure or assessment setting; they do not add an independent human disease trial.",
+    "id": "mri-static-fields-exposure",
+    "limit": "Read the device, task, position, duration and source basis. A measured or modeled field cannot by itself establish a clinical risk or a treatment benefit.",
+    "outcome": "exposure-characterisation",
+    "papers": [
+      "E06-T11-R191",
+      "icnirp-mri",
+      "icnirp-static"
+    ],
+    "scope": "Mixed MRI components and task-dependent worker exposure; position-paper context.",
+    "source": "mri-static-fields",
+    "stream": "Context"
+  },
+  {
+    "field": "radiofrequency",
+    "finding": "The linked sources characterize the specified exposure or assessment setting; they do not add an independent human disease trial.",
+    "id": "occupational-rf-exposure",
+    "limit": "Read the device, task, position, duration and source basis. A measured or modeled field cannot by itself establish a clinical risk or a treatment benefit.",
+    "outcome": "exposure-characterisation",
+    "papers": [
+      "E06-T11-R168",
+      "hse-workplace"
+    ],
+    "scope": "Industrial equipment and task-specific worst-case RF measurements.",
+    "source": "occupational-rf",
+    "stream": "Context"
+  },
+  {
+    "field": "elf",
+    "finding": "The linked sources characterize the specified exposure or assessment setting; they do not add an independent human disease trial.",
+    "id": "occupational-elf-exposure",
+    "limit": "Read the device, task, position, duration and source basis. A measured or modeled field cannot by itself establish a clinical risk or a treatment benefit.",
+    "outcome": "exposure-characterisation",
+    "papers": [
+      "E06-T11-R191",
+      "hse-workplace"
+    ],
+    "scope": "Complex workplace exposure and worker-specific assessment context.",
+    "source": "occupational-elf",
+    "stream": "Context"
+  }
+]

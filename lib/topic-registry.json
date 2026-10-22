@@ -1,240 +1,777 @@
 [
   {
     "id": "S01",
-    "slug": "mobile-phones",
     "path": "/sources/mobile-phones",
+    "question": "What health outcomes have been studied?  Does call duration or technology matter?",
+    "reader_questions": [
+      "What health outcomes have been studied?",
+      " Does call duration or technology matter?"
+    ],
+    "slug": "mobile-phones",
     "title": "Mobile phones and health",
-    "question": "What health outcomes have been studied? Does call duration or technology matter?"
+    "type": "exposure_source"
   },
   {
     "id": "S02",
-    "slug": "cordless-phones",
     "path": "/sources/cordless-phones",
+    "question": "What is known about handset use and brain tumours?  Is a DECT base station a separate exposure?",
+    "reader_questions": [
+      "What is known about handset use and brain tumours?",
+      " Is a DECT base station a separate exposure?"
+    ],
+    "slug": "cordless-phones",
     "title": "Cordless and DECT phones",
-    "question": "What is known about handset use and brain tumours? Is a DECT base station a separate exposure?"
+    "type": "exposure_source"
   },
   {
     "id": "S03",
-    "slug": "wifi",
     "path": "/sources/wifi",
+    "question": "What evidence applies to routers and Wi-Fi devices?  Does overnight exposure matter?",
+    "reader_questions": [
+      "What evidence applies to routers and Wi-Fi devices?",
+      " Does overnight exposure matter?"
+    ],
+    "slug": "wifi",
     "title": "Wi-Fi and health",
-    "question": "What evidence applies to routers and Wi-Fi devices? Does overnight exposure matter?"
+    "type": "exposure_source"
   },
   {
     "id": "S04",
-    "slug": "5g",
     "path": "/sources/5g",
+    "question": "Which 5G bands have direct health research?  What can older RF studies tell us?",
+    "reader_questions": [
+      "Which 5G bands have direct health research?",
+      " What can older RF studies tell us?"
+    ],
+    "slug": "5g",
     "title": "5G and health",
-    "question": "Which 5G bands have direct health research? What can older RF studies tell us?"
+    "type": "exposure_source"
   },
   {
     "id": "S05",
-    "slug": "base-stations",
     "path": "/sources/base-stations",
+    "question": "How does ambient exposure differ from phone use?  What health studies examine nearby residents?",
+    "reader_questions": [
+      "How does ambient exposure differ from phone use?",
+      " What health studies examine nearby residents?"
+    ],
+    "slug": "base-stations",
     "title": "Cell towers and base stations",
-    "question": "How does ambient exposure differ from phone use? What health studies examine nearby residents?"
+    "type": "exposure_source"
   },
   {
     "id": "S06",
-    "slug": "power-lines",
     "path": "/sources/power-lines",
+    "question": "What exposure occurs near power lines?  What is known about childhood leukaemia?",
+    "reader_questions": [
+      "What exposure occurs near power lines?",
+      " What is known about childhood leukaemia?"
+    ],
+    "slug": "power-lines",
     "title": "Power lines and health",
-    "question": "What exposure occurs near power lines? What is known about childhood leukaemia?"
+    "type": "exposure_source"
   },
   {
     "id": "S07",
-    "slug": "smart-meters",
     "path": "/sources/smart-meters",
+    "question": "How often do meters transmit?  Are meter-specific health outcomes studied?",
+    "reader_questions": [
+      "How often do meters transmit?",
+      " Are meter-specific health outcomes studied?"
+    ],
+    "slug": "smart-meters",
     "title": "Smart meters and health",
-    "question": "How often do meters transmit? Are meter-specific health outcomes studied?"
+    "type": "exposure_source"
   },
   {
     "id": "S08",
-    "slug": "baby-monitors",
     "path": "/sources/baby-monitors",
+    "question": "How do monitor types differ?  What evidence directly concerns infants?",
+    "reader_questions": [
+      "How do monitor types differ?",
+      " What evidence directly concerns infants?"
+    ],
+    "slug": "baby-monitors",
     "title": "Baby monitors and health",
-    "question": "How do monitor types differ? What evidence directly concerns infants?"
+    "type": "exposure_source"
   },
   {
     "id": "S09",
-    "slug": "bluetooth",
     "path": "/sources/bluetooth",
+    "question": "What do these devices emit?  Is there direct long-term health evidence?",
+    "reader_questions": [
+      "What do these devices emit?",
+      " Is there direct long-term health evidence?"
+    ],
+    "slug": "bluetooth",
     "title": "Bluetooth, earbuds, and wearables",
-    "question": "What do these devices emit? Is there direct long-term health evidence?"
+    "type": "exposure_source"
   },
   {
     "id": "S10",
-    "slug": "induction-hobs",
     "path": "/sources/induction-hobs",
+    "question": "What exposures occur while cooking?  What is known for pregnancy and implants?",
+    "reader_questions": [
+      "What exposures occur while cooking?",
+      " What is known for pregnancy and implants?"
+    ],
+    "slug": "induction-hobs",
     "title": "Induction hobs and health",
-    "question": "What exposures occur while cooking? What is known for pregnancy and implants?"
+    "type": "exposure_source"
   },
   {
     "id": "S11",
-    "slug": "microwave-ovens",
     "path": "/sources/microwave-ovens",
+    "question": "What exposure occurs outside the oven?  What do leakage measurements mean?",
+    "reader_questions": [
+      "What exposure occurs outside the oven?",
+      " What do leakage measurements mean?"
+    ],
+    "slug": "microwave-ovens",
     "title": "Microwave ovens and health",
-    "question": "What exposure occurs outside the oven? What do leakage measurements mean?"
+    "type": "exposure_source"
   },
   {
     "id": "S12",
-    "slug": "electric-blankets",
     "path": "/sources/electric-blankets",
+    "question": "What magnetic fields reach the body?  Are pregnancy or cancer outcomes studied?",
+    "reader_questions": [
+      "What magnetic fields reach the body?",
+      " Are pregnancy or cancer outcomes studied?"
+    ],
+    "slug": "electric-blankets",
     "title": "Electric blankets and health",
-    "question": "What magnetic fields reach the body? Are pregnancy or cancer outcomes studied?"
+    "type": "exposure_source"
   },
   {
     "id": "S13",
-    "slug": "electric-vehicles",
     "path": "/sources/electric-vehicles",
+    "question": "What fields occur in the cabin or while charging?  Are health outcomes measured?",
+    "reader_questions": [
+      "What fields occur in the cabin or while charging?",
+      " Are health outcomes measured?"
+    ],
+    "slug": "electric-vehicles",
     "title": "Electric vehicles and health",
-    "question": "What fields occur in the cabin or while charging? Are health outcomes measured?"
+    "type": "exposure_source"
   },
   {
     "id": "S14",
-    "slug": "household-wiring",
     "path": "/sources/household-wiring",
+    "question": "Which sources contribute to home ELF exposure?  Can a device reading predict long-term exposure?",
+    "reader_questions": [
+      "Which sources contribute to home ELF exposure?",
+      " Can a device reading predict long-term exposure?"
+    ],
+    "slug": "household-wiring",
     "title": "Household wiring and appliances",
-    "question": "Which sources contribute to home ELF exposure? Can a device reading predict long-term exposure?"
+    "type": "exposure_source"
   },
   {
     "id": "S15",
-    "slug": "occupational-rf",
     "path": "/sources/occupational-rf",
+    "question": "What differs for antenna, radar, and broadcast workers?  What outcomes have been studied?",
+    "reader_questions": [
+      "What differs for antenna, radar, and broadcast workers?",
+      " What outcomes have been studied?"
+    ],
+    "slug": "occupational-rf",
     "title": "RF exposure at work",
-    "question": "What differs for antenna, radar, and broadcast workers? What outcomes have been studied?"
+    "type": "exposure_source"
   },
   {
     "id": "S16",
-    "slug": "occupational-elf",
     "path": "/sources/occupational-elf",
+    "question": "How is workplace exposure measured?  What do occupational cancer studies show?",
+    "reader_questions": [
+      "How is workplace exposure measured?",
+      " What do occupational cancer studies show?"
+    ],
+    "slug": "occupational-elf",
     "title": "ELF exposure at work",
-    "question": "How is workplace exposure measured? What do occupational cancer studies show?"
+    "type": "exposure_source"
   },
   {
     "id": "S17",
-    "slug": "mri-static-fields",
     "path": "/sources/mri-static-fields",
+    "question": "How does MRI exposure differ from everyday RF?  What safety questions concern patients and staff?",
+    "reader_questions": [
+      "How does MRI exposure differ from everyday RF?",
+      " What safety questions concern patients and staff?"
+    ],
+    "slug": "mri-static-fields",
     "title": "MRI: static, gradient and RF exposures",
-    "question": "How does MRI exposure differ from everyday RF? What safety questions concern patients and staff?"
+    "type": "exposure_source"
   },
   {
     "id": "H01",
-    "slug": "brain-tumours",
     "path": "/outcomes/brain-tumours",
+    "question": "What is known for each tumour type?  How do human and animal findings compare?",
+    "reader_questions": [
+      "What is known for each tumour type?",
+      " How do human and animal findings compare?"
+    ],
+    "slug": "brain-tumours",
     "title": "EMF and brain tumours",
-    "question": "What is known for each tumour type? How do human and animal findings compare?"
+    "type": "health_outcome"
   },
   {
     "id": "H02",
-    "slug": "glioma",
     "path": "/outcomes/glioma",
+    "question": "What do cohorts and case-control studies show?  What about heavy use and latency?",
+    "reader_questions": [
+      "What do cohorts and case-control studies show?",
+      " What about heavy use and latency?"
+    ],
+    "slug": "glioma",
     "title": "EMF and glioma",
-    "question": "What do cohorts and case-control studies show? What about heavy use and latency?"
+    "type": "health_outcome"
   },
   {
     "id": "H03",
-    "slug": "meningioma",
     "path": "/outcomes/meningioma",
+    "question": "Is there an association?  How well is long-term exposure measured?",
+    "reader_questions": [
+      "Is there an association?",
+      " How well is long-term exposure measured?"
+    ],
+    "slug": "meningioma",
     "title": "EMF and meningioma",
-    "question": "Is there an association? How well is long-term exposure measured?"
+    "type": "health_outcome"
   },
   {
     "id": "H04",
-    "slug": "acoustic-neuroma",
     "path": "/outcomes/acoustic-neuroma",
+    "question": "What do studies show for vestibular schwannoma?  Do laterality and latency change interpretation?",
+    "reader_questions": [
+      "What do studies show for vestibular schwannoma?",
+      " Do laterality and latency change interpretation?"
+    ],
+    "slug": "acoustic-neuroma",
     "title": "EMF and acoustic neuroma",
-    "question": "What do studies show for vestibular schwannoma? Do laterality and latency change interpretation?"
+    "type": "health_outcome"
   },
   {
     "id": "H05",
-    "slug": "childhood-brain-tumours",
     "path": "/outcomes/childhood-brain-tumours",
+    "question": "What do CEFALO and MOBI-Kids address?  What remains unknown about lifetime exposure?",
+    "reader_questions": [
+      "What do CEFALO and MOBI-Kids address?",
+      " What remains unknown about lifetime exposure?"
+    ],
+    "slug": "childhood-brain-tumours",
     "title": "EMF and childhood brain tumours",
-    "question": "What do CEFALO and MOBI-Kids address? What remains unknown about lifetime exposure?"
+    "type": "health_outcome"
   },
   {
     "id": "H06",
-    "slug": "childhood-leukaemia",
     "path": "/outcomes/childhood-leukaemia",
+    "question": "What does residential ELF epidemiology show?  Can it establish causation?",
+    "reader_questions": [
+      "What does residential ELF epidemiology show?",
+      " Can it establish causation?"
+    ],
+    "slug": "childhood-leukaemia",
     "title": "Magnetic fields and childhood leukaemia",
-    "question": "What does residential ELF epidemiology show? Can it establish causation?"
+    "type": "health_outcome"
   },
   {
     "id": "H07",
-    "slug": "other-cancers",
     "path": "/outcomes/other-cancers",
+    "question": "What evidence concerns blood, breast, liver, lung, or other cancers?  Which findings are animal-only?",
+    "reader_questions": [
+      "What evidence concerns blood, breast, liver, lung, or other cancers?",
+      " Which findings are animal-only?"
+    ],
+    "slug": "other-cancers",
     "title": "EMF and cancers beyond the brain",
-    "question": "What evidence concerns blood, breast, liver, lung, or other cancers? Which findings are animal-only?"
+    "type": "health_outcome"
   },
   {
     "id": "H08",
-    "slug": "sleep",
     "path": "/outcomes/sleep",
+    "question": "Does exposure affect sleep quality, sleep stages, or insomnia?  Are blinded studies available?",
+    "reader_questions": [
+      "Does exposure affect sleep quality, sleep stages, or insomnia?",
+      " Are blinded studies available?"
+    ],
+    "slug": "sleep",
     "title": "EMF and sleep",
-    "question": "Does exposure affect sleep quality, sleep stages, or insomnia? Are blinded studies available?"
+    "type": "health_outcome"
   },
   {
     "id": "H09",
-    "slug": "male-fertility",
     "path": "/outcomes/male-fertility",
+    "question": "What happens to semen measures?  Is conception or live birth studied?",
+    "reader_questions": [
+      "What happens to semen measures?",
+      " Is conception or live birth studied?"
+    ],
+    "slug": "male-fertility",
     "title": "EMF and male fertility",
-    "question": "What happens to semen measures? Is conception or live birth studied?"
+    "type": "health_outcome"
   },
   {
     "id": "H10",
-    "slug": "female-fertility-pregnancy",
     "path": "/outcomes/female-fertility-pregnancy",
+    "question": "Are fertility, miscarriage, or birth outcomes associated with exposure?",
+    "reader_questions": [
+      "Are fertility, miscarriage, or birth outcomes associated with exposure?"
+    ],
+    "slug": "female-fertility-pregnancy",
     "title": "EMF, female fertility, and pregnancy",
-    "question": "Are fertility, miscarriage, or birth outcomes associated with exposure?"
+    "type": "health_outcome"
   },
   {
     "id": "H11",
-    "slug": "ehs-symptoms",
     "path": "/outcomes/ehs-symptoms",
+    "question": "What symptoms do people report?  What do blinded provocation studies test?",
+    "reader_questions": [
+      "What symptoms do people report?",
+      " What do blinded provocation studies test?"
+    ],
+    "slug": "ehs-symptoms",
     "title": "Electromagnetic hypersensitivity and symptoms",
-    "question": "What symptoms do people report? What do blinded provocation studies test?"
+    "type": "health_outcome"
   },
   {
     "id": "H12",
-    "slug": "headache",
     "path": "/outcomes/headache",
+    "question": "Is headache associated with exposure?  Can experiments separate exposure from expectation?",
+    "reader_questions": [
+      "Is headache associated with exposure?",
+      " Can experiments separate exposure from expectation?"
+    ],
+    "slug": "headache",
     "title": "EMF and headaches",
-    "question": "Is headache associated with exposure? Can experiments separate exposure from expectation?"
+    "type": "health_outcome"
   },
   {
     "id": "H13",
-    "slug": "cognition",
     "path": "/outcomes/cognition",
+    "question": "Are cognitive effects measured in blinded experiments?  What about children?",
+    "reader_questions": [
+      "Are cognitive effects measured in blinded experiments?",
+      " What about children?"
+    ],
+    "slug": "cognition",
     "title": "EMF, attention, and memory",
-    "question": "Are cognitive effects measured in blinded experiments? What about children?"
+    "type": "health_outcome"
   },
   {
     "id": "H14",
-    "slug": "dna-damage",
     "path": "/outcomes/dna-damage",
+    "question": "What do cell and animal assays measure?  Does a biomarker establish human disease risk?",
+    "reader_questions": [
+      "What do cell and animal assays measure?",
+      " Does a biomarker establish human disease risk?"
+    ],
+    "slug": "dna-damage",
     "title": "EMF and DNA damage",
-    "question": "What do cell and animal assays measure? Does a biomarker establish human disease risk?"
+    "type": "health_outcome"
   },
   {
     "id": "H15",
-    "slug": "heating",
     "path": "/outcomes/heating",
+    "question": "How is heating measured?  How do temperature, SAR, duration, and body size interact?",
+    "reader_questions": [
+      "How is heating measured?",
+      " How do temperature, SAR, duration, and body size interact?"
+    ],
+    "slug": "heating",
     "title": "RF exposure and tissue heating",
-    "question": "How is heating measured? How do temperature, SAR, duration, and body size interact?"
+    "type": "health_outcome"
   },
   {
     "id": "H16",
-    "slug": "animal-cancer",
     "path": "/outcomes/animal-cancer",
+    "question": "What do lifetime bioassays and tumour-promotion experiments show?  Are results replicated?",
+    "reader_questions": [
+      "What do lifetime bioassays and tumour-promotion experiments show?",
+      " Are results replicated?"
+    ],
+    "slug": "animal-cancer",
     "title": "EMF and cancer in animals",
-    "question": "What do lifetime bioassays and tumour-promotion experiments show? Are results replicated?"
+    "type": "health_outcome"
   },
   {
     "id": "H17",
-    "slug": "tinnitus",
     "path": "/outcomes/tinnitus",
+    "question": "Is tinnitus incidence or severity associated with a defined exposure?  Do blinded tests use validated outcomes?",
+    "reader_questions": [
+      "Is tinnitus incidence or severity associated with a defined exposure?",
+      " Do blinded tests use validated outcomes?"
+    ],
+    "slug": "tinnitus",
     "title": "EMF and tinnitus",
-    "question": "Is tinnitus incidence or severity associated with a defined exposure? Do blinded tests use validated outcomes?"
+    "type": "health_outcome"
+  },
+  {
+    "id": "Q01",
+    "path": "/questions/do-phones-cause-brain-cancer",
+    "question": "Does the evidence support a causal conclusion?  Which tumour types and exposure windows were tested?",
+    "reader_questions": [
+      "Does the evidence support a causal conclusion?",
+      " Which tumour types and exposure windows were tested?"
+    ],
+    "slug": "do-phones-cause-brain-cancer",
+    "title": "Do mobile phones cause brain cancer?",
+    "type": "question"
+  },
+  {
+    "id": "Q02",
+    "path": "/questions/heavy-long-term-phone-use",
+    "question": "How are heavy use and latency defined?  How reliable is recalled call time?",
+    "reader_questions": [
+      "How are heavy use and latency defined?",
+      " How reliable is recalled call time?"
+    ],
+    "slug": "heavy-long-term-phone-use",
+    "title": "What about heavy or long-term phone use?",
+    "type": "question"
+  },
+  {
+    "id": "Q03",
+    "path": "/questions/brain-cancer-trends",
+    "question": "What can incidence trends test?  How do diagnosis and registration affect trends?",
+    "reader_questions": [
+      "What can incidence trends test?",
+      " How do diagnosis and registration affect trends?"
+    ],
+    "slug": "brain-cancer-trends",
+    "title": "Have brain cancer rates tracked mobile phone use?",
+    "type": "question"
+  },
+  {
+    "id": "Q04",
+    "path": "/questions/why-studies-disagree",
+    "question": "How do exposure measurement, selection, and recall affect results?  Are reports independent?",
+    "reader_questions": [
+      "How do exposure measurement, selection, and recall affect results?",
+      " Are reports independent?"
+    ],
+    "slug": "why-studies-disagree",
+    "title": "Why do phone-and-cancer studies disagree?",
+    "type": "question"
+  },
+  {
+    "id": "Q05",
+    "path": "/questions/ntp-and-ramazzini",
+    "question": "What was tested?  Can animal findings be translated to phone users?",
+    "reader_questions": [
+      "What was tested?",
+      " Can animal findings be translated to phone users?"
+    ],
+    "slug": "ntp-and-ramazzini",
+    "title": "What do NTP and Ramazzini tell us?",
+    "type": "question"
+  },
+  {
+    "id": "Q06",
+    "path": "/questions/children-and-phones",
+    "question": "What child-specific brain-tumour evidence exists?  What cannot be inferred about lifetime risk?",
+    "reader_questions": [
+      "What child-specific brain-tumour evidence exists?",
+      " What cannot be inferred about lifetime risk?"
+    ],
+    "slug": "children-and-phones",
+    "title": "Are children more vulnerable to phone exposure?",
+    "type": "question"
+  },
+  {
+    "id": "Q07",
+    "path": "/questions/sleeping-near-phone",
+    "question": "What exposure occurs overnight?  Is sleep or cancer directly studied in this situation?",
+    "reader_questions": [
+      "What exposure occurs overnight?",
+      " Is sleep or cancer directly studied in this situation?"
+    ],
+    "slug": "sleeping-near-phone",
+    "title": "Is sleeping near a phone a health risk?",
+    "type": "question"
+  },
+  {
+    "id": "Q08",
+    "path": "/questions/router-at-night",
+    "question": "Is there evidence of a sleep benefit?  How does disabling a router change exposure?",
+    "reader_questions": [
+      "Is there evidence of a sleep benefit?",
+      " How does disabling a router change exposure?"
+    ],
+    "slug": "router-at-night",
+    "title": "Should I turn off Wi-Fi at night?",
+    "type": "question"
+  },
+  {
+    "id": "Q09",
+    "path": "/questions/living-near-tower",
+    "question": "How is residential exposure measured?  What can a distance comparison establish?",
+    "reader_questions": [
+      "How is residential exposure measured?",
+      " What can a distance comparison establish?"
+    ],
+    "slug": "living-near-tower",
+    "title": "Is living near a cell tower a health risk?",
+    "type": "question"
+  },
+  {
+    "id": "Q10",
+    "path": "/questions/living-near-power-lines",
+    "question": "Is distance a useful exposure proxy?  What is known about childhood leukaemia?",
+    "reader_questions": [
+      "Is distance a useful exposure proxy?",
+      " What is known about childhood leukaemia?"
+    ],
+    "slug": "living-near-power-lines",
+    "title": "What does living near a power line mean for risk?",
+    "type": "question"
+  },
+  {
+    "id": "Q11",
+    "path": "/questions/5g-versus-older-networks",
+    "question": "Which frequencies and exposure patterns differ?  Which findings transfer and which need direct tests?",
+    "reader_questions": [
+      "Which frequencies and exposure patterns differ?",
+      " Which findings transfer and which need direct tests?"
+    ],
+    "slug": "5g-versus-older-networks",
+    "title": "Is 5G different from older mobile networks?",
+    "type": "question"
+  },
+  {
+    "id": "Q12",
+    "path": "/questions/reducing-phone-exposure",
+    "question": "How much does distance change absorbed exposure?  Is a health benefit demonstrated?",
+    "reader_questions": [
+      "How much does distance change absorbed exposure?",
+      " Is a health benefit demonstrated?"
+    ],
+    "slug": "reducing-phone-exposure",
+    "title": "Do speakerphone and headsets reduce exposure?",
+    "type": "question"
+  },
+  {
+    "id": "Q13",
+    "path": "/questions/phone-pocket-fertility",
+    "question": "Is pocket carriage measured directly?  Are semen changes linked to fertility outcomes?",
+    "reader_questions": [
+      "Is pocket carriage measured directly?",
+      " Are semen changes linked to fertility outcomes?"
+    ],
+    "slug": "phone-pocket-fertility",
+    "title": "Does carrying a phone in a pocket affect fertility?",
+    "type": "question"
+  },
+  {
+    "id": "Q14",
+    "path": "/questions/shields-and-stickers",
+    "question": "Do products reduce measured exposure?  Can they affect device transmission?  Is health benefit tested?",
+    "reader_questions": [
+      "Do products reduce measured exposure?",
+      " Can they affect device transmission?",
+      " Is health benefit tested?"
+    ],
+    "slug": "shields-and-stickers",
+    "title": "Do EMF shields and stickers work?",
+    "type": "question"
+  },
+  {
+    "id": "Q15",
+    "path": "/questions/below-limits",
+    "question": "What endpoint does a limit address?  How do uncertainty and long-term evidence enter the assessment?",
+    "reader_questions": [
+      "What endpoint does a limit address?",
+      " How do uncertainty and long-term evidence enter the assessment?"
+    ],
+    "slug": "below-limits",
+    "title": "Does being below an exposure limit settle the health question?",
+    "type": "question"
+  },
+  {
+    "id": "Q16",
+    "path": "/questions/funding-and-trust",
+    "question": "Who funded the work?  What control did sponsors have?  Does the conclusion survive sensitivity analyses?",
+    "reader_questions": [
+      "Who funded the work?",
+      " What control did sponsors have?",
+      " Does the conclusion survive sensitivity analyses?"
+    ],
+    "slug": "funding-and-trust",
+    "title": "How should I assess industry-funded EMF research?",
+    "type": "question"
+  },
+  {
+    "id": "G01",
+    "path": "/guides/emf-basics",
+    "question": "What do RF, ELF, and static fields mean?  How does exposure differ from absorbed dose?",
+    "reader_questions": [
+      "What do RF, ELF, and static fields mean?",
+      " How does exposure differ from absorbed dose?"
+    ],
+    "slug": "emf-basics",
+    "title": "EMF basics: fields, frequencies, and exposure",
+    "type": "guide"
+  },
+  {
+    "id": "G02",
+    "path": "/guides/exposure-measurement",
+    "question": "What do W/kg, V/m, µT, and power density measure?  Which values can be compared?",
+    "reader_questions": [
+      "What do W/kg, V/m, µT, and power density measure?",
+      " Which values can be compared?"
+    ],
+    "slug": "exposure-measurement",
+    "title": "Understanding SAR, field strength, and dose",
+    "type": "guide"
+  },
+  {
+    "id": "G03",
+    "path": "/guides/reading-risk",
+    "question": "What do relative risk, absolute risk, confidence intervals, and “not significant” mean?",
+    "reader_questions": [
+      "What do relative risk, absolute risk, confidence intervals, and “not significant” mean?"
+    ],
+    "slug": "reading-risk",
+    "title": "Reading risk numbers without being misled",
+    "type": "guide"
+  },
+  {
+    "id": "G04",
+    "path": "/guides/study-designs",
+    "question": "What can cohorts, case-control studies, trials, and animal experiments tell us?",
+    "reader_questions": [
+      "What can cohorts, case-control studies, trials, and animal experiments tell us?"
+    ],
+    "slug": "study-designs",
+    "title": "How EMF studies work",
+    "type": "guide"
+  },
+  {
+    "id": "G05",
+    "path": "/guides/animal-to-human",
+    "question": "What makes an animal finding relevant?  How do species, dose, and exposure pattern limit translation?",
+    "reader_questions": [
+      "What makes an animal finding relevant?",
+      " How do species, dose, and exposure pattern limit translation?"
+    ],
+    "slug": "animal-to-human",
+    "title": "From animal experiments to human health",
+    "type": "guide"
+  },
+  {
+    "id": "G06",
+    "path": "/guides/limits-and-regulators",
+    "question": "Who sets limits?  Which edition, jurisdiction, frequency, and averaging rules apply?",
+    "reader_questions": [
+      "Who sets limits?",
+      " Which edition, jurisdiction, frequency, and averaging rules apply?"
+    ],
+    "slug": "limits-and-regulators",
+    "title": "Understanding exposure limits and regulators",
+    "type": "guide"
+  },
+  {
+    "id": "G07",
+    "path": "/guides/home-exposure",
+    "question": "What contributes to exposure?  What can a home meter actually tell you?",
+    "reader_questions": [
+      "What contributes to exposure?",
+      " What can a home meter actually tell you?"
+    ],
+    "slug": "home-exposure",
+    "title": "Understanding exposure in your home",
+    "type": "guide"
+  },
+  {
+    "id": "G08",
+    "path": "/guides/family-choices",
+    "question": "Which questions have child-specific evidence?  What choices reduce exposure, and at what cost?",
+    "reader_questions": [
+      "Which questions have child-specific evidence?",
+      " What choices reduce exposure, and at what cost?"
+    ],
+    "slug": "family-choices",
+    "title": "A practical guide to EMF questions for families",
+    "type": "guide"
+  },
+  {
+    "id": "G09",
+    "path": "/guides/symptoms-and-support",
+    "question": "How can symptoms be taken seriously?  What assessment and support approaches are studied?",
+    "reader_questions": [
+      "How can symptoms be taken seriously?",
+      " What assessment and support approaches are studied?"
+    ],
+    "slug": "symptoms-and-support",
+    "title": "A practical guide for people reporting EMF-related symptoms",
+    "type": "guide"
+  },
+  {
+    "id": "G10",
+    "path": "/guides/how-we-grade-evidence",
+    "question": "How are studies graded, funded, linked, and updated?  How can readers audit a claim?",
+    "reader_questions": [
+      "How are studies graded, funded, linked, and updated?",
+      " How can readers audit a claim?"
+    ],
+    "slug": "how-we-grade-evidence",
+    "title": "How emfaxis evaluates evidence",
+    "type": "guide"
+  },
+  {
+    "id": "S18",
+    "path": "/guides/rf-animal-experiments",
+    "question": "What exposures did NTP, Ramazzini, and replication studies use?  How do they relate to human exposure?",
+    "reader_questions": [
+      "What exposures did NTP, Ramazzini, and replication studies use?",
+      " How do they relate to human exposure?"
+    ],
+    "slug": "rf-animal-experiments",
+    "title": "RF exposure in animal experiments — methods guide",
+    "type": "methods_guide"
+  },
+  {
+    "id": "F01",
+    "path": "/fields/radiofrequency",
+    "question": "What sources and component-specific evidence belong to this field category?",
+    "reader_questions": [
+      "What sources and component-specific evidence belong to this field category?"
+    ],
+    "slug": "radiofrequency",
+    "title": "Radiofrequency",
+    "type": "field_category"
+  },
+  {
+    "id": "F02",
+    "path": "/fields/elf",
+    "question": "What sources and component-specific evidence belong to this field category?",
+    "reader_questions": [
+      "What sources and component-specific evidence belong to this field category?"
+    ],
+    "slug": "elf",
+    "title": "Power-frequency and ELF",
+    "type": "field_category"
+  },
+  {
+    "id": "F03",
+    "path": "/fields/intermediate-frequency",
+    "question": "What sources and component-specific evidence belong to this field category?",
+    "reader_questions": [
+      "What sources and component-specific evidence belong to this field category?"
+    ],
+    "slug": "intermediate-frequency",
+    "title": "Intermediate-frequency",
+    "type": "field_category"
+  },
+  {
+    "id": "F04",
+    "path": "/fields/static",
+    "question": "What sources and component-specific evidence belong to this field category?",
+    "reader_questions": [
+      "What sources and component-specific evidence belong to this field category?"
+    ],
+    "slug": "static",
+    "title": "Static fields",
+    "type": "field_category"
   }
 ]

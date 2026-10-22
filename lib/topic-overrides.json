@@ -1,0 +1,310 @@
+{
+  "additions": {
+    "5g": {
+      "modules": {
+        "everyday-exposure": [
+          {
+            "refs": [
+              "E02-T03-R264"
+            ],
+            "text": "A recovered controlled experiment also tested acute 26 GHz exposure and superficial skin temperature. It reported no detectable real-versus-sham temperature effect at its tested low field strengths. That supplies a specific higher-band comparison, rather than a test of all 5G uses."
+          }
+        ],
+        "evidence": [
+          {
+            "refs": [
+              "E02-T03-R264",
+              "5g-sleep"
+            ],
+            "text": "The 26 GHz study concerns acute superficial temperature in healthy volunteers. It does not validate an exposure-guideline threshold, address all tissues or establish long-term safety. Keep it separate from the 700 MHz/3.6 GHz sleep experiment and from older phone-cancer cohorts."
+          }
+        ]
+      }
+    },
+    "cognition": {
+      "modules": {
+        "controlled-studies": [
+          {
+            "refs": [
+              "wifi-pmid-26600173",
+              "wifi-pmid-33166026",
+              "hermes"
+            ],
+            "text": "The waking Wi-Fi abstract reports no measurable effect on EEG power or vigilance reaction time. The overnight memory full-text snapshot describes a sham-controlled crossover, exploratory analyses without multiple-testing correction and an order imbalance after exclusions. Neither acute experiment is a direct replication of the HERMES observational association. Their populations, outcomes and exposure estimates differ. The shared sleep-project sample should not be counted twice. Full scientific appraisal remains pending. No general claim that Wi-Fi improves or impairs cognition is established by the selected records. The record for each report identifies whether an abstract or fuller text was available. A longitudinal developmental question would require evidence matching that time window. These distinctions are part of the result’s interpretation."
+          }
+        ]
+      },
+      "overview": [
+        {
+          "refs": [
+            "hermes",
+            "wifi-pmid-26600173"
+          ],
+          "text": "Cognitive evidence in this edition now includes the observational HERMES adolescent cohort and acute Wi-Fi experiments. HERMES estimates modeled RF brain dose and one-year memory change; the Wi-Fi waking study tests EEG and vigilance under acute conditions. These are different populations, exposures and endpoints. Neither is a single measure of general cognitive development."
+        },
+        {
+          "refs": [
+            "wifi-pmid-33166026"
+          ],
+          "text": "A separate Wi-Fi overnight-memory paper uses a subset of the sleep project’s participants. It reported improved word-pair retention but no significant emotional or procedural memory difference. The authors classified the declarative result as inconclusive because physiological findings did not corroborate it and chance remained possible. Its exploratory analyses and study-family overlap matter when comparing the evidence."
+        }
+      ],
+      "takeaway": "The selected observational and acute experimental findings address different memory and attention endpoints. The Wi-Fi declarative-memory result was considered inconclusive; no general cognitive effect is established by this collection."
+    },
+    "ehs-symptoms": {
+      "modules": {
+        "measurement": [
+          {
+            "refs": [
+              "E02-T03-R054"
+            ],
+            "text": "A recovered cross-sectional report found more tinnitus among people identifying as electromagnetically hypersensitive, while its phone-use measures did not explain the contrast. That coexistence does not establish an RF cause, the direction of the association or a treatment mechanism. It measured reports and histories rather than each person’s physical field exposure."
+          }
+        ]
+      }
+    },
+    "headache": {
+      "modules": {
+        "evidence": [
+          {
+            "refs": [
+              "E02-T03-R175"
+            ],
+            "text": "The recovered COSMOS symptom follow-up adds a prospective comparison using call-time information. Its headache association was small and weakened with adjustment; tinnitus and hearing-loss findings did not show an association with call time. Limited baseline call records, only two symptom assessments and self-report constrain interpretation. This is not a sham-controlled RF exposure trial."
+          }
+        ]
+      }
+    },
+    "sleep": {
+      "faqs": [
+        {
+          "a": "No. EEG physiology, subjective sleep, sleep structure and clinical insomnia are different endpoints.",
+          "q": "Is a sleep EEG change the same as insomnia?"
+        },
+        {
+          "a": "No. The selected acute laboratory records do not establish a clinical benefit from a long-term household router-off intervention.",
+          "q": "Does this establish a benefit from turning Wi-Fi off?"
+        },
+        {
+          "a": "No. The memory paper analyzes a subset of the sleep project’s participants.",
+          "q": "Are the Wi-Fi sleep and memory results independent?"
+        }
+      ],
+      "modules": {
+        "controlled-studies": [
+          {
+            "refs": [
+              "wifi-pmid-32408065",
+              "wifi-pmid-33166026",
+              "5g-sleep"
+            ],
+            "text": "The Wi-Fi project used acute sham exposure comparisons in healthy young men. Its memory analysis excluded participants after protocol deviations, leaving unbalanced exposure order, and used exploratory analyses without a multiple-testing correction. The 5G experiment tests a different signal and genetic subgroup. More publications from the Wi-Fi participant family do not enlarge its independent sample."
+          }
+        ],
+        "interventions": [
+          {
+            "refs": [
+              "wifi-pmid-32408065",
+              "wifi-pmid-33166026"
+            ],
+            "text": "The selected experiments do not establish a clinical sleep benefit from routinely switching a household router off. That question needs an intervention comparison measuring sleep over a relevant period, characterizing exposure and accounting for changes in device use or bedtime routines. A reduction in transmissions is an engineering outcome, rather than a measured sleep benefit. The intervention remains unassessed here."
+          }
+        ],
+        "measurement": [
+          {
+            "refs": [
+              "wifi-pmid-32408065",
+              "wifi-pmid-33166026"
+            ],
+            "text": "Subjective sleep, whole-night architecture, spectral EEG and overnight memory retention are different measurements. The Wi-Fi sleep abstract distinguishes unchanged subjective/macrostructure outcomes from an alpha EEG finding. Physiological sensitivity and clinical importance are separate questions: say which endpoint changed, over what interval and in which participants."
+          }
+        ]
+      },
+      "overview": [
+        {
+          "refs": [
+            "wifi-pmid-32408065",
+            "5g-sleep"
+          ],
+          "text": "Direct Wi-Fi evidence now accompanies the selected 5G sleep experiment. The Wi-Fi abstract reports no significant subjective-sleep or macrostructure differences, with a change in NREM alpha EEG. The 5G study reports a genotype-specific spindle-frequency finding under different signal conditions. These outcomes and exposures should remain separate. Any broader claim needs the actual endpoint and population. In particular, a physiological finding should not be described as clinical insomnia. These selected records cannot answer every signal, age group or chronic exposure pattern."
+        },
+        {
+          "refs": [
+            "wifi-pmid-33166026"
+          ],
+          "text": "The Wi-Fi memory report uses a subset of the same sleep-project participants. It is not independent confirmation. Its positive word-pair result was classified as inconclusive by the authors, and the study’s exploratory analyses and restricted population remain important limitations. The sleep report remains abstract-only; the memory paper was inspected through a publisher full-text snapshot. Those different access bases limit the methodological detail available to this reading edition. Scientific appraisal and human review remain pending. No pooled sleep effect or certainty grade is assigned. The records support bounded comparisons rather than a universal verdict."
+        }
+      ],
+      "takeaway": "Selected acute experiments report signal- and endpoint-specific findings. Direct Wi-Fi sleep and shared-sample memory records now complement the 5G study; none establishes a router-off sleep benefit."
+    }
+  },
+  "topics": [
+    {
+      "aliases": [
+        "router",
+        "wlan",
+        "wireless lan",
+        "wi-fi"
+      ],
+      "faqs": [
+        {
+          "a": "A clinical benefit is not established by these selected acute experiments. They test specified Wi-Fi/sham conditions, rather than a long-term household router-off intervention.",
+          "q": "Does turning the router off improve sleep?"
+        },
+        {
+          "a": "No. The memory analysis uses a subset of the sleep study’s participants. The source records keep that study-family overlap visible.",
+          "q": "Are the sleep and memory reports independent?"
+        },
+        {
+          "a": "No clinical harm conclusion follows from that physiological finding alone. The abstract reported no significant change in subjective sleep or macrostructure under its conditions.",
+          "q": "Does the EEG finding mean sleep harm?"
+        }
+      ],
+      "guide": "wireless",
+      "id": "wifi",
+      "intro": "Direct sleep and memory experiments, device measurements and the limits of applying a laboratory result to a home router.",
+      "kind": "source",
+      "modules": [
+        {
+          "id": "properties",
+          "label": "Properties",
+          "paragraphs": [
+            {
+              "refs": [
+                "wifi-pmid-22004929",
+                "foph-wlan"
+              ],
+              "text": "The source description includes both the access point and the devices communicating with it. An antenna’s radiation pattern and the operating state affect what is measured at a particular location. A Wi-Fi label alone does not identify absorbed dose at the head or a room-average field."
+            },
+            {
+              "refs": [
+                "wifi-pmid-32104921"
+              ],
+              "text": "The recovered sleep exposure-facility paper describes an engineered head-exposure system, not a separate trial showing a health effect. Its dosimetry depends on position and geometry. That methods companion should remain attached to the experimental family rather than counted as independent replication."
+            }
+          ],
+          "title": "Router and client signals"
+        },
+        {
+          "id": "everyday-exposure",
+          "label": "Everyday exposure",
+          "paragraphs": [
+            {
+              "refs": [
+                "wifi-pmid-21856328",
+                "wifi-pmid-23085070"
+              ],
+              "text": "School measurement reports characterize transmissions from access points and laptops during particular applications. Their duty factors differ, and application traffic can alter airtime. These are exposure measurements, not trials of pupils’ sleep, fertility or development."
+            },
+            {
+              "refs": [
+                "wifi-pmid-17293700"
+              ],
+              "text": "A survey at multiple sites compared measured fields with public guidance under its stated conditions. Bystander measurements are not equivalent to contact exposure from a laptop. The tested distances and use patterns matter more than treating one maximum measurement as a universal home value."
+            }
+          ],
+          "title": "Traffic, duty factor and position"
+        },
+        {
+          "id": "mechanisms",
+          "label": "Interactions",
+          "paragraphs": [
+            {
+              "refs": [
+                "wifi-pmid-26600173"
+              ],
+              "text": "Waking EEG and psychomotor vigilance did not change measurably in the recovered acute experiment’s abstract. That concerns awake participants and the specified tasks. It is not an overnight-sleep experiment or a long-term neurological disease study."
+            },
+            {
+              "refs": [
+                "wifi-pmid-33166026"
+              ],
+              "text": "The memory paper reported improved word-pair retention after Wi-Fi, with no significant difference in emotional or procedural memory. The authors classified the declarative result as inconclusive because associated physiology did not corroborate it and chance remained possible. It is not evidence that Wi-Fi improves learning."
+            }
+          ],
+          "title": "EEG and memory are different endpoints"
+        },
+        {
+          "id": "levels-and-limits",
+          "label": "Levels & limits",
+          "paragraphs": [
+            {
+              "refs": [
+                "icnirp-rf",
+                "foph-wlan"
+              ],
+              "text": "A guideline comparison, an engineered exposure condition and a household average answer different questions. Compatible quantities and averaging are necessary before comparing them. The FOPH WLAN guidance is useful exposure context, rather than a substitute for outcome-specific clinical evidence."
+            },
+            {
+              "refs": [
+                "wifi-pmid-32408065"
+              ],
+              "text": "The sleep paper’s full text was not recovered in this run. Its abstract supplies the reported design and findings, but not a complete assessment of exclusions, allocation, analytic decisions or precision. The source record marks this limit instead of promoting an abstract into a completed full-text review."
+            }
+          ],
+          "title": "Test conditions and public guidance"
+        },
+        {
+          "id": "distance",
+          "label": "Distance",
+          "paragraphs": [
+            {
+              "refs": [
+                "wifi-pmid-32104921",
+                "foph-wlan"
+              ],
+              "text": "Position can change the field and absorbed-dose pattern. A directional exposure system designed for a sleeping volunteer does not reproduce every domestic router position. Home placement, device traffic and body geometry must be established before a quantitative comparison."
+            },
+            {
+              "refs": [
+                "wifi-pmid-32408065",
+                "wifi-pmid-33166026"
+              ],
+              "text": "Switching a router off changes transmission, but demonstrating a sleep benefit requires an intervention comparison that measures sleep and controls relevant alternatives. The recovered acute laboratory experiments do not establish that household intervention’s clinical benefit."
+            }
+          ],
+          "title": "Translate the setting carefully"
+        },
+        {
+          "id": "evidence",
+          "label": "Evidence",
+          "paragraphs": [
+            {
+              "refs": [
+                "wifi-pmid-32408065",
+                "wifi-pmid-33166026",
+                "wifi-pmid-32104921"
+              ],
+              "text": "The sleep and memory publications belong to one participant family; the facility report is methodological. Restricted healthy male samples and acute exposure limit generalization. The memory analysis is exploratory, with no correction for multiple testing and an exposure-order imbalance after exclusions."
+            },
+            {
+              "refs": [],
+              "text": "Seven Wi-Fi reports remain abstract-only in this recovery. The inspected memory full text is a publisher web snapshot; its original PDF and supplement were unavailable. Source checking supports these bounded statements, while systematic synthesis, scientific appraisal and human review remain pending."
+            }
+          ],
+          "title": "What the direct records contribute"
+        }
+      ],
+      "overview": [
+        {
+          "refs": [
+            "foph-wlan",
+            "wifi-pmid-26600173",
+            "wifi-pmid-32408065"
+          ],
+          "text": "Wi-Fi needs its own exposure description: the router or client device, transmission activity, position, frequency and duration. Phone-cancer cohorts and a 5G sleep experiment cannot substitute for direct Wi-Fi evidence. This edition now links acute Wi-Fi experiments and engineering measurements that address parts of that question."
+        },
+        {
+          "refs": [
+            "wifi-pmid-32408065",
+            "wifi-pmid-33166026"
+          ],
+          "text": "The sleep abstract describes a blinded sham-controlled crossover in healthy young men. It reports no significant change in subjective sleep or sleep macrostructure, with reduced NREM alpha EEG activity. A memory paper uses a subset of the same participants. Two publications from that project are not two independent replications. The abstract-only sleep record and inspected publisher memory text have different access limits. No complete appraisal is claimed. No clinical sleep-harm conclusion follows from the EEG result alone. The selected studies test acute conditions, and the supplements remain unread."
+        }
+      ],
+      "pageId": "S03",
+      "takeaway": "The selected acute Wi-Fi sleep study reported no significant change in subjective sleep or sleep macrostructure, alongside an EEG finding. Its abstract and a shared-sample memory paper do not establish a long-term health verdict or a benefit from switching routers off.",
+      "title": "Wi-Fi and health"
+    }
+  ]
+}

@@ -1,0 +1,2661 @@
+[
+  {
+    "access_basis": "owner_supplied_full_text",
+    "authors": "Schoemaker MJ, Swerdlow AJ, Ahlbom A, Auvinen A, Blaasaas KG, Cardis E, Christensen HC, Feychting M, Hepworth SJ, Johansen C, Klaeboe L, Lönn S, McKinney PA, Muir K, Raitanen J, Salminen T, Thomsen J, Tynes T",
+    "checked_at": "2026-10-22",
+    "citation": "Schoemaker MJ, Swerdlow AJ, Ahlbom A, Auvinen A, Blaasaas KG, Cardis E, Christensen HC, Feychting M, Hepworth SJ, Johansen C, Klaeboe L, Lönn S, McKinney PA, Muir K, Raitanen J, Salminen T, Thomsen J, Tynes T. Mobile phone use and risk of acoustic neuroma: results of the Interphone case-control study in five North European countries. 2005. DOI: 10.1038/sj.bjc.6602764",
+    "claims": [
+      {
+        "basis": "full_text",
+        "id": "E01-T01-R022-c01",
+        "locator": "PDF physical p5, Discussion; p6, summary paragraph",
+        "scientific_review": "pending",
+        "text": "The five-country analysis did not find raised acoustic-neuroma risk for regular mobile-phone use overall or during the first decade. A same-side signal after long use was observed, but its interpretation was uncertain."
+      },
+      {
+        "basis": "full_text",
+        "id": "E01-T01-R022-c02",
+        "locator": "PDF physical pp5–6, Discussion",
+        "scientific_review": "pending",
+        "text": "Hearing loss can change the ear used for calls, while recall and differential participation can bias reported exposure. The paper specifically warns against firm conclusions from side-of-use analyses."
+      }
+    ],
+    "doi": "10.1038/sj.bjc.6602764",
+    "fingerprint": "ee1dd0b89ecb3b3e8187858328585d941f8cffd0bd980e8ef6adbde25af60e40",
+    "id": "E01-T01-R022",
+    "integrity_status": "Metadata and selected full-text passages checked; comprehensive correction and protocol audit pending",
+    "limitations": "Selected-passage extraction; complete scientific review pending. North European INTERPHONE acoustic-neuroma analysis; includes the earlier Swedish component and belongs to INTERPHONE, not independent of those reports.",
+    "pages": [
+      {
+        "id": "H04",
+        "path": "/outcomes/acoustic-neuroma",
+        "title": "EMF and acoustic neuroma"
+      },
+      {
+        "id": "Q02",
+        "path": "/questions/heavy-long-term-phone-use",
+        "title": "What about heavy or long-term phone use?"
+      },
+      {
+        "id": "Q04",
+        "path": "/questions/why-studies-disagree",
+        "title": "Why do phone-and-cancer studies disagree?"
+      },
+      {
+        "id": "S01",
+        "path": "/sources/mobile-phones",
+        "title": "Mobile phones and health"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "scope": "Acoustic-neuroma cases and controls from five North European INTERPHONE countries. Retrospectively reported mobile-phone history and side of use.",
+    "source_type": "human_observational_pooled",
+    "title": "Mobile phone use and risk of acoustic neuroma: results of the Interphone case-control study in five North European countries.",
+    "url": "https://doi.org/10.1038/sj.bjc.6602764",
+    "year": "2005"
+  },
+  {
+    "access_basis": "owner_supplied_full_text",
+    "authors": "Carlberg M, Söderqvist F, Hansson Mild K, Hardell L",
+    "checked_at": "2026-10-22",
+    "citation": "Carlberg M, Söderqvist F, Hansson Mild K, Hardell L. Meningioma patients diagnosed 2007-2009 and the association with use of mobile and cordless phones: a case-control study. 2013. DOI: 10.1186/1476-069x-12-60",
+    "claims": [
+      {
+        "basis": "full_text",
+        "id": "E01-T01-R126-c01",
+        "locator": "PDF physical p9, Conclusions",
+        "scientific_review": "pending",
+        "text": "The Swedish case-control study found no conclusive association of meningioma with mobile or cordless phone use. A signal in the highest cumulative-use group was not accompanied by a statistically significant increasing pattern with latency."
+      },
+      {
+        "basis": "full_text",
+        "id": "E01-T01-R126-c02",
+        "locator": "PDF physical p8, Discussion; p9, Conclusions",
+        "scientific_review": "pending",
+        "text": "The reference group was difficult to define because few people were truly unexposed; most users had used several phone technologies. The authors sought still longer latency observations, and questionnaire exposure remains distinct from measured absorbed dose."
+      }
+    ],
+    "doi": "10.1186/1476-069x-12-60",
+    "fingerprint": "ffc4ca75255e1485e7e1014d8b54b77f5984f340c81dfe787ac6adb6b8944c8b",
+    "id": "E01-T01-R126",
+    "integrity_status": "Metadata and selected full-text passages checked; comprehensive correction and protocol audit pending",
+    "limitations": "Selected-passage extraction; complete scientific review pending. Hardell/Carlberg Swedish 2007–2009 case-control series; shares controls/series with other reports, family independence not adjudicated.",
+    "pages": [
+      {
+        "id": "H03",
+        "path": "/outcomes/meningioma",
+        "title": "EMF and meningioma"
+      },
+      {
+        "id": "Q01",
+        "path": "/questions/do-phones-cause-brain-cancer",
+        "title": "Do mobile phones cause brain cancer?"
+      },
+      {
+        "id": "Q04",
+        "path": "/questions/why-studies-disagree",
+        "title": "Why do phone-and-cancer studies disagree?"
+      },
+      {
+        "id": "S01",
+        "path": "/sources/mobile-phones",
+        "title": "Mobile phones and health"
+      },
+      {
+        "id": "S02",
+        "path": "/sources/cordless-phones",
+        "title": "Cordless and DECT phones"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "scope": "Swedish adult meningioma cases diagnosed 2007–2009 and population controls. Questionnaire-derived mobile and cordless phone histories.",
+    "source_type": "human_observational",
+    "title": "Meningioma patients diagnosed 2007-2009 and the association with use of mobile and cordless phones: a case-control study.",
+    "url": "https://doi.org/10.1186/1476-069x-12-60",
+    "year": "2013"
+  },
+  {
+    "access_basis": "owner_supplied_full_text",
+    "authors": "Hardell L, Carlberg M, Söderqvist F, Mild KH",
+    "checked_at": "2026-10-22",
+    "citation": "Hardell L, Carlberg M, Söderqvist F, Mild KH. Pooled analysis of case-control studies on acoustic neuroma diagnosed 1997-2003 and 2007-2009 and use of mobile and cordless phones. 2013. DOI: 10.3892/ijo.2013.2025",
+    "claims": [
+      {
+        "basis": "full_text",
+        "id": "E01-T01-R127-c01",
+        "locator": "PDF physical p6, Discussion: Main findings",
+        "scientific_review": "pending",
+        "text": "The pooled Swedish acoustic-neuroma analysis reported higher odds with wireless-phone use, with higher estimates in the longest-latency categories. This is an observational association from combined case-control samples."
+      },
+      {
+        "basis": "full_text",
+        "id": "E01-T01-R127-c02",
+        "locator": "PDF physical p6, Main findings and Strengths and limitations; p7, Discussion",
+        "scientific_review": "pending",
+        "text": "The newer study period had few acoustic-neuroma cases, prompting pooling with earlier data. Many participants had used several phone types, and hearing loss can alter the preferred ear, complicating side-of-use interpretation."
+      }
+    ],
+    "doi": "10.3892/ijo.2013.2025",
+    "fingerprint": "ce1ffe60d8dd2500bba4e5dd78883f41cc1162d14afae3a2b1ba40c5761f052c",
+    "id": "E01-T01-R127",
+    "integrity_status": "Metadata and selected full-text passages checked; comprehensive correction and protocol audit pending",
+    "limitations": "Selected-passage extraction; complete scientific review pending. Hardell pooled acoustic-neuroma series includes prior 1997–2003 and 2007–2009 reports; not an independent replication of each.",
+    "pages": [
+      {
+        "id": "H04",
+        "path": "/outcomes/acoustic-neuroma",
+        "title": "EMF and acoustic neuroma"
+      },
+      {
+        "id": "Q02",
+        "path": "/questions/heavy-long-term-phone-use",
+        "title": "What about heavy or long-term phone use?"
+      },
+      {
+        "id": "Q04",
+        "path": "/questions/why-studies-disagree",
+        "title": "Why do phone-and-cancer studies disagree?"
+      },
+      {
+        "id": "S01",
+        "path": "/sources/mobile-phones",
+        "title": "Mobile phones and health"
+      },
+      {
+        "id": "S02",
+        "path": "/sources/cordless-phones",
+        "title": "Cordless and DECT phones"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "scope": "Swedish acoustic-neuroma case-control samples diagnosed in 1997–2003 and 2007–2009. Questionnaire-derived mobile and cordless phone histories pooled across two periods.",
+    "source_type": "human_observational_pooled",
+    "title": "Pooled analysis of case-control studies on acoustic neuroma diagnosed 1997-2003 and 2007-2009 and use of mobile and cordless phones.",
+    "url": "https://doi.org/10.3892/ijo.2013.2025",
+    "year": "2013"
+  },
+  {
+    "access_basis": "owner_supplied_full_text",
+    "authors": "Turuban M, Kromhout H, Vila J, Vallbona-Vistós M, De Vocht F, Baldi I, Richardson L, Benke G, Krewski D, Parent ME, Sadetzki S, Schlehofer B, Schüz J, Siemiatycki J, van Tongeren M, Woodward A, Cardis E, Turner MC",
+    "checked_at": "2026-10-22",
+    "citation": "Turuban M, Kromhout H, Vila J, Vallbona-Vistós M, De Vocht F, Baldi I, Richardson L, Benke G, Krewski D, Parent ME, Sadetzki S, Schlehofer B, Schüz J, Siemiatycki J, van Tongeren M, Woodward A, Cardis E, Turner MC. Occupational exposure to radiofrequency electromagnetic fields and brain tumor risk: Application of the INTEROCC job-exposure matrix. 2025. DOI: 10.1002/ijc.35182",
+    "claims": [
+      {
+        "basis": "full_text",
+        "id": "E01-T01-R246-c01",
+        "locator": "PDF physical pp10–11, Discussion; p11, §5 Conclusion",
+        "scientific_review": "pending",
+        "text": "The INTEROCC job-exposure-matrix analysis did not show clear, consistent trends between occupational RF exposure measures and glioma or meningioma. Some positive associations appeared in particular windows and methods, but they were not consistent across the analysis approaches."
+      },
+      {
+        "basis": "full_text",
+        "id": "E01-T01-R246-c02",
+        "locator": "PDF physical pp10–11, Discussion",
+        "scientific_review": "pending",
+        "text": "Exposure assignments were group-based, with within-job variability, sparse measurements for many occupations and possible reporting or selection bias. The authors note that multiple comparisons could produce isolated positive findings by chance."
+      }
+    ],
+    "doi": "10.1002/ijc.35182",
+    "fingerprint": "34d11cae519b6a0bcab498ace0b139dec322ccc856f23c875f79403fab5b2b83",
+    "id": "E01-T01-R246",
+    "integrity_status": "Metadata and selected full-text passages checked; comprehensive correction and protocol audit pending",
+    "limitations": "Selected-passage extraction; complete scientific review pending. INTEROCC/INTERPHONE family; overlaps previous source-exposure-matrix analyses, not independent replication of them.",
+    "pages": [
+      {
+        "id": "G02",
+        "path": "/guides/exposure-measurement",
+        "title": "Understanding SAR, field strength, and dose"
+      },
+      {
+        "id": "H01",
+        "path": "/outcomes/brain-tumours",
+        "title": "EMF and brain tumours"
+      },
+      {
+        "id": "H02",
+        "path": "/outcomes/glioma",
+        "title": "EMF and glioma"
+      },
+      {
+        "id": "H03",
+        "path": "/outcomes/meningioma",
+        "title": "EMF and meningioma"
+      },
+      {
+        "id": "Q04",
+        "path": "/questions/why-studies-disagree",
+        "title": "Why do phone-and-cancer studies disagree?"
+      },
+      {
+        "id": "S15",
+        "path": "/sources/occupational-rf",
+        "title": "RF exposure at work"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "scope": "Multi-country INTEROCC adult brain-tumour case-control dataset with lifetime job histories. Occupational RF electric/magnetic-field estimates assigned using three job-exposure-matrix methods and exposure windows.",
+    "source_type": "human_observational",
+    "title": "Occupational exposure to radiofrequency electromagnetic fields and brain tumor risk: Application of the INTEROCC job-exposure matrix.",
+    "url": "https://doi.org/10.1002/ijc.35182",
+    "year": "2025"
+  },
+  {
+    "access_basis": "owner_supplied_full_text",
+    "authors": "Tahmasebi S, Mortazavi SMJ, Pourghayoomi M, Sheikhzadeh P, Welsh JS, Seif F, Bayatiani MR, Nematollahi S, Zohdparast P, Khoskhati F, Ghahramani Z, Allahveisi F, Fadavi P, Zadeh AJ, Nejad SR, Zaker F, Beigi M, Bagherzadeh S, Khosroabadi M, Yarahmadi M, Haghani M, Nikzad S, Bahaeddini N, Arshadi M, Rahimi S, Eslami J, Fallah A, Safdari M, Makarempour F, Amirinejad M, Mortazavi A, Mortazavi SAR",
+    "checked_at": "2026-10-22",
+    "citation": "Tahmasebi S, Mortazavi SMJ, Pourghayoomi M, Sheikhzadeh P, Welsh JS, Seif F, Bayatiani MR, Nematollahi S, Zohdparast P, Khoskhati F, Ghahramani Z, Allahveisi F, Fadavi P, Zadeh AJ, Nejad SR, Zaker F, Beigi M, Bagherzadeh S, Khosroabadi M, Yarahmadi M, Haghani M, Nikzad S, Bahaeddini N, Arshadi M, Rahimi S, Eslami J, Fallah A, Safdari M, Makarempour F, Amirinejad M, Mortazavi A, Mortazavi SAR. Radiofrequency radiation from mobile phones and the risk of breast cancer: A multicenter case-control study with an additional suspected comparison group. 2025. DOI: 10.4103/jrms.jrms_679_25",
+    "claims": [
+      {
+        "basis": "full_text",
+        "id": "E01-T01-R251-c01",
+        "locator": "PDF physical p3, Participants; p8, Table 4; p9, Conclusion",
+        "scientific_review": "pending",
+        "text": "This multicentre case-control report found an association between prolonged self-reported phone use and confirmed breast-cancer status. Women referred for mammography without a diagnosis were a separate exploratory group, not additional confirmed cancers."
+      },
+      {
+        "basis": "full_text",
+        "id": "E01-T01-R251-c02",
+        "locator": "PDF physical p3, Exposure definitions; p9, Conclusion",
+        "scientific_review": "pending",
+        "text": "Retrospective self-report and residual confounding prevent a causal interpretation. Call duration and screen time do not isolate breast RF dose from behaviour, light exposure or other correlates; larger prospective studies with objective measurements were requested."
+      }
+    ],
+    "doi": "10.4103/jrms.jrms_679_25",
+    "fingerprint": "f261a5cc4112c98b823f62c9fd26fee94e2c61c659572258966b18cd58c316c8",
+    "id": "E01-T01-R251",
+    "integrity_status": "Metadata and selected full-text passages checked; comprehensive correction and protocol audit pending",
+    "limitations": "Selected-passage extraction; complete scientific review pending. Tahmasebi 2025 multicentre case-control report; independent-family status not fully searched.",
+    "pages": [
+      {
+        "id": "H07",
+        "path": "/outcomes/other-cancers",
+        "title": "EMF and cancers beyond the brain"
+      },
+      {
+        "id": "Q04",
+        "path": "/questions/why-studies-disagree",
+        "title": "Why do phone-and-cancer studies disagree?"
+      },
+      {
+        "id": "S01",
+        "path": "/sources/mobile-phones",
+        "title": "Mobile phones and health"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "scope": "Women attending participating Iranian centres: confirmed breast cancer, a separate suspected group and controls. Self-reported daily call duration, screen time and phone placement alongside lifestyle factors.",
+    "source_type": "human_observational",
+    "title": "Radiofrequency radiation from mobile phones and the risk of breast cancer: A multicenter case-control study with an additional suspected comparison group.",
+    "url": "https://doi.org/10.4103/jrms.jrms_679_25",
+    "year": "2025"
+  },
+  {
+    "access_basis": "owner_supplied_full_text",
+    "authors": "Landgrebe M, Frick U, Hauser S, Hajak G, Langguth B",
+    "checked_at": "2026-10-22",
+    "citation": "Landgrebe M, Frick U, Hauser S, Hajak G, Langguth B. Association of tinnitus and electromagnetic hypersensitivity: hints for a shared pathophysiology? 2009. DOI: 10.1371/journal.pone.0005026",
+    "claims": [
+      {
+        "basis": "full_text",
+        "id": "E02-T03-R054-c01",
+        "locator": "PDF physical p4, Discussion; p5, Conclusion",
+        "scientific_review": "pending",
+        "text": "Tinnitus was more common in the self-described EHS group, but phone-use measures did not show a relationship with tinnitus. The association with reported EHS is different from evidence that measured fields caused tinnitus."
+      },
+      {
+        "basis": "full_text",
+        "id": "E02-T03-R054-c02",
+        "locator": "PDF physical p5, limitations and Conclusion",
+        "scientific_review": "pending",
+        "text": "The data were cross-sectional and tinnitus was self-reported. They cannot determine the direction of the relationships or prove the paper’s proposed shared mechanism."
+      }
+    ],
+    "doi": "10.1371/journal.pone.0005026",
+    "fingerprint": "ed39d5f0012ee5a83ce80a1cac647aaffd5c4360c7d799a833a329038156e716",
+    "id": "E02-T03-R054",
+    "integrity_status": "Metadata and selected full-text passages checked; comprehensive correction and protocol audit pending",
+    "limitations": "Selected-passage extraction; complete scientific review pending. Regensburg EHS study sample, related to Landgrebe 2008 report; not independent replication of that sample.",
+    "pages": [
+      {
+        "id": "G09",
+        "path": "/guides/symptoms-and-support",
+        "title": "A practical guide for people reporting EMF-related symptoms"
+      },
+      {
+        "id": "H08",
+        "path": "/outcomes/sleep",
+        "title": "EMF and sleep"
+      },
+      {
+        "id": "H11",
+        "path": "/outcomes/ehs-symptoms",
+        "title": "Electromagnetic hypersensitivity and symptoms"
+      },
+      {
+        "id": "H17",
+        "path": "/outcomes/tinnitus",
+        "title": "EMF and tinnitus"
+      },
+      {
+        "id": "S01",
+        "path": "/sources/mobile-phones",
+        "title": "Mobile phones and health"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "scope": "People reporting electromagnetic hypersensitivity and matched controls in a cross-sectional case-control comparison. Subjective electromagnetic-hypersensitivity status, questionnaire phone use and rough environmental matching; not measured field dose.",
+    "source_type": "human_observational",
+    "title": "Association of tinnitus and electromagnetic hypersensitivity: hints for a shared pathophysiology?",
+    "url": "https://doi.org/10.1371/journal.pone.0005026",
+    "year": "2009"
+  },
+  {
+    "access_basis": "owner_supplied_full_text",
+    "authors": "Auvinen A, Feychting M, Ahlbom A, Hillert L, Elliott P, Schüz J, Kromhout H, Toledano MB, Johansen C, Poulsen AH, Vermeulen R, Heinävaara S, Kojo K, Tettamanti G,  ",
+    "checked_at": "2026-10-22",
+    "citation": "Auvinen A, Feychting M, Ahlbom A, Hillert L, Elliott P, Schüz J, Kromhout H, Toledano MB, Johansen C, Poulsen AH, Vermeulen R, Heinävaara S, Kojo K, Tettamanti G,  . Headache, tinnitus and hearing loss in the international Cohort Study of Mobile Phone Use and Health (COSMOS) in Sweden and Finland. 2019. DOI: 10.1093/ije/dyz127",
+    "claims": [
+      {
+        "basis": "full_text",
+        "id": "E02-T03-R175-c01",
+        "locator": "PDF physical p11, Conclusions; pp9–10, Discussion",
+        "scientific_review": "pending",
+        "text": "The COSMOS symptom follow-up did not find an association between baseline call time and tinnitus or hearing loss. A small headache pattern weakened with confounder adjustment and did not follow a consistent call-time gradient."
+      },
+      {
+        "basis": "full_text",
+        "id": "E02-T03-R175-c02",
+        "locator": "PDF physical pp9–10, Exposure assessment and outcome-measurement discussion",
+        "scientific_review": "pending",
+        "text": "Call records covered a short baseline window, and later outcomes were self-reported. Call time is an imperfect proxy for absorbed RF dose, and questionnaires at two time points cannot capture every symptom change."
+      }
+    ],
+    "doi": "10.1093/ije/dyz127",
+    "fingerprint": "dd99745f9b28820a1ad7191ec70295dd0d05b291e588d5522250c287ffdb9dbd",
+    "id": "E02-T03-R175",
+    "integrity_status": "Metadata and selected full-text passages checked; comprehensive correction and protocol audit pending",
+    "limitations": "Selected-passage extraction; complete scientific review pending. COSMOS Sweden/Finland symptom follow-up; related to broader COSMOS cohort reports, not independent replication of the cohort.",
+    "pages": [
+      {
+        "id": "H12",
+        "path": "/outcomes/headache",
+        "title": "EMF and headaches"
+      },
+      {
+        "id": "H17",
+        "path": "/outcomes/tinnitus",
+        "title": "EMF and tinnitus"
+      },
+      {
+        "id": "Q04",
+        "path": "/questions/why-studies-disagree",
+        "title": "Why do phone-and-cancer studies disagree?"
+      },
+      {
+        "id": "S01",
+        "path": "/sources/mobile-phones",
+        "title": "Mobile phones and health"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "scope": "Swedish and Finnish COSMOS participants with baseline operator call records and later symptom questionnaires. Network-operator recorded call time, with network type and self-reported hands-free use considered.",
+    "source_type": "human_observational",
+    "title": "Headache, tinnitus and hearing loss in the international Cohort Study of Mobile Phone Use and Health (COSMOS) in Sweden and Finland.",
+    "url": "https://doi.org/10.1093/ije/dyz127",
+    "year": "2019"
+  },
+  {
+    "access_basis": "owner_supplied_full_text",
+    "authors": "Michelant L, Delanaud S, Hugueville L, Leveque P, Bach V, Tourneux P, Selmaoui B",
+    "checked_at": "2026-10-22",
+    "citation": "Michelant L, Delanaud S, Hugueville L, Leveque P, Bach V, Tourneux P, Selmaoui B. No thermal skin effects at environmental 26 GHz field strengths relevant to 5G deployment. 2026. DOI: 10.1038/s41598-026-49616-7",
+    "claims": [
+      {
+        "basis": "full_text",
+        "id": "E02-T03-R264-c01",
+        "locator": "PDF physical pp10–11, Discussion and Conclusion",
+        "scientific_review": "pending",
+        "text": "The controlled 26 GHz crossover study detected no acute exposure-related change in the monitored superficial skin-temperature measures under its tested low field strengths. Temperature changes over the session also occurred during sham exposure."
+      },
+      {
+        "basis": "full_text",
+        "id": "E02-T03-R264-c02",
+        "locator": "PDF physical pp10–11, limitations and Conclusion",
+        "scientific_review": "pending",
+        "text": "The study concerned brief exposure in healthy young adults and superficial temperature measurements. It does not validate guideline thresholds, establish long-term outcomes or cover children and people with impaired thermoregulation."
+      }
+    ],
+    "doi": "10.1038/s41598-026-49616-7",
+    "fingerprint": "1a04060e8ffb092701adbe0a01b4354e442ff48cdb9a9d693f9641a97b08dd9d",
+    "id": "E02-T03-R264",
+    "integrity_status": "Metadata and selected full-text passages checked; comprehensive correction and protocol audit pending",
+    "limitations": "Selected-passage extraction; complete scientific review pending. Michelant 26 GHz laboratory protocol; other physiological outcomes planned for separate reports, no independent family count.",
+    "pages": [
+      {
+        "id": "F01",
+        "path": "/fields/radiofrequency",
+        "title": "Radiofrequency"
+      },
+      {
+        "id": "H15",
+        "path": "/outcomes/heating",
+        "title": "RF exposure and tissue heating"
+      },
+      {
+        "id": "Q11",
+        "path": "/questions/5g-versus-older-networks",
+        "title": "Is 5G different from older mobile networks?"
+      },
+      {
+        "id": "Q15",
+        "path": "/questions/below-limits",
+        "title": "Does being below an exposure limit settle the health question?"
+      },
+      {
+        "id": "S04",
+        "path": "/sources/5g",
+        "title": "5G and health"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "scope": "Healthy young adults in a controlled laboratory crossover experiment. Acute 26 GHz modulated exposure calibrated at head and torso locations, versus sham.",
+    "source_type": "human_experimental",
+    "title": "No thermal skin effects at environmental 26 GHz field strengths relevant to 5G deployment.",
+    "url": "https://doi.org/10.1038/s41598-026-49616-7",
+    "year": "2026"
+  },
+  {
+    "access_basis": "owner_supplied_full_text",
+    "authors": "Esmailzadeh S, Delavar MA, Aleyassin A, Gholamian SA, Ahmadi A",
+    "checked_at": "2026-10-22",
+    "citation": "Esmailzadeh S, Delavar MA, Aleyassin A, Gholamian SA, Ahmadi A. Exposure to Electromagnetic Fields of High Voltage Overhead Power Lines and Female Infertility. 2019. DOI: 10.15171/ijoem.2019.1429",
+    "claims": [
+      {
+        "basis": "full_text",
+        "id": "E03-T05-R273-c01",
+        "locator": "PDF physical pp2–3, Materials and Methods; p4, Results/Discussion",
+        "scientific_review": "pending",
+        "text": "The Babol case-control study reported greater odds of female infertility among women living closer to high-voltage lines. It tested residential proximity, rather than a measured individual magnetic-field dose."
+      },
+      {
+        "basis": "full_text",
+        "id": "E03-T05-R273-c02",
+        "locator": "PDF physical p4, Discussion limitations; p3, distance-assessment methods",
+        "scientific_review": "pending",
+        "text": "The investigators did not measure residential field strength and relied on distance. Selection, other residential characteristics and exposure from other sources remain relevant uncertainties; this report does not establish that power-line fields cause infertility."
+      }
+    ],
+    "doi": "10.15171/ijoem.2019.1429",
+    "fingerprint": "4704788583b86bf9565da9bd6a9168c0fa093b3380000e84718b5742d69dea4b",
+    "id": "E03-T05-R273",
+    "integrity_status": "Printed Table 2 has conflicting counts; numerical claims held; qualitative author-reported association only",
+    "limitations": "Selected-passage extraction; complete scientific review pending. Babol female-infertility series; E03-T05-R280 letter has same city and case/control counts but dates differ. Overlap unresolved, do not count both.",
+    "pages": [
+      {
+        "id": "F02",
+        "path": "/fields/elf",
+        "title": "Power-frequency and ELF"
+      },
+      {
+        "id": "G02",
+        "path": "/guides/exposure-measurement",
+        "title": "Understanding SAR, field strength, and dose"
+      },
+      {
+        "id": "H10",
+        "path": "/outcomes/female-fertility-pregnancy",
+        "title": "EMF, female fertility, and pregnancy"
+      },
+      {
+        "id": "Q10",
+        "path": "/questions/living-near-power-lines",
+        "title": "What does living near a power line mean for risk?"
+      },
+      {
+        "id": "S06",
+        "path": "/sources/power-lines",
+        "title": "Power lines and health"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "scope": "Women attending the Fatemezahra infertility clinic in Babol and controls with no infertility history. Residential distance to high-voltage overhead lines from GIS and aerial imagery; no direct field measurement.",
+    "source_type": "human_observational",
+    "title": "Exposure to Electromagnetic Fields of High Voltage Overhead Power Lines and Female Infertility.",
+    "url": "https://doi.org/10.15171/ijoem.2019.1429",
+    "year": "2019"
+  },
+  {
+    "access_basis": "owner_supplied_full_text",
+    "authors": "Wang Q, Cao Z, Qu Y, Peng X, Guo S, Chen L",
+    "checked_at": "2026-10-22",
+    "citation": "Wang Q, Cao Z, Qu Y, Peng X, Guo S, Chen L. Residential exposure to 50 Hz magnetic fields and the association with miscarriage risk: a 2-year prospective cohort study. 2013. DOI: 10.1371/journal.pone.0082113",
+    "claims": [
+      {
+        "basis": "full_text",
+        "id": "E03-T06-R073-c01",
+        "locator": "PDF physical p5, Tables 5–6 and Discussion; p6, Conclusion",
+        "scientific_review": "pending",
+        "text": "The pregnancy cohort gave different results by exposure metric: front-door averages did not predict miscarriage, while maximum alley values showed an association. The authors did not regard the study as confirming a general magnetic-field–miscarriage relationship."
+      },
+      {
+        "basis": "full_text",
+        "id": "E03-T06-R073-c02",
+        "locator": "PDF physical p5, Discussion; p6, Conclusion",
+        "scientific_review": "pending",
+        "text": "No participant wore a dosimeter, and daily activities were not recorded, so outdoor location measurements could not establish personal exposure. The metric-dependent results and confounding limit interpretation."
+      }
+    ],
+    "doi": "10.1371/journal.pone.0082113",
+    "fingerprint": "05663d95470315530165835f4659177549a6413cf974dc1cf777e8ef5cc90334",
+    "id": "E03-T06-R073",
+    "integrity_status": "Metadata and selected full-text passages checked; comprehensive correction and protocol audit pending",
+    "limitations": "Selected-passage extraction; complete scientific review pending. Wang 2013 two-town cohort; related-family search not complete.",
+    "pages": [
+      {
+        "id": "F02",
+        "path": "/fields/elf",
+        "title": "Power-frequency and ELF"
+      },
+      {
+        "id": "G02",
+        "path": "/guides/exposure-measurement",
+        "title": "Understanding SAR, field strength, and dose"
+      },
+      {
+        "id": "H10",
+        "path": "/outcomes/female-fertility-pregnancy",
+        "title": "EMF, female fertility, and pregnancy"
+      },
+      {
+        "id": "S06",
+        "path": "/sources/power-lines",
+        "title": "Power lines and health"
+      },
+      {
+        "id": "S14",
+        "path": "/sources/household-wiring",
+        "title": "Household wiring and appliances"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "scope": "Pregnant women in two Pearl-River Delta towns followed prospectively. Residential 50 Hz magnetic-field measurements at front doors and maximum alley points; no personal dosimeters.",
+    "source_type": "human_observational",
+    "title": "Residential exposure to 50 Hz magnetic fields and the association with miscarriage risk: a 2-year prospective cohort study.",
+    "url": "https://doi.org/10.1371/journal.pone.0082113",
+    "year": "2013"
+  },
+  {
+    "access_basis": "owner_supplied_full_text",
+    "authors": "Tsarna E, Reedijk M, Birks LE, Guxens M, Ballester F, Ha M, Jiménez-Zabala A, Kheifets L, Lertxundi A, Lim HR, Olsen J, González Safont L, Sudan M, Cardis E, Vrijheid M, Vrijkotte T, Huss A, Vermeulen R",
+    "checked_at": "2026-10-22",
+    "citation": "Tsarna E, Reedijk M, Birks LE, Guxens M, Ballester F, Ha M, Jiménez-Zabala A, Kheifets L, Lertxundi A, Lim HR, Olsen J, González Safont L, Sudan M, Cardis E, Vrijheid M, Vrijkotte T, Huss A, Vermeulen R. Associations of Maternal Cell-Phone Use During Pregnancy With Pregnancy Duration and Fetal Growth in 4 Birth Cohorts. 2019. DOI: 10.1093/aje/kwz092",
+    "claims": [
+      {
+        "basis": "full_text",
+        "id": "E03-T06-R109-c01",
+        "locator": "PDF physical p8, Figure 1 and Conclusion",
+        "scientific_review": "pending",
+        "text": "The four-cohort analysis reported an association of more frequent maternal calls with shorter pregnancy duration, while fetal growth and birth weight showed no association. The authors caution that the result could reflect stress or residual confounding rather than RF exposure."
+      },
+      {
+        "basis": "full_text",
+        "id": "E03-T06-R109-c02",
+        "locator": "PDF physical pp7–8, Discussion limitations",
+        "scientific_review": "pending",
+        "text": "Exposure was based on call frequency, largely without call duration; some cohorts asked years after birth. Stress and other possible explanations were not measured consistently, and the data do not isolate RF dose."
+      }
+    ],
+    "doi": "10.1093/aje/kwz092",
+    "fingerprint": "68cf9c5634f8eb9a42230aa37f5266c308cac0871ec8a711dc80bf5e36512c45",
+    "id": "E03-T06-R109",
+    "integrity_status": "Metadata and selected full-text passages checked; comprehensive correction and protocol audit pending",
+    "limitations": "Selected-passage extraction; complete scientific review pending. Four established birth cohorts; other pregnancy/development reports may share these families. Not four new independent studies added by this article.",
+    "pages": [
+      {
+        "id": "H10",
+        "path": "/outcomes/female-fertility-pregnancy",
+        "title": "EMF, female fertility, and pregnancy"
+      },
+      {
+        "id": "Q04",
+        "path": "/questions/why-studies-disagree",
+        "title": "Why do phone-and-cancer studies disagree?"
+      },
+      {
+        "id": "S01",
+        "path": "/sources/mobile-phones",
+        "title": "Mobile phones and health"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "scope": "Mother-child pairs in DNBC, ABCD, INMA and MOCEH birth cohorts. Maternal self-reported phone calls per day during pregnancy, with cohort-specific categories.",
+    "source_type": "human_observational_pooled",
+    "title": "Associations of Maternal Cell-Phone Use During Pregnancy With Pregnancy Duration and Fetal Growth in 4 Birth Cohorts.",
+    "url": "https://doi.org/10.1093/aje/kwz092",
+    "year": "2019"
+  },
+  {
+    "access_basis": "owner_supplied_full_text",
+    "authors": "Kitajima T, Schüz J, Morita A, Ikeda W, Tanaka H, Togawa K, Gabazza EC, Taki M, Toriyabe K, Ikeda T, Sokejima S",
+    "checked_at": "2026-10-22",
+    "citation": "Kitajima T, Schüz J, Morita A, Ikeda W, Tanaka H, Togawa K, Gabazza EC, Taki M, Toriyabe K, Ikeda T, Sokejima S. Measurement of Intermediate Frequency Magnetic Fields Generated by Household Induction Cookers for Epidemiological Studies and Development of an Exposure Estimation Model. 2022. DOI: 10.3390/ijerph191911912",
+    "claims": [
+      {
+        "basis": "full_text",
+        "id": "E03-T06-R135-c01",
+        "locator": "PDF physical pp2–3, Materials and Methods; pp10–11, Conclusions",
+        "scientific_review": "pending",
+        "text": "The induction-cooker study developed and validated an exposure-estimation model using household measurements. Distance from the hob centre was central to predicting magnetic-field exposure; wattage and cookware diameter also informed the models."
+      },
+      {
+        "basis": "full_text",
+        "id": "E03-T06-R135-c02",
+        "locator": "PDF physical p10, §4.5 Limitations; p11, Conclusions continuation",
+        "scientific_review": "pending",
+        "text": "The model estimates instantaneous exposure at a fixed position. It does not capture movement, heat-output changes or cooking duration, and transfer outside Japanese homes requires validation. It does not itself estimate a health risk."
+      }
+    ],
+    "doi": "10.3390/ijerph191911912",
+    "fingerprint": "e911003460e5a3cd857998034d4b0f6664141f481a9d7f6752d8f642e0a827dd",
+    "id": "E03-T06-R135",
+    "integrity_status": "Metadata and selected full-text passages checked; comprehensive correction and protocol audit pending",
+    "limitations": "Selected-passage extraction; complete scientific review pending. Kitajima induction exposure-model surveys; related Perinatal Cohort outcome reports require separate linking.",
+    "pages": [
+      {
+        "id": "F03",
+        "path": "/fields/intermediate-frequency",
+        "title": "Intermediate-frequency"
+      },
+      {
+        "id": "G02",
+        "path": "/guides/exposure-measurement",
+        "title": "Understanding SAR, field strength, and dose"
+      },
+      {
+        "id": "G07",
+        "path": "/guides/home-exposure",
+        "title": "Understanding exposure in your home"
+      },
+      {
+        "id": "H10",
+        "path": "/outcomes/female-fertility-pregnancy",
+        "title": "EMF, female fertility, and pregnancy"
+      },
+      {
+        "id": "S10",
+        "path": "/sources/induction-hobs",
+        "title": "Induction hobs and health"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "scope": "Household induction-cooker measurement/model-building and validation surveys in Mie, Japan. Intermediate-frequency magnetic fields around household induction cookers; fixed cooking posture, distance, wattage and cookware diameter.",
+    "source_type": "engineering_measurement",
+    "title": "Measurement of Intermediate Frequency Magnetic Fields Generated by Household Induction Cookers for Epidemiological Studies and Development of an Exposure Estimation Model.",
+    "url": "https://doi.org/10.3390/ijerph191911912",
+    "year": "2022"
+  },
+  {
+    "access_basis": "owner_supplied_full_text",
+    "authors": "Sato Y, Taki M, Kojimahara N",
+    "checked_at": "2026-10-22",
+    "citation": "Sato Y, Taki M, Kojimahara N. Association Between the Use of Induction Heating Cookers and Delivery Outcomes in Pregnant Women: An Internet-Based Cohort Study. 2023. DOI: 10.1177/11786302231211114",
+    "claims": [
+      {
+        "basis": "full_text",
+        "id": "E03-T06-R139-c01",
+        "locator": "PDF physical p6, Table 4 and Discussion; p7, Discussion and Conclusion",
+        "scientific_review": "pending",
+        "text": "The internet-panel study reported weak associations between some stationary or tabletop cooker-use categories and preterm delivery, but not birth weight. Its authors judged the pattern unlikely to establish an increased risk after considering reporting bias and other explanations."
+      },
+      {
+        "basis": "full_text",
+        "id": "E03-T06-R139-c02",
+        "locator": "PDF physical p7, Discussion, strengths and limitations",
+        "scientific_review": "pending",
+        "text": "Both cooker use and medical outcomes were self-reported, and follow-up participation was incomplete. Distance, wattage and utensil diameter were not included; residual confounding and repeated testing could explain the associations."
+      }
+    ],
+    "doi": "10.1177/11786302231211114",
+    "fingerprint": "63b9590519e5d4e9a52f988643489106c53b82cdaecd545ebb00bb7b8c0265f6",
+    "id": "E03-T06-R139",
+    "integrity_status": "Metadata and selected full-text passages checked; comprehensive correction and protocol audit pending",
+    "limitations": "Selected-passage extraction; complete scientific review pending. Sato internet-panel pregnancy cohort 2020–2022; distinct from Kitajima exposure-model study unless overlap later established.",
+    "pages": [
+      {
+        "id": "F03",
+        "path": "/fields/intermediate-frequency",
+        "title": "Intermediate-frequency"
+      },
+      {
+        "id": "H10",
+        "path": "/outcomes/female-fertility-pregnancy",
+        "title": "EMF, female fertility, and pregnancy"
+      },
+      {
+        "id": "S10",
+        "path": "/sources/induction-hobs",
+        "title": "Induction hobs and health"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "scope": "Pregnant adults in Japanese internet research panels with self-reported follow-up delivery outcomes. Self-reported type of induction cooker and hours of use, separated by pregnancy trimester; no individual field dosimetry.",
+    "source_type": "human_observational",
+    "title": "Association Between the Use of Induction Heating Cookers and Delivery Outcomes in Pregnant Women: An Internet-Based Cohort Study.",
+    "url": "https://doi.org/10.1177/11786302231211114",
+    "year": "2023"
+  },
+  {
+    "access_basis": "owner_supplied_full_text",
+    "authors": "Carlberg M, Koppel T, Ahonen M, Hardell L",
+    "checked_at": "2026-10-22",
+    "citation": "Carlberg M, Koppel T, Ahonen M, Hardell L. Case-Control Study on Occupational Exposure to Extremely Low-Frequency Electromagnetic Fields and the Association with Meningioma. 2018. DOI: 10.1155/2018/5912394",
+    "claims": [
+      {
+        "basis": "full_text",
+        "id": "E04-T07-R230-c01",
+        "locator": "PDF physical p4, Tables 1–2; p5, §6 Conclusion",
+        "scientific_review": "pending",
+        "text": "The occupational ELF analysis did not find an overall association with meningioma across its exposure metrics and time-window analyses. An isolated intermediate-category elevation did not form a consistent exposure-response pattern."
+      },
+      {
+        "basis": "full_text",
+        "id": "E04-T07-R230-c02",
+        "locator": "PDF physical p5, Discussion",
+        "scientific_review": "pending",
+        "text": "Individual workers were not measured: the job-exposure matrix assigns group values even though tasks and workstations can vary within an occupation. Such exposure misclassification limits the interpretation."
+      }
+    ],
+    "doi": "10.1155/2018/5912394",
+    "fingerprint": "5b4edfa7a568e1cdc13446e713932275c49ae499129e57b211ea0fec1fad1200",
+    "id": "E04-T07-R230",
+    "integrity_status": "Metadata and selected full-text passages checked; comprehensive correction and protocol audit pending",
+    "limitations": "Selected-passage extraction; complete scientific review pending. Hardell/Carlberg Swedish case-control series (1997–2003 and 2007–2009); likely overlap with phone and glioma reports; do not count as independent family.",
+    "pages": [
+      {
+        "id": "F02",
+        "path": "/fields/elf",
+        "title": "Power-frequency and ELF"
+      },
+      {
+        "id": "G02",
+        "path": "/guides/exposure-measurement",
+        "title": "Understanding SAR, field strength, and dose"
+      },
+      {
+        "id": "H03",
+        "path": "/outcomes/meningioma",
+        "title": "EMF and meningioma"
+      },
+      {
+        "id": "S16",
+        "path": "/sources/occupational-elf",
+        "title": "ELF exposure at work"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "scope": "Swedish adult meningioma case-control series with coded occupations and population controls. Occupational ELF magnetic-field exposure assigned using a job-exposure matrix.",
+    "source_type": "human_observational",
+    "title": "Case-Control Study on Occupational Exposure to Extremely Low-Frequency Electromagnetic Fields and the Association with Meningioma.",
+    "url": "https://doi.org/10.1155/2018/5912394",
+    "year": "2018"
+  },
+  {
+    "access_basis": "owner_supplied_full_text",
+    "authors": "Brabant C, Geerinck A, Beaudart C, Tirelli E, Geuzaine C, Bruyère O",
+    "checked_at": "2026-10-22",
+    "citation": "Brabant C, Geerinck A, Beaudart C, Tirelli E, Geuzaine C, Bruyère O. Exposure to magnetic fields and childhood leukemia: a systematic review and meta-analysis of case-control and cohort studies. 2023. DOI: 10.1515/reveh-2021-0112",
+    "claims": [
+      {
+        "basis": "full_text",
+        "id": "E04-T07-R252-c01",
+        "locator": "PDF physical p18, Table 5; p21, Discussion; p22, limitations",
+        "scientific_review": "pending",
+        "text": "This review separately synthesized measured fields, power-line proximity, wire codes and household appliances. It reported an association in its electric-blanket analysis, which was based on older studies rather than measurements of current products."
+      },
+      {
+        "basis": "full_text",
+        "id": "E04-T07-R252-c02",
+        "locator": "PDF physical p22, limitations and appliance discussion",
+        "scientific_review": "pending",
+        "text": "The authors describe limited methodological quality and mixed exposure-assessment methods. The blanket studies were conducted more than two decades earlier, so the pooled result should not be treated as a risk estimate for every present-day blanket design."
+      }
+    ],
+    "doi": "10.1515/reveh-2021-0112",
+    "fingerprint": "79d241ddca387887b440663a5bed25a22a50f14feb8bf0e21ff90e545addf2be",
+    "id": "E04-T07-R252",
+    "integrity_status": "Metadata and selected full-text passages checked; comprehensive correction and protocol audit pending",
+    "limitations": "Selected-passage extraction; complete scientific review pending. Brabant systematic review; synthesis overlaps older pooled analyses and original studies. Review is context, not extra independent children.",
+    "pages": [
+      {
+        "id": "F02",
+        "path": "/fields/elf",
+        "title": "Power-frequency and ELF"
+      },
+      {
+        "id": "H06",
+        "path": "/outcomes/childhood-leukaemia",
+        "title": "Magnetic fields and childhood leukaemia"
+      },
+      {
+        "id": "Q10",
+        "path": "/questions/living-near-power-lines",
+        "title": "What does living near a power line mean for risk?"
+      },
+      {
+        "id": "S06",
+        "path": "/sources/power-lines",
+        "title": "Power lines and health"
+      },
+      {
+        "id": "S12",
+        "path": "/sources/electric-blankets",
+        "title": "Electric blankets and health"
+      },
+      {
+        "id": "S14",
+        "path": "/sources/household-wiring",
+        "title": "Household wiring and appliances"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "scope": "Published childhood-leukaemia case-control/cohort studies, including older household-appliance studies. Residential ELF magnetic fields measured directly or estimated from line distance/wire codes, and reported appliance use.",
+    "source_type": "systematic_review",
+    "title": "Exposure to magnetic fields and childhood leukemia: a systematic review and meta-analysis of case-control and cohort studies.",
+    "url": "https://doi.org/10.1515/reveh-2021-0112",
+    "year": "2023"
+  },
+  {
+    "access_basis": "owner_supplied_full_text",
+    "authors": "Aerts S, Verloock L, Van den Bossche M, Martens L, Vergara X, Joseph W",
+    "checked_at": "2026-10-22",
+    "citation": "Aerts S, Verloock L, Van den Bossche M, Martens L, Vergara X, Joseph W. Emissions From Smart Meters and Other Residential Radiofrequency Sources. 2019. DOI: 10.1097/hp.0000000000001032",
+    "claims": [
+      {
+        "basis": "full_text",
+        "id": "E06-T11-R137-c01",
+        "locator": "PDF physical pp4–5, Materials and Methods; pp20–22, Strengths & Limitations and Conclusions",
+        "scientific_review": "pending",
+        "text": "The investigators characterized emissions and transmission duty cycles from residential wireless devices. The survey measured exposure, rather than disease or infant development."
+      },
+      {
+        "basis": "full_text",
+        "id": "E06-T11-R137-c02",
+        "locator": "PDF physical pp18–19, Discussion A; pp22–23, Conclusions",
+        "scientific_review": "pending",
+        "text": "For the smart-meter communication modules assessed, infrequent transmission and placement away from residents reduced time-averaged exposure potential even when peak fields were appreciable."
+      },
+      {
+        "basis": "full_text",
+        "id": "E06-T11-R137-c03",
+        "locator": "PDF physical p17, Bluetooth devices; p34, Table 4 continuation",
+        "scientific_review": "pending",
+        "text": "The Bluetooth measurements concerned a computer mouse and two speakers during failed pairing attempts. They do not characterize earbuds worn at the head or every Bluetooth operating mode."
+      },
+      {
+        "basis": "full_text",
+        "id": "E06-T11-R137-c04",
+        "locator": "PDF physical pp17–18, Other; p34, Table 4 continuation; p19, Discussion A",
+        "scientific_review": "pending",
+        "text": "The report separately measured DECT handsets, a base station in standby and active states, and both parent and baby units of two monitor systems. Duty cycle and device placement matter when comparing these sources."
+      },
+      {
+        "basis": "full_text",
+        "id": "E06-T11-R137-c05",
+        "locator": "PDF physical pp20–21, Strengths & Limitations",
+        "scientific_review": "pending",
+        "text": "This was a small convenience sample and a cross-section of device placements and operating conditions. The authors explicitly caution against generalizing its measurements to all smart homes; the assessment considered incident whole-body exposure rather than local absorbed dose."
+      }
+    ],
+    "doi": "10.1097/hp.0000000000001032",
+    "fingerprint": "b1fd9840c2f36eceea08f3aaa72a45810cb5c730b0087766d25c0a0fe3e7274a",
+    "id": "E06-T11-R137",
+    "integrity_status": "Metadata and selected full-text passages checked; comprehensive correction and protocol audit pending",
+    "limitations": "Selected-passage extraction; complete scientific review pending. Aerts residential emissions survey 2017; one measurement report, regardless of how many device pages cite it.",
+    "pages": [
+      {
+        "id": "F01",
+        "path": "/fields/radiofrequency",
+        "title": "Radiofrequency"
+      },
+      {
+        "id": "G02",
+        "path": "/guides/exposure-measurement",
+        "title": "Understanding SAR, field strength, and dose"
+      },
+      {
+        "id": "G07",
+        "path": "/guides/home-exposure",
+        "title": "Understanding exposure in your home"
+      },
+      {
+        "id": "S02",
+        "path": "/sources/cordless-phones",
+        "title": "Cordless and DECT phones"
+      },
+      {
+        "id": "S03",
+        "path": "/sources/wifi",
+        "title": "Wi-Fi and health"
+      },
+      {
+        "id": "S07",
+        "path": "/sources/smart-meters",
+        "title": "Smart meters and health"
+      },
+      {
+        "id": "S08",
+        "path": "/sources/baby-monitors",
+        "title": "Baby monitors and health"
+      },
+      {
+        "id": "S09",
+        "path": "/sources/bluetooth",
+        "title": "Bluetooth, earbuds, and wearables"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "scope": "Convenience sample of residential devices in Belgium and France, not a health-outcome cohort. In-situ RF spectrum-analyzer measurements of frequencies, electric fields at specified distances and transmission duty cycles.",
+    "source_type": "engineering_measurement",
+    "title": "Emissions From Smart Meters and Other Residential Radiofrequency Sources.",
+    "url": "https://doi.org/10.1097/hp.0000000000001032",
+    "year": "2019"
+  },
+  {
+    "access_basis": "owner_supplied_full_text",
+    "authors": "Stam R",
+    "checked_at": "2026-10-22",
+    "citation": "Stam R. Occupational exposure to radiofrequency electromagnetic fields. 2022. DOI: 10.2486/indhealth.2021-0129",
+    "claims": [
+      {
+        "basis": "full_text",
+        "id": "E06-T11-R168-c01",
+        "locator": "PDF physical pp9–10, Discussion",
+        "scientific_review": "pending",
+        "text": "The occupational review identifies jobs where reported maximum RF exposures can exceed occupational action levels, particularly dielectric heating and work near certain transmitters or industrial equipment. Maintenance conditions require separate assessment."
+      },
+      {
+        "basis": "full_text",
+        "id": "E06-T11-R168-c02",
+        "locator": "PDF physical p8, Microwave heating continuation; p10, Discussion",
+        "scientific_review": "pending",
+        "text": "The review describes an oven-repair overexposure incident involving interrupted interlock protection. That accident scenario is different from ordinary use of an intact household microwave oven."
+      },
+      {
+        "basis": "full_text",
+        "id": "E06-T11-R168-c03",
+        "locator": "PDF physical pp10–11, Discussion limitations",
+        "scientific_review": "pending",
+        "text": "The review selects the highest measurements per publication and frequency to flag possible worst-case exposure. Those values are not representative personal averages, and exposure-limit comparisons are not estimates of long-term disease incidence."
+      }
+    ],
+    "doi": "10.2486/indhealth.2021-0129",
+    "fingerprint": "8f659d7623f96ee9cbd9c5760ed085db4415dcde6f4a33e89a3a74b66d409be6",
+    "id": "E06-T11-R168",
+    "integrity_status": "Metadata and selected full-text passages checked; comprehensive correction and protocol audit pending",
+    "limitations": "Selected-passage extraction; complete scientific review pending. Stam occupational RF exposure review; underlying reports must not be added to an independent-study count without deduplication.",
+    "pages": [
+      {
+        "id": "F01",
+        "path": "/fields/radiofrequency",
+        "title": "Radiofrequency"
+      },
+      {
+        "id": "G02",
+        "path": "/guides/exposure-measurement",
+        "title": "Understanding SAR, field strength, and dose"
+      },
+      {
+        "id": "G06",
+        "path": "/guides/limits-and-regulators",
+        "title": "Understanding exposure limits and regulators"
+      },
+      {
+        "id": "H15",
+        "path": "/outcomes/heating",
+        "title": "RF exposure and tissue heating"
+      },
+      {
+        "id": "S11",
+        "path": "/sources/microwave-ovens",
+        "title": "Microwave ovens and health"
+      },
+      {
+        "id": "S15",
+        "path": "/sources/occupational-rf",
+        "title": "RF exposure at work"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "scope": "Published occupational RF exposure measurements and accident reports; not a new participant cohort. Workplace RF sources including dielectric heating, scanners, plasma, transmitters, microwave heating and radar.",
+    "source_type": "review",
+    "title": "Occupational exposure to radiofrequency electromagnetic fields.",
+    "url": "https://doi.org/10.2486/indhealth.2021-0129",
+    "year": "2022"
+  },
+  {
+    "access_basis": "owner_supplied_full_text",
+    "authors": "Hansson Mild K, Mattsson MO, Jeschke P, Israel M, Ivanova M, Shalamanova T",
+    "checked_at": "2026-10-22",
+    "citation": "Hansson Mild K, Mattsson MO, Jeschke P, Israel M, Ivanova M, Shalamanova T. Occupational Exposure to Electromagnetic Fields-Different from General Public Exposure and Laboratory Studies. 2023. DOI: 10.3390/ijerph20166552",
+    "claims": [
+      {
+        "basis": "full_text",
+        "id": "E06-T11-R191-c01",
+        "locator": "PDF physical p5, occupational exposure discussion",
+        "scientific_review": "pending",
+        "text": "The occupational communication explains why intermittent workplace peaks and proximity to equipment may differ from general-public exposure. For MRI it describes complex fields and inhomogeneous exposure during assistance and other tasks."
+      },
+      {
+        "basis": "full_text",
+        "id": "E06-T11-R191-c02",
+        "locator": "PDF physical p6, MRI/static-field discussion",
+        "scientific_review": "pending",
+        "text": "Its MRI section discusses previously reported transient sensory symptoms among workers and identifies sparse evidence on long-term static-field outcomes. This is background context rather than a new MRI worker study."
+      },
+      {
+        "basis": "full_text",
+        "id": "E06-T11-R191-c03",
+        "locator": "PDF physical p1, article type Communication; p12, §6 Conclusions",
+        "scientific_review": "pending",
+        "text": "This communication does not supply a new comparative cohort or a systematic pooled estimate. Its argument for improved occupational research cannot by itself quantify an individual worker’s long-term risk."
+      }
+    ],
+    "doi": "10.3390/ijerph20166552",
+    "fingerprint": "d0a5af540c9c1f1afdba0b6f210879444e910d7125684e7c1af85e795b70ea7a",
+    "id": "E06-T11-R191",
+    "integrity_status": "Metadata and selected full-text passages checked; comprehensive correction and protocol audit pending",
+    "limitations": "Selected-passage extraction; complete scientific review pending. Hansson Mild et al. 2023 communication; MRI symptoms are discussion of other studies, not new cases here.",
+    "pages": [
+      {
+        "id": "F04",
+        "path": "/fields/static",
+        "title": "Static fields"
+      },
+      {
+        "id": "G02",
+        "path": "/guides/exposure-measurement",
+        "title": "Understanding SAR, field strength, and dose"
+      },
+      {
+        "id": "S15",
+        "path": "/sources/occupational-rf",
+        "title": "RF exposure at work"
+      },
+      {
+        "id": "S16",
+        "path": "/sources/occupational-elf",
+        "title": "ELF exposure at work"
+      },
+      {
+        "id": "S17",
+        "path": "/sources/mri-static-fields",
+        "title": "MRI: static, gradient and RF exposures"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "scope": "Narrative occupational-exposure communication drawing on prior literature and examples. Workplace exposure patterns across ELF, RF and MRI/static-field settings.",
+    "source_type": "context_review",
+    "title": "Occupational Exposure to Electromagnetic Fields-Different from General Public Exposure and Laboratory Studies.",
+    "url": "https://doi.org/10.3390/ijerph20166552",
+    "year": "2023"
+  },
+  {
+    "access_basis": "owner_supplied_full_text",
+    "authors": "Dong S, Lu M",
+    "checked_at": "2026-10-22",
+    "citation": "Dong S, Lu M. Assessment of Electromagnetic Exposure Levels for Humans from Electric Vehicle DC Charging Stations. 2025. DOI: 10.3390/s25185735",
+    "claims": [
+      {
+        "basis": "full_text",
+        "id": "E06-T11-R239-c01",
+        "locator": "PDF physical pp3–4, §2 Model Construction; p10, §3; pp20–21, Conclusions",
+        "scientific_review": "pending",
+        "text": "The electric-vehicle charging paper simulated internal electric and magnetic fields from a charging-station transformer at different positions. Its modeled fields were compared with guideline values; no clinical outcomes were observed."
+      },
+      {
+        "basis": "full_text",
+        "id": "E06-T11-R239-c02",
+        "locator": "PDF physical p21, limitations paragraph",
+        "scientific_review": "pending",
+        "text": "The model did not combine all charging-system sources and had not been validated by field measurements. The authors identify additional human models and simultaneous inverter/cable sources as future work. This cannot establish that every charger or vehicle configuration has the same exposure."
+      }
+    ],
+    "doi": "10.3390/s25185735",
+    "fingerprint": "852078b1f0f5642c8dfc399afe7d3bf6b7e25d08e780beeaeddc76b8d31e72a3",
+    "id": "E06-T11-R239",
+    "integrity_status": "Inconsistent percentage wording; numerical claims held; model scope only",
+    "limitations": "Selected-passage extraction; complete scientific review pending. Dong and Lu 2025 charging-station model; no independent clinical health evidence.",
+    "pages": [
+      {
+        "id": "F03",
+        "path": "/fields/intermediate-frequency",
+        "title": "Intermediate-frequency"
+      },
+      {
+        "id": "G02",
+        "path": "/guides/exposure-measurement",
+        "title": "Understanding SAR, field strength, and dose"
+      },
+      {
+        "id": "S13",
+        "path": "/sources/electric-vehicles",
+        "title": "Electric vehicles and health"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "scope": "Computational anatomical adult-male and boy models, not recruited people. Finite-element simulation of a DC/DC transformer in a model of a commercial DC charging station and vehicle.",
+    "source_type": "engineering_model",
+    "title": "Assessment of Electromagnetic Exposure Levels for Humans from Electric Vehicle DC Charging Stations.",
+    "url": "https://doi.org/10.3390/s25185735",
+    "year": "2025"
+  },
+  {
+    "access_basis": "official_document",
+    "checked_at": "2026-10-22",
+    "citation": "FDA: Microwave ovens. Official context document; retrieved 22 October 2026.",
+    "claims": [
+      {
+        "basis": "official_context",
+        "id": "fda-microwave-heating",
+        "locator": "HTML Cooking with Microwaves",
+        "scientific_review": "pending",
+        "text": "The FDA explains microwave cooking as non-ionizing energy converted into heat; it does not make the food radioactive."
+      },
+      {
+        "basis": "official_context",
+        "id": "fda-microwave-safety",
+        "locator": "HTML Microwave Oven Safety Standard; Have Radiation Injuries Resulted; Tips",
+        "scientific_review": "pending",
+        "text": "The FDA distinguishes radiation leakage and door/interlock integrity from common heat-related injuries such as burns and superheated-water injuries."
+      },
+      {
+        "basis": "official_context",
+        "id": "fda-microwave-remit",
+        "locator": "HTML Microwave Oven Safety Standard",
+        "scientific_review": "pending",
+        "text": "Its microwave-oven standard is a US product-performance framework, not a general threshold for every EMF health outcome."
+      }
+    ],
+    "fingerprint": "cfbbb76111399cd8c09fe25a3f406701275b43ab0597f8729ba5b54e69ee212c",
+    "id": "fda-microwave",
+    "integrity_status": "edition_scope_recorded; local_legal_adoption_not_verified",
+    "pages": [
+      {
+        "id": "F01",
+        "path": "/fields/radiofrequency",
+        "title": "Radiofrequency"
+      },
+      {
+        "id": "H15",
+        "path": "/outcomes/heating",
+        "title": "RF exposure and tissue heating"
+      },
+      {
+        "id": "S11",
+        "path": "/sources/microwave-ovens",
+        "title": "Microwave ovens and health"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "source_type": "official_context",
+    "title": "FDA: Microwave ovens",
+    "url": "https://www.fda.gov/radiation-emitting-products/resources-you-radiation-emitting-products/microwave-ovens"
+  },
+  {
+    "access_basis": "official_document",
+    "checked_at": "2026-10-22",
+    "citation": "Swiss FOPH: Baby Monitors. Official context document; retrieved 22 October 2026.",
+    "claims": [
+      {
+        "basis": "official_context",
+        "id": "foph-baby-monitors-types",
+        "locator": "PDF p1, device descriptions",
+        "scientific_review": "pending",
+        "text": "The fact sheet distinguishes dedicated audio/video baby units, VOX activation, range-checking signals, network cameras and phone-based monitoring."
+      },
+      {
+        "basis": "official_context",
+        "id": "foph-baby-monitors-measured-scope",
+        "locator": "PDF pp1–2, Exposure to radiation",
+        "scientific_review": "pending",
+        "text": "FOPH reports low measured exposure for its tested audio monitors relative to comparison limits; the assessment is device- and operating-condition specific."
+      },
+      {
+        "basis": "official_context",
+        "id": "foph-baby-monitors-scope",
+        "locator": "PDF p1, opening scope",
+        "scientific_review": "pending",
+        "text": "The document covers audio/video monitoring and explicitly excludes advanced features that monitor bodily functions."
+      }
+    ],
+    "fingerprint": "8d43340d4da10a5719ea84ede54bc4c410b2acb3ee640dcd9cf65b95113a5894",
+    "id": "foph-baby-monitors",
+    "integrity_status": "edition_scope_recorded; local_legal_adoption_not_verified",
+    "pages": [
+      {
+        "id": "G08",
+        "path": "/guides/family-choices",
+        "title": "A practical guide to EMF questions for families"
+      },
+      {
+        "id": "S08",
+        "path": "/sources/baby-monitors",
+        "title": "Baby monitors and health"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "source_type": "official_context",
+    "title": "Swiss FOPH: Baby Monitors",
+    "url": "https://www.bag.admin.ch/dam/en/sd-web/rZQovqJEbzfC/Fact%20sheet%20Baby%20monitor.pdf"
+  },
+  {
+    "access_basis": "official_document",
+    "checked_at": "2026-10-22",
+    "citation": "Swiss FOPH: Bluetooth. Official context document; retrieved 22 October 2026.",
+    "claims": [
+      {
+        "basis": "official_context",
+        "id": "foph-bluetooth-definition",
+        "locator": "PDF p1, application and technology summary",
+        "scientific_review": "pending",
+        "text": "Bluetooth includes classic and low-energy radio variants used for audio, peripherals, sensors and wearable connections."
+      },
+      {
+        "basis": "official_context",
+        "id": "foph-bluetooth-assessment",
+        "locator": "PDF p1, highlighted assessment; §4",
+        "scientific_review": "pending",
+        "text": "FOPH distinguishes its assessment of low short-term exposure from uncertainty about long-term health effects of Bluetooth devices."
+      },
+      {
+        "basis": "official_context",
+        "id": "foph-bluetooth-dose",
+        "locator": "PDF p1, headset tip",
+        "scientific_review": "pending",
+        "text": "A Bluetooth headset can reduce head exposure during a call compared with holding the mobile phone at the head; this is an exposure comparison, not a clinical-benefit trial."
+      }
+    ],
+    "fingerprint": "bc50779960eac9c5ce08545ba3bf44e04252e50163cb67063261fc082c1b8f27",
+    "id": "foph-bluetooth",
+    "integrity_status": "edition_scope_recorded; local_legal_adoption_not_verified",
+    "pages": [
+      {
+        "id": "F01",
+        "path": "/fields/radiofrequency",
+        "title": "Radiofrequency"
+      },
+      {
+        "id": "S09",
+        "path": "/sources/bluetooth",
+        "title": "Bluetooth, earbuds, and wearables"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "source_type": "official_context",
+    "title": "Swiss FOPH: Bluetooth",
+    "url": "https://www.bag.admin.ch/dam/en/sd-web/1M7S2bgQet7i/Fact%20sheet%20Bluetooth.pdf"
+  },
+  {
+    "access_basis": "official_document",
+    "checked_at": "2026-10-22",
+    "citation": "Swiss FOPH: Induction. Official context document; retrieved 22 October 2026.",
+    "claims": [
+      {
+        "basis": "official_context",
+        "id": "foph-induction-definition",
+        "locator": "PDF p1, opening definition",
+        "scientific_review": "pending",
+        "text": "The induction field heats the pan through induced currents and magnetisation; some magnetic field remains outside the pan."
+      },
+      {
+        "basis": "official_context",
+        "id": "foph-induction-configuration",
+        "locator": "PDF pp1–2, recommendations; detailed information",
+        "scientific_review": "pending",
+        "text": "FOPH reports that exposure in tested induction-cooker configurations depends on pan placement, pan size, operating power and the user’s position."
+      },
+      {
+        "basis": "official_context",
+        "id": "foph-induction-health-scope",
+        "locator": "PDF p1, health paragraph",
+        "scientific_review": "pending",
+        "text": "The fact sheet distinguishes measurement comparisons with limits from the limited pregnancy-outcome literature; measurements alone do not establish a clinical outcome."
+      }
+    ],
+    "fingerprint": "5a8e70afe023a19f87c5e8707510ee1722ea4b5723cd42db3c7b424bd5c8046a",
+    "id": "foph-induction",
+    "integrity_status": "edition_scope_recorded; local_legal_adoption_not_verified",
+    "pages": [
+      {
+        "id": "F03",
+        "path": "/fields/intermediate-frequency",
+        "title": "Intermediate-frequency"
+      },
+      {
+        "id": "G08",
+        "path": "/guides/family-choices",
+        "title": "A practical guide to EMF questions for families"
+      },
+      {
+        "id": "H10",
+        "path": "/outcomes/female-fertility-pregnancy",
+        "title": "EMF, female fertility, and pregnancy"
+      },
+      {
+        "id": "S10",
+        "path": "/sources/induction-hobs",
+        "title": "Induction hobs and health"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "source_type": "official_context",
+    "title": "Swiss FOPH: Induction",
+    "url": "https://www.bag.admin.ch/dam/en/sd-web/Q-QOAC2li-HY/Fact%20sheet%20induction%20hob.pdf"
+  },
+  {
+    "access_basis": "official_document",
+    "checked_at": "2026-10-22",
+    "citation": "Swiss FOPH: Mobile. Official context document; retrieved 22 October 2026.",
+    "claims": [
+      {
+        "basis": "official_context",
+        "id": "foph-mobile-power",
+        "locator": "PDF p1, exposure and SAR explanation",
+        "scientific_review": "pending",
+        "text": "The phone’s connection quality, activity and distance affect exposure; maximum SAR ratings describe specified test uses rather than a person’s continuous daily dose."
+      },
+      {
+        "basis": "official_context",
+        "id": "foph-mobile-shield",
+        "locator": "PDF p2, protective-product paragraph",
+        "scientific_review": "pending",
+        "text": "FOPH warns that phone shielding or harmonising products may impair the network connection and increase transmission; material shielding and actual user exposure are separate claims."
+      },
+      {
+        "basis": "official_context",
+        "id": "foph-mobile-headset",
+        "locator": "PDF p1, exposure-reduction tips",
+        "scientific_review": "pending",
+        "text": "The fact sheet lists speaker/hands-free and wired or Bluetooth headset use among exposure-reduction options. It does not report a trial proving a health benefit from those options."
+      }
+    ],
+    "fingerprint": "cbb29ffc7f8429043d866a69b75ece2dae6e3508cceb67d37f374dad6cb5d112",
+    "id": "foph-mobile",
+    "integrity_status": "edition_scope_recorded; local_legal_adoption_not_verified",
+    "pages": [
+      {
+        "id": "F01",
+        "path": "/fields/radiofrequency",
+        "title": "Radiofrequency"
+      },
+      {
+        "id": "G07",
+        "path": "/guides/home-exposure",
+        "title": "Understanding exposure in your home"
+      },
+      {
+        "id": "H02",
+        "path": "/outcomes/glioma",
+        "title": "EMF and glioma"
+      },
+      {
+        "id": "H03",
+        "path": "/outcomes/meningioma",
+        "title": "EMF and meningioma"
+      },
+      {
+        "id": "H04",
+        "path": "/outcomes/acoustic-neuroma",
+        "title": "EMF and acoustic neuroma"
+      },
+      {
+        "id": "H07",
+        "path": "/outcomes/other-cancers",
+        "title": "EMF and cancers beyond the brain"
+      },
+      {
+        "id": "Q02",
+        "path": "/questions/heavy-long-term-phone-use",
+        "title": "What about heavy or long-term phone use?"
+      },
+      {
+        "id": "Q07",
+        "path": "/questions/sleeping-near-phone",
+        "title": "Is sleeping near a phone a health risk?"
+      },
+      {
+        "id": "Q09",
+        "path": "/questions/living-near-tower",
+        "title": "Is living near a cell tower a health risk?"
+      },
+      {
+        "id": "Q11",
+        "path": "/questions/5g-versus-older-networks",
+        "title": "Is 5G different from older mobile networks?"
+      },
+      {
+        "id": "Q12",
+        "path": "/questions/reducing-phone-exposure",
+        "title": "Do speakerphone and headsets reduce exposure?"
+      },
+      {
+        "id": "Q14",
+        "path": "/questions/shields-and-stickers",
+        "title": "Do EMF shields and stickers work?"
+      },
+      {
+        "id": "S09",
+        "path": "/sources/bluetooth",
+        "title": "Bluetooth, earbuds, and wearables"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "source_type": "official_context",
+    "title": "Swiss FOPH: Mobile",
+    "url": "https://www.bag.admin.ch/dam/en/sd-web/xQX5eZkpxLaW/Fact%20sheet%20mobile%20phone.pdf"
+  },
+  {
+    "access_basis": "official_document",
+    "checked_at": "2026-10-22",
+    "citation": "Swiss FOPH: Wearables. Official context document; retrieved 22 October 2026.",
+    "claims": [
+      {
+        "basis": "official_context",
+        "id": "foph-wearables-radios",
+        "locator": "PDF pp1–2, introduction and technologies",
+        "scientific_review": "pending",
+        "text": "Wearables can connect using Bluetooth, Wi-Fi or mobile-network radios; a paired watch and a directly connected cellular watch are different exposure situations."
+      },
+      {
+        "basis": "official_context",
+        "id": "foph-wearables-sample",
+        "locator": "PDF §2.4, physical p4",
+        "scientific_review": "pending",
+        "text": "FOPH’s measurement discussion uses selected tracker/watch models and explicitly says it is not a market overview."
+      }
+    ],
+    "fingerprint": "64de5155d8a56ecc2984f87064f6d2b77a3fc849b12d7473fea170b81568ab95",
+    "id": "foph-wearables",
+    "integrity_status": "edition_scope_recorded; local_legal_adoption_not_verified",
+    "pages": [
+      {
+        "id": "S09",
+        "path": "/sources/bluetooth",
+        "title": "Bluetooth, earbuds, and wearables"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "source_type": "official_context",
+    "title": "Swiss FOPH: Wearables",
+    "url": "https://www.bag.admin.ch/dam/en/sd-web/TbZw2-iKw61w/Fact%20sheet%20fitness%20trackers%20and%20smartwatches.pdf"
+  },
+  {
+    "access_basis": "official_document",
+    "checked_at": "2026-10-22",
+    "citation": "Swiss FOPH: Wlan. Official context document; retrieved 22 October 2026.",
+    "claims": [
+      {
+        "basis": "official_context",
+        "id": "foph-wlan-operation",
+        "locator": "PDF p1, exposure description",
+        "scientific_review": "pending",
+        "text": "WLAN exposure depends on network traffic and transmission/reception conditions; operating at rated maximum output is different from average everyday traffic."
+      },
+      {
+        "basis": "official_context",
+        "id": "foph-wlan-assessment",
+        "locator": "PDF p1, evidence summary",
+        "scientific_review": "pending",
+        "text": "The fact sheet reports a low-exposure picture from measurement studies and attributes no established health risk to the higher-quality WLAN evidence it reviews. This is the agency’s assessment, not a new site certainty grade."
+      },
+      {
+        "basis": "official_context",
+        "id": "foph-wlan-scope",
+        "locator": "PDF p1, suggestions preamble",
+        "scientific_review": "pending",
+        "text": "Its optional suggestions for people wishing to reduce exposure are distinguished from measures required to prevent an established WLAN health risk."
+      }
+    ],
+    "fingerprint": "c3259be7ea95870c3090173214035724999c7fa641a5183e087395f58249e29d",
+    "id": "foph-wlan",
+    "integrity_status": "edition_scope_recorded; local_legal_adoption_not_verified",
+    "pages": [
+      {
+        "id": "F01",
+        "path": "/fields/radiofrequency",
+        "title": "Radiofrequency"
+      },
+      {
+        "id": "G02",
+        "path": "/guides/exposure-measurement",
+        "title": "Understanding SAR, field strength, and dose"
+      },
+      {
+        "id": "G07",
+        "path": "/guides/home-exposure",
+        "title": "Understanding exposure in your home"
+      },
+      {
+        "id": "G08",
+        "path": "/guides/family-choices",
+        "title": "A practical guide to EMF questions for families"
+      },
+      {
+        "id": "Q06",
+        "path": "/questions/children-and-phones",
+        "title": "Are children more vulnerable to phone exposure?"
+      },
+      {
+        "id": "Q08",
+        "path": "/questions/router-at-night",
+        "title": "Should I turn off Wi-Fi at night?"
+      },
+      {
+        "id": "S03",
+        "path": "/sources/wifi",
+        "title": "Wi-Fi and health"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "source_type": "official_context",
+    "title": "Swiss FOPH: Wlan",
+    "url": "https://www.bag.admin.ch/dam/en/sd-web/1QXgTcVQAiaj/Fact%20sheet%20WLAN.pdf"
+  },
+  {
+    "access_basis": "official_document",
+    "checked_at": "2026-10-22",
+    "citation": "HSE: Electromagnetic fields at work. Official context document; retrieved 22 October 2026.",
+    "claims": [
+      {
+        "basis": "official_context",
+        "id": "hse-workplace-scope",
+        "locator": "HTML EMF effects covered by the Regulations",
+        "scientific_review": "pending",
+        "text": "HSE’s workplace explanation separates sensory, direct health and indirect effects, including implanted-device interference. The listed regulatory framework is UK-specific."
+      },
+      {
+        "basis": "official_context",
+        "id": "hse-workplace-risk",
+        "locator": "HTML What you must do as an employer",
+        "scientific_review": "pending",
+        "text": "Workplace assessment uses equipment/emission information, actual tasks and workers at particular risk, with measurement or modeling when existing information is insufficient."
+      }
+    ],
+    "fingerprint": "d57f301bb64d297926030675aee3194ec9164c2738b4a8bd500277346a1a2a2a",
+    "id": "hse-workplace",
+    "integrity_status": "edition_scope_recorded; local_legal_adoption_not_verified",
+    "pages": [
+      {
+        "id": "F02",
+        "path": "/fields/elf",
+        "title": "Power-frequency and ELF"
+      },
+      {
+        "id": "F04",
+        "path": "/fields/static",
+        "title": "Static fields"
+      },
+      {
+        "id": "H03",
+        "path": "/outcomes/meningioma",
+        "title": "EMF and meningioma"
+      },
+      {
+        "id": "H10",
+        "path": "/outcomes/female-fertility-pregnancy",
+        "title": "EMF, female fertility, and pregnancy"
+      },
+      {
+        "id": "H15",
+        "path": "/outcomes/heating",
+        "title": "RF exposure and tissue heating"
+      },
+      {
+        "id": "S15",
+        "path": "/sources/occupational-rf",
+        "title": "RF exposure at work"
+      },
+      {
+        "id": "S16",
+        "path": "/sources/occupational-elf",
+        "title": "ELF exposure at work"
+      },
+      {
+        "id": "S17",
+        "path": "/sources/mri-static-fields",
+        "title": "MRI: static, gradient and RF exposures"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "source_type": "official_context",
+    "title": "HSE: Electromagnetic fields at work",
+    "url": "https://www.hse.gov.uk/radiation/nonionising/emf-regulations.htm"
+  },
+  {
+    "access_basis": "official_document",
+    "checked_at": "2026-10-22",
+    "citation": "ICNIRP: Cordless phones (DECT). Official context document; retrieved 22 October 2026.",
+    "claims": [
+      {
+        "basis": "official_context",
+        "id": "icnirp-dect-system",
+        "locator": "HTML Characteristics of the application",
+        "scientific_review": "pending",
+        "text": "DECT is used for cordless phone systems and some baby monitors. The base station and a handset near the body require different exposure descriptions."
+      }
+    ],
+    "fingerprint": "1377fb1137a330d29e7d441acdb4fd9f42c2dae2bd0fee20c9bdbf2f4991a65a",
+    "id": "icnirp-dect",
+    "integrity_status": "edition_scope_recorded; local_legal_adoption_not_verified",
+    "pages": [
+      {
+        "id": "S02",
+        "path": "/sources/cordless-phones",
+        "title": "Cordless and DECT phones"
+      },
+      {
+        "id": "S08",
+        "path": "/sources/baby-monitors",
+        "title": "Baby monitors and health"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "source_type": "official_context",
+    "title": "ICNIRP: Cordless phones (DECT)",
+    "url": "https://www.icnirp.org/en/applications/dect/index.html"
+  },
+  {
+    "access_basis": "official_document",
+    "checked_at": "2026-10-22",
+    "citation": "ICNIRP: Low-frequency fields. Official context document; retrieved 22 October 2026.",
+    "claims": [
+      {
+        "basis": "official_context",
+        "id": "icnirp-lf-components",
+        "locator": "HTML Frequency range and LF use",
+        "scientific_review": "pending",
+        "text": "The low-frequency guidance distinguishes electric fields from magnetic fields and describes electrical power use as a major everyday source."
+      },
+      {
+        "basis": "official_context",
+        "id": "icnirp-lf-interaction",
+        "locator": "HTML LF effects on the body",
+        "scientific_review": "pending",
+        "text": "Sufficient low-frequency exposure can induce internal electric fields and stimulate excitable tissue; this is a different interaction framework from RF heating."
+      }
+    ],
+    "fingerprint": "ad29cdbd305cd8706dc2036de296fa3c0c71c5e4cf381bcbf0f1c61602b61af2",
+    "id": "icnirp-lf",
+    "integrity_status": "edition_scope_recorded; local_legal_adoption_not_verified",
+    "pages": [
+      {
+        "id": "F02",
+        "path": "/fields/elf",
+        "title": "Power-frequency and ELF"
+      },
+      {
+        "id": "H03",
+        "path": "/outcomes/meningioma",
+        "title": "EMF and meningioma"
+      },
+      {
+        "id": "H15",
+        "path": "/outcomes/heating",
+        "title": "RF exposure and tissue heating"
+      },
+      {
+        "id": "S10",
+        "path": "/sources/induction-hobs",
+        "title": "Induction hobs and health"
+      },
+      {
+        "id": "S12",
+        "path": "/sources/electric-blankets",
+        "title": "Electric blankets and health"
+      },
+      {
+        "id": "S13",
+        "path": "/sources/electric-vehicles",
+        "title": "Electric vehicles and health"
+      },
+      {
+        "id": "S14",
+        "path": "/sources/household-wiring",
+        "title": "Household wiring and appliances"
+      },
+      {
+        "id": "S16",
+        "path": "/sources/occupational-elf",
+        "title": "ELF exposure at work"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "source_type": "official_context",
+    "title": "ICNIRP: Low-frequency fields",
+    "url": "https://www.icnirp.org/en/frequencies/low-frequency/index.html"
+  },
+  {
+    "access_basis": "official_document",
+    "checked_at": "2026-10-22",
+    "citation": "ICNIRP: MRI. Official context document; retrieved 22 October 2026.",
+    "claims": [
+      {
+        "basis": "official_context",
+        "id": "icnirp-mri-components",
+        "locator": "HTML Characteristics of the application",
+        "scientific_review": "pending",
+        "text": "MRI uses static, switched low-frequency and RF components; a single field label does not describe the whole system."
+      },
+      {
+        "basis": "official_context",
+        "id": "icnirp-mri-patient",
+        "locator": "HTML Protection",
+        "scientific_review": "pending",
+        "text": "ICNIRP separates patient medical exposure from general exposure limits and discusses staff exposure and movement in static fields separately."
+      },
+      {
+        "basis": "official_context",
+        "id": "icnirp-mri-movement",
+        "locator": "HTML Protection, staff paragraph",
+        "scientific_review": "pending",
+        "text": "Movement through strong static fields can be relevant to transient sensory effects; field strength alone is not the full exposure description for staff."
+      }
+    ],
+    "fingerprint": "e90a3c3f2291b845e32f0a7b8b47e9496876cadc86d3a5f46b84b87cf1e1548a",
+    "id": "icnirp-mri",
+    "integrity_status": "edition_scope_recorded; local_legal_adoption_not_verified",
+    "pages": [
+      {
+        "id": "F04",
+        "path": "/fields/static",
+        "title": "Static fields"
+      },
+      {
+        "id": "S17",
+        "path": "/sources/mri-static-fields",
+        "title": "MRI: static, gradient and RF exposures"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "source_type": "official_context",
+    "title": "ICNIRP: MRI",
+    "url": "https://www.icnirp.org/en/applications/mri/index.html"
+  },
+  {
+    "access_basis": "official_document",
+    "checked_at": "2026-10-22",
+    "citation": "ICNIRP: Radiofrequency fields. Official context document; retrieved 22 October 2026.",
+    "claims": [
+      {
+        "basis": "official_context",
+        "id": "icnirp-rf-quantities",
+        "locator": "HTML Frequency range and use; Protection",
+        "scientific_review": "pending",
+        "text": "RF assessment uses quantities including incident fields/power density and absorbed energy quantities such as SAR; they are not interchangeable readings."
+      },
+      {
+        "basis": "official_context",
+        "id": "icnirp-rf-restrictions",
+        "locator": "HTML Protection",
+        "scientific_review": "pending",
+        "text": "ICNIRP distinguishes basic restrictions from external reference levels and applies frequency- and body-region-specific averaging."
+      },
+      {
+        "basis": "official_context",
+        "id": "icnirp-rf-heating",
+        "locator": "HTML RF EMF effects on the body; Protection",
+        "scientific_review": "pending",
+        "text": "The RF guidance addresses established adverse heating, with dose, duration and tissue context; this does not turn every detected biological change into clinical injury."
+      }
+    ],
+    "fingerprint": "2958a82728fb7ac5982ae34627cd1509d2a049423c86ec96370b47009a1a78e2",
+    "id": "icnirp-rf",
+    "integrity_status": "edition_scope_recorded; local_legal_adoption_not_verified",
+    "pages": [
+      {
+        "id": "F01",
+        "path": "/fields/radiofrequency",
+        "title": "Radiofrequency"
+      },
+      {
+        "id": "H02",
+        "path": "/outcomes/glioma",
+        "title": "EMF and glioma"
+      },
+      {
+        "id": "H03",
+        "path": "/outcomes/meningioma",
+        "title": "EMF and meningioma"
+      },
+      {
+        "id": "H04",
+        "path": "/outcomes/acoustic-neuroma",
+        "title": "EMF and acoustic neuroma"
+      },
+      {
+        "id": "H15",
+        "path": "/outcomes/heating",
+        "title": "RF exposure and tissue heating"
+      },
+      {
+        "id": "S02",
+        "path": "/sources/cordless-phones",
+        "title": "Cordless and DECT phones"
+      },
+      {
+        "id": "S03",
+        "path": "/sources/wifi",
+        "title": "Wi-Fi and health"
+      },
+      {
+        "id": "S07",
+        "path": "/sources/smart-meters",
+        "title": "Smart meters and health"
+      },
+      {
+        "id": "S08",
+        "path": "/sources/baby-monitors",
+        "title": "Baby monitors and health"
+      },
+      {
+        "id": "S09",
+        "path": "/sources/bluetooth",
+        "title": "Bluetooth, earbuds, and wearables"
+      },
+      {
+        "id": "S11",
+        "path": "/sources/microwave-ovens",
+        "title": "Microwave ovens and health"
+      },
+      {
+        "id": "S15",
+        "path": "/sources/occupational-rf",
+        "title": "RF exposure at work"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "source_type": "official_context",
+    "title": "ICNIRP: Radiofrequency fields",
+    "url": "https://www.icnirp.org/en/frequencies/radiofrequency/index.html"
+  },
+  {
+    "access_basis": "official_document",
+    "checked_at": "2026-10-22",
+    "citation": "ICNIRP: Static fields. Official context document; retrieved 22 October 2026.",
+    "claims": [
+      {
+        "basis": "official_context",
+        "id": "icnirp-static-protection",
+        "locator": "HTML Protection",
+        "scientific_review": "pending",
+        "text": "Static-field guidance and MRI patient guidance have different scopes; implanted-device and moving-worker issues require their own assessment."
+      }
+    ],
+    "fingerprint": "d1379a34ac90aebe00df009a18931c0187efdc946085552ca0b11ceab11627fa",
+    "id": "icnirp-static",
+    "integrity_status": "edition_scope_recorded; local_legal_adoption_not_verified",
+    "pages": [
+      {
+        "id": "F04",
+        "path": "/fields/static",
+        "title": "Static fields"
+      },
+      {
+        "id": "S17",
+        "path": "/sources/mri-static-fields",
+        "title": "MRI: static, gradient and RF exposures"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "source_type": "official_context",
+    "title": "ICNIRP: Static fields",
+    "url": "https://www.icnirp.org/en/frequencies/static-magnetic-fields/index.html"
+  },
+  {
+    "access_basis": "owner_supplied_full_text",
+    "authors": "Schüz J, Pirie K, Reeves GK, Floud S, Beral V,  ",
+    "checked_at": "2026-10-22",
+    "citation": "Schüz J, Pirie K, Reeves GK, Floud S, Beral V,  . Cellular Telephone Use and the Risk of Brain Tumors: Update of the UK Million Women Study. 2022. DOI: 10.1093/jnci/djac042",
+    "claims": [
+      {
+        "basis": "full_text",
+        "id": "E01-T01-R222-c01",
+        "locator": "PDF physical p3, Results; p6, Discussion and conclusion",
+        "scientific_review": "pending",
+        "text": "The updated Million Women cohort did not find increased brain-tumour incidence overall or for meningioma or acoustic neuroma in the reported phone-use categories. It also reported no increase for the studied eye-tumour outcome."
+      },
+      {
+        "basis": "full_text",
+        "id": "E01-T01-R222-c02",
+        "locator": "PDF physical p6, Discussion limitations",
+        "scientific_review": "pending",
+        "text": "Phone-use history was relatively simple, with no detailed technology or absorbed-dose information. Results concern this cohort of older women and do not settle effects in children or the heaviest users."
+      }
+    ],
+    "doi": "10.1093/jnci/djac042",
+    "fingerprint": "7879c9312814a659e6b2ec52763b93e00b43987e4ed658d188929b21e2d5b8cd",
+    "id": "million-women",
+    "integrity_status": "Metadata and selected full-text passages checked; comprehensive correction and protocol audit pending",
+    "limitations": "Selected-passage extraction; complete scientific review pending. Million Women Study follow-up; supersedes/extends earlier cohort publications rather than adding independent participants.",
+    "pages": [
+      {
+        "id": "F01",
+        "path": "/fields/radiofrequency",
+        "title": "Radiofrequency"
+      },
+      {
+        "id": "G01",
+        "path": "/guides/emf-basics",
+        "title": "EMF basics: fields, frequencies, and exposure"
+      },
+      {
+        "id": "G03",
+        "path": "/guides/reading-risk",
+        "title": "Reading risk numbers without being misled"
+      },
+      {
+        "id": "G04",
+        "path": "/guides/study-designs",
+        "title": "How EMF studies work"
+      },
+      {
+        "id": "G05",
+        "path": "/guides/animal-to-human",
+        "title": "From animal experiments to human health"
+      },
+      {
+        "id": "G08",
+        "path": "/guides/family-choices",
+        "title": "A practical guide to EMF questions for families"
+      },
+      {
+        "id": "G10",
+        "path": "/guides/how-we-grade-evidence",
+        "title": "How emfaxis evaluates evidence"
+      },
+      {
+        "id": "H01",
+        "path": "/outcomes/brain-tumours",
+        "title": "EMF and brain tumours"
+      },
+      {
+        "id": "H02",
+        "path": "/outcomes/glioma",
+        "title": "EMF and glioma"
+      },
+      {
+        "id": "H03",
+        "path": "/outcomes/meningioma",
+        "title": "EMF and meningioma"
+      },
+      {
+        "id": "H04",
+        "path": "/outcomes/acoustic-neuroma",
+        "title": "EMF and acoustic neuroma"
+      },
+      {
+        "id": "H07",
+        "path": "/outcomes/other-cancers",
+        "title": "EMF and cancers beyond the brain"
+      },
+      {
+        "id": "Q01",
+        "path": "/questions/do-phones-cause-brain-cancer",
+        "title": "Do mobile phones cause brain cancer?"
+      },
+      {
+        "id": "Q02",
+        "path": "/questions/heavy-long-term-phone-use",
+        "title": "What about heavy or long-term phone use?"
+      },
+      {
+        "id": "Q03",
+        "path": "/questions/brain-cancer-trends",
+        "title": "Have brain cancer rates tracked mobile phone use?"
+      },
+      {
+        "id": "Q04",
+        "path": "/questions/why-studies-disagree",
+        "title": "Why do phone-and-cancer studies disagree?"
+      },
+      {
+        "id": "Q05",
+        "path": "/questions/ntp-and-ramazzini",
+        "title": "What do NTP and Ramazzini tell us?"
+      },
+      {
+        "id": "Q06",
+        "path": "/questions/children-and-phones",
+        "title": "Are children more vulnerable to phone exposure?"
+      },
+      {
+        "id": "Q07",
+        "path": "/questions/sleeping-near-phone",
+        "title": "Is sleeping near a phone a health risk?"
+      },
+      {
+        "id": "Q11",
+        "path": "/questions/5g-versus-older-networks",
+        "title": "Is 5G different from older mobile networks?"
+      },
+      {
+        "id": "Q12",
+        "path": "/questions/reducing-phone-exposure",
+        "title": "Do speakerphone and headsets reduce exposure?"
+      },
+      {
+        "id": "Q16",
+        "path": "/questions/funding-and-trust",
+        "title": "How should I assess industry-funded EMF research?"
+      },
+      {
+        "id": "S01",
+        "path": "/sources/mobile-phones",
+        "title": "Mobile phones and health"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "scope": "UK Million Women cohort, women born 1935–1950, with prospective cancer-registry linkage. Self-reported cellular-telephone use in the 2001 and 2011 questionnaires.",
+    "source_type": "human_observational",
+    "title": "Cellular Telephone Use and the Risk of Brain Tumors: Update of the UK Million Women Study.",
+    "url": "https://doi.org/10.1093/jnci/djac042",
+    "year": "2022"
+  },
+  {
+    "access_basis": "official_document",
+    "checked_at": "2026-10-22",
+    "citation": "NCI: Electromagnetic fields and cancer. Official context document; retrieved 22 October 2026.",
+    "claims": [
+      {
+        "basis": "official_context",
+        "id": "nci-emf-cancer-household",
+        "locator": "HTML What are common sources",
+        "scientific_review": "pending",
+        "text": "NCI identifies wiring, power lines and appliances including electric blankets as low-frequency sources and distinguishes them from wireless RF sources."
+      }
+    ],
+    "fingerprint": "11ec1b2ef46c782b8726899bcb42335244e52e38f05fc0a570d8668059a1740b",
+    "id": "nci-emf-cancer",
+    "integrity_status": "edition_scope_recorded; local_legal_adoption_not_verified",
+    "pages": [
+      {
+        "id": "H02",
+        "path": "/outcomes/glioma",
+        "title": "EMF and glioma"
+      },
+      {
+        "id": "H03",
+        "path": "/outcomes/meningioma",
+        "title": "EMF and meningioma"
+      },
+      {
+        "id": "H04",
+        "path": "/outcomes/acoustic-neuroma",
+        "title": "EMF and acoustic neuroma"
+      },
+      {
+        "id": "H07",
+        "path": "/outcomes/other-cancers",
+        "title": "EMF and cancers beyond the brain"
+      },
+      {
+        "id": "S12",
+        "path": "/sources/electric-blankets",
+        "title": "Electric blankets and health"
+      },
+      {
+        "id": "S14",
+        "path": "/sources/household-wiring",
+        "title": "Household wiring and appliances"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "source_type": "official_context",
+    "title": "NCI: Electromagnetic fields and cancer",
+    "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/electromagnetic-fields-fact-sheet"
+  },
+  {
+    "access_basis": "official_document",
+    "checked_at": "2026-10-22",
+    "citation": "UKHSA: Smart meters and radio waves. Official context document; retrieved 22 October 2026.",
+    "claims": [
+      {
+        "basis": "official_context",
+        "id": "ukhsa-smart-meters-system",
+        "locator": "HTML Radio waves and smart meters",
+        "scientific_review": "pending",
+        "text": "UKHSA describes a home-area network and a utility communication module, with short intermittent transmissions rather than continuous data sending."
+      },
+      {
+        "basis": "official_context",
+        "id": "ukhsa-smart-meters-measurement",
+        "locator": "HTML Exposures from smart meters",
+        "scientific_review": "pending",
+        "text": "UKHSA’s programme separates laboratory emissions, modeled body absorption and measurements in a sample of homes. Its advice refers to those exposure assessments, rather than a new clinical trial."
+      }
+    ],
+    "fingerprint": "4dcc6bbf38a85ea59ffca254bac717e3ed58d9a2a0ba99885ed1ce791d380f56",
+    "id": "ukhsa-smart-meters",
+    "integrity_status": "edition_scope_recorded; local_legal_adoption_not_verified",
+    "pages": [
+      {
+        "id": "S07",
+        "path": "/sources/smart-meters",
+        "title": "Smart meters and health"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "source_type": "official_context",
+    "title": "UKHSA: Smart meters and radio waves",
+    "url": "https://www.gov.uk/government/publications/smart-meters-radio-waves-and-health/smart-meters-radio-waves-and-health"
+  },
+  {
+    "access_basis": "official_document",
+    "checked_at": "2026-10-22",
+    "citation": "WHO: Electromagnetic hypersensitivity (December 2005). Official context document; retrieved 22 October 2026.",
+    "claims": [
+      {
+        "basis": "official_context",
+        "id": "who-ehs-symptoms",
+        "locator": "HTML Conclusions, fact sheet dated December2005",
+        "scientific_review": "pending",
+        "text": "WHO’s historical EHS fact sheet recognizes that symptoms are real and can be disabling, while distinguishing symptom experience from attribution to EMF."
+      },
+      {
+        "basis": "official_context",
+        "id": "who-ehs-care",
+        "locator": "HTML Conclusions—Physicians",
+        "scientific_review": "pending",
+        "text": "The historical WHO document discusses assessment of the clinical picture and other environmental factors; it is not a current outcome-specific review of every wireless technology."
+      }
+    ],
+    "fingerprint": "eac605ce6c644473539ddf4524305ebfa8493e6ddc628501cb69dbdfe2479466",
+    "id": "who-ehs",
+    "integrity_status": "edition_scope_recorded; local_legal_adoption_not_verified",
+    "pages": [
+      {
+        "id": "G09",
+        "path": "/guides/symptoms-and-support",
+        "title": "A practical guide for people reporting EMF-related symptoms"
+      },
+      {
+        "id": "H17",
+        "path": "/outcomes/tinnitus",
+        "title": "EMF and tinnitus"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "source_type": "official_context",
+    "title": "WHO: Electromagnetic hypersensitivity (December 2005)",
+    "url": "https://www.who.int/teams/environment-climate-change-and-health/radiation-and-health/non-ionizing/hypersensitivity"
+  },
+  {
+    "access_basis": "indexed_abstract_only",
+    "authors": "Foster KR.",
+    "checked_at": "2026-10-22T14:32:23.445134+00:00",
+    "citation": "Foster KR. Radiofrequency exposure from wireless LANs utilizing Wi-Fi technology. 2007. DOI: 10.1097/01.hp.0000248117.74843.34",
+    "claims": [
+      {
+        "basis": "abstract",
+        "id": "wifi-pmid-17293700-exposure",
+        "locator": "abstractText, final three sentences",
+        "scientific_review": "pending",
+        "text": "The abstract reports measured Wi-Fi fields below the exposure limits used by the study and identifies low transmitter power and intermittent transmission as relevant."
+      },
+      {
+        "basis": "abstract",
+        "id": "wifi-pmid-17293700-scope",
+        "locator": "abstractText, laptop measurement and scope sentences",
+        "scientific_review": "pending",
+        "text": "The laptop measurements characterize nearby bystander exposure; the authors explicitly exclude body-contact exposure of the user from their method."
+      }
+    ],
+    "doi": "10.1097/01.hp.0000248117.74843.34",
+    "fingerprint": "38ae272e48e0c4f5055749123c992e75147a09ec1e9ce143600473563a1daec9",
+    "id": "wifi-pmid-17293700",
+    "integrity_status": "Indexed relations checked; comprehensive publisher correction, protocol and supplement audit pending",
+    "limitations": "Measurements from particular devices, places and traffic patterns are not a universal household exposure value or a health-outcome test. Full-text methods remain inaccessible.",
+    "pages": [
+      {
+        "id": "G02",
+        "path": "/guides/exposure-measurement",
+        "title": "Understanding SAR, field strength, and dose"
+      },
+      {
+        "id": "G07",
+        "path": "/guides/home-exposure",
+        "title": "Understanding exposure in your home"
+      },
+      {
+        "id": "Q15",
+        "path": "/questions/below-limits",
+        "title": "Does being below an exposure limit settle the health question?"
+      },
+      {
+        "id": "S03",
+        "path": "/sources/wifi",
+        "title": "Wi-Fi and health"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "scope": "Environmental locations and Wi-Fi devices; not a participant health study Multisite RF survey with access-point measurements and laptop file-transfer measurements",
+    "source_type": "exposure_measurement",
+    "title": "Radiofrequency exposure from wireless LANs utilizing Wi-Fi technology.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/17293700/",
+    "year": "2007"
+  },
+  {
+    "access_basis": "indexed_abstract_only",
+    "authors": "Khalid M, Mee T, Peyman A, Addison D, Calderon C, Maslanyj M, Mann S.",
+    "checked_at": "2026-10-22T14:32:23.445134+00:00",
+    "citation": "Khalid M, Mee T, Peyman A, Addison D, Calderon C, Maslanyj M, Mann S. Exposure to radio frequency electromagnetic fields from wireless computer networks: duty factors of Wi-Fi devices operating in schools. 2011. DOI: 10.1016/j.pbiomolbio.2011.08.004",
+    "claims": [
+      {
+        "basis": "abstract",
+        "id": "wifi-pmid-21856328-duty",
+        "locator": "abstractText, packet-capture and duty-factor sentences",
+        "scientific_review": "pending",
+        "text": "The abstract reports intermittent transmission, with access-point duty factors higher than laptop duty factors in the sampled lessons."
+      },
+      {
+        "basis": "abstract",
+        "id": "wifi-pmid-21856328-scope",
+        "locator": "abstractText, opening time-averaging sentences",
+        "scientific_review": "pending",
+        "text": "Duty factor helps convert transmission-level estimates into time-averaged exposure; it depends on actual network use."
+      }
+    ],
+    "doi": "10.1016/j.pbiomolbio.2011.08.004",
+    "fingerprint": "cb40d7dbc70c4c1129316789e09f1b7c6864a1b382322e37e09dd180bd0df0d1",
+    "id": "wifi-pmid-21856328",
+    "integrity_status": "Indexed relations checked; comprehensive publisher correction, protocol and supplement audit pending",
+    "limitations": "The authors describe a limited school sample. These exposure estimates do not measure fertility or other health outcomes; full-text methods remain inaccessible.",
+    "pages": [
+      {
+        "id": "F01",
+        "path": "/fields/radiofrequency",
+        "title": "Radiofrequency"
+      },
+      {
+        "id": "G02",
+        "path": "/guides/exposure-measurement",
+        "title": "Understanding SAR, field strength, and dose"
+      },
+      {
+        "id": "G07",
+        "path": "/guides/home-exposure",
+        "title": "Understanding exposure in your home"
+      },
+      {
+        "id": "Q15",
+        "path": "/questions/below-limits",
+        "title": "Does being below an exposure limit settle the health question?"
+      },
+      {
+        "id": "S03",
+        "path": "/sources/wifi",
+        "title": "Wi-Fi and health"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "scope": "Wi-Fi devices during classroom lessons in primary and secondary schools Radio-packet capture and transmit-time measurement of device duty factors",
+    "source_type": "exposure_measurement",
+    "title": "Exposure to radio frequency electromagnetic fields from wireless computer networks: duty factors of Wi-Fi devices operating in schools.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/21856328/",
+    "year": "2011"
+  },
+  {
+    "access_basis": "indexed_abstract_only",
+    "authors": "Peyman A, Khalid M, Calderon C, Addison D, Mee T, Maslanyj M, Mann S.",
+    "checked_at": "2026-10-22T14:32:23.445134+00:00",
+    "citation": "Peyman A, Khalid M, Calderon C, Addison D, Mee T, Maslanyj M, Mann S. Assessment of exposure to electromagnetic fields from wireless computer networks (wi-fi) in schools; results of laboratory measurements. 2011. DOI: 10.1097/hp.0b013e318200e203",
+    "claims": [
+      {
+        "basis": "abstract",
+        "id": "wifi-pmid-22004929-patterns",
+        "locator": "abstractText, radiation-pattern sentences",
+        "scientific_review": "pending",
+        "text": "Laptop emission patterns varied with direction; access points generally produced higher power densities at the same distance in this device sample."
+      },
+      {
+        "basis": "abstract",
+        "id": "wifi-pmid-22004929-scope",
+        "locator": "abstractText, objective and measurement description",
+        "scientific_review": "pending",
+        "text": "The measurements characterize devices and fields, rather than fertility, child health or any other biological outcome."
+      }
+    ],
+    "doi": "10.1097/hp.0b013e318200e203",
+    "fingerprint": "4612bf8a7e77c84cfac0aecc01eaec966bcce630281f131e6c72f7b1fae5ef2b",
+    "id": "wifi-pmid-22004929",
+    "integrity_status": "Indexed relations checked; comprehensive publisher correction, protocol and supplement audit pending",
+    "limitations": "Device models, traffic conditions and measurement geometry constrain transfer to modern networks. A field measurement below a reference level is not an independent demonstration about health.",
+    "pages": [
+      {
+        "id": "F01",
+        "path": "/fields/radiofrequency",
+        "title": "Radiofrequency"
+      },
+      {
+        "id": "G02",
+        "path": "/guides/exposure-measurement",
+        "title": "Understanding SAR, field strength, and dose"
+      },
+      {
+        "id": "G07",
+        "path": "/guides/home-exposure",
+        "title": "Understanding exposure in your home"
+      },
+      {
+        "id": "Q15",
+        "path": "/questions/below-limits",
+        "title": "Does being below an exposure limit settle the health question?"
+      },
+      {
+        "id": "S03",
+        "path": "/sources/wifi",
+        "title": "Wi-Fi and health"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "scope": "Wi-Fi laptops and access points used in UK schools; laboratory device testing Laboratory power-density, emitted-power and radiation-pattern measurements",
+    "source_type": "exposure_measurement",
+    "title": "Assessment of exposure to electromagnetic fields from wireless computer networks (wi-fi) in schools; results of laboratory measurements.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/22004929/",
+    "year": "2011"
+  },
+  {
+    "access_basis": "indexed_abstract_only",
+    "authors": "Joseph W, Pareit D, Vermeeren G, Naudts D, Verloock L, Martens L, Moerman I.",
+    "checked_at": "2026-10-22T14:32:23.445134+00:00",
+    "citation": "Joseph W, Pareit D, Vermeeren G, Naudts D, Verloock L, Martens L, Moerman I. Determination of the duty cycle of WLAN for realistic radio frequency electromagnetic field exposure assessment. 2013. DOI: 10.1016/j.pbiomolbio.2012.10.002",
+    "claims": [
+      {
+        "basis": "abstract",
+        "id": "wifi-pmid-23085070-traffic",
+        "locator": "abstractText, application and physical-data-rate sentences",
+        "scientific_review": "pending",
+        "text": "Duty cycle varied by application and data rate. File transfer used the radio more intensively than browsing or audio streaming in the reported tests."
+      },
+      {
+        "basis": "abstract",
+        "id": "wifi-pmid-23085070-connection",
+        "locator": "abstractText, lower-data-rate sentences",
+        "scientific_review": "pending",
+        "text": "The authors report that lower physical data rates can increase airtime and possible exposure; a weak connection does not automatically mean less RF exposure."
+      }
+    ],
+    "doi": "10.1016/j.pbiomolbio.2012.10.002",
+    "fingerprint": "6ae3d4783e017acfcc8832c5dbbe174b71b59b7175558c0e4da923b2bcf4b27e",
+    "id": "wifi-pmid-23085070",
+    "integrity_status": "Indexed relations checked; comprehensive publisher correction, protocol and supplement audit pending",
+    "limitations": "The linked university page now marks its file UGent-only despite a free-link flag in EuropePMC. The full report remains inaccessible. These are exposure measurements, not health outcomes.",
+    "pages": [
+      {
+        "id": "F01",
+        "path": "/fields/radiofrequency",
+        "title": "Radiofrequency"
+      },
+      {
+        "id": "G02",
+        "path": "/guides/exposure-measurement",
+        "title": "Understanding SAR, field strength, and dose"
+      },
+      {
+        "id": "G07",
+        "path": "/guides/home-exposure",
+        "title": "Understanding exposure in your home"
+      },
+      {
+        "id": "S03",
+        "path": "/sources/wifi",
+        "title": "Wi-Fi and health"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "scope": "WLAN locations, environments and application scenarios Environmental and application-specific WLAN duty-cycle assessment",
+    "source_type": "exposure_measurement",
+    "title": "Determination of the duty cycle of WLAN for realistic radio frequency electromagnetic field exposure assessment.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/23085070/",
+    "year": "2013"
+  },
+  {
+    "access_basis": "indexed_abstract_only",
+    "authors": "Zentai N, Csathó Á, Trunk A, Fiocchi S, Parazzini M, Ravazzani P, Thuróczy G, Hernádi I.",
+    "checked_at": "2026-10-22T14:32:23.445134+00:00",
+    "citation": "Zentai N, Csathó Á, Trunk A, Fiocchi S, Parazzini M, Ravazzani P, Thuróczy G, Hernádi I. No Effects of Acute Exposure to Wi-Fi Electromagnetic Fields on Spontaneous EEG Activity and Psychomotor Vigilance in Healthy Human Volunteers. 2015. DOI: 10.1667/rr13896.1",
+    "claims": [
+      {
+        "basis": "abstract",
+        "id": "wifi-pmid-26600173-waking",
+        "locator": "abstractText, final two sentences",
+        "scientific_review": "pending",
+        "text": "The abstract reports no measurable change in spontaneous waking EEG spectral power or psychomotor-vigilance reaction time after the acute Wi-Fi exposure."
+      },
+      {
+        "basis": "abstract",
+        "id": "wifi-pmid-26600173-scope",
+        "locator": "abstractText, hypothesis and outcome descriptions",
+        "scientific_review": "pending",
+        "text": "These are waking brain-activity and attention endpoints; they do not directly test overnight sleep or chronic neurological disease."
+      }
+    ],
+    "doi": "10.1667/rr13896.1",
+    "fingerprint": "d2fcd7fc20e3fbce04d7a6d2e3171ab886b58c058a09d734b1140a03b92d5426",
+    "id": "wifi-pmid-26600173",
+    "integrity_status": "Indexed relations checked; comprehensive publisher correction, protocol and supplement audit pending",
+    "limitations": "The full report is inaccessible, so allocation, blinding, exclusions and precision have not been appraised. A linked commentary is recorded separately and is not a correction or retraction.",
+    "pages": [
+      {
+        "id": "G04",
+        "path": "/guides/study-designs",
+        "title": "How EMF studies work"
+      },
+      {
+        "id": "H13",
+        "path": "/outcomes/cognition",
+        "title": "EMF, attention, and memory"
+      },
+      {
+        "id": "S03",
+        "path": "/sources/wifi",
+        "title": "Wi-Fi and health"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "scope": "Healthy human volunteers; separate waking-EEG and psychomotor-vigilance experiments Acute provocation experiments; the accessible abstract describes a one-hour exposure and comparator-dependent outcome testing",
+    "source_type": "human_experiment",
+    "title": "No Effects of Acute Exposure to Wi-Fi Electromagnetic Fields on Spontaneous EEG Activity and Psychomotor Vigilance in Healthy Human Volunteers.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/26600173/",
+    "year": "2015"
+  },
+  {
+    "access_basis": "indexed_abstract_only",
+    "authors": "Schmid G, Hirtl R, Bueno-Lopez A, Dorn H, Eggert T, Danker-Hopfe H.",
+    "checked_at": "2026-10-22T14:32:23.445134+00:00",
+    "citation": "Schmid G, Hirtl R, Bueno-Lopez A, Dorn H, Eggert T, Danker-Hopfe H. Design and Dosimetric Analysis of an Exposure Facility for Investigating Possible Effects of 2.45 GHz Wi-Fi Signals on Human Sleep. 2020. DOI: 10.1002/bem.22256",
+    "claims": [
+      {
+        "basis": "abstract",
+        "id": "wifi-pmid-32104921-facility",
+        "locator": "abstractText, sentences 1–4",
+        "scientific_review": "pending",
+        "text": "The apparatus uses directional antennas around the head and controlled WLAN transmission patterns to support blinded sleep experiments."
+      },
+      {
+        "basis": "abstract",
+        "id": "wifi-pmid-32104921-geometry",
+        "locator": "abstractText, final three sentences",
+        "scientific_review": "pending",
+        "text": "Head position changes the estimated absorption in brain regions; incident field, regional SAR and peak spatial SAR describe different quantities."
+      }
+    ],
+    "doi": "10.1002/bem.22256",
+    "fingerprint": "e840bd9ca685735d3454cb39e1a3a203dd69c271b10053d77c74883e53bc3e47",
+    "id": "wifi-pmid-32104921",
+    "integrity_status": "Indexed relations checked; comprehensive publisher correction, protocol and supplement audit pending; exposure facility methods report, not a separate health trial",
+    "limitations": "A description of an exposure facility does not establish a health effect. The full report and uncertainty methods remain inaccessible.",
+    "pages": [
+      {
+        "id": "G02",
+        "path": "/guides/exposure-measurement",
+        "title": "Understanding SAR, field strength, and dose"
+      },
+      {
+        "id": "H08",
+        "path": "/outcomes/sleep",
+        "title": "EMF and sleep"
+      },
+      {
+        "id": "Q08",
+        "path": "/questions/router-at-night",
+        "title": "Should I turn off Wi-Fi at night?"
+      },
+      {
+        "id": "S03",
+        "path": "/sources/wifi",
+        "title": "Wi-Fi and health"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "scope": "Exposure apparatus and anatomical computational head models; not an independent health-outcome trial Design and dosimetric characterization of a controlled head-exposure system",
+    "source_type": "engineering_methods",
+    "title": "Design and Dosimetric Analysis of an Exposure Facility for Investigating Possible Effects of 2.45 GHz Wi-Fi Signals on Human Sleep.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/32104921/",
+    "year": "2020"
+  },
+  {
+    "access_basis": "indexed_abstract_only",
+    "authors": "Danker-Hopfe H, Bueno-Lopez A, Dorn H, Schmid G, Hirtl R, Eggert T.",
+    "checked_at": "2026-10-22T14:32:23.445134+00:00",
+    "citation": "Danker-Hopfe H, Bueno-Lopez A, Dorn H, Schmid G, Hirtl R, Eggert T. Spending the night next to a router - Results from the first human experimental study investigating the impact of Wi-Fi exposure on sleep. 2020. DOI: 10.1016/j.ijheh.2020.113550",
+    "claims": [
+      {
+        "basis": "abstract",
+        "id": "wifi-pmid-32408065-sleep",
+        "locator": "abstractText, Results first sentence",
+        "scientific_review": "pending",
+        "text": "The abstract reports no statistically significant change in subjective sleep or sleep macrostructure after overnight Wi-Fi exposure versus sham."
+      },
+      {
+        "basis": "abstract",
+        "id": "wifi-pmid-32408065-eeg",
+        "locator": "abstractText, Results second sentence and Discussion",
+        "scientific_review": "pending",
+        "text": "It also reports reduced alpha-band EEG power during NREM sleep. This physiological finding should be shown alongside the sleep outcomes."
+      }
+    ],
+    "doi": "10.1016/j.ijheh.2020.113550",
+    "fingerprint": "46b24dd06ba8d1e63ed9933828af2ca6635c4603597962d808d738e120c9e247",
+    "id": "wifi-pmid-32408065",
+    "integrity_status": "Indexed relations checked; comprehensive publisher correction, protocol and supplement audit pending",
+    "limitations": "The abstract covers an acute laboratory experiment in healthy men; it cannot establish long-term effects or effects in children or people with sleep disorders. Full-text analysis and supplements are still needed.",
+    "pages": [
+      {
+        "id": "F01",
+        "path": "/fields/radiofrequency",
+        "title": "Radiofrequency"
+      },
+      {
+        "id": "H08",
+        "path": "/outcomes/sleep",
+        "title": "EMF and sleep"
+      },
+      {
+        "id": "Q08",
+        "path": "/questions/router-at-night",
+        "title": "Should I turn off Wi-Fi at night?"
+      },
+      {
+        "id": "S03",
+        "path": "/sources/wifi",
+        "title": "Wi-Fi and health"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "scope": "Healthy young adult men in a sleep laboratory Double-blind, randomized, sham-controlled, counterbalanced crossover; subjective questionnaire and polysomnography",
+    "source_type": "human_experiment",
+    "title": "Spending the night next to a router - Results from the first human experimental study investigating the impact of Wi-Fi exposure on sleep.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/32408065/",
+    "year": "2020"
+  },
+  {
+    "access_basis": "publisher_fulltext_web_snapshot",
+    "authors": "Bueno-Lopez A, Eggert T, Dorn H, Schmid G, Hirtl R, Danker-Hopfe H.",
+    "checked_at": "2026-10-22T14:32:23.445134+00:00",
+    "citation": "Bueno-Lopez A, Eggert T, Dorn H, Schmid G, Hirtl R, Danker-Hopfe H. Effects of 2.45 GHz Wi-Fi exposure on sleep-dependent memory consolidation. 2021. DOI: 10.1111/jsr.13224",
+    "claims": [
+      {
+        "basis": "full_text",
+        "id": "wifi-pmid-33166026-memory",
+        "locator": "§3.2; Tables 1–2",
+        "scientific_review": "pending",
+        "text": "Word-pair retention improved more after Wi-Fi than sham, while emotional and procedural memory did not differ significantly."
+      },
+      {
+        "basis": "full_text",
+        "id": "wifi-pmid-33166026-interpretation",
+        "locator": "§4.2 final paragraph; §5",
+        "scientific_review": "pending",
+        "text": "The authors call the declarative-memory result inconclusive because associated sleep physiology did not corroborate it and chance remains possible."
+      },
+      {
+        "basis": "full_text",
+        "id": "wifi-pmid-33166026-family",
+        "locator": "§2.1 paragraphs 1–2; §4.2",
+        "scientific_review": "pending",
+        "text": "The memory analysis uses a subset of the participants in the sleep report; it is not independent replication."
+      },
+      {
+        "basis": "full_text",
+        "id": "wifi-pmid-33166026-limitations",
+        "locator": "§2.7; §4 opening paragraph",
+        "scientific_review": "pending",
+        "text": "The analysis was exploratory without a correction for multiple testing; exclusions unbalanced exposure order. The authors restrict inference to acute effects."
+      }
+    ],
+    "doi": "10.1111/jsr.13224",
+    "fingerprint": "af729bdec4eedd950d086e1f5851349e842eafd6fed4b3706f266c90b0ed3771",
+    "id": "wifi-pmid-33166026",
+    "integrity_status": "Indexed relations checked; comprehensive publisher correction, protocol and supplement audit pending; shares participants with PMID32408065; not independent replication",
+    "limitations": "Restricted population, acute exposure, exploratory analyses and a shared sample limit inference. The publisher supplement could not be retrieved.",
+    "pages": [
+      {
+        "id": "F01",
+        "path": "/fields/radiofrequency",
+        "title": "Radiofrequency"
+      },
+      {
+        "id": "G04",
+        "path": "/guides/study-designs",
+        "title": "How EMF studies work"
+      },
+      {
+        "id": "H08",
+        "path": "/outcomes/sleep",
+        "title": "EMF and sleep"
+      },
+      {
+        "id": "H13",
+        "path": "/outcomes/cognition",
+        "title": "EMF, attention, and memory"
+      },
+      {
+        "id": "Q08",
+        "path": "/questions/router-at-night",
+        "title": "Should I turn off Wi-Fi at night?"
+      },
+      {
+        "id": "S03",
+        "path": "/sources/wifi",
+        "title": "Wi-Fi and health"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "scope": "Healthy young adult men; memory analysis is a subset of the sleep experiment Blinded randomized crossover of overnight Wi-Fi and sham; word-pair, face-recognition and finger-tapping tasks",
+    "source_type": "human_experiment",
+    "title": "Effects of 2.45 GHz Wi-Fi exposure on sleep-dependent memory consolidation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/33166026/",
+    "year": "2021"
+  }
+]

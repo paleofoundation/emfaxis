@@ -14,6 +14,7 @@ assert.equal(new Set(studies.map(x=>x.doi.toLowerCase())).size,studies.length);
 for(const s of studies){assert(s.pmid&&s.doi&&s.originalTitle);assert(guideIds.has(s.guide));assert(s.url.startsWith('https://'))}
 const legacy=JSON.parse(fs.readFileSync(new URL('../research/primary-source-metadata.json',import.meta.url),'utf8')).resultList.result;
 for(const s of studies){const original=legacy.find(x=>x.pmid===s.pmid);assert(original,`lost identity ${s.id}`);assert.equal(original.doi.toLowerCase(),s.doi.toLowerCase())}
+const recovered=JSON.parse(fs.readFileSync(new URL('../lib/recovered-sources.json',import.meta.url),'utf8'));for(const r of recovered)sourceIds.add(r.id);
 const gaps=[];
 for(const g of guides){for(const s of g.sections){for(const id of s.refs||[])assert(sourceIds.has(id),`orphan citation ${g.id}/${id}`);const words=s.text.trim().split(/\s+/).length;if(words<60)gaps.push({guide:g.id,section:s.title,words,status:'HOLD',reason:'Legacy short paragraph awaits evidence-based expansion; no filler added.'})}for(const q of g.questions)assert(q.q&&q.a)}
 for(const q of questions){for(const id of q.guideIds)assert(guideIds.has(id),`orphan guide ${id}`);for(const id of q.studyIds)assert(studyIds.has(id),`orphan study ${id}`);for(const id of q.relatedTopicIds)assert(topicIds.has(id));for(const d of q.publicDiscussions)assert(new URL(d.url).hostname==='www.reddit.com');assert(q.shortAnswer&&q.answerStatus);assert(!('sampleScore' in q),'private demand scoring leaked to site projection')}
@@ -26,8 +27,8 @@ if(process.argv.includes('--report'))fs.writeFileSync(new URL('../research/contr
 // Exposure/outcome fanout validates the shared public projection, never private candidates.
 const {sources,outcomes,evidenceRows,topicRegistry,rowsFor,citationsFor}=await import('../lib/evidence.ts');
 const {guideDepth}=await import('../lib/guide-depth.ts');
-assert.equal(topicRegistry.filter(t=>t.id.startsWith('S')).length,17);
-assert.equal(topicRegistry.filter(t=>t.id.startsWith('H')).length,17);
+assert.equal(topicRegistry.filter(t=>t.type==='exposure_source').length,17);
+assert.equal(topicRegistry.filter(t=>t.type==='health_outcome').length,17);
 assert.equal(new Set(evidenceRows.map(r=>r.id)).size,evidenceRows.length);
 for(const topic of [...sources,...outcomes]){
  const expected=topic.kind==='source'?['properties','everyday-exposure','mechanisms','levels-and-limits','distance','evidence']:['measurement','evidence','confounding','controlled-studies','agency-assessments','interventions'];
@@ -36,8 +37,16 @@ for(const topic of [...sources,...outcomes]){
  for(const id of citationsFor(topic))assert(sourceIds.has(id),`unknown citation ${topic.id}/${id}`);
  for(const row of rowsFor(topic))assert(evidenceRows.includes(row),'comparison was independently copied');
 }
-for(const row of evidenceRows){assert(sources.some(t=>t.id===row.source));assert(outcomes.some(t=>t.id===row.outcome));for(const id of row.papers)assert(studyIds.has(id));assert(row.finding&&row.limit&&row.scope);}
-assert.equal(evidenceRows.find(r=>r.id==='wifi-sleep-gap').papers.length,0,'direct Wi-Fi result must remain absent');
+for(const row of evidenceRows){assert(sources.some(t=>t.id===row.source));assert(row.outcome==='exposure-characterisation'||outcomes.some(t=>t.id===row.outcome));for(const id of row.papers)assert(sourceIds.has(id));assert(row.finding&&row.limit&&row.scope);}
+assert(evidenceRows.find(r=>r.id==='wifi-sleep-direct').papers.includes('wifi-pmid-32408065'),'direct Wi-Fi result must reach both source and outcome pages');
 assert.deepEqual(Object.keys(guideDepth).sort(),guides.map(g=>g.id).sort());
 for(const [id,sections] of Object.entries(guideDepth)){assert(sections.length);for(const s of sections){assert(s.text&&s.title);for(const ref of s.refs||[])assert(sourceIds.has(ref),`unknown guide depth citation ${id}/${ref}`)}}
 console.log(JSON.stringify({status:'PASS',scope:'Selected public-source fanout; not completed scientific appraisal',sourceReadingEditions:sources.length,outcomeReadingEditions:outcomes.length,sharedComparisons:evidenceRows.length,guideExpansionSections:Object.values(guideDepth).flat().length,privatePilotImported:false}));
+
+const planned=JSON.parse(fs.readFileSync(new URL('../lib/rollout-pages.json',import.meta.url),'utf8'));
+assert.equal(topicRegistry.length,65);assert.equal(planned.length,27);assert.equal(sources.length,17);assert.equal(outcomes.length,17);
+for(const p of planned){assert(p.overview.length>=2&&p.sections.length>=4&&p.faqs.length>=3);const words=[...p.overview,...p.sections.flatMap(s=>s.paragraphs)].map(p=>p.text).join(' ').split(/\s+/).length;assert(words>=500,'thin planned article '+p.id);for(const para of [...p.overview,...p.sections.flatMap(s=>s.paragraphs)])for(const ref of para.refs||[])assert(sourceIds.has(ref),'orphan planned reference '+ref)}
+assert.equal(recovered.length,44);assert.equal(recovered.flatMap(s=>s.claims).length,100);
+for(const s of recovered){assert(s.url.startsWith('https://'));assert(s.fingerprint.length===64);for(const c of s.claims)assert.equal(c.scientific_review,'pending')}
+for(const f of ['recovered-sources.json','rollout-pages.json','rollout-topics.json','topic-overrides.json']){const raw=fs.readFileSync(new URL('../lib/'+f,import.meta.url),'utf8');assert(!/private_source_file|private_pdf_path|supporting_passage_excerpt|\/Users\/kmfp|human_approved/.test(raw),'private or approval material in '+f)}
+console.log(JSON.stringify({status:'PASS',plannedPages:65,populatedSources:17,populatedOutcomes:17,plannedQuestions:16,plannedGuidesAndMethods:11,fields:4,recoveredSources:44,sourceCheckedClaims:100,scientificReview:'pending'}));

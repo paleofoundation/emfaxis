@@ -1,3 +1,5 @@
+import {rolloutPages} from '@/lib/rollout';
+import {EditorialPageView} from '@/components/emf/editorial-page';
 import {notFound} from 'next/navigation';
 import {guides} from '@/lib/guides';
 import {guideDepth} from '@/lib/guide-depth';
@@ -8,9 +10,9 @@ import {questions} from '@/lib/questions';
 import {FAQ} from '@/components/emf/faq';
 import {PostShell} from '@/components/emf/post-shell';
 import {Citations,ResearchSection} from '@/components/emf/research-section';
-export async function generateMetadata({params}:{params:Promise<{id:string}>}){const {id}=await params;const g=guides.find(g=>g.id===id);return {title:g?.title||'Guide not found',description:g?.intro,alternates:{canonical:'/guides/'+id}}}
+export async function generateMetadata({params}:{params:Promise<{id:string}>}){const {id}=await params;const draft=rolloutPages.find(p=>p.kind==='guide'&&p.id===id);const g=guides.find(g=>g.id===id);return {title:draft?.title||g?.title||'Guide not found',description:draft?.intro||g?.intro,alternates:{canonical:'/guides/'+id}}}
 export default async function Page({params}:{params:Promise<{id:string}>}){
- const {id}=await params;const g=guides.find(g=>g.id===id);if(!g)notFound();
+ const {id}=await params;const draft=rolloutPages.find(p=>p.kind==='guide'&&p.id===id);if(draft)return <EditorialPageView page={draft}/>;const g=guides.find(g=>g.id===id);if(!g)notFound();
  const sections=[...g.sections,...(guideDepth[id]||[])];
  const cited=[...new Set(sections.flatMap(s=>s.refs||[]))],linked=studies.filter(s=>cited.includes(s.id));
  const terminal=<><section id="questions"><h2>Common questions</h2><FAQ questions={g.questions}/></section><section id="update-history" className="update-history"><h2>Update History</h2><div className="history-entry"><time dateTime="2026-10-22">22 October 2026</time><h3>More context for the selected studies</h3><p>Expanded explanations of study scope, exposure measurement and interpretation accompany the existing summaries. Findings and source-reading status are retained; no new certainty grade is assigned.</p></div></section></>;
