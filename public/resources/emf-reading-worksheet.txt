@@ -1,4 +1,4 @@
-EMF ATLAS — CLAIM & EXPOSURE READING WORKSHEET
+EMF AXIS — CLAIM & EXPOSURE READING WORKSHEET
 Version 0.2-draft | 8 October 2026 | Free editorial resource
 
 PURPOSE
@@ -78,6 +78,6 @@ Never turn any of these into zero, no effect, or safe/unsafe.
 REUSE / PRIVACY
 Keep a local or printed copy if useful. This worksheet has no sending or
 saving service. Do not put sensitive details in a shared copy. The reading
-method comes from the EMF Atlas draft guides; worked scientific examples
+method comes from the EMF Axis draft guides; worked scientific examples
 and full references are in first-guide.html. It does not create new evidence.
 Review status: AI-assisted editorial draft; human review pending.
