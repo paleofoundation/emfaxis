@@ -1,3 +1,4 @@
+export const metadata={alternates:{canonical:'https://emfaxis.com/'}};
 import {AuthorIdentity} from '@/components/emf/orcid-link';
 import { Search, Radio, Cable, Brain, BookOpen, Bookmark, Microscope, FlaskConical } from 'lucide-react';
 const topics=[['Wireless & mobile phones','Radiofrequency','What do human studies tell us about phones, Wi-Fi, and cancer?','wireless',Radio],['Power lines & electricity','Low-frequency fields','Understand magnetic fields, distance, and childhood leukemia research.','power-lines',Cable],['Sleep, symptoms & cognition','Brain & behavior','Separate measured exposure from screen habits and expectations.','symptoms',Brain],['Fertility & reproduction','Reproductive health','Read the human and laboratory evidence in context.','fertility',FlaskConical]] as const;
