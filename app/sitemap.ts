@@ -5,14 +5,12 @@ import { questions } from '@/lib/questions';
 import { terms, termSlug } from '@/lib/glossary';
 
 export default function sitemap(): MetadataRoute.Sitemap {
+  // Only indexable public pages; exclude search, corrections, and account routes.
   const paths = [
     '/',
-    '/corrections',
     '/disclaimer',
     '/glossary',
     '/guides',
-    '/library',
-    '/login',
     '/methodology',
     '/privacy',
     '/questions',
@@ -20,7 +18,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/resources',
     '/resources/reading-guide',
     '/resources/reading-worksheet',
-    '/search',
     '/terms',
     '/resources/emf-reading-worksheet',
     '/resources/first-guide',
