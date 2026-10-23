@@ -22,17 +22,12 @@
         "paragraphs": [
           {
             "refs": [
-              "icnirp-rf"
-            ],
-            "text": "The ICNIRP RF material distinguishes external field quantities from quantities describing energy absorbed in the body. A frequency, a power setting, a measured field and a tissue dose are different pieces of an exposure description. Units and averaging conditions must match before comparing numbers."
-          },
-          {
-            "refs": [
+              "icnirp-rf",
               "wifi-pmid-22004929",
               "wifi-pmid-21856328",
               "wifi-pmid-23085070"
             ],
-            "text": "Wireless systems transmit according to traffic and link conditions. The recovered WLAN measurement papers examine device radiation patterns, application-dependent transmissions and duty factors. These features explain why a continuous maximum-output assumption and an occupied-room average can differ."
+            "text": "A useful RF exposure description follows a chain from the transmitter to the body. Frequency identifies the part of the spectrum; the device’s power and traffic describe its output; an instrument describes the field at a location; and dosimetry estimates energy absorbed in tissue. Those are related quantities, with different units and assumptions. The WLAN measurement papers illustrate a further distinction: device radiation patterns and the fraction of time transmitting affect how maximum-output tests relate to ordinary activity. A reported peak beside an access point therefore cannot be substituted directly for an occupied-room average or a person’s absorbed dose. Check the quantity, position, operating state and averaging period before comparing two reports."
           }
         ],
         "title": "Signals and absorbed energy"
@@ -43,16 +38,10 @@
         "paragraphs": [
           {
             "refs": [
-              "E06-T11-R137"
-            ],
-            "text": "The recovered residential survey measured smart-meter modules, cordless systems, baby monitors and Bluetooth devices. Its small convenience sample describes tested products, positions and states; it is not a survey of every current home. Peak fields and the fraction of time transmitting need separate interpretation."
-          },
-          {
-            "refs": [
               "E06-T11-R137",
               "foph-bluetooth"
             ],
-            "text": "Body-worn use needs particular care. Measurements on a mouse and two speakers during failed pairing do not characterize earbuds at the ear. A source-specific dossier should establish the actual device, mode and position instead of treating a technology name as the exposure."
+            "text": "The household survey measured selected smart-meter modules, cordless systems, baby monitors and Bluetooth peripherals. Its value lies in identifying actual devices, positions and operating states, rather than treating a home as having one uniform RF exposure. Its convenience sample also limits generalisation: a measured peak and a transmission duty factor describe the tested scenario, with no assurance that every current product behaves the same way. The Bluetooth measurements make this concrete. A mouse or speaker attempting to pair is a different source arrangement from an earbud streaming at the ear. For a reader comparing devices, the most useful question is which complete arrangement was tested, including the active radios, body position and task."
           }
         ],
         "title": "Operating state changes the comparison"
@@ -63,16 +52,11 @@
         "paragraphs": [
           {
             "refs": [
-              "icnirp-rf"
-            ],
-            "text": "RF exposure can deposit energy and produce heating. The relevant restriction depends on the quantity, region and conditions. A demonstrated heating mechanism does not by itself validate a proposed low-level disease mechanism, and a biological measurement must still be interpreted as its own endpoint."
-          },
-          {
-            "refs": [
+              "icnirp-rf",
               "wifi-pmid-33166026",
               "de-iuliis"
             ],
-            "text": "A sleep EEG change, memory-task score, sperm assay and diagnosed tumour are different results. The Wi-Fi memory paper explicitly calls its declarative-memory result inconclusive in light of the physiological findings. It should not become a claim that routers improve cognition."
+            "text": "RF energy can be absorbed and produce heating; ICNIRP’s assessment connects that interaction to the exposed tissue, duration and dose quantity. A proposed explanation for a low-level disease association needs additional evidence that the relevant steps occur under the exposure in question. Endpoints help distinguish these claims. A sleep EEG feature measures electrical activity, a memory task measures performance, an isolated-sperm assay measures a laboratory response, and a tumour diagnosis is a clinical outcome. They cannot be pooled as interchangeable instances of damage. The Wi-Fi memory report itself calls its declarative-memory result inconclusive when considered with its other findings. A physiological or statistical difference can be worth investigating without establishing improved cognition, injury or a disease mechanism."
           }
         ],
         "title": "Heating, physiology and disease"
@@ -83,15 +67,10 @@
         "paragraphs": [
           {
             "refs": [
-              "icnirp-rf"
-            ],
-            "text": "Basic restrictions and reference levels have different roles. An observational use category is neither one of these nor a demonstrated disease threshold. The ICNIRP RF page provides context; local legal adoption and a product-specific compliance assessment are separate tasks."
-          },
-          {
-            "refs": [
+              "icnirp-rf",
               "fda-microwave"
             ],
-            "text": "The FDA microwave-oven standard concerns a US product-performance framework. Door integrity, interlocks and leakage belong to that setting. Common cooking burns and superheated water are also real safety issues, but they are not evidence that the cooked food has become radioactive."
+            "text": "Basic restrictions address relevant quantities within the body, while external reference levels support practical exposure assessment under specified conditions. Neither is the same as a category chosen to analyse an observational study. This matters when a headline calls a study’s highest-use group a safety threshold: that group may reflect the available questionnaire or statistical design, rather than a boundary established by an exposure guideline. Product rules have another scope. The FDA’s microwave-oven framework concerns a US appliance-performance setting, including the enclosure and interlocks; it does not supply one limit for every wireless source or chronic outcome. Compare the correct quantity, frequency, body region and averaging rule, then distinguish that technical comparison from a health-effect estimate."
           }
         ],
         "title": "Guidance and study categories"
@@ -105,14 +84,7 @@
               "foph-mobile",
               "foph-wlan"
             ],
-            "text": "Moving an emitting device changes the exposure geometry, but the exact relationship depends on antennas, reflections, the near-field setting and operating behavior. A universal household “safe distance” cannot be calculated from the frequency label alone."
-          },
-          {
-            "refs": [
-              "foph-mobile",
-              "foph-wlan"
-            ],
-            "text": "A phone may adjust transmission under changing reception, while a fixed access point has its own antenna and traffic pattern. Practical placement guidance is source-specific. It should be read as exposure management, rather than a proven treatment for symptoms or a guaranteed disease-prevention intervention."
+            "text": "Distance changes the relationship between an emitting source and the body, but a useful comparison also holds track of the device’s activity. FOPH describes phone exposure as depending on connection quality, use and position, and WLAN exposure as depending on traffic and transmission conditions. Moving a handset while its output changes is therefore a different comparison from measuring a fixed access point under a defined load. A single distance, technology name or maximum rating cannot reconstruct either scenario. Source-specific measurements or models can describe an exposure change if their operating assumptions are clear. Demonstrating that the change improves sleep or prevents a disease would require a separate outcome comparison, rather than being inferred from the lower exposure alone."
           }
         ],
         "title": "Distance works with geometry and behavior"
@@ -129,11 +101,7 @@
               "eltiti",
               "wifi-pmid-32408065"
             ],
-            "text": "For cancer, compare the prospective phone cohorts with case-control evidence and the separate animal stream. For sleep and symptoms, inspect the signal, blinding and time window. For devices with engineering records alone, the missing health comparison remains explicit."
-          },
-          {
-            "refs": [],
-            "text": "The outcome pages link back to these source-specific comparisons. No pooled RF effect estimate or certainty grade is assigned in this reading edition. Source recovery has expanded what can be read; it has not completed a systematic literature review."
+            "text": "Start with the health outcome and the comparison that could answer it. Prospective phone cohorts and retrospective case-control studies address tumour incidence using different exposure histories and sources of bias; animal experiments contribute a separate stream. Acute sham-controlled symptom studies address a short-term trigger under their tested signals and observation windows. A Wi-Fi experiment cannot be replaced by a phone study simply because both involve RF, and a measured emissions survey adds no new disease cases. The linked outcome pages keep those contrasts identifiable, including conflicting findings, overlapping reports and missing full texts. This selection supplies no pooled RF risk or formal certainty grade; its usefulness comes from showing which result belongs to which exposure and outcome."
           },
           {
             "refs": [
@@ -190,16 +158,11 @@
         "paragraphs": [
           {
             "refs": [
-              "icnirp-lf"
-            ],
-            "text": "A power-system exposure description needs the field component, frequency, magnitude, location and duration. Electric and magnetic field readings cannot be substituted simply because they originate from the same appliance or installation. Internal induced fields are another quantity again."
-          },
-          {
-            "refs": [
+              "icnirp-lf",
               "greenland",
               "draper"
             ],
-            "text": "Current, configuration and proximity matter when interpreting a magnetic-field source. A wiring classification or a residential distance is a proxy with different error from an instrument reading. Those differences should remain visible throughout a health analysis."
+            "text": "Power-system exposure needs more than the name of an appliance. The electric field, magnetic field and internal induced field are different quantities, even when they arise around the same installation. A description should specify the component, frequency, location and observation period before presenting a magnitude. The epidemiological literature introduces another layer: wire codes and residential distance are ways of classifying an exposure setting, rather than direct readings of each person’s daily field. An instrument measurement may be more specific to a place and time while still missing past residence or activity elsewhere. Keeping these definitions visible helps explain why two studies can investigate low-frequency fields yet compare different variables and have different exposure errors."
           }
         ],
         "title": "Electric and magnetic components"
@@ -211,15 +174,10 @@
           {
             "refs": [
               "draper",
-              "ahlbom"
-            ],
-            "text": "A household-wiring question is not identical to a transmission-line question. Address-level categories do not identify a person’s complete daily exposure, and a brief spot reading does not necessarily represent a long-term average. Read the location and sampling method before interpreting an exposure category."
-          },
-          {
-            "refs": [
+              "ahlbom",
               "hse-workplace"
             ],
-            "text": "Occupational assessments add tasks, equipment and worker-specific circumstances. The HSE guidance is a UK framework that asks employers to assess relevant exposures and workers at particular risk. It does not provide a legal determination for another jurisdiction or a single rule for every job."
+            "text": "Residential and occupational questions need different exposure histories. A birth address near a transmission line, a wiring category and a spot measurement in a room each describe part of a residential setting; none automatically captures a child’s complete exposure over years. A workplace assessment instead starts with equipment, tasks and the circumstances of workers who may be particularly susceptible. HSE’s UK framework uses available equipment and emission information, with measurement or modelling where that information is insufficient. These purposes should remain separate when comparing research: an address-based childhood study does not audit a current workstation, and an occupational assessment does not estimate the long-term exposure of every resident near a power line."
           }
         ],
         "title": "Home, appliance and workplace settings"
@@ -230,16 +188,11 @@
         "paragraphs": [
           {
             "refs": [
-              "icnirp-lf"
-            ],
-            "text": "The low-frequency guidance discusses induced internal electric fields and nervous-system stimulation. That physical interaction should be distinguished from the proposed explanations of a long-term childhood-leukaemia association. One mechanism statement does not establish every chronic outcome."
-          },
-          {
-            "refs": [
+              "icnirp-lf",
               "ahlbom",
               "greenland"
             ],
-            "text": "The observational association warrants careful reading, including selection bias, confounding and exposure misclassification. A source-linked account can retain the association while explaining why it is not a causal estimate for a particular child."
+            "text": "At sufficient low-frequency exposure, induced internal electric fields can stimulate excitable tissue. That established interaction is different from explaining the observational childhood-leukaemia association. Evidence for a mechanism would need to connect the relevant exposure to a causal process for that particular outcome, rather than treating stimulation as proof of all chronic effects. The pooled leukaemia analyses retain an association in higher exposure categories, while selection, confounding and exposure-history error complicate interpretation. Both statements belong in the account. The association should not disappear because its cause remains uncertain, but neither can it be converted into a causal estimate for a particular child or a prediction from one household meter reading."
           }
         ],
         "title": "Established interactions and unresolved associations"
@@ -252,15 +205,10 @@
             "refs": [
               "icnirp-lf",
               "ahlbom",
-              "greenland"
-            ],
-            "text": "A guideline value, an epidemiological category and an appliance measurement answer different questions. The higher categories in pooled childhood-leukaemia work are analysis categories. They do not prescribe a residential exclusion zone or a universally safe meter reading."
-          },
-          {
-            "refs": [
+              "greenland",
               "E04-T07-R252"
             ],
-            "text": "Electric-blanket evidence also needs its historical context. A recovered systematic review separates appliance-use analyses from measured residential fields. Older product-use reports cannot automatically establish the risk of a specific current blanket, its wiring or its operating mode."
+            "text": "An epidemiological category, a guideline value and an appliance measurement have different jobs. Categories in pooled childhood-leukaemia analyses group the observations available for comparison; they do not establish a residential exclusion zone or a clinically validated safe reading. Guidance addresses specified exposure interactions and assessment conditions. Appliance-use reports add another limitation: historical electric-blanket use is a product and behaviour proxy, with no guarantee that the same information describes current wiring, settings or overnight operation. The recovered review treats appliance-use and measured residential-field analyses separately for that reason. A useful interpretation identifies the quantity and exposure history first, then explains what the comparison can say about its own outcome."
           }
         ],
         "title": "Three kinds of numbers"
@@ -271,15 +219,10 @@
         "paragraphs": [
           {
             "refs": [
-              "draper"
-            ],
-            "text": "Distance from a line can be useful for a geographical study, but it does not measure all fields at the person. Line configuration, other sources, residence history and activities can change the correspondence between distance and exposure."
-          },
-          {
-            "refs": [
+              "draper",
               "E03-T05-R273"
             ],
-            "text": "The recovered female-infertility case-control report uses distance to high-voltage lines. It is author-reported proximity evidence rather than measured individual magnetic dose. Selection and residual confounding limit its use as advice about where someone should live."
+            "text": "A geographical distance study can compare many addresses without measuring every field at those addresses. That makes it useful for investigating a location-based hypothesis, but leaves the relationship with personal magnetic-field exposure uncertain. Other electrical sources, the line’s configuration and a person’s residence and activity history can alter that relationship. The power-line pregnancy and fertility reports therefore need their own exposure descriptions. In the infertility case-control paper, proximity was reported rather than individual dose being measured, and unresolved table counts keep numerical claims held. A distance association does not establish which source caused it or provide an evidence-based relocation rule. Those would require more complete exposure and causal information than the distance variable supplies."
           }
         ],
         "title": "A proxy is not a dosimeter"
@@ -292,16 +235,17 @@
             "refs": [
               "ahlbom",
               "greenland",
-              "draper"
-            ],
-            "text": "The childhood-leukaemia pooled analyses contain overlapping studies. They should be compared for their methods and populations rather than counted as fully independent replications. The residential distance study adds another exposure definition, not a direct measurement of the same variable."
-          },
-          {
-            "refs": [
+              "draper",
               "E04-T07-R230",
               "E03-T06-R073"
             ],
-            "text": "Occupational meningioma and residential reproductive questions have different populations and outcomes. Their findings belong in their own rows and source records. This edition has not completed a unified systematic appraisal of all ELF-related outcomes."
+            "text": "The childhood-leukaemia pooled analyses reuse overlapping underlying studies. Their agreement or disagreement should be assessed through inclusion rules, populations and exposure methods, rather than by counting each publication as an independent replication. Draper’s distance study asks a related geographical question with a different exposure definition. Occupational meningioma and residential pregnancy reports then address different populations and endpoints again. Preserving those distinctions makes a comparison table more informative than a single ELF verdict: a result about one diagnosis and proxy cannot settle every outcome associated with electrical systems. The source records show the actual designs and outstanding inputs, while the outcome pages explain where findings are consistent, mixed or too incompletely assessed for a stronger interpretation."
+          },
+          {
+            "refs": [
+              "E05-T09-R078"
+            ],
+            "text": "A negative cell experiment is informative when its exposure and methods are clear, but its scope still matters. Luceri and colleagues measured DNA-damage markers in isolated lymphocytes and gene expression in both lymphocytes and yeast. The final analyses did not support an exposure-related effect in those assays. Some initially highlighted gene changes disappeared under the final statistical methods, illustrating why a preliminary list should not replace the completed analysis. At the same time, pooled donor samples, limited independent replication and culture-setting differences restrict what the result can exclude. It does not directly measure disease risk or settle every possible response to ELF magnetic fields."
           }
         ],
         "title": "Compare outcomes and study families"
@@ -350,15 +294,10 @@
         "paragraphs": [
           {
             "refs": [
-              "foph-induction"
-            ],
-            "text": "Induction cooking couples energy into a suitable pan using a time-varying magnetic field. The Swiss FOPH document discusses exposure in relation to the cooking zone, pan and person’s position. A product label or selected cooking power is not a complete measure of the field at the body."
-          },
-          {
-            "refs": [
+              "foph-induction",
               "E06-T11-R239"
             ],
-            "text": "For mixed systems such as electric vehicles and charging equipment, identify the subsystem first. The recovered DC-charger paper models a transformer-related component. Its result cannot stand in for all emissions of a complete vehicle, charger, cabin or cable."
+            "text": "Induction cooking is an energy-transfer system comprising the hob, suitable pan and their relative positions. The field heats the pan through induced currents and magnetisation, while some field remains outside it. A selected power setting alone does not specify the field at a person’s body; pan size, alignment and position are part of the exposure arrangement. The same component-based approach is useful for vehicles and chargers. The recovered DC-charger paper models a transformer-related component in a defined geometry, with anatomical representations used for dosimetry. Its model does not inventory every motor, cable, cabin or charging source. Establishing which component was assessed prevents a precise calculation being mistaken for a complete assessment of a whole product."
           }
         ],
         "title": "Name the source component"
@@ -369,15 +308,10 @@
         "paragraphs": [
           {
             "refs": [
-              "E03-T06-R135"
-            ],
-            "text": "The induction exposure model shows why distance, pan position and operating power affect the modeled comparison. It uses defined conditions rather than following a cook’s movements over a meal. A fixed modeled posture and a person’s changing daily activity are different exposure descriptions."
-          },
-          {
-            "refs": [
+              "E03-T06-R135",
               "foph-induction"
             ],
-            "text": "The FOPH guidance offers source-specific use context, including appropriate cookware and positioning. Read that context alongside the actual appliance instructions. It is exposure guidance, not a demonstrated intervention for pregnancy outcomes or a guarantee about every device."
+            "text": "The household induction model estimates exposure at a defined cooking position from information such as distance, cookware and operating power. That is useful for making exposure assignment more feasible in research, but it is different from following a person as they move, change settings and spend varying time at the hob. A fixed-position estimate can only represent the daily activity to the extent that its assumptions match that activity. FOPH’s cookware and placement guidance supplies source-specific context, with no direct pregnancy-benefit trial. When comparing households, retain both the appliance configuration and the duration or behaviour information that the model does not fully observe; a single cooker-use label loses much of that distinction."
           }
         ],
         "title": "Pan, position and operation"
@@ -389,15 +323,10 @@
           {
             "refs": [
               "foph-induction",
-              "E03-T06-R135"
-            ],
-            "text": "An external magnetic field and an internal induced quantity are different assessment stages. A result above an external comparison value needs the relevant framework and conditions; it is not automatically evidence of injury. The dosimetry assumptions should be inspected before translating a model into a health statement."
-          },
-          {
-            "refs": [
+              "E03-T06-R135",
               "E03-T06-R139"
             ],
-            "text": "A pregnancy endpoint requires a health study with a defined population and comparator. The recovered internet-based induction-cooker report does not measure each participant’s dose. It therefore asks a different question from the engineering model, even though both concern induction cooking."
+            "text": "Exposure assessment often proceeds from an external magnetic field to an estimate of an internal induced quantity. These are different stages of a model, with assumptions about source geometry, position and the body. An external comparison alone therefore cannot be read as an observed injury. A pregnancy question adds further steps: a study must define the population, measure or estimate relevant exposure and ascertain an outcome with an appropriate comparator. The recovered induction-cooker outcome report uses questionnaire information, rather than measuring each participant’s dose. Linking it to the household exposure model can clarify what information future work needs; it cannot retrospectively create missing individual measurements or demonstrate a causal pathway between cooker use and a birth outcome."
           }
         ],
         "title": "From fields to the endpoint"
@@ -408,15 +337,10 @@
         "paragraphs": [
           {
             "refs": [
-              "E03-T06-R135"
-            ],
-            "text": "The induction model’s findings depend on chosen geometry, pan characteristics and power. Its discussion limits generalization from a fixed calculation to actual behavior and discusses transfer beyond its Japanese validation conditions. Report the modeled scenario before discussing any comparison with reference levels."
-          },
-          {
-            "refs": [
+              "E03-T06-R135",
               "E06-T11-R239"
             ],
-            "text": "The recovered charger simulation lacks the field validation and complete multi-source characterization required to describe a real installation. Internally inconsistent percentage wording is held out of the public claims; only the bounded qualitative scope is used."
+            "text": "A modelled comparison with a reference value is conditional on the model’s source, geometry and operating assumptions. The induction estimator was developed and checked in Japanese household settings and describes a fixed position; transfer to other homes or changing activity needs further evaluation. The charging simulation has a different limitation: its authors identify field validation and additional source combinations as future work. Parts of its percentage descriptions are also internally inconsistent, so affected numerical claims remain held. These are reasons to report what each model actually represents before discussing compliance. A detailed anatomical illustration can improve the calculation without making it a measured population or proving a health outcome."
           }
         ],
         "title": "Model conditions and comparison values"
@@ -428,15 +352,10 @@
           {
             "refs": [
               "foph-induction",
-              "E03-T06-R135"
-            ],
-            "text": "For induction systems, distance includes body position relative to the cooking zone and the pan’s alignment. Reducing a question to one universal distance discards the geometry the source actually modeled. Different positions and operating states need their own measurements or calculations."
-          },
-          {
-            "refs": [
+              "E03-T06-R135",
               "E03-T06-R139"
             ],
-            "text": "The pregnancy study does not provide the pan, distance and wattage information needed to connect each participant to such a model. Combining the two reports cannot recover measurements that were never collected in the cohort."
+            "text": "For an induction hob, distance is a relationship between the person, the cooking zone and the pan, with alignment and operating conditions retained. Replacing that geometry with one universal separation discards the factors the exposure model was designed to describe. The pregnancy outcome paper does not provide the full pan, position and power information needed to assign each participant the household model’s estimate. Combining the papers therefore helps identify a measurement gap rather than closing it. A better matched comparison would connect the relevant configuration and time at the source to the same people whose outcomes are being assessed, with the model’s validation and uncertainty still visible."
           }
         ],
         "title": "Keep the geometry visible"
@@ -447,19 +366,23 @@
         "paragraphs": [
           {
             "refs": [
-              "E03-T06-R139"
+              "E03-T06-R139",
+              "E03-T06-R135",
+              "E06-T11-R239"
             ],
-            "text": "The pregnancy report describes a weak association for preterm birth and no birthweight association under its analyses, with self-report, incomplete follow-up and confounding limitations. These selected findings do not establish an induction-specific causal effect."
-          },
-          {
-            "refs": [],
-            "text": "The source pages therefore show what the engineering work characterizes and what the human observational study leaves unresolved. Scientific appraisal and human review remain pending, and no pooled intermediate-frequency health verdict is assigned."
+            "text": "The induction outcome report found weak associations for some preterm-delivery comparisons and no birthweight association in its analyses. Its questionnaire design, follow-up, reporting patterns, repeated testing and residual confounding limit causal interpretation; the authors did not regard the pattern as establishing increased risk. Those results address a human outcome, whereas the household estimator and charger simulation describe exposure. Keeping the streams separate prevents engineering detail from being used as extra clinical evidence or a questionnaire association from validating a dosimetry model. The source pages link the relevant findings and outstanding inputs. No single pooled intermediate-frequency health effect follows from these different sources, configurations and outcomes."
           },
           {
             "refs": [
               "E06-T12-R016"
             ],
             "text": "Brief transient fields require a different description from a continuous single-frequency exposure. A pacemaker bench study used an impulse source near an artificial chest model and found that lead geometry changed induced voltage and pacing inhibition. The tested multiple-twist arrangement reduced interference but did not eliminate it under every condition. The source’s statistical annotations also need clarification. This model cannot establish ordinary household risk or a clinically proven implantation technique."
+          },
+          {
+            "refs": [
+              "E03-T05-R222"
+            ],
+            "text": "Fertility evidence also includes magnetic fields in the intermediate-frequency range, which should be distinguished from phone and Wi-Fi radiofrequency exposure. Kumari and colleagues exposed male mice in a measured coil system and later examined sperm counts, head shape, movement and reproductive tissue weights. They did not detect an adverse pattern in the count, morphology or weight measures, but found more non-progressive movement and fewer immotile sperm in the higher-field group. Movement without forward progression is not established improved fertilization. The study did not test mating success, and its samples were collected after an unexposed interval, so the result describes selected later indicators rather than every possible reproductive effect."
           }
         ],
         "title": "Engineering and health evidence remain separate"
@@ -511,13 +434,7 @@
               "icnirp-static",
               "icnirp-mri"
             ],
-            "text": "A static magnetic field has a magnitude and spatial pattern even though it does not oscillate with time. Moving through a spatially varying field changes a person’s experience of that field. Assessing that movement differs from reading a fixed measurement at one point."
-          },
-          {
-            "refs": [
-              "icnirp-mri"
-            ],
-            "text": "MRI gradients and RF serve additional imaging functions and use different exposure quantities. Referring to all three as “MRI radiation” can hide the relevant mechanism. The component, scanner state, task and body position should be specified in the question."
+            "text": "A static magnetic field has a magnitude and spatial pattern without oscillating over time. A person moving through that pattern encounters a changing field along their path, so a fixed reading at one point and a description of movement answer different questions. MRI adds switched gradients and RF energy for other imaging functions; the scanner’s nominal static-field value cannot describe all three components. This distinction helps interpret an apparent contradiction in a claim about “MRI radiation”: the underlying study may concern movement in the static field, a switched-field effect or RF energy deposition. Identify the component, scanner state, task and body position before comparing its result with another source or outcome."
           }
         ],
         "title": "A static component in a mixed system"
@@ -528,15 +445,10 @@
         "paragraphs": [
           {
             "refs": [
-              "icnirp-mri"
-            ],
-            "text": "A patient undergoing an examination and a worker approaching the bore have different purposes, exposure patterns and assessment frameworks. The MRI context source distinguishes these components and settings. A worker-oriented source should not be used as a patient-specific clinical instruction."
-          },
-          {
-            "refs": [
+              "icnirp-mri",
               "E06-T11-R191"
             ],
-            "text": "Occupational exposure is often task dependent and intermittent. Maintenance, assistance and movement around equipment may differ from a stationary measurement. The recovered occupational paper emphasizes this complexity and the difficulty of summarizing it with a single generic workplace value."
+            "text": "Patients and workers encounter an MRI environment for different purposes and under different patterns of activity. A selected examination is not the same exposure history as repeated assistance, maintenance or movement around equipment. The occupational communication emphasises that fields can be spatially uneven and task dependent, so a stationary measurement may omit an important part of a worker’s experience. ICNIRP’s MRI account also separates patient medical exposure from worker and public contexts. A useful study description therefore states who was observed, which component was assessed, what they were doing and over what period. Worker-oriented context should not be converted into an individual instruction about whether a patient should undergo a particular scan."
           }
         ],
         "title": "Patients, staff and tasks"
@@ -548,15 +460,10 @@
           {
             "refs": [
               "icnirp-static",
-              "icnirp-mri"
-            ],
-            "text": "The ICNIRP static-field discussion includes direct effects and indirect considerations such as implanted devices and objects affected by a magnetic field. These are distinct from the RF-heating question. A low-frequency or phone-cancer study cannot substitute for an MRI-specific assessment."
-          },
-          {
-            "refs": [
+              "icnirp-mri",
               "E06-T11-R191"
             ],
-            "text": "The occupational paper discusses transient sensory experiences in high-field work and the limited evidence for longer-term outcomes. A transient sensation is not interchangeable with a diagnosed chronic disease, and the source does not newly measure the incidence of every condition."
+            "text": "Static-field assessment includes direct interactions and indirect questions involving susceptible objects or implanted devices. Those questions differ from RF heating and from the proposed causes of chronic disease. A transient sensory experience reported during high-field work is an endpoint in its own right; it is not interchangeable with a diagnosed neurological condition or tumour. The occupational communication discusses these experiences and the limited longer-term evidence, while synthesising earlier reports rather than newly measuring all of the outcomes it mentions. This gives a useful map of questions, with no basis for transferring a phone-cancer result into an MRI verdict or treating the absence of ionization as a complete safety assessment."
           }
         ],
         "title": "Sensory effects and equipment interactions"
@@ -568,15 +475,10 @@
           {
             "refs": [
               "icnirp-static",
-              "icnirp-mri"
-            ],
-            "text": "A static-field magnetic quantity cannot be compared directly with an RF absorbed-energy quantity. Occupational, public and medically indicated patient contexts also have different purposes. The relevant original source and current local framework need to be consulted for a compliance decision."
-          },
-          {
-            "refs": [
+              "icnirp-mri",
               "hse-workplace"
             ],
-            "text": "The HSE employer guidance is useful workplace context for assessing sources, tasks and workers at particular risk. It is UK guidance and does not establish another jurisdiction’s law or determine whether a particular implanted device is suitable for an examination."
+            "text": "A magnetic-field quantity for a static source cannot be directly compared with an RF absorbed-energy quantity. The purpose of the framework matters as well: patient medical exposure, worker assessment and general public exposure are different contexts. HSE’s employer guidance considers equipment, tasks and workers at particular risk within the UK framework, with more detailed assessment where existing information is insufficient. It does not determine another jurisdiction’s law or establish the suitability of a particular implant for a particular examination. For a reader assessing a numerical claim, the first task is therefore to identify the component, quantity and population to which the original guidance applies; an impressive number without that match is not an interpretable compliance conclusion."
           }
         ],
         "title": "Use the appropriate assessment framework"
@@ -590,13 +492,7 @@
               "icnirp-static",
               "icnirp-mri"
             ],
-            "text": "A field map describes spatial variation around a system; a person’s route and movement add time dependence to the personal exposure description. A room label or one distance does not capture every task. Device-specific access and screening procedures require the responsible facility’s assessment."
-          },
-          {
-            "refs": [
-              "icnirp-mri"
-            ],
-            "text": "This site does not derive a universal stand-back distance for MRI or advise changing an indicated examination. It explains why the source component and setting must be matched to the question. Such decisions require information absent from a general field-category article."
+            "text": "A field map describes how the field varies across a space; a person’s route and movement add a time history to that description. A room label or distance from the scanner can be useful context, but it does not tell the complete story for every task. ICNIRP’s MRI discussion separates movement-related worker questions from patient medical exposure, while implanted-device and object considerations need their own assessment. This is why a generic stand-back distance cannot be derived from a field-category article. The information needed for a specific decision includes the relevant component, actual operating and movement conditions, and device or facility details that a general overview does not supply."
           }
         ],
         "title": "Location and movement both matter"
@@ -610,11 +506,7 @@
               "icnirp-mri",
               "E06-T11-R191"
             ],
-            "text": "The official sources explain the field components and assessment context. The occupational position paper synthesizes concerns and evidence gaps. Neither is a new blinded trial or a complete systematic assessment of every MRI-related outcome."
-          },
-          {
-            "refs": [],
-            "text": "The MRI and occupational pages provide the more specific reading paths. The absence of an assessed clinical comparison in a table remains a coverage limit, rather than evidence that an effect exists or does not exist. Scientific appraisal and human review of this edition are pending."
+            "text": "The official sources explain MRI components and assessment contexts, while the occupational position paper synthesises concerns and evidence gaps. They are useful background, with no newly recruited population or complete outcome-by-outcome systematic appraisal supplied by their presence in this library. A source-specific review needs to recover the original studies, identify which field component was examined and distinguish transient symptoms from longer-term disease. The more specific MRI and occupational pages provide those reading paths and show where primary inputs are still missing. An empty clinical comparison is a statement about assessed coverage, rather than a positive or negative finding. Engineering and device studies remain separately identified when they add evidence about a defined physical interaction."
           },
           {
             "refs": [

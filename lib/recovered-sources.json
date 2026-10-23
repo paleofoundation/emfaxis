@@ -605,6 +605,95 @@
   },
   {
     "access_basis": "owner_supplied_full_text",
+    "authors": "Bijlsma N, Conduit R, Kennedy G, Cohen M",
+    "checked_at": "2026-10-23",
+    "citation": "Bijlsma N, Conduit R, Kennedy G, Cohen M. Does radiofrequency radiation impact sleep? A double-blind, randomised, placebo-controlled, crossover pilot study. 2024. DOI: 10.3389/fpubh.2024.1481537",
+    "claims": [
+      {
+        "basis": "full_text",
+        "id": "V5-R227-C01",
+        "locator": "Main PDF physical pp2–3 device/geometry/dosimetry; protocol physicalpp8–9; current ANZCTR Intervention; Main PDF physical pp2–3 signal/population; pp8–9 generalizability",
+        "scientific_review": "pending",
+        "text": "The pilot tested a modified FHSS/GFSK baby monitor against a sham in selected healthy adults; sharing a 2.4 GHz band does not make it a direct test of every Wi-Fi router or of infant health."
+      },
+      {
+        "basis": "full_text",
+        "id": "V5-R227-C02",
+        "locator": "Original Table1 physicalpp6–7/Figure2p7; Results physicalp5; Discussionp8; Main PDF physical pp5–8 missing recordings; original Figure1p4; Table1pp6–7",
+        "scientific_review": "pending",
+        "text": "The authors reported worse subjective sleep scores and selected NREM EEG changes during active exposure, alongside nonsignificant actigraphy, conventional sleep-architecture and heart-rate comparisons. Small, differing available samples limit interpretation."
+      },
+      {
+        "basis": "full_text",
+        "id": "V5-R227-C03",
+        "locator": "Main PDF physical pp1–3 aims/design; p9 ACTRN; current ANZCTR Outcomes/registration/Statistics; recovered protocol physicalpp1,7,13,16–17; Main PDF physical pp2–3 randomization/blinding; pp5,8 analysis/order limitations; ANZCTR Statistics; protocol physicalpp9,13–14",
+        "scientific_review": "pending",
+        "text": "The exact trial registry explicitly records retrospective registration after data collection. Current public protocol access improves transparency but leaves the historical specification and analysis-version chain unresolved."
+      },
+      {
+        "basis": "full_text",
+        "id": "V5-R227-C04",
+        "locator": "Main PDF physical pp2–3 device/geometry/dosimetry; protocol physicalpp8–9; current ANZCTR Intervention",
+        "scientific_review": "pending",
+        "text": "The trial did not continuously measure each participant’s RF exposure, and device placement varied across homes; pre-use device readings and background checks do not supply an individual whole-night absorbed dose."
+      }
+    ],
+    "doi": "10.3389/fpubh.2024.1481537",
+    "fingerprint": "24161cdba4e1632e0b0fda525cce764c40ad4f186383daa90518c62d3b440ca2",
+    "id": "E02-T03-R227",
+    "integrity_status": "Source-specific reporting, exposure and study-family issues remain under review. Small adult pilot with retrospective registration and multiple endpoints. Actual baby-monitor signal is not WLAN router exposure or infant evidence; protocol/registry, clinical-threshold and publication differences need reconciliation. All exact numerical effects, final prespecification and human scientific acceptance remain pending.",
+    "limitations": "Small adult pilot with retrospective registration and multiple endpoints. Actual baby-monitor signal is not WLAN router exposure or infant evidence; protocol/registry, clinical-threshold and publication differences need reconciliation.",
+    "pages": [
+      {
+        "id": "G02",
+        "path": "/guides/exposure-measurement",
+        "title": "Understanding SAR, field strength, and dose"
+      },
+      {
+        "id": "G04",
+        "path": "/guides/study-designs",
+        "title": "How EMF studies work"
+      },
+      {
+        "id": "G08",
+        "path": "/guides/family-choices",
+        "title": "A practical guide to EMF questions for families"
+      },
+      {
+        "id": "H08",
+        "path": "/outcomes/sleep",
+        "title": "EMF and sleep"
+      },
+      {
+        "id": "Q08",
+        "path": "/questions/router-at-night",
+        "title": "Should I turn off Wi-Fi at night?"
+      },
+      {
+        "id": "Q16",
+        "path": "/questions/funding-and-trust",
+        "title": "How should I assess industry-funded EMF research?"
+      },
+      {
+        "id": "S03",
+        "path": "/sources/wifi",
+        "title": "Wi-Fi and health"
+      },
+      {
+        "id": "S08",
+        "path": "/sources/baby-monitors",
+        "title": "Baby monitors and health"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "scope": "Multi-night sham-controlled crossover in healthy adults at home using an FHSS/GFSK baby monitor, with subjective sleep, EEG, architecture, actigraphy and HRV endpoints.",
+    "source_type": "human_crossover",
+    "title": "Does radiofrequency radiation impact sleep? A double-blind, randomised, placebo-controlled, crossover pilot study.",
+    "url": "https://doi.org/10.3389/fpubh.2024.1481537",
+    "year": "2024"
+  },
+  {
+    "access_basis": "owner_supplied_full_text",
     "authors": "Michelant L, Delanaud S, Hugueville L, Leveque P, Bach V, Tourneux P, Selmaoui B",
     "checked_at": "2026-10-22",
     "citation": "Michelant L, Delanaud S, Hugueville L, Leveque P, Bach V, Tourneux P, Selmaoui B. No thermal skin effects at environmental 26 GHz field strengths relevant to 5G deployment. 2026. DOI: 10.1038/s41598-026-49616-7",
@@ -741,6 +830,95 @@
     "year": "2012"
   },
   {
+    "access_basis": "owner_supplied_full_text",
+    "authors": "Huss A, van Eijsden M, Guxens M, Beekhuizen J, van Strien R, Kromhout H, Vrijkotte T, Vermeulen R",
+    "checked_at": "2026-10-23",
+    "citation": "Huss A, van Eijsden M, Guxens M, Beekhuizen J, van Strien R, Kromhout H, Vrijkotte T, Vermeulen R. Environmental Radiofrequency Electromagnetic Fields Exposure at Home, Mobile and Cordless Phone Use, and Sleep Problems in 7-Year-Old Children. 2015. DOI: 10.1371/journal.pone.0139869",
+    "claims": [
+      {
+        "basis": "full_text",
+        "id": "V5-R143-C01",
+        "locator": "Main PDF physical pp3–4 Methods; p11 Discussion",
+        "scientific_review": "pending",
+        "text": "In this ABCD child-sleep analysis, parents recalled earlier mobile and cordless calling in the same survey that recorded current sleep; the phone-use comparison therefore has reporting and temporal limitations despite being nested in a prospective birth cohort."
+      },
+      {
+        "basis": "full_text",
+        "id": "V5-R143-C02",
+        "locator": "Main PDF physical pp5–12; rendered Tables4–5 pp9–10",
+        "scientific_review": "pending",
+        "text": "Higher reported mobile calling accompanied several less favorable sleep scores and a proposed negative-control outcome. Mixed findings across modelled base-station, household-source and cordless comparisons limit a simple RF-specific causal interpretation."
+      },
+      {
+        "basis": "full_text",
+        "id": "V5-R143-C03",
+        "locator": "Main PDF physical pp3–6 exposure/outcome methods; pp11–12 scope",
+        "scientific_review": "pending",
+        "text": "Household Wi-Fi or cordless-phone presence was an exposure proxy, not a measurement of a child’s nighttime absorbed dose, and this study did not test whether switching a router off improves sleep."
+      },
+      {
+        "basis": "full_text",
+        "id": "V5-R143-C04",
+        "locator": "Main PDF physical pp4–6 outcome definitions, Statistical analysis and Results",
+        "scientific_review": "pending",
+        "text": "The paper’s sleep-duration questionnaire score and its calculated hours-in-bed measure are different outcomes; its adjusted hours analysis was reported as unassociated with exposure, with detailed results not shown."
+      }
+    ],
+    "doi": "10.1371/journal.pone.0139869",
+    "fingerprint": "0cd891aa1ab66a3c47db1538f4c64808ee6a44a62e79233871ba5842aa77d3c8",
+    "id": "E02-T04-R143",
+    "integrity_status": "Main denominator and estimator labels and a supporting-table reference entry need clarification. All three supporting tables recovered and read; quantitative effects, final prespecification and human appraisal remain pending.",
+    "limitations": "Reported earlier phone use and current sleep collected in one survey; selected cohort retention, proxy exposures, parent reports, many comparisons and related ABCD participants. Scores are not minutes or clinical disease incidence.",
+    "pages": [
+      {
+        "id": "G02",
+        "path": "/guides/exposure-measurement",
+        "title": "Understanding SAR, field strength, and dose"
+      },
+      {
+        "id": "G04",
+        "path": "/guides/study-designs",
+        "title": "How EMF studies work"
+      },
+      {
+        "id": "H08",
+        "path": "/outcomes/sleep",
+        "title": "EMF and sleep"
+      },
+      {
+        "id": "Q08",
+        "path": "/questions/router-at-night",
+        "title": "Should I turn off Wi-Fi at night?"
+      },
+      {
+        "id": "S01",
+        "path": "/sources/mobile-phones",
+        "title": "Mobile phones and health"
+      },
+      {
+        "id": "S02",
+        "path": "/sources/cordless-phones",
+        "title": "Cordless and DECT phones"
+      },
+      {
+        "id": "S03",
+        "path": "/sources/wifi",
+        "title": "Wi-Fi and health"
+      },
+      {
+        "id": "S05",
+        "path": "/sources/base-stations",
+        "title": "Cell towers and base stations"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "scope": "ABCD childhood sleep questionnaires, recalled earlier phone use, household device presence and modelled fixed-transmitter exposure.",
+    "source_type": "human_cohort",
+    "title": "Environmental Radiofrequency Electromagnetic Fields Exposure at Home, Mobile and Cordless Phone Use, and Sleep Problems in 7-Year-Old Children.",
+    "url": "https://doi.org/10.1371/journal.pone.0139869",
+    "year": "2015"
+  },
+  {
     "access_basis": "native_PMC_fulltext_XML",
     "authors": "Tettamanti G, Auvinen A, Åkerstedt T, Kojo K, Ahlbom A, Heinävaara S, Elliott P, Schüz J, Deltour I, Kromhout H, Toledano MB, Poulsen AH, Johansen C, Vermeulen R, Feychting M, Hillert L,  ",
     "checked_at": "2026-10-22",
@@ -813,6 +991,398 @@
     "title": "Long-term effect of mobile phone use on sleep quality: Results from the cohort study of mobile phone use and health (COSMOS).",
     "url": "https://doi.org/10.1016/j.envint.2020.105687",
     "year": "2020"
+  },
+  {
+    "access_basis": "owner_supplied_full_text",
+    "authors": "Cabré-Riera A, van Wel L, Liorni I, Koopman-Verhoeff ME, Imaz L, Ibarluzea J, Huss A, Wiart J, Vermeulen R, Joseph W, Capstick M, Vrijheid M, Cardis E, Röösli M, Eeftens M, Thielens A, Tiemeier H, Guxens M",
+    "checked_at": "2026-10-23",
+    "citation": "Cabré-Riera A, van Wel L, Liorni I, Koopman-Verhoeff ME, Imaz L, Ibarluzea J, Huss A, Wiart J, Vermeulen R, Joseph W, Capstick M, Vrijheid M, Cardis E, Röösli M, Eeftens M, Thielens A, Tiemeier H, Guxens M. Estimated all-day and evening whole-brain radiofrequency electromagnetic fields doses, and sleep in preadolescents. 2022. DOI: 10.1016/j.envres.2021.112291",
+    "claims": [
+      {
+        "basis": "full_text",
+        "id": "V5-R174-C01",
+        "locator": "Main PDF physical pp1–2 aims and Methods2.1; Main PDF physical pp2,4–5 sample/selection; native supplement FigureS1; Main PDF physical p4 SDSC/actigraphy; Table3 physicalp5",
+        "scientific_review": "pending",
+        "text": "This analysis used different all-day and repeated-evening comparisons: maternal questionnaires for usual use and child diaries for evening use, with wrist-based sleep estimates in selected overlapping cohort subsets."
+      },
+      {
+        "basis": "full_text",
+        "id": "V5-R174-C02",
+        "locator": "Original main Tables4–6 physicalpp6–7 and Results3.2–3.3; Main PDF physical pp3–8 modelling/statistics/limitations; original Tables3/5/6; native supplement FigureS1/TablesS6–S8",
+        "scientific_review": "pending",
+        "text": "The authors reported shorter actigraphic total sleep in the high evening call-dose group, while the all-day findings were broadly null after their multiple-test correction. Calls combined mobile and DECT, and this observational pattern did not establish RF causation."
+      },
+      {
+        "basis": "full_text",
+        "id": "V5-R174-C03",
+        "locator": "Main PDF physical pp2–4 model/assumptions; native supplement TablesS1–S2",
+        "scientific_review": "pending",
+        "text": "Estimated brain dose depended on reported activity and assumptions about network, power, connection and device position; it was not a direct individual absorbed-dose measurement."
+      },
+      {
+        "basis": "full_text",
+        "id": "V5-R174-C04",
+        "locator": "Main PDF physical pp3–8 modelling/statistics/limitations; original Tables3/5/6; native supplement FigureS1/TablesS6–S8; MainDiscussion4.2physicalp8",
+        "scientific_review": "pending",
+        "text": "Evening call duration and estimated call dose were strongly correlated, so the study could not separate RF from reasons for calling, arousal or displaced sleep, nor prove any one alternative caused the finding."
+      }
+    ],
+    "doi": "10.1016/j.envres.2021.112291",
+    "fingerprint": "6b9871c71e8751e2e4ebc9b02063a073dc62c2ba23ac41cb41e248d00bd973e6",
+    "id": "E02-T04-R174",
+    "integrity_status": "Source-specific reporting, exposure and study-family issues remain under review. Different overlapping analysis samples and instruments; exposure model assumptions and strong call-time correlation prevent isolation of RF from calling behaviour. Numerical, multiplicity and table-label issues remain unresolved. All exact numerical effects, final prespecification and human scientific acceptance remain pending.",
+    "limitations": "Different overlapping analysis samples and instruments; exposure model assumptions and strong call-time correlation prevent isolation of RF from calling behaviour. Numerical, multiplicity and table-label issues remain unresolved.",
+    "pages": [
+      {
+        "id": "G02",
+        "path": "/guides/exposure-measurement",
+        "title": "Understanding SAR, field strength, and dose"
+      },
+      {
+        "id": "G04",
+        "path": "/guides/study-designs",
+        "title": "How EMF studies work"
+      },
+      {
+        "id": "H08",
+        "path": "/outcomes/sleep",
+        "title": "EMF and sleep"
+      },
+      {
+        "id": "Q08",
+        "path": "/questions/router-at-night",
+        "title": "Should I turn off Wi-Fi at night?"
+      },
+      {
+        "id": "S01",
+        "path": "/sources/mobile-phones",
+        "title": "Mobile phones and health"
+      },
+      {
+        "id": "S02",
+        "path": "/sources/cordless-phones",
+        "title": "Cordless and DECT phones"
+      },
+      {
+        "id": "S03",
+        "path": "/sources/wifi",
+        "title": "Wi-Fi and health"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "scope": "Generation R and INMA preadolescent sleep; modelled all-day RF dose and a smaller daily evening-call/actigraphy analysis.",
+    "source_type": "human_cohort",
+    "title": "Estimated all-day and evening whole-brain radiofrequency electromagnetic fields doses, and sleep in preadolescents.",
+    "url": "https://doi.org/10.1016/j.envres.2021.112291",
+    "year": "2022"
+  },
+  {
+    "access_basis": "owner_supplied_full_text",
+    "authors": "Shokri S, Soltani A, Kazemi M, Sardari D, Mofrad FB",
+    "checked_at": "2026-10-23",
+    "citation": "Shokri S, Soltani A, Kazemi M, Sardari D, Mofrad FB. Effects of Wi-Fi (2.45 GHz) Exposure on Apoptosis, Sperm Parameters and Testicular Histomorphometry in Rats: A Time Course Study. 2015. DOI: 10.22074/cellj.2016.3740",
+    "claims": [
+      {
+        "basis": "full_text",
+        "id": "V5-B-R182-C01",
+        "locator": "Main physical p3 endpoint methods; Main physical pp4–5 Results, Table1, Figure2 and Table2",
+        "scientific_review": "pending",
+        "text": "This rat experiment reported changes in sperm characteristics in both active exposure groups, while progressive motility and most organ weights were not statistically significantly changed. It measured reproductive surrogates rather than mating success or human fertility."
+      },
+      {
+        "basis": "full_text",
+        "id": "V5-B-R182-C02",
+        "locator": "Main physical p2 Exposure system; Main physical p4 Figure1; Main physical p8 other-study SAR discussion",
+        "scientific_review": "pending",
+        "text": "The report specifies antenna identity, frequency and daily exposure schedules but does not quantify its own delivered field or absorbed dose. Device identity and hours of exposure therefore do not establish an exposure match to household Wi-Fi users."
+      },
+      {
+        "basis": "full_text",
+        "id": "V5-B-R182-C03",
+        "locator": "Main physical p5 Results, Tables2–3; Main physical p6 Figures3–4 with duplicated Figure4 label held",
+        "scientific_review": "pending",
+        "text": "The daily-duration pattern differed by endpoint: testicular histology and apoptosis-related findings were chiefly altered in the longer-duration group, while some sperm means were more changed in the shorter-duration group. The findings do not support a uniform steadily worsening duration-response across all reproductive measures."
+      },
+      {
+        "basis": "full_text",
+        "id": "V5-B-R182-C04",
+        "locator": "Main physical pp3–4 assay methods; Main physical pp7–8 proposed mechanisms",
+        "scientific_review": "pending",
+        "text": "TUNEL and caspase-related results concern testicular cell-death processes. The experiment did not directly measure testosterone or reactive oxygen species, so its hormonal and oxidative explanations remain proposed mechanisms rather than demonstrated pathways in this study."
+      }
+    ],
+    "doi": "10.22074/cellj.2016.3740",
+    "fingerprint": "cb01123d912ab03f0dbb700623b14bf3902f81441b06473f511b671495018090",
+    "id": "E03-T05-R182",
+    "integrity_status": "Table2 dispersion/significance and Figure4 duplicate group label remain unresolved. Published comment and author reply concern the same experiment, not an erratum or independent replication. Exact numerical, mechanistic and human scientific acceptance remain pending.",
+    "limitations": "Unquantified delivered and absorbed dose, traffic and temperature; comparator/sham equivalence, allocation and animal/cage/technical hierarchy unresolved. No mating success or human conception endpoint; daily-duration pattern is mixed.",
+    "pages": [
+      {
+        "id": "G02",
+        "path": "/guides/exposure-measurement",
+        "title": "Understanding SAR, field strength, and dose"
+      },
+      {
+        "id": "G05",
+        "path": "/guides/animal-to-human",
+        "title": "From animal experiments to human health"
+      },
+      {
+        "id": "H09",
+        "path": "/outcomes/male-fertility",
+        "title": "EMF and male fertility"
+      },
+      {
+        "id": "H14",
+        "path": "/outcomes/dna-damage",
+        "title": "EMF and DNA damage"
+      },
+      {
+        "id": "Q13",
+        "path": "/questions/phone-pocket-fertility",
+        "title": "Does carrying a phone in a pocket affect fertility?"
+      },
+      {
+        "id": "S03",
+        "path": "/sources/wifi",
+        "title": "Wi-Fi and health"
+      },
+      {
+        "id": "S18",
+        "path": "/guides/rf-animal-experiments",
+        "title": "RF exposure in animal experiments — methods guide"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "scope": "Male Wistar rats; terminal sperm, reproductive tissue and apoptosis-related endpoints after different daily durations in an antenna/chamber setup described as Wi-Fi.",
+    "source_type": "animal_experiment",
+    "title": "Effects of Wi-Fi (2.45 GHz) Exposure on Apoptosis, Sperm Parameters and Testicular Histomorphometry in Rats: A Time Course Study.",
+    "url": "https://doi.org/10.22074/cellj.2016.3740",
+    "year": "2015"
+  },
+  {
+    "access_basis": "owner_supplied_full_text",
+    "authors": "Mortazavi SM, Mozdarani H",
+    "checked_at": "2026-10-23",
+    "citation": "Mortazavi SM, Mozdarani H. Comments on: Effects of Wi-Fi (2.45 GHz) Exposure on Apoptosis, Sperm Parameters and Testicular Histomorphometry in Rats: A Time Course Study. 2016. DOI: 10.22074/cellj.2016.3848",
+    "claims": [
+      {
+        "basis": "full_text",
+        "id": "V5-ROOT-R212-C01",
+        "locator": "Owned original physical p1, printed p755, complete three-column letter, references and embedded author reply",
+        "scientific_review": "pending",
+        "text": "The published letter and embedded author reply address the same Shokri rat experiment; they add no independent animals or fertility results and are not a formal correction."
+      },
+      {
+        "basis": "full_text",
+        "id": "V5-ROOT-R212-C02",
+        "locator": "Owned original physical p1, printed p755, complete three-column letter, references and embedded author reply",
+        "scientific_review": "pending",
+        "text": "The reply describes free movement and changing cage positions and states that geometry was not measured; it supplies no measured absorbed dose or field map."
+      }
+    ],
+    "doi": "10.22074/cellj.2016.3848",
+    "fingerprint": "e639ac9bff6a729f60a70538b3e4117ce88af4122d6444288355519d4cde5154",
+    "id": "E03-T05-R212",
+    "integrity_status": "Exact published Comment on relationship confirmed. This is correspondence, not an erratum/retraction or independent replication. Scientific interpretation and parent-study numerical findings remain pending.",
+    "limitations": "Attributed geometry/control/hardware positions without new dosimetry, manufacturer correspondence, matched-sham validation or animal data.",
+    "pages": [
+      {
+        "id": "G02",
+        "path": "/guides/exposure-measurement",
+        "title": "Understanding SAR, field strength, and dose"
+      },
+      {
+        "id": "G05",
+        "path": "/guides/animal-to-human",
+        "title": "From animal experiments to human health"
+      },
+      {
+        "id": "H09",
+        "path": "/outcomes/male-fertility",
+        "title": "EMF and male fertility"
+      },
+      {
+        "id": "H14",
+        "path": "/outcomes/dna-damage",
+        "title": "EMF and DNA damage"
+      },
+      {
+        "id": "Q13",
+        "path": "/questions/phone-pocket-fertility",
+        "title": "Does carrying a phone in a pocket affect fertility?"
+      },
+      {
+        "id": "S03",
+        "path": "/sources/wifi",
+        "title": "Wi-Fi and health"
+      },
+      {
+        "id": "S18",
+        "path": "/guides/rf-animal-experiments",
+        "title": "RF exposure in animal experiments — methods guide"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "scope": "Methodological letter and embedded author reply about the same Shokri rat experiment; no independent animals or effects.",
+    "source_type": "scholarly_commentary",
+    "title": "Comments on: Effects of Wi-Fi (2.45 GHz) Exposure on Apoptosis, Sperm Parameters and Testicular Histomorphometry in Rats: A Time Course Study.",
+    "url": "https://doi.org/10.22074/cellj.2016.3848",
+    "year": "2016"
+  },
+  {
+    "access_basis": "owner_supplied_full_text",
+    "authors": "Kumari K, Capstick M, Cassara AM, Herrala M, Koivisto H, Naarala J, Tanila H, Viluksela M, Juutilainen J",
+    "checked_at": "2026-10-23",
+    "citation": "Kumari K, Capstick M, Cassara AM, Herrala M, Koivisto H, Naarala J, Tanila H, Viluksela M, Juutilainen J. Effects of intermediate frequency magnetic fields on male fertility indicators in mice. 2017. DOI: 10.1016/j.envres.2017.05.014",
+    "claims": [
+      {
+        "basis": "full_text",
+        "id": "V5-B-R222-C01",
+        "locator": "Main physical pp4–6 Results and Figures4–7",
+        "scientific_review": "pending",
+        "text": "This intermediate-frequency mouse experiment did not detect statistically significant exposure-related changes in sperm counts, sperm-head abnormalities or tissue weights, but reported a motility-category change. It did not directly test mating success or human fertility."
+      },
+      {
+        "basis": "full_text",
+        "id": "V5-B-R222-C02",
+        "locator": "Main physical pp4–5 Results/Figure5",
+        "scientific_review": "pending",
+        "text": "The reported motility finding involved more non-progressive movement and fewer immotile sperm at the higher field; progressive movement was not statistically significantly changed. This does not demonstrate improved fertilization or a fertility treatment."
+      },
+      {
+        "basis": "full_text",
+        "id": "V5-B-R222-C03",
+        "locator": "Main physical p3 design; Main physical pp4–5 technical loss/Figure5/timing",
+        "scientific_review": "pending",
+        "text": "Fertility indicators were sampled after an unexposed interval following the field exposure. A field-meter fault separated the higher-field cohort, and another technical failure excluded the first cohort’s motility data. These details qualify timing, independence and precision."
+      }
+    ],
+    "doi": "10.1016/j.envres.2017.05.014",
+    "fingerprint": "6c26aa55659312b8d27a2056357f9b2f65e8ab4295ccb38dab15313daeb8a71b",
+    "id": "E03-T05-R222",
+    "integrity_status": "Source-specific reporting, exposure and study-family issues remain under review. Selected later sperm/tissue indicators, no mating outcome. Higher-field cohort isolated by meter fault; motility technical losses, limited replication and model-dependent internal dosimetry remain relevant. All exact numerical effects, final prespecification and human scientific acceptance remain pending.",
+    "limitations": "Selected later sperm/tissue indicators, no mating outcome. Higher-field cohort isolated by meter fault; motility technical losses, limited replication and model-dependent internal dosimetry remain relevant.",
+    "pages": [
+      {
+        "id": "F03",
+        "path": "/fields/intermediate-frequency",
+        "title": "Intermediate-frequency"
+      },
+      {
+        "id": "G02",
+        "path": "/guides/exposure-measurement",
+        "title": "Understanding SAR, field strength, and dose"
+      },
+      {
+        "id": "G05",
+        "path": "/guides/animal-to-human",
+        "title": "From animal experiments to human health"
+      },
+      {
+        "id": "G06",
+        "path": "/guides/limits-and-regulators",
+        "title": "Understanding exposure limits and regulators"
+      },
+      {
+        "id": "H09",
+        "path": "/outcomes/male-fertility",
+        "title": "EMF and male fertility"
+      },
+      {
+        "id": "Q15",
+        "path": "/questions/below-limits",
+        "title": "Does being below an exposure limit settle the health question?"
+      },
+      {
+        "id": "S10",
+        "path": "/sources/induction-hobs",
+        "title": "Induction hobs and health"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "scope": "Intermediate-frequency magnetic coil exposure in male mice, followed by an unexposed interval and reproductive-indicator sampling.",
+    "source_type": "animal_experiment",
+    "title": "Effects of intermediate frequency magnetic fields on male fertility indicators in mice.",
+    "url": "https://doi.org/10.1016/j.envres.2017.05.014",
+    "year": "2017"
+  },
+  {
+    "access_basis": "owner_supplied_full_text",
+    "authors": "Houston BJ, Nixon B, McEwan KE, Martin JH, King BV, Aitken RJ, De Iuliis GN",
+    "checked_at": "2026-10-23",
+    "citation": "Houston BJ, Nixon B, McEwan KE, Martin JH, King BV, Aitken RJ, De Iuliis GN. Whole-body exposures to radiofrequency-electromagnetic energy can cause DNA damage in mouse spermatozoa via an oxidative mechanism. 2019. DOI: 10.1038/s41598-019-53983-9",
+    "claims": [
+      {
+        "basis": "full_text",
+        "id": "V5-B-R267-C01",
+        "locator": "Main physical pp2–9 Results/Figures2–7",
+        "scientific_review": "pending",
+        "text": "The mouse experiment reported adverse mature-sperm vitality/motility and oxidative/DNA-marker findings while detecting no statistically significant change in gross testis structure or selected testis stress markers. The response differed by tissue, assay and exposure period."
+      },
+      {
+        "basis": "full_text",
+        "id": "V5-B-R267-C02",
+        "locator": "Main physical pp4,7–8 IVF findings/selection; Main physical pp10–12 Figure8/assay methods",
+        "scientific_review": "pending",
+        "text": "Selected in-vitro fertilization and early embryo assays did not detect statistically significant impairment, despite sperm biomarker findings. The authors acknowledge selection of higher-quality motile sperm, and the study did not assess natural mating, live birth or late offspring health."
+      },
+      {
+        "basis": "full_text",
+        "id": "V5-B-R267-C03",
+        "locator": "Main physical pp3,5–8 Figure6/Discussion",
+        "scientific_review": "pending",
+        "text": "Mitochondrial oxidative-probe signals rose at earlier exposure intervals and returned toward control values at the longest interval, whereas the global probe did not show the same effect. This supports an oxidative interpretation without proving the precise RF-to-mitochondria mechanism or a uniform duration response."
+      }
+    ],
+    "doi": "10.1038/s41598-019-53983-9",
+    "fingerprint": "d0fd79f4b3f06f22635a1f98922393c8640a4d81712fd49c627a3da692b45b86",
+    "id": "E03-T05-R267",
+    "integrity_status": "Source-specific reporting, exposure and study-family issues remain under review. Selected motile sperm in IVF, no natural mating/live birth/later offspring endpoint. Dose wording and animal-count differences, cage/cycle hierarchy and causal mechanism remain unresolved. All exact numerical effects, final prespecification and human scientific acceptance remain pending.",
+    "limitations": "Selected motile sperm in IVF, no natural mating/live birth/later offspring endpoint. Dose wording and animal-count differences, cage/cycle hierarchy and causal mechanism remain unresolved.",
+    "pages": [
+      {
+        "id": "G02",
+        "path": "/guides/exposure-measurement",
+        "title": "Understanding SAR, field strength, and dose"
+      },
+      {
+        "id": "G05",
+        "path": "/guides/animal-to-human",
+        "title": "From animal experiments to human health"
+      },
+      {
+        "id": "H09",
+        "path": "/outcomes/male-fertility",
+        "title": "EMF and male fertility"
+      },
+      {
+        "id": "H14",
+        "path": "/outcomes/dna-damage",
+        "title": "EMF and DNA damage"
+      },
+      {
+        "id": "Q13",
+        "path": "/questions/phone-pocket-fertility",
+        "title": "Does carrying a phone in a pocket affect fertility?"
+      },
+      {
+        "id": "S01",
+        "path": "/sources/mobile-phones",
+        "title": "Mobile phones and health"
+      },
+      {
+        "id": "S18",
+        "path": "/guides/rf-animal-experiments",
+        "title": "RF exposure in animal experiments — methods guide"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "scope": "Mouse whole-body RF experiment; mature-sperm and testicular biomarkers alongside selected in-vitro fertilization and early embryo endpoints.",
+    "source_type": "animal_experiment",
+    "title": "Whole-body exposures to radiofrequency-electromagnetic energy can cause DNA damage in mouse spermatozoa via an oxidative mechanism.",
+    "url": "https://doi.org/10.1038/s41598-019-53983-9",
+    "year": "2019"
   },
   {
     "access_basis": "owner_supplied_full_text",
@@ -988,6 +1558,150 @@
     "title": "Residential exposure to 50 Hz magnetic fields and the association with miscarriage risk: a 2-year prospective cohort study.",
     "url": "https://doi.org/10.1371/journal.pone.0082113",
     "year": "2013"
+  },
+  {
+    "access_basis": "owner_supplied_full_text",
+    "authors": "Papadopoulou E, Haugen M, Schjølberg S, Magnus P, Brunborg G, Vrijheid M, Alexander J",
+    "checked_at": "2026-10-23",
+    "citation": "Papadopoulou E, Haugen M, Schjølberg S, Magnus P, Brunborg G, Vrijheid M, Alexander J. Maternal cell phone use in early pregnancy and child's language, communication and motor skills at 3 and 5 years: the Norwegian mother and child cohort study (MoBa). 2017. DOI: 10.1186/s12889-017-4672-2",
+    "claims": [
+      {
+        "basis": "full_text",
+        "id": "V5-B-R094-C01",
+        "locator": "Main physical pp2–4 exposure/methods; Main physical pp6–9 Tables2–4/discussion",
+        "scientific_review": "pending",
+        "text": "This prospective MoBa analysis reported favourable associations for some earlier language/motor screens and no adverse adjusted association in the selected developmental screens. It measured reported maternal phone talking rather than fetal RF dose, so these findings do not establish an RF benefit."
+      },
+      {
+        "basis": "full_text",
+        "id": "V5-B-R094-C02",
+        "locator": "Main physical pp2–3 definitions; Supplement1 rendered pp1–4 TablesS1–S3b",
+        "scientific_review": "pending",
+        "text": "The child outcomes were parent-reported developmental screens. Motor assessment used different instruments at the two follow-ups, and children not yet talking were excluded from sentence-complexity analysis, limiting claims about all developmental diagnoses."
+      },
+      {
+        "basis": "full_text",
+        "id": "V5-B-R094-C03",
+        "locator": "Main physical pp4,6–9 demographic/paternal/discussion; Supplement1 rendered p9 TableS8",
+        "scientific_review": "pending",
+        "text": "Some paternal phone-use associations pointed in the same direction as maternal associations. Together with social differences between phone users and non-users, this supports considering family/social confounding rather than treating maternal phone-use associations as direct fetal RF effects."
+      }
+    ],
+    "doi": "10.1186/s12889-017-4672-2",
+    "fingerprint": "7210e39a12eb93e9d417910828b16a25fef4c4cba5d65d446adb67c784a26db5",
+    "id": "E03-T06-R094",
+    "integrity_status": "Source-specific reporting, exposure and study-family issues remain under review. Historical behaviour proxy without fetal dose, correlated social characteristics, parental outcome reports and changing instruments. Follow-up/model selection, non-talking-child exclusion and printed descriptive differences require review; favourable associations are not RF benefit. All exact numerical effects, final prespecification and human scientific acceptance remain pending.",
+    "limitations": "Historical behaviour proxy without fetal dose, correlated social characteristics, parental outcome reports and changing instruments. Follow-up/model selection, non-talking-child exclusion and printed descriptive differences require review; favourable associations are not RF benefit.",
+    "pages": [
+      {
+        "id": "G02",
+        "path": "/guides/exposure-measurement",
+        "title": "Understanding SAR, field strength, and dose"
+      },
+      {
+        "id": "G04",
+        "path": "/guides/study-designs",
+        "title": "How EMF studies work"
+      },
+      {
+        "id": "G08",
+        "path": "/guides/family-choices",
+        "title": "A practical guide to EMF questions for families"
+      },
+      {
+        "id": "H10",
+        "path": "/outcomes/female-fertility-pregnancy",
+        "title": "EMF, female fertility, and pregnancy"
+      },
+      {
+        "id": "H13",
+        "path": "/outcomes/cognition",
+        "title": "EMF, attention, and memory"
+      },
+      {
+        "id": "S01",
+        "path": "/sources/mobile-phones",
+        "title": "Mobile phones and health"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "scope": "MoBa maternal reported phone talking during pregnancy and selected parent-reported preschool language, communication and motor screens.",
+    "source_type": "human_cohort",
+    "title": "Maternal cell phone use in early pregnancy and child's language, communication and motor skills at 3 and 5 years: the Norwegian mother and child cohort study (MoBa).",
+    "url": "https://doi.org/10.1186/s12889-017-4672-2",
+    "year": "2017"
+  },
+  {
+    "access_basis": "owner_supplied_full_text",
+    "authors": "Lu X, Oda M, Ohba T, Mitsubuchi H, Masuda S, Katoh T",
+    "checked_at": "2026-10-23",
+    "citation": "Lu X, Oda M, Ohba T, Mitsubuchi H, Masuda S, Katoh T. Association of excessive mobile phone use during pregnancy with birth weight: an adjunct study in Kumamoto of Japan Environment and Children's Study. 2017. DOI: 10.1186/s12199-017-0656-1",
+    "claims": [
+      {
+        "basis": "full_text",
+        "id": "V5-B-R096-C01",
+        "locator": "Main physical p2 data collection/statistics",
+        "scientific_review": "pending",
+        "text": "The Kumamoto adjunct classified excessive phone use with a text-message dependency subscale, rather than a measured fetal RF dose. Ordinary users were the comparator, so its birth-outcome associations do not isolate RF exposure or compare ordinary use with no use."
+      },
+      {
+        "basis": "full_text",
+        "id": "V5-B-R096-C02",
+        "locator": "Main physical pp3,5–6 Table2/3/results/discussion",
+        "scientific_review": "pending",
+        "text": "The study reported lower average birth weight in the excessive-use group without detecting a statistically significant difference in the categorical low-birth-weight outcome. The mean and clinical category should remain separate, and neither comparison establishes an RF cause."
+      },
+      {
+        "basis": "full_text",
+        "id": "V5-B-R096-C03",
+        "locator": "Main physical pp2–3 outcome/results; Main physical pp5–6 Table2/4/limitations",
+        "scientific_review": "pending",
+        "text": "The reported emergency-transport association was based on sparse events with a wide adjusted interval, and the authors acknowledged chance as a possible explanation. Mental-health factors were not accounted for, and transport indications or severity were not supplied."
+      }
+    ],
+    "doi": "10.1186/s12199-017-0656-1",
+    "fingerprint": "d20af0e8833b9e665b16317b49961d95df3742daf1e348ff8c40a491811f2a8b",
+    "id": "E03-T06-R096",
+    "integrity_status": "Source-specific reporting, exposure and study-family issues remain under review. Behavioural score without RF or fetal-dose measurement. Observational covariates, selection, denominator and multiple-comparison limits; no causal RF or phone-model safety threshold. All exact numerical effects, final prespecification and human scientific acceptance remain pending.",
+    "limitations": "Behavioural score without RF or fetal-dose measurement. Observational covariates, selection, denominator and multiple-comparison limits; no causal RF or phone-model safety threshold.",
+    "pages": [
+      {
+        "id": "G02",
+        "path": "/guides/exposure-measurement",
+        "title": "Understanding SAR, field strength, and dose"
+      },
+      {
+        "id": "G03",
+        "path": "/guides/reading-risk",
+        "title": "Reading risk numbers without being misled"
+      },
+      {
+        "id": "G04",
+        "path": "/guides/study-designs",
+        "title": "How EMF studies work"
+      },
+      {
+        "id": "G08",
+        "path": "/guides/family-choices",
+        "title": "A practical guide to EMF questions for families"
+      },
+      {
+        "id": "H10",
+        "path": "/outcomes/female-fertility-pregnancy",
+        "title": "EMF, female fertility, and pregnancy"
+      },
+      {
+        "id": "S01",
+        "path": "/sources/mobile-phones",
+        "title": "Mobile phones and health"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "scope": "JECS birthweight comparison using a self-reported text-message dependency/excessive-use behaviour scale during pregnancy.",
+    "source_type": "human_observational",
+    "title": "Association of excessive mobile phone use during pregnancy with birth weight: an adjunct study in Kumamoto of Japan Environment and Children's Study.",
+    "url": "https://doi.org/10.1186/s12199-017-0656-1",
+    "year": "2017"
   },
   {
     "access_basis": "owner_supplied_full_text",
@@ -1261,6 +1975,83 @@
   },
   {
     "access_basis": "owner_supplied_full_text",
+    "authors": "Talibov M, Olsson A, Bailey H, Erdmann F, Metayer C, Magnani C, Petridou E, Auvinen A, Spector L, Clavel J, Roman E, Dockerty J, Nikkilä A, Lohi O, Kang A, Psaltopoulou T, Miligi L, Vila J, Cardis E, Schüz J",
+    "checked_at": "2026-10-23",
+    "citation": "Talibov M, Olsson A, Bailey H, Erdmann F, Metayer C, Magnani C, Petridou E, Auvinen A, Spector L, Clavel J, Roman E, Dockerty J, Nikkilä A, Lohi O, Kang A, Psaltopoulou T, Miligi L, Vila J, Cardis E, Schüz J. Parental occupational exposure to low-frequency magnetic fields and risk of leukaemia in the offspring: findings from the Childhood Leukaemia International Consortium (CLIC). 2019. DOI: 10.1136/oemed-2019-105706",
+    "claims": [
+      {
+        "basis": "full_text",
+        "id": "E04-T07-R237-C01",
+        "locator": "Main PDF physical pp2–3 Methods/Exposure assessment/Table1",
+        "scientific_review": "pending",
+        "text": "The CLIC report pooled individual case–control data and estimated parental workplace ELF exposure with a job-exposure matrix; it did not measure children’s residential magnetic fields."
+      },
+      {
+        "basis": "full_text",
+        "id": "E04-T07-R237-C02",
+        "locator": "Main PDF physical p4 Results/Meta-analysis/Discussion; pp6–7 Table3/Figures1–2",
+        "scientific_review": "pending",
+        "text": "The harmonized CLIC analyses found no clear association with childhood ALL or AML, whereas the expanded literature analysis reported a borderline paternal association and publication-bias concerns."
+      },
+      {
+        "basis": "full_text",
+        "id": "E04-T07-R237-C03",
+        "locator": "Main PDF physical pp6–7 Discussion; p5 Table2",
+        "scientific_review": "pending",
+        "text": "Job-average exposure estimates and missing occupational histories limit interpretation, with differential maternal missingness specifically identified as a selection concern."
+      }
+    ],
+    "doi": "10.1136/oemed-2019-105706",
+    "fingerprint": "ad4416aa8684fbdb2035884d6bd0439ae973ea059335f01e333251523b91d2b7",
+    "id": "E04-T07-R237",
+    "integrity_status": "Source-specific reporting, exposure and study-family issues remain under review. Job-exposure matrix rather than child residential dose, missing parental job histories and harmonization. Related reports and expanded-analysis overlap/publication bias; supplement counts/cutoffs and interval differences remain pending. All exact numerical effects, final prespecification and human scientific acceptance remain pending.",
+    "limitations": "Job-exposure matrix rather than child residential dose, missing parental job histories and harmonization. Related reports and expanded-analysis overlap/publication bias; supplement counts/cutoffs and interval differences remain pending.",
+    "pages": [
+      {
+        "id": "F02",
+        "path": "/fields/elf",
+        "title": "Power-frequency and ELF"
+      },
+      {
+        "id": "G02",
+        "path": "/guides/exposure-measurement",
+        "title": "Understanding SAR, field strength, and dose"
+      },
+      {
+        "id": "G04",
+        "path": "/guides/study-designs",
+        "title": "How EMF studies work"
+      },
+      {
+        "id": "H06",
+        "path": "/outcomes/childhood-leukaemia",
+        "title": "Magnetic fields and childhood leukaemia"
+      },
+      {
+        "id": "Q10",
+        "path": "/questions/living-near-power-lines",
+        "title": "What does living near a power line mean for risk?"
+      },
+      {
+        "id": "Q16",
+        "path": "/questions/funding-and-trust",
+        "title": "How should I assess industry-funded EMF research?"
+      },
+      {
+        "id": "S16",
+        "path": "/sources/occupational-elf",
+        "title": "ELF exposure at work"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "scope": "CLIC harmonized childhood ALL/AML case-control data and expanded literature analysis of parental occupational ELF magnetic exposure windows.",
+    "source_type": "pooled_human_observational",
+    "title": "Parental occupational exposure to low-frequency magnetic fields and risk of leukaemia in the offspring: findings from the Childhood Leukaemia International Consortium (CLIC).",
+    "url": "https://doi.org/10.1136/oemed-2019-105706",
+    "year": "2019"
+  },
+  {
+    "access_basis": "owner_supplied_full_text",
     "authors": "Brabant C, Geerinck A, Beaudart C, Tirelli E, Geuzaine C, Bruyère O",
     "checked_at": "2026-10-22",
     "citation": "Brabant C, Geerinck A, Beaudart C, Tirelli E, Geuzaine C, Bruyère O. Exposure to magnetic fields and childhood leukemia: a systematic review and meta-analysis of case-control and cohort studies. 2023. DOI: 10.1515/reveh-2021-0112",
@@ -1326,6 +2117,162 @@
   },
   {
     "access_basis": "owner_supplied_full_text",
+    "authors": "Crespi CM, Sudan M, Juutilainen J, Roivainen P, Hareuveny R, Huss A, Kandel S, Karim-Kos HE, Thuróczy G, Jakab Z, Spycher BD, Flueckiger B, Vermeulen R, Vergara X, Kheifets L",
+    "checked_at": "2026-10-23",
+    "citation": "Crespi CM, Sudan M, Juutilainen J, Roivainen P, Hareuveny R, Huss A, Kandel S, Karim-Kos HE, Thuróczy G, Jakab Z, Spycher BD, Flueckiger B, Vermeulen R, Vergara X, Kheifets L. International study of childhood leukemia in residences near electrical transformer rooms. 2024. DOI: 10.1016/j.envres.2024.118459",
+    "claims": [
+      {
+        "basis": "full_text",
+        "id": "v5-c-E04-T07-R257-01",
+        "locator": "MainPDF physicalpp2–3 Study design, Cases, Exposure classification and blinding",
+        "scientific_review": "pending",
+        "text": "TransExpo compared children in apartments above or adjacent to built-in transformer rooms with children in other apartments in the same or similar buildings. Exposure assessment was blinded to case/control status; it was an observational registry comparison, not randomized exposure."
+      },
+      {
+        "basis": "full_text",
+        "id": "v5-c-E04-T07-R257-02",
+        "locator": "MainPDF physicalp3 Exposure classification and Figures1–2; p4 Table1/footnotes",
+        "scientific_review": "pending",
+        "text": "Pilot apartment measurements supported the location-based exposure categories, but were not measurements in the included case and control homes. Apartment position therefore remained a magnetic-field proxy rather than each child’s measured dose."
+      },
+      {
+        "basis": "full_text",
+        "id": "v5-c-E04-T07-R257-03",
+        "locator": "MainPDF physicalp5 Table5 and Pooled analyses; p6 Discussion",
+        "scientific_review": "pending",
+        "text": "The main matched analysis did not show a clear association, while other models gave weak elevations. Sparse highly exposed cases and wide confidence intervals prevented strong conclusions and did not exclude an increase of the kind motivating earlier residential studies."
+      }
+    ],
+    "doi": "10.1016/j.envres.2024.118459",
+    "fingerprint": "321a311e8009a064bd03342e39d1bc48d2340b4fbeefd37dcfe2b8f2f28a25c4",
+    "id": "E04-T07-R257",
+    "integrity_status": "Country/supplement/pool denominator differences and model-specific samples need reconciliation. Publisher supplement and earlier public protocol recovered; final SAP/amendments and complete prespecification remain unresolved. All exact numerical and human scientific decisions pending.",
+    "limitations": "Very sparse highly exposed cases, wide intervals, country-specific exposure and registry histories, model-specific observation loss and incomplete confounder reconciliation. Pilot measurements and Finnish reanalyses are not independent disease cohorts.",
+    "pages": [
+      {
+        "id": "G02",
+        "path": "/guides/exposure-measurement",
+        "title": "Understanding SAR, field strength, and dose"
+      },
+      {
+        "id": "G03",
+        "path": "/guides/reading-risk",
+        "title": "Reading risk numbers without being misled"
+      },
+      {
+        "id": "G04",
+        "path": "/guides/study-designs",
+        "title": "How EMF studies work"
+      },
+      {
+        "id": "H06",
+        "path": "/outcomes/childhood-leukaemia",
+        "title": "Magnetic fields and childhood leukaemia"
+      },
+      {
+        "id": "Q10",
+        "path": "/questions/living-near-power-lines",
+        "title": "What does living near a power line mean for risk?"
+      },
+      {
+        "id": "S06",
+        "path": "/sources/power-lines",
+        "title": "Power lines and health"
+      },
+      {
+        "id": "S14",
+        "path": "/sources/household-wiring",
+        "title": "Household wiring and appliances"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "scope": "TransExpo childhood leukaemia registry comparisons using apartment location relative to built-in transformer rooms as a magnetic-field proxy.",
+    "source_type": "human_registry_comparison",
+    "title": "International study of childhood leukemia in residences near electrical transformer rooms.",
+    "url": "https://doi.org/10.1016/j.envres.2024.118459",
+    "year": "2024"
+  },
+  {
+    "access_basis": "owner_supplied_full_text",
+    "authors": "Redmayne M, Smith CL, Benke G, Croft RJ, Dalecki A, Dimitriadis C, Kaufman J, Macleod S, Sim MR, Wolfe R, Abramson MJ",
+    "checked_at": "2026-10-23",
+    "citation": "Redmayne M, Smith CL, Benke G, Croft RJ, Dalecki A, Dimitriadis C, Kaufman J, Macleod S, Sim MR, Wolfe R, Abramson MJ. Use of mobile and cordless phones and cognition in Australian primary school children: a prospective cohort study. 2016. DOI: 10.1186/s12940-016-0116-1",
+    "claims": [
+      {
+        "basis": "full_text",
+        "id": "V5-R044-C01",
+        "locator": "Main PDF physical pp1–3 objectives, Study design and analysis; Main PDF physical p2 ExPOSURE design; p10 references5/7; existing R052 full report Methods/reference10",
+        "scientific_review": "pending",
+        "text": "The ExPOSURE paper explicitly reports baseline cross-sectional cognition comparisons. Its later follow-up is another report from the same child cohort, rather than independent replication."
+      },
+      {
+        "basis": "full_text",
+        "id": "V5-R044-C02",
+        "locator": "Main PDF physical pp3–4 participation; p6 reporting discrepancy; Additional file1 Tables1–2; original Figure1p8",
+        "scientific_review": "pending",
+        "text": "Parents reported substantially fewer mobile-phone users than children in this study; this disagreement illustrates uncertainty in using reported calling as an RF-exposure proxy, without establishing which individual report was correct."
+      },
+      {
+        "basis": "full_text",
+        "id": "V5-R044-C03",
+        "locator": "Main PDF physical pp4–8 results; original rendered Tables3–6 pp5–8; native Additional file1 Tables1–2; Main PDF physical pp3,6–9 methods and Discussion; Additional file1 Figures1–3/Tables1–2",
+        "scientific_review": "pending",
+        "text": "Most baseline comparisons were not statistically significant, alongside selected slower-response or lower-accuracy results. The authors treated gender patterns as exploratory and considered chance across many unadjusted comparisons."
+      },
+      {
+        "basis": "full_text",
+        "id": "V5-R044-C04",
+        "locator": "Main PDF physical pp2–4 parent/child questionnaires and call categories; Main PDF physical pp2–3 Cognitive tests; native Additional file1 Cognitive Tests (derived PDFp1)",
+        "scientific_review": "pending",
+        "text": "Cognitive-task response times, accuracy and Stroop ratios were distinct endpoints; this report did not establish clinical neurodevelopmental disease or directly measured brain RF dose."
+      }
+    ],
+    "doi": "10.1186/s12940-016-0116-1",
+    "fingerprint": "afce7ee93b24391fa0986fc9d260e6fe014eaae57acdf8c225e897c345edd728",
+    "id": "E04-T08-R044",
+    "integrity_status": "Source-specific reporting, exposure and study-family issues remain under review. Low reported use, parent-child disagreement, many unadjusted comparisons and selected subgroup/task findings. Same cohort family as R052; no RF-specific clinical diagnosis. All exact numerical effects, final prespecification and human scientific acceptance remain pending.",
+    "limitations": "Low reported use, parent-child disagreement, many unadjusted comparisons and selected subgroup/task findings. Same cohort family as R052; no RF-specific clinical diagnosis.",
+    "pages": [
+      {
+        "id": "G02",
+        "path": "/guides/exposure-measurement",
+        "title": "Understanding SAR, field strength, and dose"
+      },
+      {
+        "id": "G04",
+        "path": "/guides/study-designs",
+        "title": "How EMF studies work"
+      },
+      {
+        "id": "H13",
+        "path": "/outcomes/cognition",
+        "title": "EMF, attention, and memory"
+      },
+      {
+        "id": "Q06",
+        "path": "/questions/children-and-phones",
+        "title": "Are children more vulnerable to phone exposure?"
+      },
+      {
+        "id": "S01",
+        "path": "/sources/mobile-phones",
+        "title": "Mobile phones and health"
+      },
+      {
+        "id": "S02",
+        "path": "/sources/cordless-phones",
+        "title": "Cordless and DECT phones"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "scope": "ExPOSURE baseline cross-sectional child cognition and reported mobile/cordless calling, linked to the already represented follow-up cohort.",
+    "source_type": "human_cross_sectional",
+    "title": "Use of mobile and cordless phones and cognition in Australian primary school children: a prospective cohort study.",
+    "url": "https://doi.org/10.1186/s12940-016-0116-1",
+    "year": "2016"
+  },
+  {
+    "access_basis": "owner_supplied_full_text",
     "authors": "Bhatt CR, Benke G, Smith CL, Redmayne M, Dimitriadis C, Dalecki A, Macleod S, Sim MR, Croft RJ, Wolfe R, Kaufman J, Abramson MJ",
     "checked_at": "2026-10-22",
     "citation": "Bhatt CR, Benke G, Smith CL, Redmayne M, Dimitriadis C, Dalecki A, Macleod S, Sim MR, Croft RJ, Wolfe R, Kaufman J, Abramson MJ. Use of mobile and cordless phones and change in cognitive function: a prospective cohort analysis of Australian primary school children. 2017. DOI: 10.1186/s12940-017-0250-4",
@@ -1383,6 +2330,227 @@
     "title": "Use of mobile and cordless phones and change in cognitive function: a prospective cohort analysis of Australian primary school children.",
     "url": "https://doi.org/10.1186/s12940-017-0250-4",
     "year": "2017"
+  },
+  {
+    "access_basis": "owner_supplied_full_text",
+    "authors": "Luceri C, De Filippo C, Giovannelli L, Blangiardo M, Cavalieri D, Aglietti F, Pampaloni M, Andreuccetti D, Pieri L, Bambi F, Biggeri A, Dolara P",
+    "checked_at": "2026-10-23",
+    "citation": "Luceri C, De Filippo C, Giovannelli L, Blangiardo M, Cavalieri D, Aglietti F, Pampaloni M, Andreuccetti D, Pieri L, Bambi F, Biggeri A, Dolara P. Extremely low-frequency electromagnetic fields do not affect DNA damage and gene expression profiles of yeast and human lymphocytes. 2005. DOI: 10.1667/rr3426.1",
+    "claims": [
+      {
+        "basis": "full_text",
+        "id": "E05-T09-R078-C01",
+        "locator": "Main PDF physical pp5–9 /native280–284 Results/Table1/Figures3–4",
+        "scientific_review": "pending",
+        "text": "The study found no exposure-related increase in lymphocyte comet-assay outcomes and no expression changes retained by its final gene analyses in lymphocytes or yeast."
+      },
+      {
+        "basis": "full_text",
+        "id": "E05-T09-R078-C02",
+        "locator": "Main PDF physical pp4–5 /native279–280 RNA extraction/Data analysis; p9 Discussion",
+        "scientific_review": "pending",
+        "text": "The human microarray analysis pooled donor RNA, and different donors at different exposure intensities limited dose-response analysis; duplicate arrays do not establish independent human replication."
+      },
+      {
+        "basis": "full_text",
+        "id": "E05-T09-R078-C03",
+        "locator": "Main PDF physical pp3–4 /native278–279 Methods; pp9–10 Discussion",
+        "scientific_review": "pending",
+        "text": "The study measured cellular endpoints after laboratory exposure, rather than disease risk or the effects of chronic exposure in people."
+      }
+    ],
+    "doi": "10.1667/rr3426.1",
+    "fingerprint": "258d200570c73dbadcac000b5e29514b13edb076b2bbca06010cbf9b42fd0e8b",
+    "id": "E05-T09-R078",
+    "integrity_status": "Source-specific reporting, exposure and study-family issues remain under review. Pooled donor RNA, technical versus biological replication and culture conditions limit exclusion of other responses. Final analyses do not validate preliminary nominal gene lists; no disease outcome. All exact numerical effects, final prespecification and human scientific acceptance remain pending.",
+    "limitations": "Pooled donor RNA, technical versus biological replication and culture conditions limit exclusion of other responses. Final analyses do not validate preliminary nominal gene lists; no disease outcome.",
+    "pages": [
+      {
+        "id": "F02",
+        "path": "/fields/elf",
+        "title": "Power-frequency and ELF"
+      },
+      {
+        "id": "G02",
+        "path": "/guides/exposure-measurement",
+        "title": "Understanding SAR, field strength, and dose"
+      },
+      {
+        "id": "G04",
+        "path": "/guides/study-designs",
+        "title": "How EMF studies work"
+      },
+      {
+        "id": "G05",
+        "path": "/guides/animal-to-human",
+        "title": "From animal experiments to human health"
+      },
+      {
+        "id": "H14",
+        "path": "/outcomes/dna-damage",
+        "title": "EMF and DNA damage"
+      },
+      {
+        "id": "Q16",
+        "path": "/questions/funding-and-trust",
+        "title": "How should I assess industry-funded EMF research?"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "scope": "Cultured human lymphocyte DNA/comet endpoints and gene expression in lymphocytes and yeast under ELF magnetic fields.",
+    "source_type": "cell_experiment",
+    "title": "Extremely low-frequency electromagnetic fields do not affect DNA damage and gene expression profiles of yeast and human lymphocytes.",
+    "url": "https://doi.org/10.1667/rr3426.1",
+    "year": "2005"
+  },
+  {
+    "access_basis": "owner_supplied_full_text",
+    "authors": "Mihai CT, Rotinberg P, Brinza F, Vochita G",
+    "checked_at": "2026-10-23",
+    "citation": "Mihai CT, Rotinberg P, Brinza F, Vochita G. Extremely low-frequency electromagnetic fields cause DNA strand breaks in normal cells. 2014. DOI: 10.1186/2052-336x-12-15",
+    "claims": [
+      {
+        "basis": "full_text",
+        "id": "E05-T09-R232-C01",
+        "locator": "Main PDF physical pp3–6 Methods/Results/Discussion/Conclusions",
+        "scientific_review": "pending",
+        "text": "The Vero-cell study reported increased comet migration measures after exposure, but did not directly measure reactive oxygen species or cancer outcomes."
+      },
+      {
+        "basis": "full_text",
+        "id": "E05-T09-R232-C02",
+        "locator": "Main PDF physical p4 Results and p6 Discussion",
+        "scientific_review": "pending",
+        "text": "The report’s comparison of continuous and intermittent exposure is unclear: earlier language suggests a greater intermittent effect, while later discussion says the modes did not differ significantly."
+      },
+      {
+        "basis": "full_text",
+        "id": "E05-T09-R232-C03",
+        "locator": "Main PDF physical pp3–5 Cell cycle/Statistical analysis/Table1–3",
+        "scientific_review": "pending",
+        "text": "The study reports only a small number of independent experiments; counting large numbers of cells does not provide the same number of independent exposure replications."
+      }
+    ],
+    "doi": "10.1186/2052-336x-12-15",
+    "fingerprint": "31ab8656cc91fe3ec5580898ceacf1edfcc43ff9c7d615fc7d739b2cf2642eef",
+    "id": "E05-T09-R232",
+    "integrity_status": "Source-specific reporting, exposure and study-family issues remain under review. Small independent repetition, missing viability/masking and actual culture-authentication detail, with inconsistent schedule/statistical wording. No cancer endpoint or direct human normal-cell trial. All exact numerical effects, final prespecification and human scientific acceptance remain pending.",
+    "limitations": "Small independent repetition, missing viability/masking and actual culture-authentication detail, with inconsistent schedule/statistical wording. No cancer endpoint or direct human normal-cell trial.",
+    "pages": [
+      {
+        "id": "F02",
+        "path": "/fields/elf",
+        "title": "Power-frequency and ELF"
+      },
+      {
+        "id": "G02",
+        "path": "/guides/exposure-measurement",
+        "title": "Understanding SAR, field strength, and dose"
+      },
+      {
+        "id": "G04",
+        "path": "/guides/study-designs",
+        "title": "How EMF studies work"
+      },
+      {
+        "id": "G05",
+        "path": "/guides/animal-to-human",
+        "title": "From animal experiments to human health"
+      },
+      {
+        "id": "H14",
+        "path": "/outcomes/dna-damage",
+        "title": "EMF and DNA damage"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "scope": "Vero cultures exposed to pulsed ELF fields; comet and cell-cycle endpoints, with proposed rather than measured oxidative pathway.",
+    "source_type": "cell_experiment",
+    "title": "Extremely low-frequency electromagnetic fields cause DNA strand breaks in normal cells.",
+    "url": "https://doi.org/10.1186/2052-336x-12-15",
+    "year": "2014"
+  },
+  {
+    "access_basis": "owner_supplied_full_text",
+    "authors": "Haidar J, Nabos P, Orlacchio R, Hurtier A, de Gannes FP, Rambert J, Cario-André M, Moisan F, Rezvani HR, Lagroye I, Leveque P, Arnaud-Cormos D, Percherancier Y",
+    "checked_at": "2026-10-23",
+    "citation": "Haidar J, Nabos P, Orlacchio R, Hurtier A, de Gannes FP, Rambert J, Cario-André M, Moisan F, Rezvani HR, Lagroye I, Leveque P, Arnaud-Cormos D, Percherancier Y. Impact of in vitro exposure to 5G-modulated 3.5 GHz fields on oxidative stress and DNA repair in skin cells. 2025. DOI: 10.1038/s41598-025-15090-w",
+    "claims": [
+      {
+        "basis": "full_text",
+        "id": "E05-T09-R513-C01",
+        "locator": "Main PDF physical pp6–10 Results/Figures2–6",
+        "scientific_review": "pending",
+        "text": "The study reported no significant RF-versus-sham differences in its redox-sensor outcomes, RF-primed adaptive-response experiment or UV-induced CPD-repair measurements under the tested conditions."
+      },
+      {
+        "basis": "full_text",
+        "id": "E05-T09-R513-C02",
+        "locator": "Main PDF physical p4 RF-EMF setup and cell exposure conditions",
+        "scientific_review": "pending",
+        "text": "The experiment randomized exposure conditions across chambers under a blind protocol and monitored power and sample temperature, including temperature compensation at the higher exposure setting."
+      },
+      {
+        "basis": "full_text",
+        "id": "E05-T09-R513-C03",
+        "locator": "Main PDF physical p4 Cell culture; p11 Discussion limitations",
+        "scientific_review": "pending",
+        "text": "The study used established human-derived cell lines and short in-vitro exposures; its authors acknowledge that these do not reproduce chronic real-life exposure."
+      }
+    ],
+    "doi": "10.1038/s41598-025-15090-w",
+    "fingerprint": "2693ea410da6cb4385c7b3580ae08ba36f3ce3e218adb2127ab42f6e554daf70",
+    "id": "E05-T09-R513",
+    "integrity_status": "Source-specific reporting, exposure and study-family issues remain under review. Established altered cell models, short exposures and specified challenges, no intact-skin or chronic human endpoint and no powered equivalence claim. Supplement caption and background-reference mismatches need clarification. All exact numerical effects, final prespecification and human scientific acceptance remain pending.",
+    "limitations": "Established altered cell models, short exposures and specified challenges, no intact-skin or chronic human endpoint and no powered equivalence claim. Supplement caption and background-reference mismatches need clarification.",
+    "pages": [
+      {
+        "id": "F01",
+        "path": "/fields/radiofrequency",
+        "title": "Radiofrequency"
+      },
+      {
+        "id": "G02",
+        "path": "/guides/exposure-measurement",
+        "title": "Understanding SAR, field strength, and dose"
+      },
+      {
+        "id": "G04",
+        "path": "/guides/study-designs",
+        "title": "How EMF studies work"
+      },
+      {
+        "id": "G05",
+        "path": "/guides/animal-to-human",
+        "title": "From animal experiments to human health"
+      },
+      {
+        "id": "H14",
+        "path": "/outcomes/dna-damage",
+        "title": "EMF and DNA damage"
+      },
+      {
+        "id": "Q11",
+        "path": "/questions/5g-versus-older-networks",
+        "title": "Is 5G different from older mobile networks?"
+      },
+      {
+        "id": "Q16",
+        "path": "/questions/funding-and-trust",
+        "title": "How should I assess industry-funded EMF research?"
+      },
+      {
+        "id": "S04",
+        "path": "/sources/5g",
+        "title": "5G and health"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "scope": "Characterized 3.5 GHz 5G chamber/sham exposure in established skin-cell models; redox and UV-lesion/repair assays.",
+    "source_type": "cell_experiment",
+    "title": "Impact of in vitro exposure to 5G-modulated 3.5 GHz fields on oxidative stress and DNA repair in skin cells.",
+    "url": "https://doi.org/10.1038/s41598-025-15090-w",
+    "year": "2025"
   },
   {
     "access_basis": "owner_supplied_full_text",
@@ -1509,6 +2677,80 @@
     "title": "iPhone 12 MagSafe technology and cardiac implantable devices: Assessment of the actual risk.",
     "url": "https://doi.org/10.1111/pace.14450",
     "year": "2022"
+  },
+  {
+    "access_basis": "owner_supplied_full_text",
+    "authors": "Karipidis K, Henderson S, Wijayasinghe D, Tjong L, Tinker R",
+    "checked_at": "2026-10-23",
+    "citation": "Karipidis K, Henderson S, Wijayasinghe D, Tjong L, Tinker R. Exposure to Radiofrequency Electromagnetic Fields From Wi-Fi in Australian Schools. 2017. DOI: 10.1093/rpd/ncw370",
+    "claims": [
+      {
+        "basis": "full_text",
+        "id": "V5-R114-C01",
+        "locator": "Main PDF physical pp2–3 measurement methods; p7 duty cycle; Main PDF physical pp4–7 Results; rendered Figures1–4 pp4–6",
+        "scientific_review": "pending",
+        "text": "The Australian school survey compared sampled averages and maxima, and active Wi-Fi increased the classroom walkthrough average without a statistically significant peak difference. These quantities are defined by short measurement windows rather than a child’s full-day absorbed dose."
+      },
+      {
+        "basis": "full_text",
+        "id": "V5-R114-C02",
+        "locator": "Main PDF physical p2 recruitment/Table1; p7 occupied-room limitations",
+        "scientific_review": "pending",
+        "text": "Most classrooms in this survey were measured empty. The small occupied-room subgroup did not establish that empty-room readings represent every full class or network load."
+      },
+      {
+        "basis": "full_text",
+        "id": "V5-R114-C03",
+        "locator": "Main PDF physical pp4–7 Results; rendered Figures1–4 pp4–6",
+        "scientific_review": "pending",
+        "text": "Source rankings depended on setting and measurement type: classroom average Wi-Fi resembled radio, while schoolyard averages were higher for radio, TV and mobile downlink than Wi-Fi."
+      },
+      {
+        "basis": "full_text",
+        "id": "V5-R114-C04",
+        "locator": "Main PDF physical pp1–3 objectives/methods; pp6–7 interpretation",
+        "scientific_review": "pending",
+        "text": "This study measured environmental RF fields rather than child sleep, cognition or diagnoses; its comparison with cited reference levels is not an observed clinical-harm result."
+      }
+    ],
+    "doi": "10.1093/rpd/ncw370",
+    "fingerprint": "479cbf9b33f4d742fb2c32103870d088d4d6e9f296bf95373265b2770968a939",
+    "id": "E06-T11-R114",
+    "integrity_status": "Exact report identity and critical-letter/author-reply public extracts checked. Full correspondence not acquired and dispute not adjudicated; no formal correction/retraction identified in bounded check. All numerical, compliance and human scientific decisions pending.",
+    "limitations": "Selected schools/positions and short samples; most rooms empty, sparse occupied subgroup. No personal absorbed dose or clinical endpoint; historical reference comparison is not a current certification.",
+    "pages": [
+      {
+        "id": "G02",
+        "path": "/guides/exposure-measurement",
+        "title": "Understanding SAR, field strength, and dose"
+      },
+      {
+        "id": "G07",
+        "path": "/guides/home-exposure",
+        "title": "Understanding exposure in your home"
+      },
+      {
+        "id": "Q06",
+        "path": "/questions/children-and-phones",
+        "title": "Are children more vulnerable to phone exposure?"
+      },
+      {
+        "id": "Q08",
+        "path": "/questions/router-at-night",
+        "title": "Should I turn off Wi-Fi at night?"
+      },
+      {
+        "id": "S03",
+        "path": "/sources/wifi",
+        "title": "Wi-Fi and health"
+      }
+    ],
+    "review_status": "source_checked; scientific_review_pending",
+    "scope": "Australian school external RF survey; moving and fixed-position samples, average and recorded maximum, differing network activity.",
+    "source_type": "exposure_measurement",
+    "title": "Exposure to Radiofrequency Electromagnetic Fields From Wi-Fi in Australian Schools.",
+    "url": "https://doi.org/10.1093/rpd/ncw370",
+    "year": "2017"
   },
   {
     "access_basis": "owner_supplied_full_text",
@@ -2766,6 +4008,11 @@
         "title": "EMF and acoustic neuroma"
       },
       {
+        "id": "H05",
+        "path": "/outcomes/childhood-brain-tumours",
+        "title": "EMF and childhood brain tumours"
+      },
+      {
         "id": "H07",
         "path": "/outcomes/other-cancers",
         "title": "EMF and cancers beyond the brain"
@@ -2824,6 +4071,11 @@
         "id": "S01",
         "path": "/sources/mobile-phones",
         "title": "Mobile phones and health"
+      },
+      {
+        "id": "S04",
+        "path": "/sources/5g",
+        "title": "5G and health"
       }
     ],
     "review_status": "source_checked; scientific_review_pending",

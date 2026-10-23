@@ -507,5 +507,174 @@
     "scope": "QUALIFEX adult sleep follow-up; cordless/mobile call durations and separate ambient-exposure surrogates.",
     "source": "cordless-phones",
     "stream": "Human"
+  },
+  {
+    "field": "radiofrequency",
+    "finding": "Sleep-domain patterns differed across household indicators; these were exposure proxies, with no router-on/off intervention or objectively measured overnight Wi-Fi dose.",
+    "id": "v5-wifi-child-sleep-proxy",
+    "limit": "Earlier device/use recall and current sleep in the same questionnaire; many comparisons, selection and printed estimator/count issues. Questionnaire scores are not lost minutes or diagnosed insomnia.",
+    "outcome": "sleep",
+    "papers": [
+      "E02-T04-R143"
+    ],
+    "scope": "ABCD children; reported home Wi-Fi/cordless presence, modelled ambient RF and parent-rated sleep.",
+    "source": "wifi",
+    "stream": "Human"
+  },
+  {
+    "field": "radiofrequency",
+    "finding": "Mixed sleep-domain contrasts, including some more favorable cordless contrasts, do not form a consistent adverse pattern.",
+    "id": "v5-cordless-child-sleep-proxy",
+    "limit": "Same children as the Wi-Fi row, not replication; household presence is not personal dose. Questionnaire chronology, multiple tests and printed labels remain under review.",
+    "outcome": "sleep",
+    "papers": [
+      "E02-T04-R143"
+    ],
+    "scope": "Same ABCD child sleep analysis; home cordless/Wi-Fi indicators and recalled calling.",
+    "source": "cordless-phones",
+    "stream": "Human"
+  },
+  {
+    "field": "radiofrequency",
+    "finding": "Authors reported adverse sperm and tissue/apoptosis-related changes; progressive motility and most organ weights were not significantly changed.",
+    "id": "v5-wifi-rat-reproductive",
+    "limit": "Unquantified dose, traffic and temperature; incomplete sham/allocation/animal-unit description. Mixed duration pattern and unresolved printed labels/statistics; no mating or human fertility outcome.",
+    "outcome": "male-fertility",
+    "papers": [
+      "E03-T05-R182"
+    ],
+    "scope": "Male rats in an antenna/chamber setup described as Wi-Fi, with differing daily durations.",
+    "source": "wifi",
+    "stream": "Animal"
+  },
+  {
+    "field": "elf",
+    "finding": "The main matched analysis showed no clear association; alternative models gave weak elevations with wide uncertainty.",
+    "id": "v5-transformer-child-leukaemia",
+    "limit": "Very sparse highly exposed cases, location proxy, country/model-specific samples and incomplete confounder reconciliation. Pilot exposure measurements are not study-child doses; Finnish reanalyses are not independent cohorts.",
+    "outcome": "childhood-leukaemia",
+    "papers": [
+      "E04-T07-R257"
+    ],
+    "scope": "TransExpo registry comparisons; apartment position relative to built-in transformer rooms.",
+    "source": "household-wiring",
+    "stream": "Human"
+  },
+  {
+    "field": "radiofrequency",
+    "finding": "Authors reported shorter wrist-estimated sleep in the higher evening call-dose group; broadly null all-day findings after their correction procedure.",
+    "id": "v5-e02-t04-r174",
+    "limit": "Overlapping samples and different sleep instruments; estimated dose closely tracks calling, not isolated RF. Exact multiplicity/table details and clinical importance remain unresolved.",
+    "outcome": "sleep",
+    "papers": [
+      "E02-T04-R174"
+    ],
+    "scope": "Generation R/INMA preadolescents; modelled all-day dose and smaller repeated evening mobile/DECT call analysis.",
+    "source": "mobile-phones",
+    "stream": "Human"
+  },
+  {
+    "field": "radiofrequency",
+    "finding": "Authors reported worse subjective sleep and selected EEG differences, with most architecture, actigraphy and HRV comparisons not significant.",
+    "id": "v5-e02-t03-r227",
+    "limit": "Small pilot, retrospective registration, multiple tests and unresolved protocol/registry/clinical-threshold issues. Adult baby-monitor experiment, not infant evidence or a WLAN router trial.",
+    "outcome": "sleep",
+    "papers": [
+      "E02-T03-R227"
+    ],
+    "scope": "Healthy adults at home; multi-night active/sham FHSS/GFSK baby-monitor crossover.",
+    "source": "baby-monitors",
+    "stream": "Human"
+  },
+  {
+    "field": "radiofrequency",
+    "finding": "Most comparisons were not significant; selected task and exploratory gender contrasts lacked a consistent general pattern.",
+    "id": "v5-e04-t08-r044",
+    "limit": "Cross-sectional baseline and many unadjusted comparisons; parent-child reporting disagreement and printed tables need clarification. Same cohort family as R052 follow-up.",
+    "outcome": "cognition",
+    "papers": [
+      "E04-T08-R044"
+    ],
+    "scope": "ExPOSURE baseline child cognitive tasks and parent-reported mobile/cordless calling.",
+    "source": "cordless-phones",
+    "stream": "Human"
+  },
+  {
+    "field": "intermediate-frequency",
+    "finding": "No detected significant adverse count, morphology or tissue-weight pattern; more non-progressive movement at the higher field did not demonstrate fertility improvement.",
+    "id": "v5-e03-t05-r222",
+    "limit": "Delayed sampling, separate higher-field cohort and lost motility data; no mating or human fertility outcome. Laboratory coil results do not establish risk from using a cooker.",
+    "outcome": "male-fertility",
+    "papers": [
+      "E03-T05-R222"
+    ],
+    "scope": "Measured intermediate-frequency magnetic coil exposure in male mice; later sperm and tissue indicators, not cooking exposure.",
+    "source": "induction-hobs",
+    "stream": "Animal"
+  },
+  {
+    "field": "radiofrequency",
+    "finding": "Adverse sperm biomarkers coexisted with no detected impairment in the selected IVF and early embryo comparisons.",
+    "id": "v5-e03-t05-r267",
+    "limit": "IVF selected better motile sperm; no natural mating, live birth or later offspring endpoint. Dose wording, animal counts and biological hierarchy unresolved; not a pocket-phone trial.",
+    "outcome": "male-fertility",
+    "papers": [
+      "E03-T05-R267"
+    ],
+    "scope": "Whole-body waveguide RF in mice; mature sperm, testis markers and selected laboratory fertilization/early embryos.",
+    "source": "mobile-phones",
+    "stream": "Animal"
+  },
+  {
+    "field": "radiofrequency",
+    "finding": "Some early language/motor screens were more favourable among phone users; other adjusted screens showed no association.",
+    "id": "v5-e03-t06-r094",
+    "limit": "Historical behaviour proxy without fetal dose; correlated social traits, paternal comparisons and selective follow-up. Neither RF developmental benefit nor absence of every possible developmental effect established.",
+    "outcome": "cognition",
+    "papers": [
+      "E03-T06-R094"
+    ],
+    "scope": "MoBa maternal reported phone talking during pregnancy and parent-reported preschool development screens.",
+    "source": "mobile-phones",
+    "stream": "Human"
+  },
+  {
+    "field": "radiofrequency",
+    "finding": "Lower mean birth weight was reported, without a detected significant increase in the clinical low-weight category; a sparse transport association was imprecise.",
+    "id": "v5-e03-t06-r096",
+    "limit": "Near-delivery/birth reporting, social/mental-health confounding, sparse events and printed table/model differences. No fetal RF dose, radiation-specific causal effect or safe-use threshold.",
+    "outcome": "female-fertility-pregnancy",
+    "papers": [
+      "E03-T06-R096"
+    ],
+    "scope": "Local JECS-related pregnancy analysis using text-message dependency/excessive-use behaviour, ordinary users as reference.",
+    "source": "mobile-phones",
+    "stream": "Human"
+  },
+  {
+    "field": "elf",
+    "finding": "No clear association in harmonized data; expanded literature analysis reported a borderline paternal association with publication-bias concerns.",
+    "id": "v5-e04-t07-r237",
+    "limit": "Job averages and missing histories, expanded-analysis overlap and supplement/denominator issues. Parental occupation is not the child’s residential field dose.",
+    "outcome": "childhood-leukaemia",
+    "papers": [
+      "E04-T07-R237"
+    ],
+    "scope": "CLIC parental job-history ELF estimates around conception/pregnancy, harmonized childhood ALL/AML comparisons.",
+    "source": "occupational-elf",
+    "stream": "Human"
+  },
+  {
+    "field": "radiofrequency",
+    "finding": "No significant RF-related differences in the reported assays under the tested conditions.",
+    "id": "v5-e05-t09-r513",
+    "limit": "Specific altered cell models, challenges and short exposures; no powered equivalence or chronic intact-person conclusion. Supplement caption/reference issues remain under review.",
+    "outcome": "dna-damage",
+    "papers": [
+      "E05-T09-R513"
+    ],
+    "scope": "Characterized 3.5 GHz 5G chamber/sham exposure; established skin-cell redox and UV-lesion/repair assays.",
+    "source": "5g",
+    "stream": "Cell"
   }
 ]

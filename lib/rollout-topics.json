@@ -164,7 +164,7 @@
             "refs": [
               "ukhsa-smart-meters"
             ],
-            "text": "Electricity measurement, a household radio link and a utility connection are separate functions. UKHSA’s description identifies two radio parts rather than treating the whole installation as one transmitter. For a property-specific question, the useful starting information is the actual meter or communications-module model and the network it uses."
+            "text": "Electricity measurement, a household radio link and a utility connection are separate functions. UKHSA’s description identifies two radio parts rather than treating the whole installation as one transmitter. For a property-specific question, the useful starting information is the actual meter or communications-module model and the network it uses. This distinction also tells a measurement study what to identify. The unit that measures electricity is not necessarily the radio source being sampled, and a display elsewhere in the home represents another position. Without the module and connection details, a claim about a smart meter may combine several different communication scenarios."
           }
         ],
         "title": "Separate the radio from the energy meter"
@@ -177,7 +177,7 @@
             "refs": [
               "E06-T11-R137"
             ],
-            "text": "Aerts and colleagues found that rare transmissions and placement away from residents could limit exposure potential even where peak fields were appreciable. Their study sampled selected homes and devices, rather than every national metering system. A short measurement taken during one burst and a longer time average answer different questions."
+            "text": "Aerts and colleagues found that rare transmissions and placement away from residents could limit exposure potential even where peak fields were appreciable. Their study sampled selected homes and devices, rather than every national metering system. A short measurement taken during one burst and a longer time average answer different questions. For example, selecting only the moment a transmission occurs describes an active burst, whereas averaging a period containing silence describes the timing as well as the output. Neither result is inherently the wrong quantity; the interpretation fails when one is presented as the other. A study needs enough operating information to make that distinction reproducible."
           }
         ],
         "title": "Short bursts change the average"
@@ -191,7 +191,7 @@
               "icnirp-rf",
               "ukhsa-smart-meters"
             ],
-            "text": "RF absorption depends on frequency, field strength, duration and the body’s relation to the source. A meter emitting a detectable radio signal establishes that exposure occurs. It does not identify a disease mechanism or provide a rate of illness among residents. Engineering studies can test emissions and dose assumptions while clinical or epidemiological questions remain distinct."
+            "text": "RF absorption depends on frequency, field strength, duration and the body’s relation to the source. A meter emitting a detectable radio signal establishes that exposure occurs. It does not identify a disease mechanism or provide a rate of illness among residents. Engineering studies can test emissions and dose assumptions while clinical or epidemiological questions remain distinct. The missing step in a health claim is not resolved by naming RF. It requires evidence linking an exposure definition to a relevant outcome and addressing alternative explanations. UKHSA’s emissions and absorption work can support exposure assessment, while a claim about illness still needs an appropriately designed outcome study."
           }
         ],
         "title": "Exposure assessment comes before a health inference"
@@ -204,7 +204,7 @@
             "refs": [
               "ukhsa-smart-meters"
             ],
-            "text": "UKHSA separates laboratory emissions, calculations of energy absorbed in the body and measurements in homes. Its programme found exposures below the guideline comparisons it used and generally below those associated with some other everyday wireless devices. That is the agency’s exposure-based assessment, not a new site certainty grade or a clinical trial of meter replacement."
+            "text": "UKHSA separates laboratory emissions, calculations of energy absorbed in the body and measurements in homes. Its programme found exposures below the guideline comparisons it used and generally below those associated with some other everyday wireless devices. That is the agency’s exposure-based assessment, not a new site certainty grade or a clinical trial of meter replacement. Following the stages helps locate an apparent disagreement. A maximum laboratory emission and a home measurement may differ because their conditions differ, without either result disproving the other. The useful comparison states the transmitter activity, position, averaging and quantity before asking how well the agency’s scenario resembles an occupied home."
           }
         ],
         "title": "What the official programme assessed"
@@ -217,7 +217,7 @@
             "refs": [
               "E06-T11-R137"
             ],
-            "text": "Record distance to occupied rooms and usual body positions, along with walls and the communications module’s position. Avoid calculating a household dose from the highest reading at the cabinet alone. The residential survey explicitly describes a cross-section in space and time, and its authors caution against generalising the exact readings to all smart homes."
+            "text": "Record distance to occupied rooms and usual body positions, along with walls and the communications module’s position. Avoid calculating a household dose from the highest reading at the cabinet alone. The residential survey explicitly describes a cross-section in space and time, and its authors caution against generalising the exact readings to all smart homes. A location measurement is most informative when it corresponds to where someone actually spends time and includes the relevant transmission activity. The highest sampled point may help characterise a source without representing a person’s usual position. Transferring that peak to every room would discard the spatial information the survey collected."
           }
         ],
         "title": "Placement needs a realistic scenario"
@@ -231,7 +231,7 @@
               "E06-T11-R137",
               "ukhsa-smart-meters"
             ],
-            "text": "The selected sources agree that temporal transmission patterns are important to exposure ranking. They do not follow a population for meter-specific cancer, pregnancy or sleep outcomes. Research would be more directly informative if it identified the installed system, measured or modelled individual exposure and compared a prespecified health outcome over an appropriate period. Scientific appraisal of the present selection remains pending."
+            "text": "The selected sources agree that temporal transmission patterns are important to exposure ranking. They do not follow a population for meter-specific cancer, pregnancy or sleep outcomes. Research would be more directly informative if it identified the installed system, measured or modelled individual exposure and compared a prespecified health outcome over an appropriate period. Scientific appraisal of the present selection remains pending. This identifies a concrete evidence gap: an emissions measurement can help define exposure for a future outcome study, but cannot supply the missing participants or follow-up itself. Likewise, changing a device’s communications arrangement would need its own measured exposure comparison before it could serve as an intervention contrast in health research."
           },
           {
             "refs": [
@@ -287,7 +287,7 @@
               "foph-baby-monitors",
               "icnirp-dect"
             ],
-            "text": "Both ends of some systems can transmit. A parent unit that allows an adult to speak back is different from a receiver-only unit; a network camera adds its own connection. The source type should therefore be recorded for each unit. A phone app and a DECT audio monitor cannot be assumed to have the same emissions because they serve the same purpose."
+            "text": "Both ends of some systems can transmit. A parent unit that allows an adult to speak back is different from a receiver-only unit; a network camera adds its own connection. The source type should therefore be recorded for each unit. A phone app and a DECT audio monitor cannot be assumed to have the same emissions because they serve the same purpose. This unit-by-unit description is especially useful when interpreting a comparison made near a cot. The field at that location depends on which transmitter is there and what it is doing; a result from the parent unit belongs to a different position. Preserving the communication route avoids attributing all system measurements to the infant."
           }
         ],
         "title": "Find out which unit transmits"
@@ -301,7 +301,7 @@
               "foph-baby-monitors",
               "E06-T11-R137"
             ],
-            "text": "Voice activation can limit transmissions to periods when a sound threshold is reached, while a range-check function may still send short signals in quiet conditions. Product modes should be tested under their actual settings. In the residential survey, baby-monitor duty cycles differed between the assessed devices and units; one quiet-room reading cannot describe every use pattern."
+            "text": "Voice activation can limit transmissions to periods when a sound threshold is reached, while a range-check function may still send short signals in quiet conditions. Product modes should be tested under their actual settings. In the residential survey, baby-monitor duty cycles differed between the assessed devices and units; one quiet-room reading cannot describe every use pattern. A monitoring mode is therefore part of the experimental setup, rather than a minor product detail. Comparing a voice-triggered audio link with a continuously active service would change both technology and activity. A measurement report should identify those changes instead of attributing its entire contrast to the brand or the monitor category."
           },
           {
             "refs": [
@@ -322,7 +322,7 @@
               "icnirp-rf",
               "foph-baby-monitors"
             ],
-            "text": "A field measurement tests the physical exposure. An infant health claim additionally needs an appropriate population, a defined outcome and follow-up. RF guidance considers absorbed energy and established heating effects, but detecting an emitted signal is not itself a demonstration of injury or developmental change. Adult phone studies also cannot stand in for a direct study of cot-side monitoring."
+            "text": "A field measurement tests the physical exposure. An infant health claim additionally needs an appropriate population, a defined outcome and follow-up. RF guidance considers absorbed energy and established heating effects, but detecting an emitted signal is not itself a demonstration of injury or developmental change. Adult phone studies also cannot stand in for a direct study of cot-side monitoring. The population and outcome determine what further information is needed. A study of adult phone use might inform a broader RF question, but its users, source geometry and endpoints differ from infant monitoring. Calling the exposure non-ionizing describes the radiation category; it does not create a developmental study or establish a mechanism for a particular claimed outcome."
           }
         ],
         "title": "A developmental claim needs developmental evidence"
@@ -336,7 +336,7 @@
               "foph-baby-monitors",
               "E06-T11-R137"
             ],
-            "text": "FOPH reports low exposures relative to its comparison limits for the audio monitors it tested. Those conclusions depend on the devices and conditions described in the fact sheet. They should be attributed to that assessment rather than translated into proof about every camera, app, wearable or future model. The household survey adds measurements, not an independent clinical verdict."
+            "text": "FOPH reports low exposures relative to its comparison limits for the audio monitors it tested. Those conclusions depend on the devices and conditions described in the fact sheet. They should be attributed to that assessment rather than translated into proof about every camera, app, wearable or future model. The household survey adds measurements, not an independent clinical verdict. The tested-model boundary is useful information, not a reason to discard the assessment. It tells a reader where the agency has measurements and where a different configuration needs separate evidence. A document covering audio and video transmission also cannot establish the performance of bodily-function monitoring features that it explicitly excludes."
           }
         ],
         "title": "Read tested-model conclusions in scope"
@@ -349,7 +349,7 @@
             "refs": [
               "foph-baby-monitors"
             ],
-            "text": "Distance changes the field at the baby’s position, but a useful setup must still transmit the required sounds reliably. FOPH discusses placement, obstacles, voice activation and checking operation together. An exposure-reduction suggestion is not a clinically demonstrated boundary between harmful and harmless positions, and a monitoring connection should not be treated as evidence about a baby’s bodily functions."
+            "text": "Distance changes the field at the baby’s position, but a useful setup must still transmit the required sounds reliably. FOPH discusses placement, obstacles, voice activation and checking operation together. An exposure-reduction suggestion is not a clinically demonstrated boundary between harmful and harmless positions, and a monitoring connection should not be treated as evidence about a baby’s bodily functions. The practical comparison concerns a working monitoring arrangement, not distance in isolation. Moving a unit changes its position and may change the reliability of the link; the described settings and function therefore need to remain part of the scenario. The fact sheet’s exposure guidance does not itself show a change in infant health."
           }
         ],
         "title": "Placement is more than a radiation question"
@@ -363,7 +363,13 @@
               "E06-T11-R137",
               "foph-baby-monitors"
             ],
-            "text": "Direct measurements show that monitor technology and operating state can change exposure. Our selection does not contain a monitor-specific infant health cohort or a trial showing a developmental benefit from a particular mode. Filling that gap would require verified device use, suitable comparisons and careful control for the many family circumstances associated with monitor choice. Scientific review is still pending."
+            "text": "Direct measurements show that monitor technology and operating state can change exposure. Our selection does not contain a monitor-specific infant health cohort or a trial showing a developmental benefit from a particular mode. Filling that gap would require verified device use, suitable comparisons and careful control for the many family circumstances associated with monitor choice. Scientific review is still pending. It would also be necessary to separate the exposure from the reasons a family uses a particular monitor. A study comparing users and nonusers without that context could be measuring differences between families rather than an effect of the radio link. The existing device measurements can help specify a future comparison, with no infant outcomes added by the measurements themselves."
+          },
+          {
+            "refs": [
+              "E02-T03-R227"
+            ],
+            "text": "One recovered baby-monitor experiment tested adults rather than babies. Selected healthy adults slept at home with active and sham versions of a modified monitor in separate periods. The authors reported worse subjective sleep and selected NREM EEG changes, alongside nonsignificant actigraphy, ordinary sleep-architecture and heart-rate comparisons. Missing recordings reduced the available groups, and actual overnight RF exposure was not continuously measured. The trial’s frequency-hopping signal should not be equated with every router sharing the band. Retrospective registration and unresolved analysis-history and clinical-threshold details also matter. This is a specific pilot comparison requiring scientific review, rather than evidence establishing an infant health effect."
           }
         ],
         "title": "The current evidence gap is specific"
@@ -381,10 +387,16 @@
           "E06-T11-R137"
         ],
         "text": "The owned residential survey measured parent and baby units separately, including systems using different radio technologies. That is useful device evidence, but it is not a cohort of babies. The present page therefore separates what was measured from the still incomplete assessment of infant-specific long-term outcomes."
+      },
+      {
+        "refs": [
+          "E02-T03-R227"
+        ],
+        "text": "A small crossover pilot adds a direct sleep comparison using a baby monitor in healthy adults at home. Its subjective and selected EEG findings need to be read alongside nonsignificant objective comparisons, missing recordings and unresolved analysis-history details. The monitor used a specified frequency-hopping signal, so this is neither infant follow-up nor a test of every Wi-Fi router in the same band."
       }
     ],
     "pageId": "S08",
-    "takeaway": "The available device measurements concern defined models and operating states. They do not directly measure infant development or establish a universal placement threshold.",
+    "takeaway": "Device measurements and a small adult sleep trial address different questions. The trial reported subjective and selected EEG changes, with important design and analysis limits. It does not establish an infant health effect or a universal placement threshold.",
     "title": "Baby monitors and health"
   },
   {
@@ -413,7 +425,7 @@
               "foph-bluetooth",
               "foph-wearables"
             ],
-            "text": "A Bluetooth-only headset relies on another device for the mobile connection, while a cellular watch can communicate directly with a network. Audio streaming, intermittent sensor updates and a pairing attempt also differ. A meaningful comparison lists the model, radio variant, operating mode and location on the body before interpreting any measured or certified value."
+            "text": "A Bluetooth-only headset relies on another device for the mobile connection, while a cellular watch can communicate directly with a network. Audio streaming, intermittent sensor updates and a pairing attempt also differ. A meaningful comparison lists the model, radio variant, operating mode and location on the body before interpreting any measured or certified value. A watch’s mobile connection and its link to a nearby phone are separate routes, even when both appear to the user as the same service. The exposure comparison needs to follow the active transmitter and its location. Recording ownership alone would omit the use pattern that the fact sheets identify as technically important."
           }
         ],
         "title": "Specify the link and the device"
@@ -427,7 +439,7 @@
               "E06-T11-R137",
               "foph-wearables"
             ],
-            "text": "The household survey’s Bluetooth observation is narrow: it tested selected peripheral devices during unsuccessful pairing. It supplies evidence about that operating state, not a market survey of headsets. FOPH similarly says its selected watch and tracker measurements are not a market overview. Repeated product claims should preserve those boundaries rather than replace them with a generic “Bluetooth dose.”"
+            "text": "The household survey’s Bluetooth observation is narrow: it tested selected peripheral devices during unsuccessful pairing. It supplies evidence about that operating state, not a market survey of headsets. FOPH similarly says its selected watch and tracker measurements are not a market overview. Repeated product claims should preserve those boundaries rather than replace them with a generic “Bluetooth dose.” A device attempting to establish a link is doing a different task from one transferring audio or sensor data. The narrow observation remains useful for that task, with no basis for assigning it to a different body position or an entire day. This is why an exposure claim needs the operating description alongside the reported value."
           }
         ],
         "title": "Transmission is activity-dependent"
@@ -441,7 +453,7 @@
               "icnirp-rf",
               "foph-bluetooth"
             ],
-            "text": "Ear-worn and wrist-worn devices need a local exposure description, including the antenna’s position and transmitted activity. RF guidance distinguishes external fields from energy absorbed in tissue. A field measured in free space near a speaker cannot be directly substituted for absorbed head exposure from an earbud; neither value alone predicts a chronic disease outcome."
+            "text": "Ear-worn and wrist-worn devices need a local exposure description, including the antenna’s position and transmitted activity. RF guidance distinguishes external fields from energy absorbed in tissue. A field measured in free space near a speaker cannot be directly substituted for absorbed head exposure from an earbud; neither value alone predicts a chronic disease outcome. To make the substitution, a model would have to connect the measured field to the actual antenna, body position, operating state and relevant tissue. Without that connection, changing the units or quoting a nearby reading does not answer the dose question. A health claim then needs an outcome comparison in addition to the dose estimate."
           }
         ],
         "title": "Close contact changes the assessment"
@@ -454,7 +466,7 @@
             "refs": [
               "foph-bluetooth"
             ],
-            "text": "FOPH distinguishes its low-exposure and short-term assessment from the inability to assess long-term health effects comprehensively. That is a more precise statement than either a universal lifetime guarantee or a claim that uncertainty demonstrates harm. The site has not independently completed an outcome-by-outcome scientific appraisal for every Bluetooth product class."
+            "text": "FOPH distinguishes its low-exposure and short-term assessment from the inability to assess long-term health effects comprehensively. That is a more precise statement than either a universal lifetime guarantee or a claim that uncertainty demonstrates harm. The site has not independently completed an outcome-by-outcome scientific appraisal for every Bluetooth product class. Separate those two parts when reading reassurance or alarm. The assessment can describe measured or expected short-term exposure under a specified arrangement while leaving longer-term outcomes less fully assessed. Neither part should be silently broadened: limited evidence is not proof of a chronic effect, and a bounded low-exposure finding is not a study of every product and lifetime pattern."
           }
         ],
         "title": "Agency reassurance has a defined scope"
@@ -468,7 +480,7 @@
               "foph-bluetooth",
               "foph-mobile"
             ],
-            "text": "A Bluetooth headset can lower exposure to the head during a call compared with holding a mobile phone there, as FOPH describes. That comparison includes the handset being moved away; it is not a claim that the headset emits nothing. Nor is a reduction in absorbed exposure automatically evidence of a measured improvement in health."
+            "text": "A Bluetooth headset can lower exposure to the head during a call compared with holding a mobile phone there, as FOPH describes. That comparison includes the handset being moved away; it is not a claim that the headset emits nothing. Nor is a reduction in absorbed exposure automatically evidence of a measured improvement in health. A fair comparison keeps the purpose of the call visible and identifies where each transmitting device is placed. Otherwise, the effect of moving the phone can be mislabelled as a property of Bluetooth alone. The useful result is about the combined arrangement, with exposure reduction and any claimed clinical benefit treated as separate outcomes."
           }
         ],
         "title": "Compare complete calling arrangements"
@@ -483,7 +495,7 @@
               "foph-bluetooth",
               "foph-wearables"
             ],
-            "text": "For long-term earbud or wearable questions, studies need a well-defined device history, actual operating patterns and an outcome matched to the hypothesis. Phone call duration alone may poorly describe those exposures. Our measurement selection does not provide such a cohort or a trial of health benefits from switching headset types. That gap remains visible while the page’s scientific review is pending."
+            "text": "For long-term earbud or wearable questions, studies need a well-defined device history, actual operating patterns and an outcome matched to the hypothesis. Phone call duration alone may poorly describe those exposures. Our measurement selection does not provide such a cohort or a trial of health benefits from switching headset types. That gap remains visible while the page’s scientific review is pending. This is particularly important when several radios operate within one product. An association with wearable ownership would not show which link, task or body position supplied the relevant exposure. The source description is therefore part of interpreting the outcome, rather than a technical detail that can be replaced by a general wireless label."
           },
           {
             "refs": [
@@ -544,7 +556,7 @@
               "foph-induction",
               "E03-T06-R135"
             ],
-            "text": "Cookware diameter, position over the hob and operating power affect the field outside the cooking system. FOPH’s tested configurations and the household model both underline that “uses induction” is an incomplete exposure definition. A report about one hob and pan arrangement should not be transferred without qualification to a different appliance or cooking position."
+            "text": "Cookware diameter, position over the hob and operating power affect the field outside the cooking system. FOPH’s tested configurations and the household model both underline that “uses induction” is an incomplete exposure definition. A report about one hob and pan arrangement should not be transferred without qualification to a different appliance or cooking position. The exposure question is consequently about a coupled arrangement rather than the hob in isolation. Changing the pan or its alignment changes the scenario being assessed, even if the appliance and selected setting stay the same. A useful report retains those details so another measurement or model can reproduce the comparison."
           }
         ],
         "title": "The pan is part of the exposure setup"
@@ -557,7 +569,7 @@
             "refs": [
               "E03-T06-R135"
             ],
-            "text": "The household model estimates field strength at a fixed cooking position from questionnaire-accessible information, including distance and cookware features. It was designed to make epidemiological exposure estimation more feasible. Actual cooking also involves moving, changing heat settings and using the hob for different lengths of time, which the model does not fully capture."
+            "text": "The household model estimates field strength at a fixed cooking position from questionnaire-accessible information, including distance and cookware features. It was designed to make epidemiological exposure estimation more feasible. Actual cooking also involves moving, changing heat settings and using the hob for different lengths of time, which the model does not fully capture. That difference matters when a study assigns estimates to many participants. A questionnaire-derived value is not a personal continuous recording simply because measurements were used to develop the estimator. Its ability to rank or describe the target cooking positions must be considered separately from unobserved time spent elsewhere or changes in behaviour during cooking."
           }
         ],
         "title": "Cooking is a moving activity"
@@ -571,7 +583,7 @@
               "icnirp-lf",
               "foph-induction"
             ],
-            "text": "Low-frequency and intermediate-frequency assessment can involve induced internal electric fields and stimulation, rather than simply applying the RF-heating description used for communications sources. The applicable assessment depends on the frequency components and device conditions. A pregnancy mechanism cannot be inferred solely because a field is measurable outside the pan."
+            "text": "Low-frequency and intermediate-frequency assessment can involve induced internal electric fields and stimulation, rather than simply applying the RF-heating description used for communications sources. The applicable assessment depends on the frequency components and device conditions. A pregnancy mechanism cannot be inferred solely because a field is measurable outside the pan. A plausible physical interaction is only one part of a reproductive claim. The study must also connect the relevant exposure to the pregnant population and the specific endpoint. Measurable leakage from the cooking arrangement cannot supply those missing links, and a result from another frequency or source cannot establish them by sharing the broad EMF label."
           }
         ],
         "title": "Keep intermediate frequencies distinct"
@@ -586,7 +598,7 @@
               "E03-T06-R135",
               "E03-T06-R139"
             ],
-            "text": "FOPH distinguishes comparison with limits from the limited pregnancy-outcome literature. The Kitajima work develops an exposure tool; it does not measure a clinical outcome. Sato’s study uses reported cooker type and use rather than that model’s measured personal dose, so a combined dose-response curve cannot be constructed from these two reports."
+            "text": "FOPH distinguishes comparison with limits from the limited pregnancy-outcome literature. The Kitajima work develops an exposure tool; it does not measure a clinical outcome. Sato’s study uses reported cooker type and use rather than that model’s measured personal dose, so a combined dose-response curve cannot be constructed from these two reports. A numerical relationship would require exposure and outcome information from the same people, with comparable timing and a model that applies to their actual use. Reading the two papers together is valuable because it reveals that missing connection. It is not a reason to combine their numbers as if they came from a single measured cohort."
           }
         ],
         "title": "Measurements and pregnancy outcomes are separate"
@@ -599,7 +611,7 @@
             "refs": [
               "E03-T06-R135"
             ],
-            "text": "Distance from the hob centre was important in the household exposure model. Its validation was specific to Japanese homes and included assumptions about posture and configuration. The paper itself calls for cooking-duration information and further validation outside that setting. It does not establish a universal distance that prevents a pregnancy outcome or covers implanted-device compatibility."
+            "text": "Distance from the hob centre was important in the household exposure model. Its validation was specific to Japanese homes and included assumptions about posture and configuration. The paper itself calls for cooking-duration information and further validation outside that setting. It does not establish a universal distance that prevents a pregnancy outcome or covers implanted-device compatibility. The relevant uncertainty is therefore more specific than saying distance matters. It concerns whether the observed positions and configurations represent the intended users and whether duration is captured adequately. A modelled gradient can inform exposure research while leaving the clinical consequences of a given placement and an implant-specific compatibility assessment unresolved."
           }
         ],
         "title": "Distance is relevant without being a clinical threshold"
@@ -612,7 +624,7 @@
             "refs": [
               "E03-T06-R139"
             ],
-            "text": "The internet-panel study reported weak associations between some cooker categories and preterm delivery, but not birth weight. The authors judged that reporting patterns, residual confounding and repeated testing could explain the findings and did not regard them as establishing increased risk. Both the reported association and that interpretive limitation belong in the account."
+            "text": "The internet-panel study reported weak associations between some cooker categories and preterm delivery, but not birth weight. The authors judged that reporting patterns, residual confounding and repeated testing could explain the findings and did not regard them as establishing increased risk. Both the reported association and that interpretive limitation belong in the account. A reader should also distinguish a reported association from an exposure-specific explanation. Cooker choice and reported use can accompany other household or personal characteristics, while this study did not measure individual dose. The direction and consistency across outcomes, together with those design limitations, matter more than selecting one positive category from the analysis."
           },
           {
             "refs": [
@@ -668,7 +680,7 @@
             "refs": [
               "fda-microwave"
             ],
-            "text": "The cavity, door, seals and interlocks are functional parts of the exposure-control system. FDA’s product-performance discussion concerns the oven as a whole, not an unshielded microwave source. A description should say whether the door closes properly, whether the appliance is intact and whether the measurement concerns normal cooking, a fault or maintenance."
+            "text": "The cavity, door, seals and interlocks are functional parts of the exposure-control system. FDA’s product-performance discussion concerns the oven as a whole, not an unshielded microwave source. A description should say whether the door closes properly, whether the appliance is intact and whether the measurement concerns normal cooking, a fault or maintenance. Those safeguards explain why a maintenance accident and ordinary cooking are different exposure scenarios. A failed or interrupted protective feature changes what the equipment can do, so the condition of the enclosure is part of the evidence. The appliance’s rated power alone does not tell a reader which scenario a report investigated."
           }
         ],
         "title": "Identify the enclosure and operating state"
@@ -682,7 +694,7 @@
               "fda-microwave",
               "icnirp-rf"
             ],
-            "text": "Cooking power describes energy delivered for heating inside the oven; it is not the field measured at a person’s position outside. A leakage assessment must specify the appliance, load, operating state and measurement location. An indoor RF meter may also respond to other transmitters, so a displayed number needs a source-specific measurement method."
+            "text": "Cooking power describes energy delivered for heating inside the oven; it is not the field measured at a person’s position outside. A leakage assessment must specify the appliance, load, operating state and measurement location. An indoor RF meter may also respond to other transmitters, so a displayed number needs a source-specific measurement method. The source must also be identified before interpreting a change in the reading. If the measurement responds to multiple wireless sources in a room, the total cannot automatically be assigned to leakage from the oven. This is a measurement-attribution question, separate from whether the instrument detects some RF energy."
           }
         ],
         "title": "Separate output power from outside exposure"
@@ -695,7 +707,7 @@
             "refs": [
               "fda-microwave"
             ],
-            "text": "Microwave energy can heat tissue when sufficient energy is absorbed. That physical mechanism does not mean food remains a radiation source after cooking. FDA separately discusses burns from hot food and containers and injuries involving superheated liquids. Those hazards can occur without a radiation-leakage problem and should not be confused with it."
+            "text": "Microwave energy can heat tissue when sufficient energy is absorbed. That physical mechanism does not mean food remains a radiation source after cooking. FDA separately discusses burns from hot food and containers and injuries involving superheated liquids. Those hazards can occur without a radiation-leakage problem and should not be confused with it. An injury report therefore needs the pathway and endpoint described. A burn from a hot container is a thermal-contact event, with no requirement that the appliance be leaking RF. Conversely, an exposure accident involving failed safeguards has its own operating context. Collapsing these events into one radiation category would obscure the cause being investigated."
           }
         ],
         "title": "Heating explains both cooking and a potential hazard"
@@ -708,7 +720,7 @@
             "refs": [
               "fda-microwave"
             ],
-            "text": "The FDA framework is a US product-performance standard that includes leakage and safety features. A statement of compliance should identify the applicable framework rather than silently assume identical local law everywhere. It is also narrower than a claim that a product standard answers every hypothesis about chronic RF exposure or every possible misuse."
+            "text": "The FDA framework is a US product-performance standard that includes leakage and safety features. A statement of compliance should identify the applicable framework rather than silently assume identical local law everywhere. It is also narrower than a claim that a product standard answers every hypothesis about chronic RF exposure or every possible misuse. The standard’s purpose should stay attached to any compliance statement: it assesses specified product performance, rather than estimating a person’s lifetime disease probability. A claim about an intact oven, a damaged door and interrupted servicing safeguards would require different supporting information. The same product name does not make those exposure conditions equivalent."
           },
           {
             "refs": [
@@ -728,7 +740,7 @@
             "refs": [
               "fda-microwave"
             ],
-            "text": "Distance affects an outside field, but the pattern near a real oven depends on leakage geometry and the measurement conditions. The selected sources do not provide a clinically validated distance-to-disease curve. A manufacturer’s operating instructions and a qualified response to damaged door components are more relevant than deriving a household rule from the oven’s rated wattage."
+            "text": "Distance affects an outside field, but the pattern near a real oven depends on leakage geometry and the measurement conditions. The selected sources do not provide a clinically validated distance-to-disease curve. A manufacturer’s operating instructions and a qualified response to damaged door components are more relevant than deriving a household rule from the oven’s rated wattage. An exposure model would need the actual outside field and its conditions before relating it to a position. Starting with the energy used to heat food inside the cavity skips the enclosure that defines ordinary operation. The sources support describing that physical distinction; they do not support calculating a clinical boundary from a cooking-power label."
           }
         ],
         "title": "No universal room-distance formula"
@@ -741,7 +753,7 @@
             "refs": [
               "E06-T11-R168"
             ],
-            "text": "Stam’s occupational review describes a repair worker exposed when interlock protection was interrupted, with warmth, skin redness and eye discomfort reported. Its role here is to explain why servicing and failed safeguards require a separate assessment. The review’s highest workplace exposures are not personal daily averages, and the report supplies no ordinary-use cancer estimate. Scientific review of this selected evidence remains pending."
+            "text": "Stam’s occupational review describes a repair worker exposed when interlock protection was interrupted, with warmth, skin redness and eye discomfort reported. Its role here is to explain why servicing and failed safeguards require a separate assessment. The review’s highest workplace exposures are not personal daily averages, and the report supplies no ordinary-use cancer estimate. Scientific review of this selected evidence remains pending. The case is informative because a specific safeguard and operating context are identified. It demonstrates why an account of servicing cannot be generalised simply by removing the words about repair and interlocks. As secondary reporting of an accident, it also requires the original case details before any more precise description of dose or event frequency."
           }
         ],
         "title": "What the accident literature can contribute"
@@ -792,7 +804,7 @@
               "nci-emf-cancer",
               "icnirp-lf"
             ],
-            "text": "Record the blanket’s model, control setting, period of use and the body’s position relative to the heating elements. NCI groups blankets with other low-frequency sources, but sharing a frequency category does not make an appliance identical to a power line. Local geometry and intermittent heating can matter to the exposure description."
+            "text": "Record the blanket’s model, control setting, period of use and the body’s position relative to the heating elements. NCI groups blankets with other low-frequency sources, but sharing a frequency category does not make an appliance identical to a power line. Local geometry and intermittent heating can matter to the exposure description. A power line and a blanket may both be grouped as low-frequency sources while differing substantially in proximity, conductor arrangement and time of use. Those differences are part of the comparison, rather than evidence that either source has a particular clinical effect. The product and use history need to be matched before importing an epidemiological estimate."
           }
         ],
         "title": "Product design and use define the source"
@@ -805,7 +817,7 @@
             "refs": [
               "E04-T07-R252"
             ],
-            "text": "The relevant observation period is the time actually using the product, with its operating conditions documented. A spot measurement close to one element cannot simply be equated with a long-term whole-body average. The review warns that its appliance findings arose from older equipment, so current-product assessment should not silently inherit all historical exposure assumptions."
+            "text": "The relevant observation period is the time actually using the product, with its operating conditions documented. A spot measurement close to one element cannot simply be equated with a long-term whole-body average. The review warns that its appliance findings arose from older equipment, so current-product assessment should not silently inherit all historical exposure assumptions. The observation window also needs to match the claimed exposure history. A near-element reading during operation describes that position and period; an older questionnaire about habitual use describes a different variable. Even if both are labelled blanket exposure, combining them requires a defensible link between product behaviour and the participant history being analysed."
           }
         ],
         "title": "A night-long label can hide cycling"
@@ -819,7 +831,7 @@
               "icnirp-lf",
               "E04-T07-R252"
             ],
-            "text": "The established interaction framework for sufficiently strong low-frequency fields involves induced electric fields and stimulation. A blanket also transfers heat through ordinary thermal processes. These mechanisms require separate measurements and cannot be established by the same generic “EMF” reading. The selected childhood-cancer review does not isolate a biological pathway explaining its association."
+            "text": "The established interaction framework for sufficiently strong low-frequency fields involves induced electric fields and stimulation. A blanket also transfers heat through ordinary thermal processes. These mechanisms require separate measurements and cannot be established by the same generic “EMF” reading. The selected childhood-cancer review does not isolate a biological pathway explaining its association. A health study would need to distinguish the source’s field from its intended heating and from the circumstances associated with its use. A reported appliance association alone does not identify which pathway, if any, accounts for it. Treating all of those possibilities as one EMF mechanism would make the causal question less clear."
           }
         ],
         "title": "Warmth and field effects need separate pathways"
@@ -833,7 +845,7 @@
               "E04-T07-R252",
               "icnirp-lf"
             ],
-            "text": "Exposure categories in observational childhood-leukaemia research are analytical groupings, not certified operating limits for blankets. A blanket-specific compliance judgment needs the applicable product and frequency assessment. Conversely, a compliance statement does not turn an incomplete pregnancy review into completed scientific evidence about every duration and setting."
+            "text": "Exposure categories in observational childhood-leukaemia research are analytical groupings, not certified operating limits for blankets. A blanket-specific compliance judgment needs the applicable product and frequency assessment. Conversely, a compliance statement does not turn an incomplete pregnancy review into completed scientific evidence about every duration and setting. The boundary chosen to compare groups may be useful statistically without specifying a device-performance requirement. Interpreting it as a repair or operating threshold would therefore introduce a conclusion the study did not test. Matching the product, period and endpoint is necessary before even considering how a historical association might apply to present use."
           }
         ],
         "title": "A study category is not a product limit"
@@ -847,7 +859,7 @@
               "nci-emf-cancer",
               "E04-T07-R252"
             ],
-            "text": "Because the product is used near the body, the location of its conductors and the position of a measurement probe need to be described. The selected sources do not validate a universal separation distance for blanket-related cancer or pregnancy outcomes. Line-distance findings from power-line studies cannot be substituted for a blanket’s local field."
+            "text": "Because the product is used near the body, the location of its conductors and the position of a measurement probe need to be described. The selected sources do not validate a universal separation distance for blanket-related cancer or pregnancy outcomes. Line-distance findings from power-line studies cannot be substituted for a blanket’s local field. The body-contact arrangement also differs from a geographical comparison based on a birth address near a transmission line. One study’s distance category cannot describe the other source’s conductors, control pattern or local measurement. A useful product assessment would keep those physical conditions visible rather than treating every low-frequency distance as interchangeable."
           }
         ],
         "title": "Body proximity makes geometry important"
@@ -860,7 +872,7 @@
             "refs": [
               "E04-T07-R252"
             ],
-            "text": "Brabant and colleagues pooled older observational appliance studies and reported an association for electric blankets. They also describe limitations in study quality and exposure methods and emphasize the age of the equipment. The review is one synthesis of underlying reports, not an additional independent group of children. Appraisal of those original studies and recovery of the missing pregnancy full texts remain required before a broader conclusion."
+            "text": "Brabant and colleagues pooled older observational appliance studies and reported an association for electric blankets. They also describe limitations in study quality and exposure methods and emphasize the age of the equipment. The review is one synthesis of underlying reports, not an additional independent group of children. Appraisal of those original studies and recovery of the missing pregnancy full texts remain required before a broader conclusion. The age and secondary nature of the evidence affect the question it can answer. Before making a present-product claim, the original reports need their populations, exposure questions and alternative explanations assessed. Adding the review to a table should not count the same underlying children twice or suggest that a different modern product was studied."
           },
           {
             "refs": [
@@ -883,7 +895,7 @@
         "refs": [
           "E04-T07-R252"
         ],
-        "text": "The recovered full-text cancer review includes an electric-blanket analysis, but the underlying appliance studies were conducted decades ago. Several direct pregnancy and bed-heating records in the owned inventory remain abstract-only. This page makes that missingness explicit rather than reconstructing detailed methods or results from those abstracts."
+        "text": "The recovered full-text cancer review includes an electric-blanket analysis, but the underlying appliance studies were conducted decades ago. Original appliance and pregnancy reports have not all received source-specific appraisal in this edition. The review can identify those research questions, while its account cannot substitute for checking the original populations, exposure methods, results and limitations."
       }
     ],
     "pageId": "S12",
@@ -1059,7 +1071,7 @@
               "nci-emf-cancer",
               "icnirp-lf"
             ],
-            "text": "Voltage and current are related electrical quantities but do not give the same field information. A magnetic-field measurement is typically expressed as flux density; an electric-field measurement uses different units. NCI’s source explanation makes that distinction before discussing cancer evidence. A detector that reports only one quantity should not be described as measuring every household EMF."
+            "text": "Voltage and current are related electrical quantities but do not give the same field information. A magnetic-field measurement is typically expressed as flux density; an electric-field measurement uses different units. NCI’s source explanation makes that distinction before discussing cancer evidence. A detector that reports only one quantity should not be described as measuring every household EMF. For a reader comparing survey results, the instrument’s output is therefore essential context. Two different quantities measured at the same position are not contradictory merely because their numerical values differ. The units, frequency response and sampled operating conditions tell what was measured; a broad household-EMF label omits that information."
           }
         ],
         "title": "Electric and magnetic measurements differ"
@@ -1072,7 +1084,7 @@
             "refs": [
               "E04-T07-R252"
             ],
-            "text": "Appliance operation, electrical load, room position and the time of observation can affect a reading. A useful report records those conditions rather than attaching one unexplained number to an entire property. The cancer review notes that studies used different measurement durations, including spot readings and longer recordings, which complicates comparisons between their exposure categories."
+            "text": "Appliance operation, electrical load, room position and the time of observation can affect a reading. A useful report records those conditions rather than attaching one unexplained number to an entire property. The cancer review notes that studies used different measurement durations, including spot readings and longer recordings, which complicates comparisons between their exposure categories. A short reading can be useful for locating a source or describing a particular configuration, with no assurance that it represents an entire day or a previous residence. A longer recording samples more of the observed period but still needs its placement and household activity described. These are different exposure definitions rather than automatically interchangeable measurements."
           }
         ],
         "title": "Document the home while it is in use"
@@ -1086,7 +1098,7 @@
               "icnirp-lf",
               "E04-T07-R252"
             ],
-            "text": "At sufficient exposure, low-frequency fields can induce internal electric fields and stimulate excitable tissue. That established mechanism does not convert a household spot reading into a diagnosis of a chronic condition. The childhood-leukaemia literature asks a separate epidemiological question about long-term exposure categories and requires its own assessment of bias and causality."
+            "text": "At sufficient exposure, low-frequency fields can induce internal electric fields and stimulate excitable tissue. That established mechanism does not convert a household spot reading into a diagnosis of a chronic condition. The childhood-leukaemia literature asks a separate epidemiological question about long-term exposure categories and requires its own assessment of bias and causality. The causal step would require more than demonstrating that the proposed source is present. It would need an exposure history and an outcome comparison capable of addressing competing explanations. Keeping that distinction helps retain the observed leukaemia association without presenting a detector reading as a clinical test or a diagnosis of its cause."
           }
         ],
         "title": "A field is not a diagnostic test"
@@ -1100,7 +1112,7 @@
               "icnirp-lf",
               "E04-T07-R252"
             ],
-            "text": "A guideline comparison requires the correct field quantity, frequency and exposure conditions. An epidemiological category boundary describes how investigators grouped participants; it is not automatically a household repair threshold. The review’s statistical associations cannot be used to assign an individual home a cancer probability from a single measurement."
+            "text": "A guideline comparison requires the correct field quantity, frequency and exposure conditions. An epidemiological category boundary describes how investigators grouped participants; it is not automatically a household repair threshold. The review’s statistical associations cannot be used to assign an individual home a cancer probability from a single measurement. The category boundary may depend on how observations were distributed and recorded in a particular study. Changing it into a household action threshold would add a purpose the analysis did not validate. It is more informative to report the study’s measurement method and uncertainty than to imply that crossing a category changes a home’s clinical status."
           }
         ],
         "title": "Keep limits and research categories separate"
@@ -1114,7 +1126,7 @@
               "E04-T07-R252",
               "E03-T06-R073"
             ],
-            "text": "A nearby appliance and the building’s wiring may contribute differently at the same position. Distance to a transmission line is another exposure proxy again. The recovered review groups these methods separately, and a location-based pregnancy cohort showed that results could differ by the monitoring point. That illustrates a measurement problem, not proof that household wiring caused the reported outcome."
+            "text": "A nearby appliance and the building’s wiring may contribute differently at the same position. Distance to a transmission line is another exposure proxy again. The recovered review groups these methods separately, and a location-based pregnancy cohort showed that results could differ by the monitoring point. That illustrates a measurement problem, not proof that household wiring caused the reported outcome. If an association changes when the sampling location changes, the source of that difference needs investigation. It could concern how well each location represents the target exposure, rather than identifying a special biological property of the monitoring point. The pregnancy cohort illustrates why location-specific results should retain their exact measurement definition and uncertainty."
           }
         ],
         "title": "Distance does not identify the source alone"
@@ -1127,7 +1139,7 @@
             "refs": [
               "E04-T07-R252"
             ],
-            "text": "Wire codes classify electrical-distribution features as a proxy for exposure; they are not direct measurements of an individual’s absorbed dose. The review includes these studies but acknowledges varied methods and limited study quality. Recovering the original reports, identifying overlapping samples and comparing actual measurement protocols are still needed. This page therefore offers an exposure framework, with scientific review pending."
+            "text": "Wire codes classify electrical-distribution features as a proxy for exposure; they are not direct measurements of an individual’s absorbed dose. The review includes these studies but acknowledges varied methods and limited study quality. Recovering the original reports, identifying overlapping samples and comparing actual measurement protocols are still needed. This page therefore offers an exposure framework, with scientific review pending. A wiring category can preserve historical installation information at scale, while leaving within-category variation in personal exposure. That tradeoff belongs in the interpretation of its association with an outcome. More detailed measurements can address some questions but do not automatically reconstruct the past exposure period or eliminate the selection problems of an observational study."
           },
           {
             "refs": [
@@ -1135,6 +1147,12 @@
               "nci-emf-cancer"
             ],
             "text": "The review also shows why the word “measured” needs detail. A short sample and a longer recording can both be instrument measurements while representing different periods of electrical use. Combining their categories requires judgments about comparability, not merely converting units. A record of a home’s installation or a map of nearby lines is another source of information, with different error. Preserving the method alongside the result helps a reader see whether a finding concerns a physical field, an exposure proxy or a specific appliance. None of those methods alone supplies a diagnosis or identifies a necessary electrical alteration."
+          },
+          {
+            "refs": [
+              "E04-T07-R257"
+            ],
+            "text": "Apartment position can help identify a group likely to have higher magnetic fields without entering every home. In TransExpo, earlier pilot measurements supported grouping apartments by their position relative to a transformer room. Those pilot readings were not measurements in the homes of the children included in the disease analysis. Field ranges also overlapped between location groups, and room layout, transformer configuration and residential moves could change the exposure a child actually experienced. The study therefore tested a location-based exposure proxy. It did not turn an apartment label into an exact personal dose, and its reference category did not mean that residents experienced no magnetic fields."
           }
         ],
         "title": "Read historical wire-code findings in context"
@@ -1151,7 +1169,7 @@
         "refs": [
           "E04-T07-R252"
         ],
-        "text": "The recovered childhood-leukaemia review includes measured fields, calculated fields, line distance and wire codes, with explicit methodological limitations. Classic primary wiring reports remain abstract-only in the owned inventory. The current page can explain those exposure methods, while a complete original-study appraisal remains unfinished."
+        "text": "The recovered childhood-leukaemia review includes measured fields, calculated fields, line distance and wire codes, with explicit methodological limitations. This edition has not completed appraisal of the classic original wiring reports. It distinguishes the review’s description from independently checked original-study methods, while the transformer-apartment study adds a different location-based exposure comparison."
       }
     ],
     "pageId": "S14",
@@ -1183,7 +1201,7 @@
             "refs": [
               "E06-T11-R168"
             ],
-            "text": "An operator at a workstation, a technician behind protective panels and someone outside a controlled area can have different exposures to the same equipment. The review repeatedly distinguishes normal operation from maintenance and accidental exposure. Equipment identity and operating condition should therefore be part of the record before an occupational label is assigned."
+            "text": "An operator at a workstation, a technician behind protective panels and someone outside a controlled area can have different exposures to the same equipment. The review repeatedly distinguishes normal operation from maintenance and accidental exposure. Equipment identity and operating condition should therefore be part of the record before an occupational label is assigned. Task information determines whether the worker was near an operating source, approaching it for maintenance or encountering a different part of the installation. A job title alone may combine these states. The source review’s highest observations therefore describe particular situations rather than a standard exposure assigned to everyone in the occupation."
           }
         ],
         "title": "Describe the installation and task"
@@ -1197,7 +1215,7 @@
               "E06-T11-R191",
               "E06-T11-R168"
             ],
-            "text": "Industrial tasks may involve brief repeated operations rather than a constant field throughout the shift. The occupational communication highlights these patterns. A maximum recorded level flags a possible worst-case situation; it cannot be assumed to equal the average personal exposure of everyone with the same job title or to represent each day of a working lifetime."
+            "text": "Industrial tasks may involve brief repeated operations rather than a constant field throughout the shift. The occupational communication highlights these patterns. A maximum recorded level flags a possible worst-case situation; it cannot be assumed to equal the average personal exposure of everyone with the same job title or to represent each day of a working lifetime. This matters both for technical assessment and for epidemiology. A brief peak may help identify an operation needing closer examination, while a long-term cancer analysis needs an exposure history relevant to its hypothesis. Reporting one as the other would confuse a possible worst-case task with a typical shift or cumulative career exposure."
           }
         ],
         "title": "Peaks and time at the source both matter"
@@ -1211,7 +1229,7 @@
               "icnirp-rf",
               "hse-workplace"
             ],
-            "text": "RF guidance addresses established adverse heating under sufficient exposure. Workplace assessment also considers indirect effects and workers with implanted or body-worn devices, as HSE explains. A general environmental reading may not answer those compatibility questions. The relevant assessment needs the source, task, body position and the particular susceptibility or interference pathway."
+            "text": "RF guidance addresses established adverse heating under sufficient exposure. Workplace assessment also considers indirect effects and workers with implanted or body-worn devices, as HSE explains. A general environmental reading may not answer those compatibility questions. The relevant assessment needs the source, task, body position and the particular susceptibility or interference pathway. These pathways require different supporting information. A dosimetric comparison can address energy absorption under defined conditions, while an interference question also depends on the device and its operating response. A tumour analysis then needs population follow-up and exposure history. They should not become interchangeable evidence merely because the same workplace contains the source."
           }
         ],
         "title": "Include direct and indirect effects"
@@ -1225,7 +1243,7 @@
               "hse-workplace",
               "icnirp-rf"
             ],
-            "text": "HSE’s explanation is about the UK workplace framework; it should not be presented as verified local law in every country. Its approach uses equipment information and actual work, with measurements or calculations where existing information is insufficient. A limit comparison also needs the right averaging and frequency conditions, rather than a bare number from a generic meter."
+            "text": "HSE’s explanation is about the UK workplace framework; it should not be presented as verified local law in every country. Its approach uses equipment information and actual work, with measurements or calculations where existing information is insufficient. A limit comparison also needs the right averaging and frequency conditions, rather than a bare number from a generic meter. The framework also explains why equipment documentation can sometimes be adequate and sometimes leave an important gap. A generic emission statement may not describe the worker’s actual access, task or susceptibility. A completed comparison should show how that information was matched, rather than treating a meter value or a regulation’s name as a complete assessment."
           }
         ],
         "title": "Apply the appropriate jurisdiction and averaging"
@@ -1239,7 +1257,7 @@
               "E06-T11-R168",
               "hse-workplace"
             ],
-            "text": "Proximity to active antennas or industrial electrodes may be task-dependent, so a universal distance is unhelpful. Stam’s review notes several high-exposure maintenance scenarios that differ from normal use. Site-specific assessment can consider equipment condition, shielding, access and work duration. A distance justified for one installation should not silently become a rule for another."
+            "text": "Proximity to active antennas or industrial electrodes may be task-dependent, so a universal distance is unhelpful. Stam’s review notes several high-exposure maintenance scenarios that differ from normal use. Site-specific assessment can consider equipment condition, shielding, access and work duration. A distance justified for one installation should not silently become a rule for another. A routine operating position and a maintenance position may have very different relationships with the active source. Preserving that distinction makes the report useful for assessing the actual work. Removing it and quoting a distance alone could imply the same conditions for workers who never carry out the task that produced the observation."
           }
         ],
         "title": "Access arrangements are exposure controls"
@@ -1252,7 +1270,7 @@
             "refs": [
               "E01-T01-R246"
             ],
-            "text": "INTEROCC’s job-exposure-matrix analysis did not show clear, consistent glioma or meningioma trends. Some positive results appeared in particular windows and methods, but exposure assignment, reporting, selection and multiple testing complicate interpretation. It draws on a broader research family and cannot be counted as an independent replication of each earlier INTEROCC analysis. Scientific review remains pending."
+            "text": "INTEROCC’s job-exposure-matrix analysis did not show clear, consistent glioma or meningioma trends. Some positive results appeared in particular windows and methods, but exposure assignment, reporting, selection and multiple testing complicate interpretation. It draws on a broader research family and cannot be counted as an independent replication of each earlier INTEROCC analysis. Scientific review remains pending. A job-exposure matrix supports consistent assignment across many histories, with uncertainty about individual tasks and changes within a job. Alternative linkage methods test part of that assignment problem; they do not recruit independent cohorts. The selected positive windows therefore need to be considered with the overall pattern, model choices and report-family overlap."
           },
           {
             "refs": [
@@ -1309,7 +1327,7 @@
               "icnirp-lf",
               "hse-workplace"
             ],
-            "text": "A useful inventory identifies the electrical source and the task carried out around it. Electric and magnetic fields need separate quantities, and higher-current work need not resemble routine office exposure. HSE’s assessment framework begins with emission information and work activities before deciding whether calculations or measurements are needed; its legal description is specific to the UK."
+            "text": "A useful inventory identifies the electrical source and the task carried out around it. Electric and magnetic fields need separate quantities, and higher-current work need not resemble routine office exposure. HSE’s assessment framework begins with emission information and work activities before deciding whether calculations or measurements are needed; its legal description is specific to the UK. The workplace setting also determines which evidence is relevant. A description of household wiring does not characterise an industrial task simply because both involve mains-frequency fields. The useful record preserves the equipment and operation being assessed, then states which component and quantity the available data describe."
           }
         ],
         "title": "Specify current, frequency and equipment"
@@ -1322,7 +1340,7 @@
             "refs": [
               "E06-T11-R191"
             ],
-            "text": "The occupational communication illustrates intermittent exposures and changes over the work period. A worker may approach a source briefly, remain beside it or use several devices. Those patterns can be lost when a lifetime job history is translated into a group-average exposure value. A measurement report should state the sampling period, position and tasks observed."
+            "text": "The occupational communication illustrates intermittent exposures and changes over the work period. A worker may approach a source briefly, remain beside it or use several devices. Those patterns can be lost when a lifetime job history is translated into a group-average exposure value. A measurement report should state the sampling period, position and tasks observed. A group-average assignment can be valuable for comparing many occupational histories, while still misclassifying individuals whose tasks differ from the average. That uncertainty is separate from the accuracy of a particular instrument used in a workplace survey. A well-measured short task and a broadly assigned career exposure answer different questions."
           }
         ],
         "title": "Capture work patterns, not just occupations"
@@ -1336,7 +1354,7 @@
               "icnirp-lf",
               "hse-workplace"
             ],
-            "text": "Sufficient low-frequency exposure can induce electric fields within the body and stimulate excitable tissue. Indirect interference with an implanted or body-worn device is a separate issue. HSE treats workers at particular risk as needing explicit consideration, rather than assuming one general limit comparison resolves every individual situation. Neither pathway is the same claim as long-term tumour causation."
+            "text": "Sufficient low-frequency exposure can induce electric fields within the body and stimulate excitable tissue. Indirect interference with an implanted or body-worn device is a separate issue. HSE treats workers at particular risk as needing explicit consideration, rather than assuming one general limit comparison resolves every individual situation. Neither pathway is the same claim as long-term tumour causation. The endpoint must therefore be named before interpreting a result. An induced-field assessment, a device-operating response and a diagnosed tumour are different observations, with different relevant comparators. Evidence that supports one pathway cannot establish another by relying on the general term electromagnetic field."
           }
         ],
         "title": "Stimulation and interference are distinct"
@@ -1350,7 +1368,7 @@
               "hse-workplace",
               "E04-T07-R230"
             ],
-            "text": "A workplace comparison should document the relevant frequency components, quantity and exposure conditions. A job-exposure matrix used in cancer research is not a compliance survey of the present workstation. Equally, an exposure-limit result is not a numerical estimate of that worker’s future meningioma probability. The two assessments have different endpoints and sources of uncertainty."
+            "text": "A workplace comparison should document the relevant frequency components, quantity and exposure conditions. A job-exposure matrix used in cancer research is not a compliance survey of the present workstation. Equally, an exposure-limit result is not a numerical estimate of that worker’s future meningioma probability. The two assessments have different endpoints and sources of uncertainty. The distinction works in both directions. A broad group-level cancer analysis cannot certify a present installation, and a technically compliant installation does not itself estimate the causes of disease in an observational population. Each assessment needs the information and uncertainty appropriate to its own purpose before its conclusion is applied."
           }
         ],
         "title": "A compliance assessment has its own purpose"
@@ -1364,7 +1382,7 @@
               "hse-workplace",
               "E06-T11-R191"
             ],
-            "text": "Distance to a source, the position of conductors and where the body is during operation affect the physical question. An assessment should follow the actual activity rather than import a universal separation distance from a different machine. HSE allows equipment data to establish the picture where sufficient, with more detailed assessment for powerful or uncertain sources."
+            "text": "Distance to a source, the position of conductors and where the body is during operation affect the physical question. An assessment should follow the actual activity rather than import a universal separation distance from a different machine. HSE allows equipment data to establish the picture where sufficient, with more detailed assessment for powerful or uncertain sources. The relevant distance may change during a task, making the time at each position part of the exposure description. A single fixed location can describe that point precisely while missing the wider activity. Equipment information, task observation and appropriate measurements serve complementary roles, rather than one universal distance replacing all three."
           }
         ],
         "title": "Geometry depends on the task"
@@ -1377,13 +1395,19 @@
             "refs": [
               "E04-T07-R230"
             ],
-            "text": "Carlberg and colleagues found no overall association between occupational ELF exposure and meningioma across the principal metrics and windows. Their discussion notes that no individual measurements were taken: workers within a job category may have different workstations or assignments. The selected null pattern should therefore be read with exposure uncertainty, not as proof about every occupation or every health outcome."
+            "text": "Carlberg and colleagues found no overall association between occupational ELF exposure and meningioma across the principal metrics and windows. Their discussion notes that no individual measurements were taken: workers within a job category may have different workstations or assignments. The selected null pattern should therefore be read with exposure uncertainty, not as proof about every occupation or every health outcome. A lack of an overall association is a reported result, with exposure assignment still relevant to what it can exclude. Reading only that conclusion would lose the model limitations; reading only a selected elevated category would lose the larger pattern. The useful account keeps the principal comparisons, uncertainty and related-report history together."
           },
           {
             "refs": [
               "E04-T07-R230"
             ],
             "text": "The meningioma report examined cumulative exposure, average exposure and the most exposed job, as well as different windows before diagnosis. These are alternative summaries of a history, not interchangeable biological doses. Looking at their pattern together is more informative than selecting the one category with an elevated estimate. The authors’ overall conclusion was a lack of association, and their discussion nevertheless acknowledges uncertainty in individual exposure assignment. A complete appraisal should preserve both statements, examine how cut points were chosen and reconcile shared participants with related reports before presenting an independent evidence count."
+          },
+          {
+            "refs": [
+              "E04-T07-R237"
+            ],
+            "text": "Parental workplace exposure and a child’s home exposure require different evidence. In this CLIC analysis, researchers linked parents’ job histories to estimated ELF magnetic-field levels around conception or during pregnancy, then compared childhood leukaemia cases with controls. The harmonized analyses did not show a clear association. Those findings are relevant to parental occupational exposure, but they cannot be substituted for a study measuring the child’s bedroom or residential power-line exposure. Job averages can also miss differences between people doing nominally similar work. The appropriate reading is a qualified result for a specific exposure method and window, with human scientific review still pending."
           }
         ],
         "title": "What the meningioma report contributes"
@@ -1434,7 +1458,7 @@
               "icnirp-static",
               "icnirp-mri"
             ],
-            "text": "A static magnetic field does not oscillate over time and is described by magnetic flux density in tesla. It has no oscillation wavelength to compare with radio waves. During MRI, other components vary with time, so a scanner’s nominal static field alone cannot describe RF energy deposition or gradient-related effects."
+            "text": "A static magnetic field does not oscillate over time and is described by magnetic flux density in tesla. It has no oscillation wavelength to compare with radio waves. During MRI, other components vary with time, so a scanner’s nominal static field alone cannot describe RF energy deposition or gradient-related effects. The component distinction prevents an apparent numerical comparison from becoming misleading. A nominal static-field strength identifies one feature of a scanner; it is not the RF absorbed-energy quantity or a description of a switched gradient. Interpreting a report requires the original component and units rather than a generic description of scanner radiation."
           }
         ],
         "title": "Static does not mean the whole scan is static"
@@ -1448,7 +1472,7 @@
               "E06-T11-R191",
               "icnirp-mri"
             ],
-            "text": "A patient undergoes a selected examination, while staff may move repeatedly near the system or assist patients during particular tasks. The occupational communication highlights inhomogeneous fields and varied exposure during assistance and procedures. Its discussion should not be transferred into an estimate of the effects of a particular patient scan."
+            "text": "A patient undergoes a selected examination, while staff may move repeatedly near the system or assist patients during particular tasks. The occupational communication highlights inhomogeneous fields and varied exposure during assistance and procedures. Its discussion should not be transferred into an estimate of the effects of a particular patient scan. A staff study may investigate repeated movement or assistance around a scanner, while a patient question concerns a selected examination. The observation period, activity and body position should remain attached to the finding. Removing those details could make a useful occupational report appear to answer an individual medical-exposure question that it did not test."
           }
         ],
         "title": "Patients and staff have different patterns"
@@ -1462,7 +1486,7 @@
               "icnirp-static",
               "icnirp-mri"
             ],
-            "text": "ICNIRP discusses transient sensory effects associated with strong static fields and movement through them. The overall MRI environment also includes forces on susceptible objects and questions involving medical devices. These are different from a claim of long-term cancer or reproductive harm, and the absence of ionization does not remove the need for an MRI-specific safety process."
+            "text": "ICNIRP discusses transient sensory effects associated with strong static fields and movement through them. The overall MRI environment also includes forces on susceptible objects and questions involving medical devices. These are different from a claim of long-term cancer or reproductive harm, and the absence of ionization does not remove the need for an MRI-specific safety process. The relevance of a finding depends on which interaction was actually investigated. A movement-related sensation is different from an RF-heating outcome or a response of an implanted device. Grouping them under one harm label would make it harder to understand the assessment required and would add no evidence about chronic disease."
           }
         ],
         "title": "Several established interactions need attention"
@@ -1476,7 +1500,7 @@
               "icnirp-mri",
               "hse-workplace"
             ],
-            "text": "ICNIRP separates patient medical exposure from general exposure limits and discusses workers and movement separately. HSE similarly distinguishes direct health, sensory and indirect effects in its UK workplace framework. A public exposure threshold should not be treated as a stand-alone rule for whether a clinically indicated scan is appropriate."
+            "text": "ICNIRP separates patient medical exposure from general exposure limits and discusses workers and movement separately. HSE similarly distinguishes direct health, sensory and indirect effects in its UK workplace framework. A public exposure threshold should not be treated as a stand-alone rule for whether a clinically indicated scan is appropriate. An examination involves a medical context rather than an ordinary environmental source comparison. The official source’s distinction helps explain the scope of its guidance, with no basis here for turning a worker limit or a public reference value into an individual instruction about a scan. That would require patient- and device-specific information outside this overview."
           }
         ],
         "title": "Know whose exposure the guidance covers"
@@ -1490,7 +1514,7 @@
               "icnirp-mri",
               "icnirp-static"
             ],
-            "text": "For workers, the path and speed of movement through the static field can affect transient sensations; field strength at one point is not the complete description. A site’s layout and procedures therefore matter more than a generic rule based only on distance from the scanner. Object and implanted-device issues also need their own assessment."
+            "text": "For workers, the path and speed of movement through the static field can affect transient sensations; field strength at one point is not the complete description. A site’s layout and procedures therefore matter more than a generic rule based only on distance from the scanner. Object and implanted-device issues also need their own assessment. A map and a movement record would answer complementary questions: what field exists at each position, and how a person traverses it during a task. A distance label alone supplies neither a complete route nor an operating history. That is why the source’s movement discussion should be preserved when interpreting worker observations."
           }
         ],
         "title": "Movement and field gradients matter"
@@ -1503,7 +1527,7 @@
             "refs": [
               "E06-T11-R191"
             ],
-            "text": "The selected communication describes sparse long-term static-field evidence and refers to earlier worker symptom reports. Those cited studies have not been converted into new independently verified cases here. A complete review would recover the original reports, separate scanner components, distinguish patients from workers and evaluate exposure history and follow-up. Scientific review remains pending; narrative context does not close that gap."
+            "text": "The selected communication describes sparse long-term static-field evidence and refers to earlier worker symptom reports. Those cited studies have not been converted into new independently verified cases here. A complete review would recover the original reports, separate scanner components, distinguish patients from workers and evaluate exposure history and follow-up. Scientific review remains pending; narrative context does not close that gap. Recovering the cited papers would also permit report-family and outcome checks. A position paper can mention several findings without each representing a new independent worker population. The current gap concerns those original comparisons and their methodological assessment; it should not be broadened into an unsupported claim that every possible MRI outcome lacks research."
           },
           {
             "refs": [
@@ -1559,7 +1583,7 @@
             "refs": [
               "million-women"
             ],
-            "text": "Registry-linked cohorts can identify incident diagnoses after baseline exposure questions, whereas case-control studies ask about previous use after diagnosis. The updated Million Women Study also considered subtype and location, but detailed tumour laterality was incomplete. A result for all brain tumours should not automatically be quoted as the result for every glioma subtype."
+            "text": "Registry-linked cohorts can identify incident diagnoses after baseline exposure questions, whereas case-control studies ask about previous use after diagnosis. The updated Million Women Study also considered subtype and location, but detailed tumour laterality was incomplete. A result for all brain tumours should not automatically be quoted as the result for every glioma subtype. This makes the outcome definition part of judging consistency. An analysis combining diagnoses may have more observations but answer a broader question, while a subtype analysis can be more specific and less precise. The report’s actual case definitions and available event information need to accompany either result."
           }
         ],
         "title": "Diagnosis, subtype and latency"
@@ -1575,7 +1599,7 @@
               "interphone",
               "E01-T01-R246"
             ],
-            "text": "The selected COSMOS summary and the full-text Million Women update do not show a clear increase in glioma with their phone-use measures. INTERPHONE’s highest recalled-use result needs the same attention as its overall pattern and limitations. In occupational INTEROCC data, results were not consistent across exposure-assignment methods or time windows."
+            "text": "The selected COSMOS summary and the full-text Million Women update do not show a clear increase in glioma with their phone-use measures. INTERPHONE’s highest recalled-use result needs the same attention as its overall pattern and limitations. In occupational INTEROCC data, results were not consistent across exposure-assignment methods or time windows. These contrasts deserve comparison rather than a vote by publication. Prospective exposure reporting, recalled histories and group-level occupational assignments have different limitations. A selected positive category needs its own precision and context retained, while an overall null pattern should not be broadened into an assertion that every exposure history and subtype was equally well studied."
           },
           {
             "refs": [
@@ -1597,7 +1621,7 @@
               "E01-T01-R246",
               "interphone"
             ],
-            "text": "A self-reported call history is not a direct measurement of absorbed brain dose. Case-control reporting can differ after a diagnosis, while cohort use categories can misclassify changing behaviour. Job-exposure matrices average across workers whose tasks vary. Selection and multiple comparisons can also influence isolated positive results; these limitations must be assessed, rather than used automatically to dismiss or validate a finding."
+            "text": "A self-reported call history is not a direct measurement of absorbed brain dose. Case-control reporting can differ after a diagnosis, while cohort use categories can misclassify changing behaviour. Job-exposure matrices average across workers whose tasks vary. Selection and multiple comparisons can also influence isolated positive results; these limitations must be assessed, rather than used automatically to dismiss or validate a finding. Longer follow-up can improve observation of later diagnoses while leaving the initial exposure variable coarse. More detailed retrospective questioning can improve some history information while introducing other reporting concerns. Appraisal has to assess those tradeoffs in the particular report, instead of assuming that one design label settles the causal question."
           }
         ],
         "title": "Why exposure estimates can disagree"
@@ -1611,7 +1635,7 @@
               "ntp-rats",
               "ramazzini"
             ],
-            "text": "Long-latency cancer incidence is not established by a brief sham-controlled human RF experiment. Animal bioassays can examine tumour development under controlled exposure, but their species, whole-body dose and survival conditions differ from ordinary human calling. The NTP and Ramazzini reports belong in a separate hazard and translation assessment, not as extra human glioma cases."
+            "text": "Long-latency cancer incidence is not established by a brief sham-controlled human RF experiment. Animal bioassays can examine tumour development under controlled exposure, but their species, whole-body dose and survival conditions differ from ordinary human calling. The NTP and Ramazzini reports belong in a separate hazard and translation assessment, not as extra human glioma cases. The contrast being controlled is therefore important: the animal work can better define exposure and ascertain pathology within the experiment, but supplies no additional phone-user follow-up. Evidence streams can inform one another without their participants, tumour sites or exposure quantities being merged into a single human risk calculation."
           }
         ],
         "title": "Experiments provide a different kind of evidence"
@@ -1625,7 +1649,7 @@
               "nci-emf-cancer",
               "icnirp-rf"
             ],
-            "text": "NCI separates cancer sites and exposure settings, and ICNIRP’s RF explanation addresses established adverse heating and the quantities used in exposure assessment. These serve different purposes from a glioma-specific epidemiological review. Neither the word “non-ionizing” nor a guideline comparison alone is a complete account of the observational tumour evidence."
+            "text": "NCI separates cancer sites and exposure settings, and ICNIRP’s RF explanation addresses established adverse heating and the quantities used in exposure assessment. These serve different purposes from a glioma-specific epidemiological review. Neither the word “non-ionizing” nor a guideline comparison alone is a complete account of the observational tumour evidence. The useful role of guidance is to clarify what quantity or established interaction a technical assessment addresses. The epidemiological question still requires case ascertainment, an exposure history, suitable comparison groups and consideration of alternative explanations. An explanation of radiation physics is background to that assessment, with no substitute for the disease-specific evidence."
           }
         ],
         "title": "Interpret classifications within their remit"
@@ -1638,7 +1662,7 @@
             "refs": [
               "foph-mobile"
             ],
-            "text": "Moving a handset away during a call can change exposure, but the selected material does not show that a headset or other accessory prevents glioma. FOPH presents hands-free options as exposure-reduction choices and cautions about shielding products that affect the connection. A reduction in a physical quantity should not be advertised as a measured reduction in cancer incidence."
+            "text": "Moving a handset away during a call can change exposure, but the selected material does not show that a headset or other accessory prevents glioma. FOPH presents hands-free options as exposure-reduction choices and cautions about shielding products that affect the connection. A reduction in a physical quantity should not be advertised as a measured reduction in cancer incidence. For a prevention study, both the exposure change and the clinical outcome would need assessment over a relevant period. A user may choose a different calling arrangement, but that choice should not be presented as a tested tumour-prevention programme when the source reports only how exposure can change."
           }
         ],
         "title": "Exposure changes are not proven prevention"
@@ -1691,7 +1715,7 @@
               "E01-T01-R126",
               "million-women"
             ],
-            "text": "A study may identify meningiomas through histopathology or registry linkage, with different eligibility and timing. The Swedish phone report studied diagnoses in a specified period and examined latency and cumulative use. A cumulative calling category records recalled behaviour; it does not directly measure energy deposited in the tissue where a tumour develops."
+            "text": "A study may identify meningiomas through histopathology or registry linkage, with different eligibility and timing. The Swedish phone report studied diagnoses in a specified period and examined latency and cumulative use. A cumulative calling category records recalled behaviour; it does not directly measure energy deposited in the tissue where a tumour develops. A history may describe when use began, how much calling accumulated or which technology was used. Each variable asks a slightly different exposure question and can have different reporting error. The measurement description needs to stay attached to the result rather than all such categories being summarised as one directly observed brain dose."
           }
         ],
         "title": "Define cases and the exposure window"
@@ -1707,7 +1731,7 @@
               "E04-T07-R230",
               "E01-T01-R246"
             ],
-            "text": "The Swedish phone study found no conclusive association; a highest cumulative-use signal was not accompanied by a significant increasing latency pattern. Million Women reported no increased incidence in its phone-use categories. The occupational ELF report found no overall association, and INTEROCC RF results were not consistent across methods and windows. Those are bounded findings, not a proof covering every exposure history."
+            "text": "The Swedish phone study found no conclusive association; a highest cumulative-use signal was not accompanied by a significant increasing latency pattern. Million Women reported no increased incidence in its phone-use categories. The occupational ELF report found no overall association, and INTEROCC RF results were not consistent across methods and windows. Those are bounded findings, not a proof covering every exposure history. An isolated highest-category signal and the absence of a consistent latency pattern are both part of the Swedish result. Retaining them together is more informative than selecting either as the paper’s entire conclusion. Occupational matrices and prospective phone categories then need their own assessment before apparent agreement is treated as evidence of the same causal contrast."
           },
           {
             "refs": [
@@ -1731,7 +1755,7 @@
               "E04-T07-R230",
               "E01-T01-R246"
             ],
-            "text": "The Swedish phone analysis had few truly unexposed people and considerable use of multiple technologies. The occupational ELF matrix assigned group values without individual measurements. INTEROCC additionally discusses reporting, selection and multiple comparisons. These issues affect how much weight to place on both an isolated elevation and an overall null pattern; a formal appraisal needs explicit judgments. Longer follow-up alone cannot remove those exposure and selection problems."
+            "text": "The Swedish phone analysis had few truly unexposed people and considerable use of multiple technologies. The occupational ELF matrix assigned group values without individual measurements. INTEROCC additionally discusses reporting, selection and multiple comparisons. These issues affect how much weight to place on both an isolated elevation and an overall null pattern; a formal appraisal needs explicit judgments. Longer follow-up alone cannot remove those exposure and selection problems. The reference group also matters: comparing heavier users with people who have little use is not identical to comparing exposed people with a truly unexposed population. Where technologies are used together, attribution to one source needs additional care. Those features help define what a reported contrast actually estimates."
           }
         ],
         "title": "Measurement can conceal or create patterns"
@@ -1746,7 +1770,7 @@
               "ntp-rats",
               "ramazzini"
             ],
-            "text": "A brief controlled human exposure study can test an immediate physiological effect, but cannot directly determine later meningioma incidence. The relevant long-term studies here are observational. Controlled animal experiments address hazard under their own conditions, and translating them would require matching tumour biology and tissue dose rather than treating all tumours as interchangeable."
+            "text": "A brief controlled human exposure study can test an immediate physiological effect, but cannot directly determine later meningioma incidence. The relevant long-term studies here are observational. Controlled animal experiments address hazard under their own conditions, and translating them would require matching tumour biology and tissue dose rather than treating all tumours as interchangeable. This also limits what a negative short-term test can rule out. A laboratory task may be measured precisely while never observing the long-term diagnosis being discussed. The experiment can answer its immediate question well and still leave meningioma incidence to a different type of study."
           }
         ],
         "title": "Short experiments cannot observe long latency"
@@ -1761,7 +1785,7 @@
               "icnirp-rf",
               "icnirp-lf"
             ],
-            "text": "NCI’s overview distinguishes cancer outcomes and exposure settings rather than offering one personal-risk figure for EMFs. RF and low-frequency guidance also address different interactions and quantities. These explanations help frame exposure, but do not replace a meningioma-specific assessment of latency, case ascertainment, exposure error and study overlap."
+            "text": "NCI’s overview distinguishes cancer outcomes and exposure settings rather than offering one personal-risk figure for EMFs. RF and low-frequency guidance also address different interactions and quantities. These explanations help frame exposure, but do not replace a meningioma-specific assessment of latency, case ascertainment, exposure error and study overlap. The distinction between RF and ELF is especially important because this page includes both occupational streams. Similar-looking exposure categories can represent different quantities and assignment methods. A source-specific comparison first identifies the field and its measurement or proxy before considering whether the meningioma results support a coherent pattern."
           }
         ],
         "title": "Keep broad agency context in proportion"
@@ -1775,7 +1799,7 @@
               "foph-mobile",
               "hse-workplace"
             ],
-            "text": "The selected sources do not establish an EMF avoidance programme or product that prevents or treats meningioma. An exposure-reduction option may alter a handset or workplace configuration, but proving a health benefit needs an appropriate outcome comparison. The website’s role is to distinguish those claims while the scientific review remains pending."
+            "text": "The selected sources do not establish an EMF avoidance programme or product that prevents or treats meningioma. An exposure-reduction option may alter a handset or workplace configuration, but proving a health benefit needs an appropriate outcome comparison. The website’s role is to distinguish those claims while the scientific review remains pending. A workplace assessment may still be appropriate for its defined technical purpose, and a hands-free arrangement can change phone exposure. Those are useful facts without a demonstrated effect on meningioma incidence. Treating an exposure-management measure as prevention would add a clinical conclusion that the cited material does not establish."
           }
         ],
         "title": "Do not convert an exposure option into treatment"
@@ -1829,7 +1853,7 @@
             "refs": [
               "E01-T01-R022"
             ],
-            "text": "The relevant outcome is a tumour diagnosis, while side of phone use is usually recalled. Hearing loss can change which ear someone uses even before diagnosis, and awareness of a tumour can affect later recall. The five-country report explicitly discusses these potentially opposing biases. Neither the usual ear nor handedness is a direct absorbed-dose measurement."
+            "text": "The relevant outcome is a tumour diagnosis, while side of phone use is usually recalled. Hearing loss can change which ear someone uses even before diagnosis, and awareness of a tumour can affect later recall. The five-country report explicitly discusses these potentially opposing biases. Neither the usual ear nor handedness is a direct absorbed-dose measurement. The resulting error need not point in one direction. A person might change their preferred ear because hearing has changed, and a later account may be influenced by knowing the tumour side. An apparent same-side pattern therefore needs those competing explanations assessed alongside the exposure hypothesis."
           }
         ],
         "title": "Diagnosis and side of use are separate variables"
@@ -1844,7 +1868,7 @@
               "E01-T01-R127",
               "million-women"
             ],
-            "text": "The five-country analysis found no overall raised risk with regular use or in the first decade, with an uncertain long-use same-side signal. The pooled Swedish analysis reported higher odds with wireless-phone use and longer latency. Million Women did not find an increased acoustic-neuroma incidence in its reported phone-use categories. These patterns require comparison of design and exposure histories, rather than a simple paper vote."
+            "text": "The five-country analysis found no overall raised risk with regular use or in the first decade, with an uncertain long-use same-side signal. The pooled Swedish analysis reported higher odds with wireless-phone use and longer latency. Million Women did not find an increased acoustic-neuroma incidence in its reported phone-use categories. These patterns require comparison of design and exposure histories, rather than a simple paper vote. The longer-use signals remain part of the evidence, with no reason to omit them because they are difficult to interpret. Their meaning depends on how use, side, latency and comparison groups were defined. Equally, the cohort’s lack of an observed increase retains its own population, exposure and rare-outcome precision limits."
           },
           {
             "refs": [
@@ -1866,7 +1890,7 @@
               "E01-T01-R127",
               "E01-T01-R022"
             ],
-            "text": "Long-use categories can contain few cases, making estimates imprecise and sensitive to categorisation. Control participation and recalled call duration also matter in case-control work. The Swedish authors pooled their newer period with earlier data because the newer acoustic-neuroma sample was small; that pooling expands information without creating a new independent replication of the earlier study."
+            "text": "Long-use categories can contain few cases, making estimates imprecise and sensitive to categorisation. Control participation and recalled call duration also matter in case-control work. The Swedish authors pooled their newer period with earlier data because the newer acoustic-neuroma sample was small; that pooling expands information without creating a new independent replication of the earlier study. Pooling can improve the amount of information for an uncommon outcome while preserving the biases of the component studies. A later pooled paper and its earlier reports should therefore be linked as one research family where they reuse participants. Publication dates alone do not establish independent confirmation."
           }
         ],
         "title": "Rare outcomes make estimates fragile"
@@ -1880,7 +1904,7 @@
               "ntp-rats",
               "ramazzini"
             ],
-            "text": "A sham-controlled short-term RF study cannot directly observe a tumour with long development. Animal schwannoma findings can raise hazard questions, but a rat heart schwannoma is not an additional human vestibular schwannoma. Translation requires attention to tissue, species, dose and exposure timing, with human incidence remaining a separate evidential track."
+            "text": "A sham-controlled short-term RF study cannot directly observe a tumour with long development. Animal schwannoma findings can raise hazard questions, but a rat heart schwannoma is not an additional human vestibular schwannoma. Translation requires attention to tissue, species, dose and exposure timing, with human incidence remaining a separate evidential track. A shared tumour-cell label does not remove the difference between tissues and exposure systems. The animal study can raise a biological question for human research, but the translation must be argued using the actual conditions. It cannot be accomplished by adding the animal lesions to the human diagnosis count."
           }
         ],
         "title": "What experimental evidence could establish"
@@ -1894,7 +1918,7 @@
               "nci-emf-cancer",
               "icnirp-rf"
             ],
-            "text": "NCI separates different cancer sites and exposure settings, while ICNIRP explains RF quantities and established heating effects. These sources help prevent a room-field reading or a general RF label from being mistaken for a tumour-risk estimate. They do not erase the need to evaluate long-use histories and rare-outcome precision in each acoustic-neuroma study."
+            "text": "NCI separates different cancer sites and exposure settings, while ICNIRP explains RF quantities and established heating effects. These sources help prevent a room-field reading or a general RF label from being mistaken for a tumour-risk estimate. They do not erase the need to evaluate long-use histories and rare-outcome precision in each acoustic-neuroma study. A useful account consequently reads technical and disease evidence together without giving them the same function. The exposure document helps interpret quantities and interactions; the tumour studies address incidence under their own histories. Neither a general agency statement nor one selected epidemiological category completes that combined appraisal."
           }
         ],
         "title": "Agency context is broader than this diagnosis"
@@ -1908,7 +1932,7 @@
               "foph-mobile",
               "E01-T01-R022"
             ],
-            "text": "FOPH describes hands-free arrangements as ways to reduce head exposure during calls. The selected material does not demonstrate that a particular headset, shield or reduced-calling programme prevents acoustic neuroma. Nor can symptoms alone identify an RF cause. A prevention claim would require suitable comparative outcomes, not merely a change in the physical exposure."
+            "text": "FOPH describes hands-free arrangements as ways to reduce head exposure during calls. The selected material does not demonstrate that a particular headset, shield or reduced-calling programme prevents acoustic neuroma. Nor can symptoms alone identify an RF cause. A prevention claim would require suitable comparative outcomes, not merely a change in the physical exposure. A change in symptoms or calling habits would not, by itself, demonstrate prevention of a slowly developing tumour. The endpoint and observation period would have to match the claim. Keeping that requirement clear avoids presenting an exposure-reduction option or a consumer accessory as an established clinical intervention."
           }
         ],
         "title": "Exposure reduction has a narrower claim"
@@ -1961,7 +1985,7 @@
               "E01-T01-R251",
               "million-women"
             ],
-            "text": "The breast-cancer report distinguishes histologically confirmed cases, an exploratory group referred for mammography without a diagnosis, and controls. Suspected cases must not be counted as confirmed cancers. The Million Women eye analysis, by contrast, concerns incident tumours recorded during follow-up. These case definitions and timings should remain visible in any comparison."
+            "text": "The breast-cancer report distinguishes histologically confirmed cases, an exploratory group referred for mammography without a diagnosis, and controls. Suspected cases must not be counted as confirmed cancers. The Million Women eye analysis, by contrast, concerns incident tumours recorded during follow-up. These case definitions and timings should remain visible in any comparison. This prevents an exploratory referral group from inflating the disease denominator. It also explains why a cross-sectional comparison of clinical groups and a prospective incident-case analysis require separate rows. They answer different site-specific questions even when both papers collect some information about mobile-phone use."
           },
           {
             "refs": [
@@ -1982,7 +2006,7 @@
               "E01-T01-R251",
               "million-women"
             ],
-            "text": "The breast-cancer authors report a calling-time association, but the printed group totals conflict with the Methods and screen-time reference coding conflicts with broad prose claims. Its numerical effects remain held pending clarification. The cohort did not find increased eye-tumour risk in its reported phone-use groups. These are different outcomes and populations; one cannot cancel or confirm the other as a generic test of cancer."
+            "text": "The breast-cancer authors report a calling-time association, but the printed group totals conflict with the Methods and screen-time reference coding conflicts with broad prose claims. Its numerical effects remain held pending clarification. The cohort did not find increased eye-tumour risk in its reported phone-use groups. These are different outcomes and populations; one cannot cancel or confirm the other as a generic test of cancer. A printed inconsistency is a reason to withhold the dependent estimate until the source is clarified, rather than to choose whichever total gives the preferred interpretation. The qualitative report can still be described with that limitation. The eye-tumour result should likewise retain its own event information and exposure definitions."
           }
         ],
         "title": "Describe the actual selected observations"
@@ -1996,7 +2020,7 @@
               "E01-T01-R251",
               "million-women"
             ],
-            "text": "Daily calling and screen time can correlate with sleep, light exposure, socioeconomic factors and other behaviour. In the breast study they do not isolate absorbed RF dose in breast tissue. Retrospective reporting and control selection are additional concerns. A prospective design reduces some recall problems, but coarse exposure categories and small numbers of uncommon diagnoses can still limit a cohort analysis."
+            "text": "Daily calling and screen time can correlate with sleep, light exposure, socioeconomic factors and other behaviour. In the breast study they do not isolate absorbed RF dose in breast tissue. Retrospective reporting and control selection are additional concerns. A prospective design reduces some recall problems, but coarse exposure categories and small numbers of uncommon diagnoses can still limit a cohort analysis. The clinical question is exposure specific: which energy, at which tissue and during what relevant history? Device habits can accompany many other activities. Adjustment and careful timing may address parts of that problem, with no guarantee that a behavioural questionnaire separates every causal pathway associated with the habit."
           }
         ],
         "title": "Behaviour is not the same as tissue dose"
@@ -2010,7 +2034,7 @@
               "ntp-rats",
               "ramazzini"
             ],
-            "text": "An animal cancer experiment can investigate a hazard under controlled conditions; a cell experiment can examine a pathway. Neither directly measures human breast or eye cancer incidence. The NTP and Ramazzini findings therefore need their own exposure and translation assessment. Adding every animal or cellular result to the same human cancer count would misrepresent the independent evidence."
+            "text": "An animal cancer experiment can investigate a hazard under controlled conditions; a cell experiment can examine a pathway. Neither directly measures human breast or eye cancer incidence. The NTP and Ramazzini findings therefore need their own exposure and translation assessment. Adding every animal or cellular result to the same human cancer count would misrepresent the independent evidence. The source of apparent replication must also be checked. Multiple assays from the same experiment or several papers from a shared animal programme add information about different endpoints without automatically creating independent evidence. Human cancer risk still requires a transparent translation argument and disease-specific observational comparisons."
           }
         ],
         "title": "Keep experimental endpoints separate"
@@ -2023,7 +2047,7 @@
             "refs": [
               "nci-emf-cancer"
             ],
-            "text": "NCI provides context on sources, cancer research and exposure measurement. Its distinction between job-title proxies, measured fields and household sources is particularly important here. The current page uses that framework without assigning a new certainty grade or claiming that one agency summary completes a review of every organ, occupation and frequency range."
+            "text": "NCI provides context on sources, cancer research and exposure measurement. Its distinction between job-title proxies, measured fields and household sources is particularly important here. The current page uses that framework without assigning a new certainty grade or claiming that one agency summary completes a review of every organ, occupation and frequency range. The strongest useful scope here is therefore the named organ and exposure setting. An incomplete breast-cancer comparison cannot be filled by an unrelated eye-tumour result, and a general source description cannot supply the missing clinical data. Wider coverage requires additional site-specific sources and their original methods."
           }
         ],
         "title": "A broad overview is a map, not a verdict"
@@ -2036,7 +2060,7 @@
             "refs": [
               "foph-mobile"
             ],
-            "text": "The selected studies do not test whether a phone accessory or household shielding programme prevents these cancers. FOPH’s mobile-phone document distinguishes exposure-reduction options from health outcomes and notes that shielding can affect the connection. A genuine prevention claim needs an outcome-specific comparison over a suitable period, with other behavioural changes considered."
+            "text": "The selected studies do not test whether a phone accessory or household shielding programme prevents these cancers. FOPH’s mobile-phone document distinguishes exposure-reduction options from health outcomes and notes that shielding can affect the connection. A genuine prevention claim needs an outcome-specific comparison over a suitable period, with other behavioural changes considered. Even a demonstrated reduction in a particular field quantity would leave the proposed cancer benefit to be tested. A comparison changing several habits at once would also need to establish which change was responsible. The current sources support separating those questions, with no basis for an accessory-based prevention claim."
           }
         ],
         "title": "No general cancer-prevention product is established"
@@ -2234,7 +2258,7 @@
             "refs": [
               "E02-T03-R264"
             ],
-            "text": "Skin temperature, core temperature, local tissue absorption, perceived warmth and a diagnosed burn are not interchangeable. A superficial infrared image may detect one pattern while saying little about another tissue. The 26 GHz experiment explicitly limits its conclusions to monitored skin measures in healthy young adults under controlled conditions, rather than validating every guideline threshold."
+            "text": "Skin temperature, core temperature, local tissue absorption, perceived warmth and a diagnosed burn are not interchangeable. A superficial infrared image may detect one pattern while saying little about another tissue. The 26 GHz experiment explicitly limits its conclusions to monitored skin measures in healthy young adults under controlled conditions, rather than validating every guideline threshold. The relevant negative finding is bounded by that instrument, location and observation window. It can show that a particular protocol did not detect a consistent superficial response while leaving a separate question about another tissue or duration unanswered. Reporting those limits makes the result more precise rather than less useful."
           },
           {
             "refs": [
@@ -2255,7 +2279,7 @@
               "E02-T03-R264",
               "E06-T11-R168"
             ],
-            "text": "The acute 26 GHz study did not detect a consistent skin-temperature response at its tested low fields; temperatures also changed over time during sham sessions. A pooled regional-analysis label differs between prose and Table 1, so every analysis cannot simply be called null. At the other end of the exposure spectrum, the occupational review describes suspected overexposure and repair accidents. These are useful observations within their respective conditions, not contradictory results that can be averaged into one heating score."
+            "text": "The acute 26 GHz study did not detect a consistent skin-temperature response at its tested low fields; temperatures also changed over time during sham sessions. A pooled regional-analysis label differs between prose and Table 1, so every analysis cannot simply be called null. At the other end of the exposure spectrum, the occupational review describes suspected overexposure and repair accidents. These are useful observations within their respective conditions, not contradictory results that can be averaged into one heating score. The sham changes are informative because they show why temperature drift over a session should not automatically be assigned to the RF source. Accident reports then describe a different exposure regime and endpoint. The comparison needs to preserve those operating conditions before trying to reconcile the observations."
           }
         ],
         "title": "The dose and scenario determine applicability"
@@ -2269,7 +2293,7 @@
               "E02-T03-R264",
               "icnirp-rf"
             ],
-            "text": "Ambient conditions, movement, clothing and normal thermoregulation can change measured temperatures. The controlled study used matched exposure and sham sessions to distinguish an RF-related effect from changes over time. In everyday settings, warmth from an electronic product’s battery or surface is also a different pathway from RF absorbed in tissue; the exposure method must isolate what is being tested."
+            "text": "Ambient conditions, movement, clothing and normal thermoregulation can change measured temperatures. The controlled study used matched exposure and sham sessions to distinguish an RF-related effect from changes over time. In everyday settings, warmth from an electronic product’s battery or surface is also a different pathway from RF absorbed in tissue; the exposure method must isolate what is being tested. A change during exposure is therefore only the start of the analysis. The appropriate contrast asks whether it differs from the matched sham pattern, while considering the monitoring method and normal variation. Feeling warmth near an operating device does not by itself identify the pathway that produced the sensation."
           }
         ],
         "title": "Temperature has many ordinary influences"
@@ -2282,7 +2306,7 @@
             "refs": [
               "E02-T03-R264"
             ],
-            "text": "The experiment used a blinded randomized crossover design with infrared monitoring during brief genuine and sham sessions. That strengthens the specific comparison, but its small healthy-adult sample, acute duration and superficial measures limit transfer to children, impaired thermoregulation or prolonged exposure. A null result under those conditions is narrower than proof that RF cannot produce heating."
+            "text": "The experiment used a blinded randomized crossover design with infrared monitoring during brief genuine and sham sessions. That strengthens the specific comparison, but its small healthy-adult sample, acute duration and superficial measures limit transfer to children, impaired thermoregulation or prolonged exposure. A null result under those conditions is narrower than proof that RF cannot produce heating. The crossover comparison uses each person across conditions, which is different from adding each session as a new participant. Its strength is control of a narrowly defined exposure contrast. The source’s reporting issue and the limits of its endpoints remain relevant even where the experimental allocation is stronger than an observational survey."
           }
         ],
         "title": "What the controlled study can establish"
@@ -2296,7 +2320,7 @@
               "icnirp-rf",
               "fda-microwave"
             ],
-            "text": "ICNIRP distinguishes external reference levels from basic restrictions on absorbed quantities and uses frequency-, body-region- and duration-specific assessment. FDA’s oven explanation gives a practical example: microwave energy deliberately heats food inside an enclosure, while outside leakage and thermal burns require separate consideration. A product’s cooking output cannot be substituted for a person’s absorbed dose."
+            "text": "ICNIRP distinguishes external reference levels from basic restrictions on absorbed quantities and uses frequency-, body-region- and duration-specific assessment. FDA’s oven explanation gives a practical example: microwave energy deliberately heats food inside an enclosure, while outside leakage and thermal burns require separate consideration. A product’s cooking output cannot be substituted for a person’s absorbed dose. The same distinction applies when interpreting a device’s output specification. The energy intended for a cavity or another technical task is not automatically the quantity absorbed by a nearby person. Assessment must follow the actual source-to-body conditions before the appropriate restriction or reference level can be interpreted."
           }
         ],
         "title": "Limits use specific quantities and averaging"
@@ -2310,7 +2334,7 @@
               "hse-workplace",
               "E06-T11-R168"
             ],
-            "text": "Workplace controls address defined equipment, tasks and established hazards, including maintenance situations that can bypass normal safeguards. That purpose should not be confused with evidence that lowering an already low environmental reading improves sleep, fertility or cancer outcomes. Such benefits require their own comparative studies; the selected thermal sources do not demonstrate them."
+            "text": "Workplace controls address defined equipment, tasks and established hazards, including maintenance situations that can bypass normal safeguards. That purpose should not be confused with evidence that lowering an already low environmental reading improves sleep, fertility or cancer outcomes. Such benefits require their own comparative studies; the selected thermal sources do not demonstrate them. Evidence that a control reduces an established exposure hazard is not evidence that every further reduction produces a clinical benefit. A study of sleep or fertility would need those outcomes observed with an appropriate comparator. The thermal material identifies its own physical and occupational questions rather than answering unrelated health hypotheses."
           }
         ],
         "title": "Preventing overexposure is different from proving a chronic benefit"
@@ -2362,7 +2386,7 @@
               "E02-T03-R054",
               "E02-T03-R175"
             ],
-            "text": "The Regensburg study assessed tinnitus occurrence and severity using questionnaires; COSMOS also relied on later self-reported hearing symptoms. Self-report is relevant to the symptom experience, but can miss differences in onset, persistence or severity. A tinnitus questionnaire is not a diagnosis of acoustic neuroma and should not be counted as a brain-tumour outcome."
+            "text": "The Regensburg study assessed tinnitus occurrence and severity using questionnaires; COSMOS also relied on later self-reported hearing symptoms. Self-report is relevant to the symptom experience, but can miss differences in onset, persistence or severity. A tinnitus questionnaire is not a diagnosis of acoustic neuroma and should not be counted as a brain-tumour outcome. An analysis of new onset also differs from a comparison of prevalent symptoms at one survey. The time sequence and symptom definition determine which claim the data can address. Keeping those details visible prevents a questionnaire association being recast as a confirmed diagnosis or a specific RF-induced injury."
           }
         ],
         "title": "Record occurrence, timing and severity"
@@ -2376,7 +2400,7 @@
               "E02-T03-R175",
               "E02-T03-R054"
             ],
-            "text": "COSMOS did not find an association between baseline call time and tinnitus or hearing loss. The smaller EHS comparison found tinnitus more common in the self-described EHS group, but phone-use measures did not show a tinnitus relationship. Its proposed shared vulnerability mechanism was a hypothesis, not something established by those cross-sectional associations."
+            "text": "The COSMOS authors described no clear tinnitus gradient with baseline call time. The smaller EHS comparison found tinnitus more common in the self-described EHS group, while its phone-use measures did not show a tinnitus relationship. Its proposed shared vulnerability mechanism was a hypothesis rather than an established causal explanation. Exact COSMOS tinnitus counts and estimates remain held because the printed text and tables do not fully agree. That source issue prevents a stronger numerical interpretation; it does not establish the EHS paper’s proposed mechanism or convert a symptom association into evidence of measured RF causation."
           },
           {
             "refs": [
@@ -2397,7 +2421,7 @@
               "E02-T03-R175",
               "E02-T03-R054"
             ],
-            "text": "Call time does not perfectly represent absorbed RF, especially across networks and hands-free use. It also fails to describe every sound or behavioural exposure associated with a device. COSMOS used a short baseline record and symptoms at later follow-up, while the EHS study used rough environmental matching and self-report. These limitations constrain inference about a particular causal agent."
+            "text": "Call time does not perfectly represent absorbed RF, especially across networks and hands-free use. It also fails to describe every sound or behavioural exposure associated with a device. COSMOS used a short baseline record and symptoms at later follow-up, while the EHS study used rough environmental matching and self-report. These limitations constrain inference about a particular causal agent. The source record should therefore say which alternative was actually measured. A call log can improve the timing of a behavioural exposure while still leaving sound dose and later use poorly observed. A sensitivity label can describe a participant group without identifying the physical agent responsible for each symptom."
           }
         ],
         "title": "Phone behaviour is a bundle of exposures"
@@ -2411,7 +2435,7 @@
               "E02-T03-R175",
               "E02-T03-R054"
             ],
-            "text": "The recovered tinnitus papers do not provide a blinded intervention showing that a specified RF exposure triggers tinnitus. Prospective follow-up improves the timing of exposure measurement relative to outcome but remains observational. The cross-sectional EHS comparison cannot establish which condition came first, so its correlation should not become a direct exposure challenge result."
+            "text": "The recovered tinnitus papers do not provide a blinded intervention showing that a specified RF exposure triggers tinnitus. Prospective follow-up improves the timing of exposure measurement relative to outcome but remains observational. The cross-sectional EHS comparison cannot establish which condition came first, so its correlation should not become a direct exposure challenge result. Those designs can identify patterns worth testing, while leaving the direct trigger question open. A controlled challenge would require a specified source, genuine masking, relevant symptom ascertainment and an observation window suited to the hypothesis. None of those design features can be supplied by relabelling an observational correlation."
           }
         ],
         "title": "Blinding and follow-up answer different questions"
@@ -2424,7 +2448,7 @@
             "refs": [
               "who-ehs"
             ],
-            "text": "WHO’s historical EHS fact sheet recognizes that symptoms can be real and disabling while distinguishing symptom experience from attribution to EMF. It is not a current tinnitus-specific review or a diagnostic test for a person’s symptoms. That distinction supports careful investigation without treating a reported sensitivity label as a measured exposure mechanism."
+            "text": "WHO’s historical EHS fact sheet recognizes that symptoms can be real and disabling while distinguishing symptom experience from attribution to EMF. It is not a current tinnitus-specific review or a diagnostic test for a person’s symptoms. That distinction supports careful investigation without treating a reported sensitivity label as a measured exposure mechanism. Recognising the symptom burden and evaluating an attribution are compatible tasks. The historical document helps explain that distinction, with no authority here to diagnose a person or establish the cause of their tinnitus. A current outcome-specific appraisal still needs the actual symptom and exposure studies."
           }
         ],
         "title": "Take symptoms seriously while testing attribution"
@@ -2438,7 +2462,7 @@
               "E02-T03-R054",
               "who-ehs"
             ],
-            "text": "The selected evidence does not show that an EMF shield, avoidance programme or phone accessory treats tinnitus. A change in device use can also change sound, sleep routines, stress and expectations. A credible intervention study would compare a defined treatment, specify relevant outcomes and account for those factors rather than infer an RF effect from improvement after several changes at once."
+            "text": "The selected evidence does not show that an EMF shield, avoidance programme or phone accessory treats tinnitus. A change in device use can also change sound, sleep routines, stress and expectations. A credible intervention study would compare a defined treatment, specify relevant outcomes and account for those factors rather than infer an RF effect from improvement after several changes at once. The comparison should also distinguish an improvement after a change from an improvement attributable to a particular field reduction. Without that separation, the study may support a broader intervention while leaving its proposed RF mechanism unresolved. The selected reports do not supply such a treatment trial."
           }
         ],
         "title": "Improvement does not isolate the active change"
