@@ -113,7 +113,7 @@
     "answerSource": {
       "guideId": "wireless",
       "field": "takeaway",
-      "basis": "Exact text from the existing AI-assisted guide; source hash in existing-content-snapshot.json; no new medical appraisal in this audit."
+      "basis": "Exact text from the existing guide; source hash in existing-content-snapshot.json; no new medical appraisal in this audit."
     },
     "answerCoverage": "Partial existing-guide answer; full question-specific review pending",
     "researchFocus": "Mobile phone OR cellular telephone AND glioma OR meningioma OR acoustic neuroma; cohort and case-control studies; latency, cumulative use, laterality, recall/selection bias; extract original studies behind reviews.",
@@ -217,7 +217,7 @@
     "answerSource": {
       "guideId": "wireless",
       "field": "questions:1",
-      "basis": "Exact text from the existing AI-assisted guide; source hash in existing-content-snapshot.json; no new medical appraisal in this audit."
+      "basis": "Exact text from the existing guide; source hash in existing-content-snapshot.json; no new medical appraisal in this audit."
     },
     "answerCoverage": "Partial existing-guide answer; full question-specific review pending",
     "researchFocus": "WLAN/Wi-Fi 2.4, 5 and 6 GHz exposure surveys; router duty cycle/distance; blinded human provocation and sleep trials; identify direct Wi-Fi exposure rather than screen-use proxies.",
@@ -398,7 +398,7 @@
     "answerSource": {
       "guideId": "symptoms",
       "field": "sections:0",
-      "basis": "Exact text from the existing AI-assisted guide; source hash in existing-content-snapshot.json; no new medical appraisal in this audit."
+      "basis": "Exact text from the existing guide; source hash in existing-content-snapshot.json; no new medical appraisal in this audit."
     },
     "answerCoverage": "Partial existing-guide answer; full question-specific review pending",
     "researchFocus": "Idiopathic environmental intolerance attributed to EMF / electromagnetic hypersensitivity; randomized blinded sham-controlled provocation; detection accuracy, symptoms, blinding integrity, expectancy; do not dismiss experienced symptoms.",
@@ -461,7 +461,7 @@
     "answerSource": {
       "guideId": "sleep",
       "field": "takeaway",
-      "basis": "Exact text from the existing AI-assisted guide; source hash in existing-content-snapshot.json; no new medical appraisal in this audit."
+      "basis": "Exact text from the existing guide; source hash in existing-content-snapshot.json; no new medical appraisal in this audit."
     },
     "answerCoverage": "Partial existing-guide answer; full question-specific review pending",
     "researchFocus": "RF and ELF separately; polysomnography/EEG/melatonin human crossover trials; measured exposure observational studies; separate screen light, notifications, bedtime displacement and expectation.",
@@ -526,7 +526,7 @@
     "answerSource": {
       "guideId": "fertility",
       "field": "takeaway",
-      "basis": "Exact text from the existing AI-assisted guide; source hash in existing-content-snapshot.json; no new medical appraisal in this audit."
+      "basis": "Exact text from the existing guide; source hash in existing-content-snapshot.json; no new medical appraisal in this audit."
     },
     "answerCoverage": "Partial existing-guide answer; full question-specific review pending",
     "researchFocus": "Mobile phone/radiofrequency AND sperm/semen/male fertility; prospective human studies, measured exposure, ex vivo sperm and animal experiments separately; heat, selection, abstinence interval and confounding.",
@@ -569,7 +569,7 @@
     "answerSource": {
       "guideId": "children",
       "field": "questions:0",
-      "basis": "Exact text from the existing AI-assisted guide; source hash in existing-content-snapshot.json; no new medical appraisal in this audit."
+      "basis": "Exact text from the existing guide; source hash in existing-content-snapshot.json; no new medical appraisal in this audit."
     },
     "answerCoverage": "Partial existing-guide answer; full question-specific review pending",
     "researchFocus": "Pediatric dosimetry; measured RF/ELF exposure cohorts; development and cognition endpoints; distinguish modeled absorption differences from demonstrated clinical harm.",
@@ -1003,7 +1003,7 @@
     "answerSource": {
       "guideId": "power-lines",
       "field": "takeaway",
-      "basis": "Exact text from the existing AI-assisted guide; source hash in existing-content-snapshot.json; no new medical appraisal in this audit."
+      "basis": "Exact text from the existing guide; source hash in existing-content-snapshot.json; no new medical appraisal in this audit."
     },
     "answerCoverage": "Partial existing-guide answer; full question-specific review pending",
     "researchFocus": "ELF magnetic fields AND childhood leukemia; original cohort/case-control studies behind pooled analyses; measured versus modeled exposure, cutoffs, sparse high exposure, confounding and selection.",
@@ -1062,7 +1062,7 @@
     "answerSource": {
       "guideId": "measurement",
       "field": "takeaway",
-      "basis": "Exact text from the existing AI-assisted guide; source hash in existing-content-snapshot.json; no new medical appraisal in this audit."
+      "basis": "Exact text from the existing guide; source hash in existing-content-snapshot.json; no new medical appraisal in this audit."
     },
     "answerCoverage": "Partial existing-guide answer; full question-specific review pending",
     "researchFocus": "Meter validation/calibration, frequency response, isotropic versus single-axis probes, bandwidth, dynamic range, uncertainty, saturation; professional exposure-survey methods; no consumer brand rankings without tests.",
@@ -1468,7 +1468,7 @@
     "answerSource": {
       "guideId": "symptoms",
       "field": "sections:0",
-      "basis": "Exact text from the existing AI-assisted guide; source hash in existing-content-snapshot.json; no new medical appraisal in this audit."
+      "basis": "Exact text from the existing guide; source hash in existing-content-snapshot.json; no new medical appraisal in this audit."
     },
     "answerCoverage": "Partial existing-guide answer; full question-specific review pending",
     "researchFocus": "Headache/dizziness and measured RF/ELF; blinded crossover/sham trials, EHS strata, nocebo/expectancy manipulation; ergonomic/acoustic/visual confounds; keep clinical assessment separate.",
@@ -1819,7 +1819,7 @@
     "answerSource": {
       "guideId": "measurement",
       "field": "takeaway",
-      "basis": "Exact text from the existing AI-assisted guide; source hash in existing-content-snapshot.json; no new medical appraisal in this audit."
+      "basis": "Exact text from the existing guide; source hash in existing-content-snapshot.json; no new medical appraisal in this audit."
     },
     "answerCoverage": "Partial existing-guide answer; full question-specific review pending",
     "researchFocus": "Field metric definitions and meter validation; uncertainty and frequency-specific exposure standards; epidemiologic categories versus regulatory reference levels; conversions only within compatible quantities.",
@@ -1875,7 +1875,7 @@
     "answerSource": {
       "guideId": "measurement",
       "field": "sections:2",
-      "basis": "Exact text from the existing AI-assisted guide; source hash in existing-content-snapshot.json; no new medical appraisal in this audit."
+      "basis": "Exact text from the existing guide; source hash in existing-content-snapshot.json; no new medical appraisal in this audit."
     },
     "answerCoverage": "Partial existing-guide answer; full question-specific review pending",
     "researchFocus": "Personal/environmental dosimetry, temporal averaging and spot sampling; source geometry, near/far field, spatial variation; repeated calibrated measurements and uncertainty.",
@@ -1939,7 +1939,7 @@
     "answerSource": {
       "guideId": "basics",
       "field": "takeaway",
-      "basis": "Exact text from the existing AI-assisted guide; source hash in existing-content-snapshot.json; no new medical appraisal in this audit."
+      "basis": "Exact text from the existing guide; source hash in existing-content-snapshot.json; no new medical appraisal in this audit."
     },
     "answerCoverage": "Partial existing-guide answer; full question-specific review pending",
     "researchFocus": "Experimental dosimetry/interaction mechanisms; frequency, photon energy, induced currents and heating; use authoritative technical references for definitions; distinguish UV photochemistry and ionization.",
@@ -2036,7 +2036,7 @@
     "answerSource": {
       "guideId": "animal-studies",
       "field": "questions:1",
-      "basis": "Exact text from the existing AI-assisted guide; source hash in existing-content-snapshot.json; no new medical appraisal in this audit."
+      "basis": "Exact text from the existing guide; source hash in existing-content-snapshot.json; no new medical appraisal in this audit."
     },
     "answerCoverage": "Partial existing-guide answer; full question-specific review pending",
     "researchFocus": "NTP GSM/CDMA rat/mouse primary reports and Ramazzini primary study; pathology peer review, exposure/dose, species/sex, survival, multiple testing; human cohorts for triangulation, never convert animal incidence to human risk.",

@@ -4,9 +4,9 @@ export const reviews:StudyReview[]=[
   {
     "paperId": "million-women",
     "version": "1.0.1-private-draft",
-    "sourceBasis": "Full-text XML read; AI source checks complete; original figure review pending",
+    "sourceBasis": "Full-text XML read; Source checks complete; original figure review pending",
     "checked": "2026-10-08",
-    "preview": "This prospective study followed older UK women and compared later brain-tumor diagnoses with earlier reports of mobile-phone use. The main comparison did not show higher incidence among phone users. Recording use before diagnosis reduces one important source of recall bias, but the exposure questions were coarse and the cohort cannot settle questions about children, very heavy use or newer technologies. This is an AI-assisted full-text reading, with independent numerical and human review pending.",
+    "preview": "This prospective study followed older UK women and compared later brain-tumor diagnoses with earlier reports of mobile-phone use. The main comparison did not show higher incidence among phone users. Recording use before diagnosis reduces one important source of recall bias, but the exposure questions were coarse and the cohort cannot settle questions about children, very heavy use or newer technologies. This is a full-text reading, with independent numerical and human review pending.",
     "sections": [
       {
         "id": "summary",
@@ -263,9 +263,9 @@ export const reviews:StudyReview[]=[
   {
     "paperId": "eltiti",
     "version": "1.0.1-private-draft",
-    "sourceBasis": "Full-text XML read; AI source checks complete; original figure review pending",
+    "sourceBasis": "Full-text XML read; Source checks complete; original figure review pending",
     "checked": "2026-10-08",
-    "preview": "This laboratory study compared base-station-like signals with sham exposure in people reporting electromagnetic sensitivity and controls. Symptom differences seen when exposure was disclosed did not persist in the blinded symptom comparisons. An arousal finding was complicated by exposure order. The experiment tests acute responses to specified signals, not every chronic outcome or the reality of participants’ symptoms. Sample-size shortfall, withdrawals and an abstract/body denominator inconsistency require attention in this AI-assisted full-text draft.",
+    "preview": "This laboratory study compared base-station-like signals with sham exposure in people reporting electromagnetic sensitivity and controls. Symptom differences seen when exposure was disclosed did not persist in the blinded symptom comparisons. An arousal finding was complicated by exposure order. The experiment tests acute responses to specified signals, not every chronic outcome or the reality of participants’ symptoms. Sample-size shortfall, withdrawals and an abstract/body denominator inconsistency require attention in this full-text draft.",
     "sections": [
       {
         "id": "summary",
@@ -309,7 +309,7 @@ export const reviews:StudyReview[]=[
       {
         "id": "sources",
         "title": "Sources",
-        "text": "The complete Environmental Health Perspectives article was acquired as Europe PMC XML. Methods—Participants and Exposure system anchor the sample and dosimetry; Table 1 anchors timing; Tables 2–5 and Results describe outcomes and order analyses. The project was funded by the Mobile Telecommunications and Health Research Programme, grant RUM 20, and authors declared no competing financial interests. Article-level Europe PMC metadata showed published comments but no correction or retraction in the checked record. Those comments and the original participant-flow image have not yet been independently examined in this batch. Numerical statements were checked against source text in two AI passes; original figure inspection, formal appraisal, and exact-version human approval remain pending.",
+        "text": "The complete Environmental Health Perspectives article was acquired as Europe PMC XML. Methods—Participants and Exposure system anchor the sample and dosimetry; Table 1 anchors timing; Tables 2–5 and Results describe outcomes and order analyses. The project was funded by the Mobile Telecommunications and Health Research Programme, grant RUM 20, and authors declared no competing financial interests. Article-level Europe PMC metadata showed published comments but no correction or retraction in the checked record. Those comments and the original participant-flow image have not yet been independently examined in this batch. Numerical statements were checked against source text in two source-checking passes; original figure inspection, formal appraisal, and exact-version human approval remain pending.",
         "sourceSections": [
           "Acknowledgements; author-notes",
           "Europe PMC core metadata PMID 18007992"
@@ -522,7 +522,7 @@ export const reviews:StudyReview[]=[
   {
     "paperId": "de-iuliis",
     "version": "1.0.1-private-draft",
-    "sourceBasis": "Full-text XML read; AI source checks complete; original figure review pending",
+    "sourceBasis": "Full-text XML read; Source checks complete; original figure review pending",
     "checked": "2026-10-08",
     "preview": "This laboratory paper exposed isolated human sperm to radiofrequency fields and reported changes in motility, oxidative markers and DNA fragmentation. Its 2013 correction changes a figure result and clarifies that the experiments used three biological replicates, not four. The study is mechanistic evidence from cells outside the body, not a demonstration of infertility from ordinary phone use.",
     "sections": [
@@ -568,7 +568,7 @@ export const reviews:StudyReview[]=[
       {
         "id": "sources",
         "title": "Sources",
-        "text": "The original article and its publisher correction were acquired in full as XML; both are linked below. The original Methods and figure captions describe the experiment; the correction controls the revised results and replicate count. Funding came from the ARC Centre of Excellence in Biotechnology and Development and the NHMRC, and authors declared no competing interests. Article-level metadata identifies the correction. A retraction and expression-of-concern link found inside the bibliography concern a different cited paper on ERK activation, not this sperm study. That identity distinction was independently checked before integration. Numerical statements were checked against original and corrected source text in two AI passes. Original figure inspection, formal appraisal and human approval remain pending.",
+        "text": "The original article and its publisher correction were acquired in full as XML; both are linked below. The original Methods and figure captions describe the experiment; the correction controls the revised results and replicate count. Funding came from the ARC Centre of Excellence in Biotechnology and Development and the NHMRC, and authors declared no competing interests. Article-level metadata identifies the correction. A retraction and expression-of-concern link found inside the bibliography concern a different cited paper on ERK activation, not this sperm study. That identity distinction was independently checked before integration. Numerical statements were checked against original and corrected source text in two source-checking passes. Original figure inspection, formal appraisal and human approval remain pending.",
         "sourceSections": [
           "Funding; Competing Interests",
           "article-meta related-article; Europe PMC core metadata PMID 19649291; Correction"

@@ -80,4 +80,4 @@ Keep a local or printed copy if useful. This worksheet has no sending or
 saving service. Do not put sensitive details in a shared copy. The reading
 method comes from the EMF Axis draft guides; worked scientific examples
 and full references are in first-guide.html. It does not create new evidence.
-Review status: AI-assisted editorial draft; human review pending.
+Review status: Editorial draft; human review pending.

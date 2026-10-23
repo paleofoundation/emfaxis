@@ -15,7 +15,7 @@ export default function Layout({children}:{children:React.ReactNode}){return <ht
 <div><h3>Start exploring</h3><a href="/guides/basics">EMF fundamentals</a><a href="/sources/mobile-phones">Wireless &amp; phones</a><a href="/sources/power-lines">Power lines</a><a href="/guides/measurement">Measuring exposure</a></div>
 <div><h3>Behind the research</h3><a href="/methodology">Our research approach</a><a href="/methodology#investigator">Primary investigator</a><a href="/privacy">Privacy &amp; your library</a><a href="/corrections">Contact &amp; corrections</a><a href="/terms">Terms of use</a><a href="/disclaimer">Research disclaimer</a></div>
 </nav></div>
-<div className="footer-investigator"><span>PRIMARY INVESTIGATOR <AuthorIdentity profileHref="/methodology#investigator"/></span><span>First edition · AI-assisted drafts · Investigator review pending</span></div>
+<div className="footer-investigator"><span>PRIMARY INVESTIGATOR <AuthorIdentity profileHref="/methodology#investigator"/></span><span>First edition · Investigator review pending</span></div>
 <a className="footer-wordmark" href="/" aria-label="EMF Axis home">EMF<span>AXIS</span><Radio aria-hidden="true"/></a>
 <div className="footer-bottom"><span>© 2026 EMF Axis</span><p>Research education. Not personal medical advice.</p><a href="#main">Back to top ↑</a></div>
 </div></footer><Toaster/></AccountProvider></body></html>}
