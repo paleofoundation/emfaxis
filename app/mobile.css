@@ -176,10 +176,19 @@ html { -webkit-text-size-adjust:100%; }
 .source-preview { max-height:calc(100dvh - 120px); overflow-y:auto; overscroll-behavior:contain; box-shadow:0 12px 36px #123b4226; }
 .source-preview > div a { display:inline-flex; align-items:center; min-height:44px; }
 
+/* Cover-mode insets also apply when an iPhone rotates beyond phone breakpoints. */
+.header, main, .footer-inner { padding-left:max(5%,env(safe-area-inset-left)); padding-right:max(5%,env(safe-area-inset-right)); }
+.site-menu[data-slot=sheet-content], .article-sheet[data-slot=sheet-content] { height:100dvh; max-height:100dvh; padding-top:max(28px,env(safe-area-inset-top)); padding-left:max(24px,env(safe-area-inset-left)); padding-right:max(24px,env(safe-area-inset-right)); padding-bottom:max(28px,env(safe-area-inset-bottom)); }
+.evidence-panel [data-slot=sheet-header], .evidence-panel-body { padding-left:max(28px,env(safe-area-inset-left)); padding-right:max(28px,env(safe-area-inset-right)); }
+.evidence-panel [data-slot=sheet-header] { padding-top:max(34px,env(safe-area-inset-top)); padding-right:max(52px,env(safe-area-inset-right)); }
+[data-slot=sheet-content] > button:last-child { top:max(8px,env(safe-area-inset-top)); right:max(8px,env(safe-area-inset-right)); }
+
 @media (max-width:760px) {
   :root { --app-header-height:calc(64px + env(safe-area-inset-top)); --app-nav-height:calc(68px + env(safe-area-inset-bottom)); }
   html { scroll-padding-bottom:calc(var(--app-nav-height) + 20px); }
   body { padding-bottom:var(--app-nav-height); }
+  main { padding-inline:max(18px,env(safe-area-inset-left)) max(18px,env(safe-area-inset-right)); }
+  .footer-inner { padding-inline:max(20px,env(safe-area-inset-left)) max(20px,env(safe-area-inset-right)); }
   .header { position:sticky; top:0; z-index:30; min-height:var(--app-header-height); padding:calc(10px + env(safe-area-inset-top)) max(18px, env(safe-area-inset-right)) 10px max(18px, env(safe-area-inset-left)); gap:8px; }
   .header .brand { font-size:20px; min-height:44px; gap:4px; }
   .header .brand-icon { width:32px; height:32px; margin-right:4px; }
