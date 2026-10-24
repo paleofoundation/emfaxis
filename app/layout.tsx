@@ -1,4 +1,4 @@
-import type { Metadata } from 'next';
+import type { Metadata, Viewport } from 'next';
 import { Radio, ArrowUpRight, Zap } from 'lucide-react';
 import './globals.css';
 import './mobile.css';
@@ -6,16 +6,18 @@ import {SiteHeader} from '@/components/emf/site-header';
 import {AccountProvider} from '@/components/emf/account';
 import {Toaster} from '@/components/ui/sonner';
 import {AuthorIdentity} from '@/components/emf/orcid-link';
-export const metadata:Metadata={title:{default:'EMF Axis: Electromagnetic Field Evidence',template:'%s · EMF Axis'},metadataBase:new URL('https://emfaxis.com'),robots:{index:true,follow:true},description:'Evidence reviews of electromagnetic fields, with study summaries, topic guides, source references, and explanations of findings and limitations.',icons:{icon:'/favicon.svg',shortcut:'/favicon.svg'}};
+import {AppExperience} from '@/components/emf/app-experience';
+export const viewport:Viewport={width:'device-width',initialScale:1,viewportFit:'cover',themeColor:'#123b42'};
+export const metadata:Metadata={title:{default:'EMF Axis: Electromagnetic Field Evidence',template:'%s · EMF Axis'},metadataBase:new URL('https://emfaxis.com'),robots:{index:true,follow:true},description:'Evidence reviews of electromagnetic fields, with study summaries, topic guides, source references, and explanations of findings and limitations.',applicationName:'EMF Axis',other:{'apple-mobile-web-app-capable':'yes'},manifest:'/manifest.webmanifest',appleWebApp:{capable:true,title:'EMF Axis',statusBarStyle:'black-translucent'},icons:{icon:'/favicon.svg',shortcut:'/favicon.svg',apple:[{url:'/icons/apple-touch-icon.png',sizes:'180x180',type:'image/png'}]}};
 export default function Layout({children}:{children:React.ReactNode}){return <html lang="en"><body><AccountProvider><a className="skip" href="#main">Skip to content</a><SiteHeader/><main id="main">{children}</main><footer className="site-footer">
 <div className="footer-inner">
 <div className="footer-top"><div className="footer-statement"><p className="eyebrow"><Zap size={16} aria-hidden="true"/> STAY CURIOUS. FOLLOW THE EVIDENCE.</p><h2>A clearer view<br/>of an invisible world.</h2><p>Good questions deserve traceable answers. Explore the research, understand its limits, and keep what matters.</p><a className="footer-cta" href="/research">Explore the research <ArrowUpRight size={19}/></a></div>
 <nav className="footer-nav" aria-label="Footer navigation">
-<div><h3>The library</h3><a href="/sources">Exposure sources</a><a href="/outcomes">Health outcomes</a><a href="/research">Studies &amp; findings</a><a href="/guides">Topic guides</a><a href="/glossary">EMF glossary</a><a href="/library">My saved research</a><a href="/questions">Community questions</a><a href="/resources">Reading resources</a></div>
+<div><h3>The library</h3><a href="/sources">Exposure sources</a><a href="/outcomes">Health outcomes</a><a href="/research">Studies &amp; findings</a><a href="/guides">Topic guides</a><a href="/glossary">EMF glossary</a><a href="/library">My saved research</a><a href="/questions">Community questions</a><a href="/resources">Reading resources</a><a href="/app">Get the Home Screen app</a></div>
 <div><h3>Start exploring</h3><a href="/guides/basics">EMF fundamentals</a><a href="/sources/mobile-phones">Wireless &amp; phones</a><a href="/sources/power-lines">Power lines</a><a href="/guides/measurement">Measuring exposure</a></div>
 <div><h3>Behind the research</h3><a href="/methodology">Our research approach</a><a href="/methodology#investigator">Primary investigator</a><a href="/privacy">Privacy &amp; your library</a><a href="/corrections">Contact &amp; corrections</a><a href="/terms">Terms of use</a><a href="/disclaimer">Research disclaimer</a></div>
 </nav></div>
 <div className="footer-investigator"><span>PRIMARY INVESTIGATOR <AuthorIdentity profileHref="/methodology#investigator"/></span><span>First edition · Investigator review pending</span></div>
 <a className="footer-wordmark" href="/" aria-label="EMF Axis home">EMF<span>AXIS</span><Radio aria-hidden="true"/></a>
 <div className="footer-bottom"><span>© 2026 EMF Axis</span><p>Research education. Not personal medical advice.</p><a href="#main">Back to top ↑</a></div>
-</div></footer><Toaster/></AccountProvider></body></html>}
+</div></footer><AppExperience/><Toaster mobileOffset={{bottom:"calc(84px + env(safe-area-inset-bottom))",left:"16px",right:"16px"}}/></AccountProvider></body></html>}

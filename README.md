@@ -19,3 +19,13 @@ TypeScript check; production Worker build; route and citation integrity; browser
 ## Scope to expand
 
 A larger full-text corpus, formal risk-of-bias and conflict appraisal, investigator approval, and a documented repeatable literature-surveillance protocol are the next research milestones. Public launch and custom domain are separate audience/hosting choices; this edition is private by default.
+
+## Mobile and Home Screen app
+
+The shared mobile shell provides persistent Home, Exposures, Outcomes, Search and Saved navigation, in-app Back, safe-area spacing, and touch-sized controls. `/app` explains Safari installation. The manifest and opaque 180/192/512px icons support standalone Home Screen launches. Research filters live in the URL so a study round trip preserves the selected view.
+
+Production registers `/sw.js`. It caches only `/offline.html` and `/offline-retry.js`, uses the network for navigation, and explicitly bypasses API and authentication endpoints. No research, private notes or account responses are cached. Offline reading and offline writes are not implemented. Development does not register a worker, avoiding stale previews.
+
+Run `node scripts/check-mobile-app.mjs` for manifest, icon, offline and cache-isolation checks. Set `EMF_CHECK_ORIGIN` to a running local server to also check delivered assets and metadata. Existing content, TypeScript, route and account checks remain required.
+
+Home Screen support is the first release; this checkout is not an App Store binary. Before a native release, verify Safari installation, standalone keyboard/safe areas, sign-in return, saved-note persistence and external-source links on physical iPhones; then implement and validate the native distribution package and store submission separately. Browser viewport checks do not establish device installation or App Store acceptance.
