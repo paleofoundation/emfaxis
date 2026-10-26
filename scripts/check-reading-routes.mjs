@@ -3,10 +3,12 @@ import fs from 'node:fs';
 import {sources,outcomes} from '../lib/evidence.ts';
 import {rolloutPages,recoveredSources} from '../lib/rollout.ts';
 import {guides} from '../lib/guides.ts';
+const questions=JSON.parse(fs.readFileSync(new URL('../lib/questions.json',import.meta.url),'utf8'));
+import {terms,termSlug} from '../lib/glossary.ts';
 import {studies} from '../lib/studies.ts';
 import {appraisalPreviews} from '../lib/appraisal.ts';
 const base=process.env.EMF_CHECK_ORIGIN||'http://127.0.0.1:5173';
-const routes=[...new Set(['/research/progress',...studies.map(s=>'/research/'+s.id),...rolloutPages.map(p=>'/'+p.kind+'s/'+p.id),...recoveredSources.map(s=>'/research/'+s.id),'/','/sources','/outcomes','/search?q=router','/research/cosmos','/questions/t08','/glossary/sar',...['radiofrequency','elf','intermediate-frequency','static'].map(id=>'/fields/'+id),...sources.map(t=>'/sources/'+t.id),...outcomes.map(t=>'/outcomes/'+t.id),...guides.map(t=>'/guides/'+t.id)])];
+const routes=[...new Set(['/research/progress',...questions.map(q=>'/questions/'+q.id.toLowerCase()),...terms.map(t=>'/glossary/'+termSlug(t[0])),...studies.map(s=>'/research/'+s.id),...rolloutPages.map(p=>'/'+p.kind+'s/'+p.id),...recoveredSources.map(s=>'/research/'+s.id),'/','/sources','/outcomes','/search?q=router','/research/cosmos','/questions/t08','/glossary/sar',...['radiofrequency','elf','intermediate-frequency','static'].map(id=>'/fields/'+id),...sources.map(t=>'/sources/'+t.id),...outcomes.map(t=>'/outcomes/'+t.id),...guides.map(t=>'/guides/'+t.id)])];
 const results=[];
 for(const route of routes){
  const response=await fetch(base+route),html=await response.text();
@@ -15,6 +17,12 @@ for(const route of routes){
  assert(!html.includes('EMFAXIS-WS-20261016-01'),route+' private packet leak');
  if(route.startsWith('/sources/')||route.startsWith('/outcomes/')){
   for(const anchor of ['overview','evidence','research','studies','questions','update-history','references'])assert(html.includes('id="'+anchor+'"'),route+' missing '+anchor);
+  assert(html.indexOf('id="research"')<html.indexOf('id="questions"'));
+  assert(html.indexOf('id="questions"')<html.indexOf('id="update-history"'));
+  assert(html.indexOf('id="update-history"')<html.indexOf('id="references"'));
+ }
+ if(/^\/questions\/t\d{2}$/.test(route)||route.startsWith('/glossary/')){
+  for(const anchor of ['research','questions','update-history','references'])assert(html.includes('id="'+anchor+'"'),route+' missing '+anchor);
   assert(html.indexOf('id="research"')<html.indexOf('id="questions"'));
   assert(html.indexOf('id="questions"')<html.indexOf('id="update-history"'));
   assert(html.indexOf('id="update-history"')<html.indexOf('id="references"'));

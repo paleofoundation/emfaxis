@@ -94,4 +94,4 @@ export const topicRegistry=registry;
 export function topicHref(topic:Topic){return '/'+(topic.kind==='source'?'sources':topic.kind==='field'?'fields':'outcomes')+'/'+topic.id}
 export function rowsFor(topic:Topic){return evidenceRows.filter(r=>topic.kind==='source'?r.source===topic.id:topic.kind==='field'?r.field===topic.id:r.outcome===topic.id)}
 export function rowCitations(row:EvidenceRow){return [...row.papers,...(row.papers.includes('de-iuliis')?['de-iuliis-correction']:[])];}
-export function citationsFor(topic:Topic){return [...new Set([...topic.overview.flatMap(p=>p.refs||[]),...rowsFor(topic).flatMap(rowCitations),...topic.modules.flatMap(m=>m.paragraphs.flatMap(p=>p.refs||[])),...(rowsFor(topic).some(r=>r.papers.includes('de-iuliis'))?['de-iuliis-correction']:[])])];}
+export function citationsFor(topic:Topic,modules:Module[]=topic.modules){return [...new Set([...topic.overview.flatMap(p=>p.refs||[]),...rowsFor(topic).flatMap(rowCitations),...modules.flatMap(m=>m.paragraphs.flatMap(p=>p.refs||[])),...(rowsFor(topic).some(r=>r.papers.includes('de-iuliis'))?['de-iuliis-correction']:[])])];}

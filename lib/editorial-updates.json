@@ -1,5 +1,816 @@
 [
   {
+    "path": "/sources/mobile-phones",
+    "date": "2026-10-26",
+    "title": "Follow the question from a phone habit to an outcome",
+    "source_ids": [
+      "cosmos",
+      "rahban",
+      "hatch",
+      "E05-T10-R110",
+      "million-women"
+    ],
+    "text": "Expanded Mobile phones and health with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/sources/wifi",
+    "date": "2026-10-26",
+    "title": "Distinguish a router measurement from an overnight experiment",
+    "source_ids": [
+      "E06-T11-R114",
+      "wifi-pmid-21856328",
+      "wifi-pmid-23085070",
+      "wifi-pmid-32408065",
+      "wifi-pmid-33166026"
+    ],
+    "text": "Expanded Wi-Fi and health with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/sources/5g",
+    "date": "2026-10-26",
+    "title": "Identify which part of the 5G question an experiment tests",
+    "source_ids": [
+      "5g-sleep",
+      "E02-T03-R264",
+      "E05-T09-R513"
+    ],
+    "text": "Expanded 5G and health with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/sources/base-stations",
+    "date": "2026-10-26",
+    "title": "Separate an address, an exposure estimate and a symptom test",
+    "source_ids": [
+      "E02-T03-R147",
+      "eltiti",
+      "E02-T03-R018"
+    ],
+    "text": "Expanded Cell towers and base stations with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/sources/power-lines",
+    "date": "2026-10-26",
+    "title": "Read proximity and magnetic-field categories as different comparisons",
+    "source_ids": [
+      "ahlbom",
+      "greenland",
+      "draper",
+      "E04-T07-R257"
+    ],
+    "text": "Expanded Power lines and health with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/sources/cordless-phones",
+    "date": "2026-10-26",
+    "title": "Keep the handset, base station and calling history distinct",
+    "source_ids": [
+      "E06-T11-R137",
+      "icnirp-dect",
+      "E01-T01-R126",
+      "E01-T01-R127",
+      "E04-T08-R044",
+      "E04-T08-R052"
+    ],
+    "text": "Expanded Cordless and DECT phones with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/sources/smart-meters",
+    "date": "2026-10-26",
+    "title": "Understand why a transmission peak is only part of the measurement",
+    "source_ids": [
+      "E06-T11-R137",
+      "ukhsa-smart-meters"
+    ],
+    "text": "Expanded Smart meters and health with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/sources/baby-monitors",
+    "date": "2026-10-26",
+    "title": "Match a monitor study to the device and the people tested",
+    "source_ids": [
+      "E02-T03-R227",
+      "foph-baby-monitors",
+      "E06-T11-R137"
+    ],
+    "text": "Expanded Baby monitors and health with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/sources/bluetooth",
+    "date": "2026-10-26",
+    "title": "Compare the complete wireless arrangement rather than the logo",
+    "source_ids": [
+      "foph-bluetooth",
+      "foph-mobile",
+      "E06-T11-R137",
+      "foph-wearables"
+    ],
+    "text": "Expanded Bluetooth, earbuds and wearables with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/sources/induction-hobs",
+    "date": "2026-10-26",
+    "title": "Connect cookware geometry to the exposure estimate",
+    "source_ids": [
+      "E03-T06-R135",
+      "foph-induction",
+      "E03-T06-R139"
+    ],
+    "text": "Expanded Induction hobs and health with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/sources/microwave-ovens",
+    "date": "2026-10-26",
+    "title": "Distinguish cooking, leakage testing and a repair incident",
+    "source_ids": [
+      "fda-microwave",
+      "E06-T11-R168"
+    ],
+    "text": "Expanded Microwave ovens and health with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/sources/electric-blankets",
+    "date": "2026-10-26",
+    "title": "Ask which generation of blankets an association describes",
+    "source_ids": [
+      "E04-T07-R252",
+      "nci-emf-cancer",
+      "icnirp-lf"
+    ],
+    "text": "Expanded Electric blankets and health with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/sources/electric-vehicles",
+    "date": "2026-10-26",
+    "title": "Find the source of a field measured inside a vehicle",
+    "source_ids": [
+      "E06-T11-R208",
+      "E06-T11-R239",
+      "E05-T09-R560"
+    ],
+    "text": "Expanded Electric vehicles and health with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/sources/household-wiring",
+    "date": "2026-10-26",
+    "title": "Read a home’s location proxy alongside its actual scope",
+    "source_ids": [
+      "E04-T07-R257",
+      "E03-T06-R073",
+      "E04-T07-R252"
+    ],
+    "text": "Expanded Household wiring and appliances with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/sources/occupational-rf",
+    "date": "2026-10-26",
+    "title": "Keep a workplace maximum separate from a job-history estimate",
+    "source_ids": [
+      "E06-T11-R168",
+      "hse-workplace",
+      "E01-T01-R246"
+    ],
+    "text": "Expanded Occupational radiofrequency exposure with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/sources/occupational-elf",
+    "date": "2026-10-26",
+    "title": "Understand what a job title can and cannot measure",
+    "source_ids": [
+      "E04-T07-R230",
+      "E04-T07-R237",
+      "E06-T11-R191",
+      "hse-workplace"
+    ],
+    "text": "Expanded Occupational low-frequency fields with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/sources/mri-static-fields",
+    "date": "2026-10-26",
+    "title": "Identify the MRI component and the person involved",
+    "source_ids": [
+      "icnirp-mri",
+      "icnirp-static",
+      "E06-T11-R191",
+      "hse-workplace"
+    ],
+    "text": "Expanded MRI and static magnetic fields with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/outcomes/brain-tumours",
+    "date": "2026-10-26",
+    "title": "Start with the diagnosis before comparing studies",
+    "source_ids": [
+      "cosmos",
+      "million-women",
+      "interphone",
+      "ntp-rats",
+      "ramazzini"
+    ],
+    "text": "Expanded EMF and brain tumours with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/outcomes/childhood-brain-tumours",
+    "date": "2026-10-26",
+    "title": "Match childhood findings to the ages and outcomes studied",
+    "source_ids": [
+      "mobi-kids",
+      "million-women"
+    ],
+    "text": "Expanded EMF and childhood brain tumours with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/outcomes/childhood-leukaemia",
+    "date": "2026-10-26",
+    "title": "Separate a residential association from a parental-work comparison",
+    "source_ids": [
+      "ahlbom",
+      "greenland",
+      "E04-T07-R237",
+      "E04-T07-R257",
+      "draper"
+    ],
+    "text": "Expanded Magnetic fields and childhood leukaemia with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/outcomes/sleep",
+    "date": "2026-10-26",
+    "title": "Read sleep quality, sleep structure and EEG as separate outcomes",
+    "source_ids": [
+      "wifi-pmid-32408065",
+      "E02-T03-R227",
+      "E02-T04-R174",
+      "E02-T04-R161"
+    ],
+    "text": "Expanded EMF and sleep with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/outcomes/male-fertility",
+    "date": "2026-10-26",
+    "title": "Follow the steps from a sperm measurement to conception",
+    "source_ids": [
+      "rahban",
+      "hatch",
+      "E03-T05-R267",
+      "de-iuliis",
+      "de-iuliis-correction"
+    ],
+    "text": "Expanded EMF and male fertility with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/outcomes/ehs-symptoms",
+    "date": "2026-10-26",
+    "title": "Keep symptom experience and the tested trigger in the same account",
+    "source_ids": [
+      "eltiti",
+      "E02-T03-R018",
+      "who-ehs",
+      "E02-T03-R054"
+    ],
+    "text": "Expanded Electromagnetic hypersensitivity and symptoms with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/outcomes/headache",
+    "date": "2026-10-26",
+    "title": "Compare an immediate headache test with later symptom reports",
+    "source_ids": [
+      "headache",
+      "E02-T03-R175",
+      "E02-T03-R147"
+    ],
+    "text": "Expanded EMF and headaches with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/outcomes/cognition",
+    "date": "2026-10-26",
+    "title": "Name the cognitive task before interpreting a change",
+    "source_ids": [
+      "E04-T08-R044",
+      "E04-T08-R052",
+      "hermes",
+      "wifi-pmid-33166026",
+      "wifi-pmid-26600173"
+    ],
+    "text": "Expanded EMF, attention and memory with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/outcomes/animal-cancer",
+    "date": "2026-10-26",
+    "title": "Read the animal, tumour and experiment as one result",
+    "source_ids": [
+      "ntp-rats",
+      "ramazzini",
+      "E01-T01-R257"
+    ],
+    "text": "Expanded EMF and cancer in animals with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/outcomes/dna-damage",
+    "date": "2026-10-26",
+    "title": "Track the biological sample and the assay rather than the headline",
+    "source_ids": [
+      "de-iuliis",
+      "de-iuliis-correction",
+      "E05-T09-R078",
+      "E05-T09-R232",
+      "E05-T09-R513"
+    ],
+    "text": "Expanded EMF and DNA damage with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/outcomes/glioma",
+    "date": "2026-10-26",
+    "title": "Compare the full glioma pattern with an isolated high-use result",
+    "source_ids": [
+      "interphone",
+      "cosmos",
+      "million-women",
+      "E01-T01-R246"
+    ],
+    "text": "Expanded Glioma and electromagnetic fields with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/outcomes/meningioma",
+    "date": "2026-10-26",
+    "title": "Notice when an isolated category does not form a trend",
+    "source_ids": [
+      "E01-T01-R126",
+      "E04-T07-R230",
+      "E01-T01-R246",
+      "million-women"
+    ],
+    "text": "Expanded Meningioma and electromagnetic fields with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/outcomes/acoustic-neuroma",
+    "date": "2026-10-26",
+    "title": "Read side-of-use findings with the hearing history attached",
+    "source_ids": [
+      "E01-T01-R022",
+      "E01-T01-R127",
+      "million-women"
+    ],
+    "text": "Expanded Acoustic neuroma and phone exposure with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/outcomes/other-cancers",
+    "date": "2026-10-26",
+    "title": "Avoid extending one organ-specific report to every cancer",
+    "source_ids": [
+      "E01-T01-R251",
+      "million-women",
+      "ntp-rats",
+      "ramazzini"
+    ],
+    "text": "Expanded Other cancers and electromagnetic fields with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/outcomes/female-fertility-pregnancy",
+    "date": "2026-10-26",
+    "title": "Read the exposure proxy before linking a pregnancy finding to RF",
+    "source_ids": [
+      "E03-T06-R096",
+      "E03-T06-R149",
+      "E03-T06-R094",
+      "E03-T06-R109"
+    ],
+    "text": "Expanded Female fertility, pregnancy and EMFs with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/outcomes/heating",
+    "date": "2026-10-26",
+    "title": "Separate an established physical interaction from a particular temperature test",
+    "source_ids": [
+      "E02-T03-R264",
+      "icnirp-rf",
+      "fda-microwave",
+      "E06-T11-R168"
+    ],
+    "text": "Expanded Heating and electromagnetic exposure with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/outcomes/tinnitus",
+    "date": "2026-10-26",
+    "title": "Distinguish a symptom association from an exposure association",
+    "source_ids": [
+      "E02-T03-R054",
+      "E02-T03-R175",
+      "who-ehs"
+    ],
+    "text": "Expanded Tinnitus and electromagnetic fields with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/fields/radiofrequency",
+    "date": "2026-10-26",
+    "title": "Move from a transmitter description to the relevant body exposure",
+    "source_ids": [
+      "wifi-pmid-32104921",
+      "E06-T11-R114",
+      "icnirp-rf",
+      "wifi-pmid-23085070",
+      "E06-T11-R137",
+      "cosmos"
+    ],
+    "text": "Expanded Radiofrequency fields with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/fields/elf",
+    "date": "2026-10-26",
+    "title": "Keep the field component and exposure history attached to the comparison",
+    "source_ids": [
+      "icnirp-lf",
+      "ahlbom",
+      "greenland",
+      "draper",
+      "E04-T07-R230",
+      "E03-T06-R073"
+    ],
+    "text": "Expanded Power-frequency and ELF fields with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/fields/intermediate-frequency",
+    "date": "2026-10-26",
+    "title": "Compare a cooker model, an animal experiment and an implant test",
+    "source_ids": [
+      "E03-T06-R135",
+      "E06-T11-R239",
+      "E03-T05-R222",
+      "E06-T12-R016"
+    ],
+    "text": "Expanded Intermediate-frequency fields with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/fields/static",
+    "date": "2026-10-26",
+    "title": "Recognize a static-magnet interaction without changing its outcome",
+    "source_ids": [
+      "E05-T10-R110",
+      "icnirp-mri",
+      "icnirp-static",
+      "E06-T11-R191"
+    ],
+    "text": "Expanded Static fields with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/questions/do-phones-cause-brain-cancer",
+    "date": "2026-10-26",
+    "title": "Turn a causal headline into a tumour-specific comparison",
+    "source_ids": [
+      "interphone",
+      "cosmos",
+      "million-women",
+      "ntp-rats",
+      "ramazzini"
+    ],
+    "text": "Expanded Do mobile phones cause brain cancer? with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/questions/heavy-long-term-phone-use",
+    "date": "2026-10-26",
+    "title": "Check whether “heavy” measures intensity, duration or both",
+    "source_ids": [
+      "interphone",
+      "cosmos",
+      "million-women",
+      "foph-mobile"
+    ],
+    "text": "Expanded What about heavy or long-term phone use? with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/questions/brain-cancer-trends",
+    "date": "2026-10-26",
+    "title": "Separate a population trend from an individual exposure comparison",
+    "source_ids": [
+      "cosmos",
+      "million-women",
+      "interphone"
+    ],
+    "text": "Expanded Have brain cancer rates tracked mobile phone use? with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/questions/why-studies-disagree",
+    "date": "2026-10-26",
+    "title": "Find the disagreement in the study question before the conclusion",
+    "source_ids": [
+      "cosmos",
+      "million-women",
+      "interphone",
+      "hermes",
+      "ntp-rats",
+      "ahlbom",
+      "greenland"
+    ],
+    "text": "Expanded Why do phone-and-cancer studies disagree? with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/questions/ntp-and-ramazzini",
+    "date": "2026-10-26",
+    "title": "Compare the shared tumour signal without merging the experiments",
+    "source_ids": [
+      "ntp-rats",
+      "ramazzini",
+      "E01-T01-R257"
+    ],
+    "text": "Expanded What do NTP and Ramazzini tell us? with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/questions/children-and-phones",
+    "date": "2026-10-26",
+    "title": "Distinguish a direct childhood result from an age-based assumption",
+    "source_ids": [
+      "mobi-kids",
+      "hermes",
+      "E04-T08-R052",
+      "foph-wlan",
+      "million-women"
+    ],
+    "text": "Expanded Are children more vulnerable to phone exposure? with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/questions/sleeping-near-phone",
+    "date": "2026-10-26",
+    "title": "Separate a bedside arrangement from a baseline calling history",
+    "source_ids": [
+      "foph-mobile",
+      "E02-T04-R161",
+      "5g-sleep",
+      "E02-T04-R122"
+    ],
+    "text": "Expanded Is sleeping near a phone a health risk? with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/questions/router-at-night",
+    "date": "2026-10-26",
+    "title": "Identify the extra claim made by a router-off recommendation",
+    "source_ids": [
+      "wifi-pmid-32408065",
+      "wifi-pmid-33166026",
+      "E02-T03-R227",
+      "E02-T04-R143",
+      "foph-wlan"
+    ],
+    "text": "Expanded Should I turn off Wi-Fi at night? with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/questions/living-near-tower",
+    "date": "2026-10-26",
+    "title": "Read a tower claim at the scale its study actually examined",
+    "source_ids": [
+      "eltiti",
+      "E02-T03-R147",
+      "E02-T03-R018",
+      "icnirp"
+    ],
+    "text": "Expanded Is living near a cell tower a health risk? with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/questions/living-near-power-lines",
+    "date": "2026-10-26",
+    "title": "Understand why a map cannot supply a personal risk estimate",
+    "source_ids": [
+      "draper",
+      "ahlbom",
+      "greenland",
+      "E04-T07-R257",
+      "E04-T07-R237"
+    ],
+    "text": "Expanded What does living near a power line mean for risk? with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/questions/5g-versus-older-networks",
+    "date": "2026-10-26",
+    "title": "Decide which evidence can travel across network generations",
+    "source_ids": [
+      "icnirp",
+      "5g-sleep",
+      "cosmos",
+      "million-women",
+      "E02-T03-R264",
+      "E05-T09-R513"
+    ],
+    "text": "Expanded Is 5G different from older mobile networks? with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/questions/reducing-phone-exposure",
+    "date": "2026-10-26",
+    "title": "Separate a physical exposure comparison from a health-outcome claim",
+    "source_ids": [
+      "foph-mobile",
+      "cosmos",
+      "interphone",
+      "million-women"
+    ],
+    "text": "Expanded Do speakerphone and headsets reduce exposure? with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/questions/phone-pocket-fertility",
+    "date": "2026-10-26",
+    "title": "Check whether the paper studies carrying, calling or conception",
+    "source_ids": [
+      "hatch",
+      "rahban",
+      "de-iuliis",
+      "de-iuliis-correction",
+      "E03-T05-R267",
+      "E03-T05-R182"
+    ],
+    "text": "Expanded Does carrying a phone in a pocket affect fertility? with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/questions/shields-and-stickers",
+    "date": "2026-10-26",
+    "title": "Test the path from an attenuation demonstration to the claimed benefit",
+    "source_ids": [
+      "foph-mobile",
+      "headache",
+      "eltiti"
+    ],
+    "text": "Expanded Do EMF shields and stickers work? with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/questions/below-limits",
+    "date": "2026-10-26",
+    "title": "Keep the compliance statement and biological result in separate sentences",
+    "source_ids": [
+      "icnirp",
+      "5g-sleep",
+      "ahlbom",
+      "greenland",
+      "de-iuliis",
+      "de-iuliis-correction",
+      "lf"
+    ],
+    "text": "Expanded Does being below an exposure limit settle the health question? with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/questions/funding-and-trust",
+    "date": "2026-10-26",
+    "title": "Inspect influence rather than inferring it from the result",
+    "source_ids": [
+      "cosmos",
+      "million-women",
+      "interphone",
+      "ahlbom",
+      "greenland",
+      "ntp-rats"
+    ],
+    "text": "Expanded How should I assess industry-funded EMF research? with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/guides/emf-basics",
+    "date": "2026-10-26",
+    "title": "Translate an EMF claim into a source, interaction and endpoint",
+    "source_ids": [
+      "icnirp",
+      "lf",
+      "ahlbom",
+      "greenland",
+      "cosmos",
+      "5g-sleep",
+      "de-iuliis",
+      "de-iuliis-correction"
+    ],
+    "text": "Expanded EMF basics: fields, frequencies, and exposure with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/guides/exposure-measurement",
+    "date": "2026-10-26",
+    "title": "Compare like quantities before interpreting a larger number",
+    "source_ids": [
+      "icnirp",
+      "foph-wlan",
+      "E06-T11-R114",
+      "E06-T11-R208",
+      "E03-T06-R073",
+      "E03-T06-R149",
+      "hermes"
+    ],
+    "text": "Expanded Understanding SAR, field strength, and dose with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/guides/reading-risk",
+    "date": "2026-10-26",
+    "title": "Read the estimate, interval and endpoint together",
+    "source_ids": [
+      "hermes",
+      "interphone",
+      "E03-T06-R096",
+      "5g-sleep"
+    ],
+    "text": "Expanded Reading risk numbers without being misled with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/guides/study-designs",
+    "date": "2026-10-26",
+    "title": "Choose the comparison that matches the question being asked",
+    "source_ids": [
+      "eltiti",
+      "E02-T03-R018",
+      "cosmos",
+      "interphone",
+      "E04-T08-R044",
+      "E04-T08-R052",
+      "E02-T03-R227"
+    ],
+    "text": "Expanded How EMF studies work with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/guides/animal-to-human",
+    "date": "2026-10-26",
+    "title": "Identify the missing bridge between a laboratory result and a person",
+    "source_ids": [
+      "ntp-rats",
+      "ramazzini",
+      "E03-T05-R267",
+      "E03-T05-R222",
+      "E03-T05-R182"
+    ],
+    "text": "Expanded From animal experiments to human health with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/guides/limits-and-regulators",
+    "date": "2026-10-26",
+    "title": "Identify the document’s job before applying its conclusion",
+    "source_ids": [
+      "iarc",
+      "icnirp",
+      "fda",
+      "ahlbom",
+      "greenland",
+      "E03-T05-R222",
+      "lf"
+    ],
+    "text": "Expanded Understanding exposure limits and regulators with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/guides/home-exposure",
+    "date": "2026-10-26",
+    "title": "Describe the room, device activity and measurement purpose",
+    "source_ids": [
+      "foph-mobile",
+      "foph-wlan",
+      "lf",
+      "E06-T11-R114",
+      "ahlbom",
+      "greenland",
+      "draper",
+      "E05-T10-R110"
+    ],
+    "text": "Expanded Understanding exposure in your home with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/guides/family-choices",
+    "date": "2026-10-26",
+    "title": "Keep each family question attached to its direct evidence",
+    "source_ids": [
+      "mobi-kids",
+      "hermes",
+      "E02-T03-R227",
+      "foph-baby-monitors",
+      "foph-induction",
+      "foph-wlan"
+    ],
+    "text": "Expanded A practical guide to EMF questions for families with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/guides/symptoms-and-support",
+    "date": "2026-10-26",
+    "title": "Describe the symptom question without prejudging its cause",
+    "source_ids": [
+      "eltiti",
+      "E02-T03-R018",
+      "who-ehs",
+      "headache"
+    ],
+    "text": "Expanded A practical guide for people reporting EMF-related symptoms with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/guides/how-we-grade-evidence",
+    "date": "2026-10-26",
+    "title": "Separate a verified statement from a completed evidence judgment",
+    "source_ids": [
+      "de-iuliis",
+      "de-iuliis-correction",
+      "hermes",
+      "E05-T09-R560",
+      "E03-T05-R297",
+      "ahlbom",
+      "greenland"
+    ],
+    "text": "Expanded How emfaxis evaluates evidence with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
+    "path": "/guides/rf-animal-experiments",
+    "date": "2026-10-26",
+    "title": "Compare exposure delivery and pathology before comparing conclusions",
+    "source_ids": [
+      "ntp-rats",
+      "ramazzini",
+      "E01-T01-R257",
+      "E03-T05-R267"
+    ],
+    "text": "Expanded RF exposure in animal experiments — methods guide with a worked comparison showing how to interpret the selected findings and apply their scope. The linked sources and their review status are retained; this explanatory addition does not constitute a new literature search or scientific appraisal."
+  },
+  {
     "path": "/sources/wifi",
     "date": "2026-10-23",
     "title": "Expanded study explanations and interpretation",

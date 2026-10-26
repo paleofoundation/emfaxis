@@ -29,3 +29,11 @@ Production registers `/sw.js`. It caches only `/offline.html` and `/offline-retr
 Run `node scripts/check-mobile-app.mjs` for manifest, icon, offline and cache-isolation checks. Set `EMF_CHECK_ORIGIN` to a running local server to also check delivered assets and metadata. Existing content, TypeScript, route and account checks remain required.
 
 Home Screen support is the first release; this checkout is not an App Store binary. Before a native release, verify Safari installation, standalone keyboard/safe areas, sign-in return, saved-note persistence and external-source links on physical iPhones; then implement and validate the native distribution package and store submission separately. Browser viewport checks do not establish device installation or App Store acceptance.
+
+## Expanded reading pages (26 October 2026)
+
+The reading layer now includes fuller explanations for all 40 community questions and all 30 glossary terms, a page-specific worked reading example on the 65 planned articles, and selected canonical evidence comparisons on the nine original guides. `lib/question-depth.ts`, `lib/glossary-depth.ts` and `lib/article-depth.ts` hold the structured explanatory material; the existing shared shell, catalogue, bibliography and evidence panel render it. Question IDs, saved-item keys, existing article sections and citation fragment identities remain stable.
+
+This is an editorial expansion using the existing public selected-source collection. It does not add a new literature search, import scientific claims, release private appraisal bodies, assign a certainty grade, or establish human approval. Source access limits and correction notices remain attached to their records.
+
+Run `node scripts/check-page-depth.mjs` alongside the existing content, TypeScript, route and interaction checks. It reconciles all expansion keys, citations, internal reading links and section anchors against the canonical registries. `scripts/check-reading-routes.mjs` now includes all question and glossary routes.
