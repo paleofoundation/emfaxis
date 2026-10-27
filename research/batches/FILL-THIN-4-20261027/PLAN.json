@@ -1,0 +1,45 @@
+{
+  "id": "FILL-THIN-4",
+  "base": "53aa29d77b992540ee2e00e595e6fbabe265ccf9",
+  "branch": "codex/fill-thin-4",
+  "site_positions": [
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40
+  ],
+  "urls": [
+    "https://emfaxis.com/research/E02-T03-R091",
+    "https://emfaxis.com/research/E03-T05-R297",
+    "https://emfaxis.com/research/wifi-pmid-17293700",
+    "https://emfaxis.com/outcomes",
+    "https://emfaxis.com/research/wifi-pmid-23085070",
+    "https://emfaxis.com/research/wifi-pmid-26600173",
+    "https://emfaxis.com/research/wifi-pmid-22004929",
+    "https://emfaxis.com/research/wifi-pmid-21856328",
+    "https://emfaxis.com/research/wifi-pmid-32408065",
+    "https://emfaxis.com/research/E06-T11-R239"
+  ],
+  "scope": "Nine recovered research records and outcomes index; sufficient10 EMF thin rows, no other repo work",
+  "audit": {
+    "workers": 4,
+    "delay": 0.25,
+    "timeout": 25,
+    "retries": 2,
+    "min_words": 400,
+    "max_thin_cites": 2,
+    "claim_min_hits": 3,
+    "analyzer_sha256": "88d45f1ff536c96ce1fbd2e8524aeda34f2e607061ef9fd4af72ad94c84770ed"
+  },
+  "UKHSA": "HELD BY ELON RULING10:13",
+  "preserve": "Prior30 note objects, committed packets, frozen output manifests; scientific/numerical/human/release gates",
+  "sources": "Held EMF corpus only; link and locator per addition; no new numeric claims or PDF hosting",
+  "R091_ELON_ruling": "RATIFIED10:43 for this draft only",
+  "future_absent_canonical_record_rule": "GATE request first"
+}

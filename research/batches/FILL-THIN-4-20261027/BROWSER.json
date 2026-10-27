@@ -1,0 +1,134 @@
+{
+  "at_UTC": "2026-10-27T08:36:21.456485+00:00",
+  "preview": "http://127.0.0.1:5177",
+  "browser": "supported IAB temporarytab6",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "checks": [
+    {
+      "path": "/research/E02-T03-R091",
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "notesPresent": true,
+      "externalNoteLinks": 2,
+      "publicEmEnDashes": 0,
+      "reviewPending": true
+    },
+    {
+      "path": "/research/E03-T05-R297",
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "notesPresent": true,
+      "externalNoteLinks": 2,
+      "publicEmEnDashes": 0,
+      "reviewPending": true
+    },
+    {
+      "path": "/research/wifi-pmid-17293700",
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "notesPresent": true,
+      "externalNoteLinks": 2,
+      "publicEmEnDashes": 0,
+      "reviewPending": true
+    },
+    {
+      "path": "/outcomes",
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "notesPresent": true,
+      "externalNoteLinks": 3,
+      "publicEmEnDashes": 0,
+      "reviewPending": true
+    },
+    {
+      "path": "/research/wifi-pmid-23085070",
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "notesPresent": true,
+      "externalNoteLinks": 2,
+      "publicEmEnDashes": 0,
+      "reviewPending": true
+    },
+    {
+      "path": "/research/wifi-pmid-26600173",
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "notesPresent": true,
+      "externalNoteLinks": 2,
+      "publicEmEnDashes": 0,
+      "reviewPending": true
+    },
+    {
+      "path": "/research/wifi-pmid-22004929",
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "notesPresent": true,
+      "externalNoteLinks": 2,
+      "publicEmEnDashes": 0,
+      "reviewPending": true
+    },
+    {
+      "path": "/research/wifi-pmid-21856328",
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "notesPresent": true,
+      "externalNoteLinks": 2,
+      "publicEmEnDashes": 0,
+      "reviewPending": true
+    },
+    {
+      "path": "/research/wifi-pmid-32408065",
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "notesPresent": true,
+      "externalNoteLinks": 2,
+      "publicEmEnDashes": 0,
+      "reviewPending": true
+    },
+    {
+      "path": "/research/E06-T11-R239",
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "notesPresent": true,
+      "externalNoteLinks": 2,
+      "publicEmEnDashes": 0,
+      "reviewPending": true
+    }
+  ],
+  "visualSections": [
+    "/research/E02-T03-R091#reading-notes",
+    "/outcomes#reading-notes"
+  ],
+  "visualResult": "New qualitative notes/source anchors/locators readable with no clipping or horizontaloverflow in inspectedsections. RestoredR091 shows scientific/numerical/humanreviewpending and no appraisalpreview.",
+  "boundedConsole": {
+    "queryLimit": 15,
+    "warnErrorEntries": []
+  },
+  "cleanup": {
+    "defaultViewportRestored": true,
+    "temporaryTabClosed": true
+  },
+  "scope": "LocalDOM/mobilelayoutonly; noHTTPstatusinferred,noexternaloriginal-sourceclick,noaccount/release/scientificapproval. Screenshotsintooltrace,notfiles.",
+  "final_charging_locator_followup": {
+    "checked_at": "2026-10-27T08:42:12.959626+00:00",
+    "route": "/research/E06-T11-R239",
+    "preview": "http://127.0.0.1:5177",
+    "viewport": [
+      390,
+      844
+    ],
+    "documentWidth": 390,
+    "bodyWidth": 390,
+    "source_links": 2,
+    "added_note_em_en_dashes": 0,
+    "exact_locator": "Held original PDF physical pages 19 to 21, summaries, Conclusions and limitations; source-specific numerical estimates withheld.",
+    "numerical_conflict_and_withheld_percentage_cautions_preserved": true,
+    "visible_mobile_note_and_locator_screenshots_inspected": true,
+    "warn_error_logs_last15": [],
+    "owned_tab_closed_and_viewport_reset": true,
+    "scope": "Only changed charging-page locator rechecked after final build restart. Initial all10 receipt retained."
+  }
+}

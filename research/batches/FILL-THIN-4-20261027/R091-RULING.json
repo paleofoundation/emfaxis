@@ -1,0 +1,10 @@
+{
+  "ruling": "ELON10:43 RATIFIED R091 for this draft only",
+  "id": "E02-T03-R091",
+  "scope": "Single source object from verified held PDF/PMCXML, PMID22998837, two qualitative claims, scientific/numerical/human states pending",
+  "local_only": "404 to200 restoration, not livefix",
+  "historical_current_review_hash_discrepancy": "Disclosed; no current historicalPASS assertion, no appraisal/reviewimport",
+  "UKHSA": "HELD BY ELON RULING10:13",
+  "future_rule": "Restoring or creating any canonical record absent from base branch requires a GATE request first",
+  "release": "No merge/deploy/publish; draftonly"
+}

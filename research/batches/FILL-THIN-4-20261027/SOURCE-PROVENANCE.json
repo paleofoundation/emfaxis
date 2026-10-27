@@ -1,0 +1,160 @@
+[
+  {
+    "id": "wifi-pmid-17293700",
+    "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/full-rollout/wifi/raw/17293700-europepmc.json",
+    "sha256": "900e57ba38e09f701239ee979ea538ed663e9ca9b397c63911d58ff29f26bbbb",
+    "scope": "qualitative_public_preview_only",
+    "source_locators": [
+      "EuropePMC core JSON $.resultList.result[0].abstractText; first and conclusion sentences",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; site/count sentence",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; first sentence and measurement-geometry sentences",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; background and limits sentences",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; first sentence and limits paragraph",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; limits sentence",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; count and geometry sentences",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; survey objective and endpoints",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; higher-end conditions and technical discussion",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; frequency range, excluded body-contact use and named limits",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; site/measurement totals",
+      "EuropePMC core JSON authorList/authorString"
+    ],
+    "human_review": "pending",
+    "numerical_candidates_release": false
+  },
+  {
+    "id": "wifi-pmid-23085070",
+    "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/full-rollout/wifi/raw/23085070-europepmc.json",
+    "sha256": "d88ac6f56a475df3d461765f3eecde56309cbabd754aa624279f0e9f3fd40304",
+    "scope": "qualitative_public_preview_only",
+    "source_locators": [
+      "EuropePMC core JSON $.resultList.result[0].abstractText; opening and study-purpose sentences",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; locations/activities sentence",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; packet, activity and physical-rate sentences",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; theoretical-bound and application sentences",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; purpose and final example",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; overall and activity results",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; location and summary-statistic sentences",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; objective and endpoints",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; environments and rate/activity sentences",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; rate/application results",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; scope; EuropePMC authorList",
+      "EuropePMC core JSON authorList/authorString"
+    ],
+    "human_review": "pending",
+    "numerical_candidates_release": false
+  },
+  {
+    "id": "wifi-pmid-26600173",
+    "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/full-rollout/wifi/raw/26600173-europepmc.json",
+    "sha256": "a650e8afdb795249f954d92dbfb4ef4cc25a8dbaad462022cb508d141d9ec1e9",
+    "scope": "qualitative_public_preview_only",
+    "source_locators": [
+      "EuropePMC core JSON $.resultList.result[0].abstractText; hypotheses1\u20132",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; two provocation-experiment sentences",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; apparatus/dosimetry and hypothesis sentences",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; two provocation experiments",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; EEG and PVT task sentences",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; final two sentences",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; experiment sample descriptions",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; task methods and conclusion",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; methods and final findings",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; hypotheses and conclusion",
+      "EuropePMC core JSON $.resultList.result[0].abstractText",
+      "EuropePMC core JSON commentCorrectionList.commentCorrection[0] (Comment in, PMID26579940)"
+    ],
+    "human_review": "pending",
+    "numerical_candidates_release": false
+  },
+  {
+    "id": "wifi-pmid-22004929",
+    "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/full-rollout/wifi/raw/22004929-europepmc.json",
+    "sha256": "6a138b22a43ab5eb1b42e20a82d7ac8cd9d717369d1978e56d85a308ddc23540",
+    "scope": "qualitative_public_preview_only",
+    "source_locators": [
+      "EuropePMC core JSON $.resultList.result[0].abstractText; opening sentence",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; emitted-power sentences",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; analyzer, radiation-pattern and integration sentences",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; integration and final sentences",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; radiation-pattern and power-density sentences",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; radiated-power ranges and final sentence",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; laptop/access-point category counts",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; objective and endpoints",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; bandwidth and integration sentences",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; opening, patterns and distances",
+      "EuropePMC core JSON $.resultList.result[0].abstractText",
+      "Khalid abstract final sentence (PMID21856328); author lists"
+    ],
+    "human_review": "pending",
+    "numerical_candidates_release": false
+  },
+  {
+    "id": "wifi-pmid-21856328",
+    "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/full-rollout/wifi/raw/21856328-europepmc.json",
+    "sha256": "8a821f3c9b971ad64cb6bc46aee8db6189cfa1d80f4221ea08e3e2985ccf5ab6",
+    "scope": "qualitative_public_preview_only",
+    "source_locators": [
+      "EuropePMC core JSON $.resultList.result[0].abstractText; opening and duty-factor rationale",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; schools/laptop/network sentences",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; packet capture and transmit-time sentences",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; timing, school comparison and final sentence",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; final sentence",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; laptop/network results and final sentence",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; sampling sentences",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; objective and final sentence",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; transmit-time and limited-sample sentences",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; school setting and limited-sample statement",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; final sentence; author lists compared with PMID22004929",
+      "EuropePMC core JSON authorString/authorList"
+    ],
+    "human_review": "pending",
+    "numerical_candidates_release": false
+  },
+  {
+    "id": "wifi-pmid-32408065",
+    "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/full-rollout/wifi/raw/32408065-europepmc.json",
+    "sha256": "af920e6efbca4090e760ceab554cfc66ab3fd939ba69b575d759d6da26792b6e",
+    "scope": "qualitative_public_preview_only",
+    "source_locators": [
+      "EuropePMC core JSON $.resultList.result[0].abstractText; Objectives",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; Methods first three sentences",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; Methods final sentence",
+      "Memory publisher snapshot native lines190\u2013191 (\u00a72.1) and235 (\u00a72.5)",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; Objectives and Methods",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; Methods and Results",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; Results",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; Methods",
+      "Memory publisher snapshot native lines190\u2013191 (\u00a72.1) and235 (\u00a72.5)",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; Results and Discussion",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; Objectives, Results, Discussion",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; Methods and Discussion"
+    ],
+    "human_review": "pending",
+    "numerical_candidates_release": false
+  },
+  {
+    "id": "E06-T11-R239",
+    "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/full-rollout/owned/files/E06-T11-R239.pdf",
+    "sha256": "b1c3f16128193bf5d708204decb04809a710578ef6dc2b7ed8a002a2ea25a2a7",
+    "scope": "qualitative_public_preview_only",
+    "source_locators": [
+      "PDF physical pp3\u20139 transformer-only finite-element models and anatomy/geometry; p9 rendered Table3; p11 category definitions; p16 rendered Table4; pp19\u201321 frequency/percentage summaries and limitations"
+    ],
+    "human_review": "pending",
+    "numerical_candidates_release": false
+  },
+  {
+    "id": "E03-T05-R297",
+    "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/continuation/a/recovery/R297-recovered-protocol.xml",
+    "sha256": "58ab3ea81a43af64f1931f6651fd0ce893be952f8e26c1841302098b34b1d782",
+    "identity": "NativePMC8484860/PMID34454359/DOI10.1016/j.envint.2021.106806 matched",
+    "scope": "Protocol methods, no completed review results; supplied wrong-file PDF quarantined",
+    "human_review": "pending"
+  },
+  {
+    "id": "E02-T03-R091",
+    "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/corpus/raw/234c7303db0bb4deee84e2dac8a23209941b916a50fc210968dca1be8364cea4.pdf",
+    "sha256": "234c7303db0bb4deee84e2dac8a23209941b916a50fc210968dca1be8364cea4",
+    "scope": "Direct selected qualitative source inspection; no current review/preview PASS claim, historical reviewhash discrepancy disclosed",
+    "human_review": "pending"
+  }
+]
