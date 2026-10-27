@@ -1,0 +1,11 @@
+url,live_audit_words,built_baseline_words,built_after_words,words_delta,recognized_citations_before,recognized_citations_after,actual_official_links_before,actual_unique_sources_before,actual_official_links_after,actual_unique_sources_after,before_thin_reasons,after_thin,after_thin_reasons,after_status,after_stub_flag,canonical,canonical_self
+https://emfaxis.com/research/ukhsa-smart-meters,314,314,486,172,0,0,1,1,3,1,words<400;claims_with_0_citations,yes,claims_with_0_citations,200,no,https://emfaxis.com/research/ukhsa-smart-meters,no
+https://emfaxis.com/,321,321,565,244,0,1,0,0,3,3,words<400;claims_with_0_citations,yes,claims_with_1_citations,200,no,https://emfaxis.com,no
+https://emfaxis.com/research/who-ehs,324,324,490,166,1,3,1,1,3,1,words<400;claims_with_1_citations,no,,200,no,https://emfaxis.com/research/who-ehs,no
+https://emfaxis.com/research/icnirp-mri,334,334,504,170,0,0,1,1,3,1,words<400;claims_with_0_citations,yes,claims_with_0_citations,200,no,https://emfaxis.com/research/icnirp-mri,no
+https://emfaxis.com/research/foph-bluetooth,337,334,516,182,0,0,1,1,3,1,words<400;claims_with_0_citations,yes,claims_with_0_citations,200,no,https://emfaxis.com/research/foph-bluetooth,no
+https://emfaxis.com/research/icnirp-lf,340,340,517,177,0,0,1,1,3,1,words<400;claims_with_0_citations,yes,claims_with_0_citations,200,no,https://emfaxis.com/research/icnirp-lf,no
+https://emfaxis.com/research/fda-microwave,342,342,537,195,1,3,1,1,3,1,words<400;claims_with_1_citations,no,,200,no,https://emfaxis.com/research/fda-microwave,no
+https://emfaxis.com/research/foph-baby-monitors,346,343,533,190,0,0,1,1,3,1,words<400;claims_with_0_citations,yes,claims_with_0_citations,200,no,https://emfaxis.com/research/foph-baby-monitors,no
+https://emfaxis.com/research/hse-workplace,347,347,529,182,0,0,1,1,3,1,words<400;claims_with_0_citations,yes,claims_with_0_citations,200,no,https://emfaxis.com/research/hse-workplace,no
+https://emfaxis.com/research/foph-induction,361,358,544,186,0,0,1,1,3,1,words<400;claims_with_0_citations,yes,claims_with_0_citations,200,no,https://emfaxis.com/research/foph-induction,no

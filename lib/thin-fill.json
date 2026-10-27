@@ -298,5 +298,225 @@
         }
       ]
     }
+  ],
+  "ukhsa-smart-meters": [
+    {
+      "title": "Separate the communication links",
+      "paragraphs": [
+        {
+          "text": "UKHSA describes a home-area network linking meters and an in-home display, alongside a communication module that sends information to the utility company. The document says data are sent in short intermittent bursts. A source description should therefore identify which link and operating condition it concerns. A meter system is not fully described by a technology name alone, and a brief transmission measurement is different from a time-averaged exposure estimate.",
+          "source": "ukhsa-smart-meters",
+          "locator": "HTML: Radio waves and smart meters"
+        }
+      ]
+    },
+    {
+      "title": "Read each research phase by its purpose",
+      "paragraphs": [
+        {
+          "text": "The programme described here separates laboratory emission measurements, calculations of energy absorption in the body and measurements in a sample of homes. These are related exposure assessments with different settings. They are not three independent clinical trials measuring illness. Keep the tested device, position and measurement or modeling method beside the finding. A summary should preserve that distinction before relating the result to a different installation or health question.",
+          "source": "ukhsa-smart-meters",
+          "locator": "HTML: Exposures from smart meters"
+        }
+      ]
+    }
+  ],
+  "home": [
+    {
+      "title": "Three ways to read a source carefully",
+      "paragraphs": [
+        {
+          "text": "Start by identifying the exposure. NCI separates fields associated with electrical power systems from radiofrequency sources such as wireless communication equipment. That physical distinction helps you choose the relevant source pages before comparing outcomes. Keep the device, field quantity and setting together in your notes. A broad EMF label is useful for discovery, but it does not show that two studies examined the same exposure.",
+          "source": "nci-emf-cancer",
+          "locator": "HTML: What are electric and magnetic fields?; What are common sources of non-ionizing EMFs?"
+        },
+        {
+          "text": "Next ask what was actually measured. UKHSA’s smart-meter explanation distinguishes laboratory emissions, modeled absorption in the body and exposure measurements in homes. Those approaches describe different parts of the exposure question. A measurement report can help characterize a setting without being a clinical trial. Use the source records to inspect the method and its limits before transferring a conclusion to a different device or outcome.",
+          "source": "ukhsa-smart-meters",
+          "locator": "HTML: Exposures from smart meters"
+        },
+        {
+          "text": "Finally check the document’s date and purpose. The WHO EHS backgrounder linked here dates from December 2005. It recognizes that symptoms can be real and disabling while separating the symptom experience from its attribution to a particular exposure. That historical explanation is context, rather than an updated review of every current wireless technology. Our source records retain the document’s date and review limits so you can see what each source contributes.",
+          "source": "who-ehs",
+          "locator": "HTML: Backgrounder, December 2005; Conclusions"
+        }
+      ]
+    }
+  ],
+  "who-ehs": [
+    {
+      "title": "Keep the historical date attached",
+      "paragraphs": [
+        {
+          "text": "This backgrounder is dated December 2005 and describes its basis in earlier workshops and literature. Retain that date when citing its conclusions. It is not a new clinical experiment and does not represent a fresh search covering every later device or technology. The record is useful for understanding how the document defines the reported symptom problem, while later evidence requires its own source-specific assessment.",
+          "source": "who-ehs",
+          "locator": "HTML: Backgrounder, December 2005; introductory scope paragraphs"
+        }
+      ]
+    },
+    {
+      "title": "Separate symptoms from an explanation of their cause",
+      "paragraphs": [
+        {
+          "text": "WHO’s conclusions recognize that symptoms can be real, differ in severity and become disabling. The document distinguishes that experience from identifying an EMF cause or a single diagnostic condition. A faithful summary should retain both parts, rather than dismissing symptoms or treating the term EHS as a verified exposure diagnosis. This source record explains the historical document; it does not assess an individual’s symptoms or provide a personal treatment plan.",
+          "source": "who-ehs",
+          "locator": "HTML: Conclusions"
+        }
+      ]
+    }
+  ],
+  "icnirp-mri": [
+    {
+      "title": "An MRI system has several field components",
+      "paragraphs": [
+        {
+          "text": "ICNIRP describes MRI as combining a strong static magnetic field with low-frequency and high-frequency fields. Calling the system a magnet or labeling everything radiofrequency loses that distinction. In a reading note, identify which component and activity the source addresses. A statement about staff moving through a static field should not automatically become a conclusion about a patient’s radiofrequency exposure or about every part of the imaging procedure.",
+          "source": "icnirp-mri",
+          "locator": "HTML: Characteristics of the application and its use; Protection"
+        }
+      ]
+    },
+    {
+      "title": "Patient and staff questions have different scopes",
+      "paragraphs": [
+        {
+          "text": "The protection discussion separates medical exposure of patients from exposure of personnel working near MRI equipment. It explains that movement through a strong static field can be relevant to transient sensory effects in staff. A source summary should keep the person’s role and activity beside the field description. This overview helps locate those issues; it does not replace an assessment of a particular scan, workplace task or patient’s medical circumstances.",
+          "source": "icnirp-mri",
+          "locator": "HTML: Protection, patient and personnel paragraphs"
+        }
+      ]
+    }
+  ],
+  "foph-bluetooth": [
+    {
+      "title": "Name the variant and the task",
+      "paragraphs": [
+        {
+          "text": "The fact sheet distinguishes Bluetooth classic from Bluetooth Low Energy and describes applications including audio, computer peripherals, sensors and wearable connections. Those examples involve different tasks and connection arrangements. A comparison should name the device’s role and the activity being assessed instead of treating every Bluetooth label as the same exposure. The technical description is a starting point for matching a source to a question, rather than a product recommendation.",
+          "source": "foph-bluetooth",
+          "locator": "PDF introduction, physical page 1; section 1.2, physical page 2"
+        }
+      ]
+    },
+    {
+      "title": "An exposure comparison is not a clinical outcome",
+      "paragraphs": [
+        {
+          "text": "FOPH discusses head exposure during a phone call when using a Bluetooth headset compared with holding the phone at the head. That comparison concerns exposure in the specified arrangement. It does not by itself measure a health benefit from using a headset. The fact sheet also keeps its discussion of short-term exposure separate from uncertainty about long-term health effects. Retain that boundary instead of turning the comparison into a general clinical verdict.",
+          "source": "foph-bluetooth",
+          "locator": "PDF highlighted assessment and headset tip, physical page 1"
+        }
+      ]
+    }
+  ],
+  "icnirp-lf": [
+    {
+      "title": "Electric and magnetic quantities are distinct",
+      "paragraphs": [
+        {
+          "text": "ICNIRP’s low-frequency explanation describes time-varying electric and magnetic fields and identifies electrical power generation, distribution and use as major sources. It gives the electric and magnetic components different quantities and units. A reading note should therefore record which component was measured before comparing numbers. An appliance-use description or a distance from a power line also needs its own exposure definition; it is not automatically a direct measurement of either field component.",
+          "source": "icnirp-lf",
+          "locator": "HTML: Frequency range and LF use"
+        }
+      ]
+    },
+    {
+      "title": "Keep the interaction and outcome questions separate",
+      "paragraphs": [
+        {
+          "text": "The source describes induced internal electric fields and stimulation of excitable tissues at sufficient exposure. It discusses longer-term observational health questions separately. These are different lines of evidence, so an explanation of an established interaction does not settle every chronic-outcome question. This record provides context for the framework. Any specific health claim still needs the relevant population, exposure measure, outcome and underlying research, with scientific appraisal and human review kept explicit.",
+          "source": "icnirp-lf",
+          "locator": "HTML: LF effects on the body and health implications; Protection"
+        }
+      ]
+    }
+  ],
+  "fda-microwave": [
+    {
+      "title": "Cooking, leakage and injury are different questions",
+      "paragraphs": [
+        {
+          "text": "The FDA explains that microwave energy absorbed by food becomes heat and does not make the food radioactive. Its page separately discusses radiation leakage, the oven door and interlocks, and injuries from hot food, containers or superheated water. A claim about one of those issues should name it. A burn during food handling is not automatically evidence of radiation leakage, and an oven-performance discussion is not a study of every household wireless exposure.",
+          "source": "fda-microwave",
+          "locator": "HTML: Cooking with Microwaves; Microwave Oven Safety Standard; Have Radiation Injuries Resulted from Microwave Ovens?"
+        }
+      ]
+    },
+    {
+      "title": "Retain the product and jurisdictional scope",
+      "paragraphs": [
+        {
+          "text": "The performance standard described by this source concerns microwave ovens under the US FDA framework. Keep that product scope beside any technical comparison rather than treating the page as one exposure threshold for all EMF outcomes. The original document also directs readers to manufacturer instructions and distinguishes proper operation from unusual damage or servicing situations. This record preserves those distinctions without inspecting a particular oven or asserting that an individual product meets the standard.",
+          "source": "fda-microwave",
+          "locator": "HTML: Microwave Oven Safety Standard; Checking Ovens for Leakage and Other Radiation Safety Problems"
+        }
+      ]
+    }
+  ],
+  "foph-baby-monitors": [
+    {
+      "title": "Identify the complete monitoring arrangement",
+      "paragraphs": [
+        {
+          "text": "The fact sheet distinguishes dedicated baby and parent units, network cameras, walkie-talkies and phone-based monitoring. It also describes voice activation and range-check signals as separate functions. Those details affect what the device is doing during an exposure measurement. Record which units transmit, the active function and the arrangement tested. The term baby monitor alone does not show that another report examined the same equipment or operating state.",
+          "source": "foph-baby-monitors",
+          "locator": "PDF opening device descriptions, physical page 1; section 1.1, physical page 3"
+        }
+      ]
+    },
+    {
+      "title": "Do not extend the stated scope to other features",
+      "paragraphs": [
+        {
+          "text": "FOPH states that the document covers audio and video monitoring and excludes advanced functions that monitor a baby’s bodily functions. Its exposure discussion concerns measured devices and specified conditions. That does not validate every additional feature, establish diagnostic accuracy or certify every current model. Keep the document’s exclusions with the summary, and follow the original source when a device-specific condition matters. This record remains an official-context reading with scientific and human review pending.",
+          "source": "foph-baby-monitors",
+          "locator": "PDF opening scope, physical page 1; Exposure to radiation, physical pages 1 and 2"
+        }
+      ]
+    }
+  ],
+  "hse-workplace": [
+    {
+      "title": "Read this as a workplace framework",
+      "paragraphs": [
+        {
+          "text": "HSE’s explanation separates sensory effects, direct health effects and indirect effects such as interference with implanted devices or attraction of metal objects. Those are different assessment questions within the workplace framework described by the document. Retain the worker, task and equipment context rather than applying one category to every setting. This source record explains a UK-specific official document; it is not a finding that every workplace shares the same exposure.",
+          "source": "hse-workplace",
+          "locator": "HTML: EMF effects covered by the Regulations"
+        }
+      ]
+    },
+    {
+      "title": "Identify the information used in an assessment",
+      "paragraphs": [
+        {
+          "text": "The document describes using equipment and emission information and considering the work actually performed, including workers at particular risk. It discusses measurements or calculations when existing information is insufficient. That is a process for evaluating a setting, rather than a new trial of a health intervention. A summary should distinguish the source’s regulatory scope from the evidence needed for a specific clinical claim. Current compliance and individual circumstances require their own authoritative assessment.",
+          "source": "hse-workplace",
+          "locator": "HTML: What you must you do as an employer"
+        }
+      ]
+    }
+  ],
+  "foph-induction": [
+    {
+      "title": "Keep the pan and operating configuration visible",
+      "paragraphs": [
+        {
+          "text": "FOPH explains induction cooking through a magnetic field that produces currents and magnetization in the pan base. The pan does not capture the entire field. The fact sheet also describes the importance of pan size, placement, power and the person’s position when considering exposure. A comparison should preserve those conditions. The appliance name alone cannot tell you whether two measurements describe the same cooking setup.",
+          "source": "foph-induction",
+          "locator": "PDF opening explanation and recommendations, physical pages 1 and 2; section 1.2, physical pages 3 and 4"
+        }
+      ]
+    },
+    {
+      "title": "Measurements and pregnancy outcomes need different evidence",
+      "paragraphs": [
+        {
+          "text": "The source discusses field measurements and exposure-limit comparisons separately from the limited pregnancy-outcome literature it describes. A measurement in a particular cooking configuration is not itself a clinical outcome for a mother or baby. Retain that distinction and the source’s limits when reading a headline. This record does not add a universal distance rule, an individual risk calculation or a product ranking, and it does not promote the underlying literature to a completed scientific appraisal.",
+          "source": "foph-induction",
+          "locator": "PDF opening health discussion, physical page 1"
+        }
+      ]
+    }
   ]
 }

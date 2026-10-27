@@ -1,0 +1,143 @@
+{
+  "at": "2026-10-27T09:43:49.334530+02:00",
+  "story": "Built local EMF pages render source-linked reading notes from the held canonical context data; page load to server-rendered response to readable UI. No new API or account flow.",
+  "browser": "root ChatGPT in-app browser via supported cua API",
+  "origin": "http://127.0.0.1:5177",
+  "scope": "Ten exact new target routes only; no production or account action",
+  "results": [
+    {
+      "path": "/",
+      "viewport": 390,
+      "viewportHeight": 844,
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "newNotesPresent": true,
+      "newNoteSourceLinks": 3,
+      "renderedEmOrEnDashes": false,
+      "reviewPendingTextPresent": true
+    },
+    {
+      "path": "/research/ukhsa-smart-meters",
+      "viewport": 390,
+      "viewportHeight": 844,
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "newNotesPresent": true,
+      "newNoteSourceLinks": 2,
+      "renderedEmOrEnDashes": false,
+      "reviewPendingTextPresent": true
+    },
+    {
+      "path": "/research/who-ehs",
+      "viewport": 390,
+      "viewportHeight": 844,
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "newNotesPresent": true,
+      "newNoteSourceLinks": 2,
+      "renderedEmOrEnDashes": false,
+      "reviewPendingTextPresent": true
+    },
+    {
+      "path": "/research/icnirp-mri",
+      "viewport": 390,
+      "viewportHeight": 844,
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "newNotesPresent": true,
+      "newNoteSourceLinks": 2,
+      "renderedEmOrEnDashes": false,
+      "reviewPendingTextPresent": true
+    },
+    {
+      "path": "/research/foph-bluetooth",
+      "viewport": 390,
+      "viewportHeight": 844,
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "newNotesPresent": true,
+      "newNoteSourceLinks": 2,
+      "renderedEmOrEnDashes": false,
+      "reviewPendingTextPresent": true
+    },
+    {
+      "path": "/research/icnirp-lf",
+      "viewport": 390,
+      "viewportHeight": 844,
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "newNotesPresent": true,
+      "newNoteSourceLinks": 2,
+      "renderedEmOrEnDashes": false,
+      "reviewPendingTextPresent": true
+    },
+    {
+      "path": "/research/fda-microwave",
+      "viewport": 390,
+      "viewportHeight": 844,
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "newNotesPresent": true,
+      "newNoteSourceLinks": 2,
+      "renderedEmOrEnDashes": false,
+      "reviewPendingTextPresent": true
+    },
+    {
+      "path": "/research/foph-baby-monitors",
+      "viewport": 390,
+      "viewportHeight": 844,
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "newNotesPresent": true,
+      "newNoteSourceLinks": 2,
+      "renderedEmOrEnDashes": false,
+      "reviewPendingTextPresent": true
+    },
+    {
+      "path": "/research/hse-workplace",
+      "viewport": 390,
+      "viewportHeight": 844,
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "newNotesPresent": true,
+      "newNoteSourceLinks": 2,
+      "renderedEmOrEnDashes": false,
+      "reviewPendingTextPresent": true
+    },
+    {
+      "path": "/research/foph-induction",
+      "viewport": 390,
+      "viewportHeight": 844,
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "newNotesPresent": true,
+      "newNoteSourceLinks": 2,
+      "renderedEmOrEnDashes": false,
+      "reviewPendingTextPresent": true
+    }
+  ],
+  "visualInspection": [
+    "/#reading-notes new homepage section and source locators",
+    "/research/foph-induction new source-context paragraphs and locators after scrolling"
+  ],
+  "warnErrorLogRead": {
+    "levels": [
+      "warn",
+      "error"
+    ],
+    "limit": 15,
+    "entries": []
+  },
+  "viewportRestored": {
+    "width": 1280,
+    "height": 720
+  },
+  "temporaryTabClosed": true,
+  "screenshots": "Displayed in root CUA tool trace; no image files saved",
+  "limits": [
+    "No original-source external navigation",
+    "No log-in/save-study/real-person action",
+    "No scientific approval",
+    "HTTP200 status is covered by runner saved HTTP/SSR receipts, not independently inferred from browser DOM"
+  ]
+}

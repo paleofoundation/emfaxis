@@ -1,0 +1,25 @@
+{
+  "production_build": "PASS",
+  "node": "24.19.0",
+  "content_invariants": "PASS",
+  "typescript": "PASS",
+  "SSR": {
+    "routes": 236,
+    "status": "PASS",
+    "unknown_source": 404
+  },
+  "exact_ten_http200": true,
+  "before_thin": 10,
+  "after_thin": 8,
+  "after_words_min": 486,
+  "after_words_max": 565,
+  "after_words_below400": 0,
+  "after_stubs": 0,
+  "actual_official_links_before": 9,
+  "actual_official_links_after": 30,
+  "distinct_context_documents": 10,
+  "scientific_human_review": "pending",
+  "allowlist_proposal": "not applied",
+  "prior_ten_body_texts": "equal",
+  "prior_PR1_70_output_hashes": "PASS"
+}
