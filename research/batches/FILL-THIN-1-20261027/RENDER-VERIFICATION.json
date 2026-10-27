@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://emfaxis.com/resources",
+    "new_notes_present": true,
+    "public_en_em_dash_count": 0,
+    "new_locator_blocks": 5,
+    "unique_official_source_ids": [
+      "foph-wearables",
+      "icnirp-dect",
+      "nci-emf-cancer"
+    ]
+  },
+  {
+    "url": "https://emfaxis.com/fields",
+    "new_notes_present": true,
+    "public_en_em_dash_count": 0,
+    "new_locator_blocks": 5,
+    "unique_official_source_ids": [
+      "icnirp-dect",
+      "icnirp-static",
+      "nci-emf-cancer"
+    ]
+  },
+  {
+    "url": "https://emfaxis.com/resources/reading-worksheet",
+    "new_notes_present": true,
+    "public_en_em_dash_count": 0,
+    "new_locator_blocks": 4,
+    "unique_official_source_ids": [
+      "foph-wearables",
+      "icnirp-dect",
+      "nci-emf-cancer"
+    ]
+  },
+  {
+    "url": "https://emfaxis.com/resources/first-guide-preview",
+    "new_notes_present": true,
+    "public_en_em_dash_count": 0,
+    "new_locator_blocks": 3,
+    "unique_official_source_ids": [
+      "foph-wearables",
+      "icnirp-dect"
+    ]
+  },
+  {
+    "url": "https://emfaxis.com/resources/reading-guide",
+    "new_notes_present": true,
+    "public_en_em_dash_count": 0,
+    "new_locator_blocks": 3,
+    "unique_official_source_ids": [
+      "foph-wearables",
+      "icnirp-static",
+      "nci-emf-cancer"
+    ]
+  },
+  {
+    "url": "https://emfaxis.com/research/icnirp-static",
+    "new_notes_present": true,
+    "public_en_em_dash_count": 0,
+    "new_locator_blocks": 3,
+    "unique_official_source_ids": [
+      "icnirp-static"
+    ]
+  },
+  {
+    "url": "https://emfaxis.com/research/icnirp-dect",
+    "new_notes_present": true,
+    "public_en_em_dash_count": 0,
+    "new_locator_blocks": 3,
+    "unique_official_source_ids": [
+      "icnirp-dect"
+    ]
+  },
+  {
+    "url": "https://emfaxis.com/research/foph-wearables",
+    "new_notes_present": true,
+    "public_en_em_dash_count": 0,
+    "new_locator_blocks": 3,
+    "unique_official_source_ids": [
+      "foph-wearables"
+    ]
+  },
+  {
+    "url": "https://emfaxis.com/research/nci-emf-cancer",
+    "new_notes_present": true,
+    "public_en_em_dash_count": 0,
+    "new_locator_blocks": 3,
+    "unique_official_source_ids": [
+      "nci-emf-cancer"
+    ]
+  },
+  {
+    "url": "https://emfaxis.com/resources/emf-reading-worksheet",
+    "new_notes_present": true,
+    "public_en_em_dash_count": 0,
+    "new_locator_blocks": 3,
+    "unique_official_source_ids": [
+      "foph-wearables",
+      "icnirp-dect"
+    ]
+  }
+]

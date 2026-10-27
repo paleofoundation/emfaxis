@@ -1,0 +1,91 @@
+{
+  "method": "Supported IAB API; actual page DOM and screenshots inspected",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "all_ten": true,
+  "rows": [
+    {
+      "path": "/resources",
+      "width": 390,
+      "documentWidth": 390,
+      "public_dashes": false,
+      "new_notes_visible": true
+    },
+    {
+      "path": "/fields",
+      "width": 390,
+      "documentWidth": 390,
+      "public_dashes": false,
+      "new_notes_visible": true
+    },
+    {
+      "path": "/resources/reading-worksheet",
+      "width": 390,
+      "documentWidth": 390,
+      "public_dashes": false,
+      "new_notes_visible": true
+    },
+    {
+      "path": "/resources/first-guide-preview",
+      "width": 390,
+      "documentWidth": 390,
+      "public_dashes": false,
+      "new_notes_visible": true
+    },
+    {
+      "path": "/resources/reading-guide",
+      "width": 390,
+      "documentWidth": 390,
+      "public_dashes": false,
+      "new_notes_visible": true
+    },
+    {
+      "path": "/research/icnirp-static",
+      "width": 390,
+      "documentWidth": 390,
+      "public_dashes": false,
+      "new_notes_visible": true
+    },
+    {
+      "path": "/research/icnirp-dect",
+      "width": 390,
+      "documentWidth": 390,
+      "public_dashes": false,
+      "new_notes_visible": true
+    },
+    {
+      "path": "/research/foph-wearables",
+      "width": 390,
+      "documentWidth": 390,
+      "public_dashes": false,
+      "new_notes_visible": true
+    },
+    {
+      "path": "/research/nci-emf-cancer",
+      "width": 390,
+      "documentWidth": 390,
+      "public_dashes": false,
+      "new_notes_visible": true
+    },
+    {
+      "path": "/resources/emf-reading-worksheet",
+      "width": 390,
+      "documentWidth": 390,
+      "public_dashes": false,
+      "new_notes_visible": true
+    }
+  ],
+  "visual_sections_inspected": [
+    "/resources#reading-notes",
+    "/research/foph-wearables#reading-notes"
+  ],
+  "default_restored": {
+    "width": 1280,
+    "documentWidth": 1280
+  },
+  "scientific_human_review_pending_visible": true,
+  "screenshots": "Displayed in runner tool trace; not persisted as packet files",
+  "limits": "No account, purchase, external original-source navigation or real-person action performed"
+}
