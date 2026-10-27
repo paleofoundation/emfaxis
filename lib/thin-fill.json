@@ -693,5 +693,180 @@
         }
       ]
     }
+  ],
+  "E03-T05-R297": [
+    {
+      "title": "A review plan is not a completed result",
+      "paragraphs": [
+        {
+          "text": "The protocol separates experimental-mammal reproductive studies from experiments on human sperm outside the body. It also distinguishes pregnancy and developmental outcomes in exposed experimental mammals. These streams have different populations and endpoints. Their inclusion in a shared review plan does not make them studies of pregnancy or fertility outcomes in people.",
+          "source": "E03-T05-R297",
+          "locator": "Native PMC XML abstract, Objectives and Study eligibility and criteria; sections s0030 and s0035"
+        },
+        {
+          "text": "Risk-of-bias assessment, possible meta-analysis and certainty grading are described as planned methods. Whether data are sufficiently comparable determines the proposed synthesis approach. Those plans cannot supply a completed pooled effect or a certainty grade for this page. The recovered protocol supports reading the intended methods; completed reviews and amendments require their own version and source checks.",
+          "source": "E03-T05-R297",
+          "locator": "Native PMC XML abstract, Study appraisal and synthesis method; Methods section s0035"
+        }
+      ]
+    }
+  ],
+  "wifi-pmid-17293700": [
+    {
+      "title": "Where the measurement was taken matters",
+      "paragraphs": [
+        {
+          "text": "The survey measured fields at varied locations and separately measured a laptop during large file transfers. The laptop setup was intended to characterize a nearby bystander in the antenna far field. The abstract explicitly says that exposure of a user in body contact with the antenna would require a different method. That exclusion belongs beside the exposure finding.",
+          "source": "wifi-pmid-17293700",
+          "locator": "Held indexed abstract, laptop file-transfer, far-field and excluded body-contact measurement sentences"
+        },
+        {
+          "text": "The authors compared measured signal levels with the international limits used in the study and discussed low operating power and intermittent transmission. This is a historical measurement comparison under the sampled conditions. It does not measure a health outcome or supply a universal value for present-day homes. Full calibration, operating and uncertainty details remain outside this abstract-only reading.",
+          "source": "wifi-pmid-17293700",
+          "locator": "Held indexed abstract, final measurement-limit and technical-factor sentences; abstract-only access scope"
+        }
+      ]
+    }
+  ],
+  "wifi-pmid-23085070": [
+    {
+      "title": "Activity and the averaging window",
+      "paragraphs": [
+        {
+          "text": "WLAN data transmissions occur in bursts. The authors therefore distinguish an assumption of continuous activity from the duty cycles observed for particular applications and environments. A transfer task and light browsing do not necessarily occupy the channel for the same share of time. That distinction changes how a transmission-level measurement is used to describe an average exposure.",
+          "source": "wifi-pmid-23085070",
+          "locator": "Held indexed abstract, opening time-averaging and application-specific duty-cycle sentences"
+        },
+        {
+          "text": "The abstract reports higher duty cycles at lower physical data rates and explains why a poorer connection need not imply lower possible exposure. Its observed summaries, application scenarios and theoretical bounds should remain separate. None is an observed clinical effect or a complete individual absorbed dose. The full sampling and calculation methods remain inaccessible in this reading.",
+          "source": "wifi-pmid-23085070",
+          "locator": "Held indexed abstract, theoretical-upper-limit, lower-data-rate and application-comparison sentences; abstract-only scope"
+        }
+      ]
+    }
+  ],
+  "wifi-pmid-26600173": [
+    {
+      "title": "Waking endpoints and exposure modeling",
+      "paragraphs": [
+        {
+          "text": "The report describes an exposure system assessed using field measurements and anatomical modeling, followed by experiments on waking EEG and sustained attention. The EEG task involved watching a documentary; the vigilance task measured reaction time. These are specified short-term endpoints. They should not be relabeled as overnight sleep, a clinical neurological diagnosis or every aspect of cognition.",
+          "source": "wifi-pmid-26600173",
+          "locator": "Held indexed abstract, exposure-system/dosimetry description and experimental-task sentences"
+        },
+        {
+          "text": "The authors report no measurable effect on the tested EEG spectral power or vigilance reaction time. The exposure-model description also uses a normalization condition, which should not be confused with a complete account of delivered dose in the experiments. Full methods are needed to assess control conditions, masking, participant flow and precision. Those unresolved inputs remain visible rather than being treated as evidence of equivalence.",
+          "source": "wifi-pmid-26600173",
+          "locator": "Held indexed abstract, normalized SAR description, experiment descriptions and concluding findings; abstract-only scope"
+        }
+      ]
+    }
+  ],
+  "wifi-pmid-22004929": [
+    {
+      "title": "A spatial pattern is not a health outcome",
+      "paragraphs": [
+        {
+          "text": "The laboratory study assessed Wi-Fi devices used in schools. It describes directional emission patterns for laptops and a different pattern for access points. A reading therefore needs the direction and measurement geometry, not only the device label. An emission pattern around equipment is different from a measurement of energy absorbed within a particular person.",
+          "source": "wifi-pmid-22004929",
+          "locator": "Held indexed abstract, objective and laptop/access-point radiation-pattern sentences"
+        },
+        {
+          "text": "The abstract uses different integration geometries for laptop and access-point radiated power and separately discusses power density at measurement distances. These quantities should not be merged into a single dose or a child-health result. The comparison with a reference level applies to the reported setup. Complete operating conditions, calibration and uncertainty cannot be appraised from the accessible abstract alone.",
+          "source": "wifi-pmid-22004929",
+          "locator": "Held indexed abstract, spherical/hemispherical integration and final power-density/reference-level sentences; abstract-only scope"
+        }
+      ]
+    }
+  ],
+  "wifi-pmid-21856328": [
+    {
+      "title": "Observed duty factors and derived examples",
+      "paragraphs": [
+        {
+          "text": "The school study used packet capture and transmit-time information to assess intermittent Wi-Fi activity during classroom lessons. Its sampled laptop and access-point duty factors describe network use during those observations. A duty factor is part of time averaging; it is not itself a tissue dose or a diagnosis. The limited school sample remains part of the result.",
+          "source": "wifi-pmid-21856328",
+          "locator": "Held indexed abstract, time-averaging introduction and packet-capture/transmit-time methods"
+        },
+        {
+          "text": "The final exposure examples apply the observed duty factors to previously published project results. The child-model SAR example is therefore a calculation using that project relationship, not a newly observed biological outcome in children. Related laboratory and classroom reports can provide complementary information without becoming independent health studies. Full capture validation, lesson sampling and model details remain unresolved here.",
+          "source": "wifi-pmid-21856328",
+          "locator": "Held indexed abstract, final sentences applying duty factors to prior project results; abstract-only scope"
+        }
+      ]
+    }
+  ],
+  "wifi-pmid-32408065": [
+    {
+      "title": "Show sleep and EEG findings together",
+      "paragraphs": [
+        {
+          "text": "The experiment compared overnight Wi-Fi and sham exposure in healthy young men, using both sleep questionnaires and polysomnography. The reported lack of a statistically significant change in subjective sleep or sleep macrostructure should be shown alongside the reduction in alpha-band EEG power during NREM sleep. They concern different endpoints within the same experiment.",
+          "source": "wifi-pmid-32408065",
+          "locator": "Held indexed abstract, Methods and Results"
+        },
+        {
+          "text": "The authors did not interpret the EEG change as a sleep-disturbing effect in this protocol. A physiological difference alone is not a diagnosis of a sleep disorder, while a nonsignificant sleep comparison does not establish every possible effect is absent. Applicability remains bounded to the acute laboratory conditions and selected participants. Full effect estimates, analysis details, supplements and harms assessment are still needed for scientific appraisal.",
+          "source": "wifi-pmid-32408065",
+          "locator": "Held indexed abstract, Discussion and participant/experimental-setting description; abstract-only scope"
+        }
+      ]
+    }
+  ],
+  "E06-T11-R239": [
+    {
+      "title": "Model scope before compliance language",
+      "paragraphs": [
+        {
+          "text": "This paper calculates fields around a charging-station transformer using selected source geometries and anatomical models. The modeled adult and child are not recruited participants, and internal field estimates are not observed clinical outcomes. Distance and shielding patterns describe the chosen computational arrangement. They cannot alone establish the exposure around every charger or vehicle.",
+          "source": "E06-T11-R239",
+          "locator": "Held original PDF physical pages 3 to 10, Model Construction and simulation results"
+        },
+        {
+          "text": "The limitations acknowledge that the model did not combine all charging-system sources and had not been validated with field measurements. The source also contains inconsistent percentage and category wording, so no compliance percentage is released here. Independent validation and broader source and anatomical configurations remain separate tasks. The engineering result should retain those limits when it is used in a health discussion.",
+          "source": "E06-T11-R239",
+          "locator": "Held original PDF physical pages 19 to 21, summaries, Conclusions and limitations; source-specific numerical estimates withheld"
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "title": "Match the endpoint to the evidence",
+      "paragraphs": [
+        {
+          "text": "A device measurement describes exposure conditions. The school Wi-Fi laboratory report, for example, measures emissions and spatial patterns rather than disease, symptoms or fertility. It can inform how a health question is framed without becoming a health-outcome experiment.",
+          "source": "wifi-pmid-22004929",
+          "locator": "Held indexed abstract, objective and measurement descriptions"
+        },
+        {
+          "text": "A physiological measurement and a reported symptom also need separate labels. The overnight Wi-Fi experiment reports sleep outcomes alongside an EEG difference. Keeping both visible avoids treating every physiological change as a diagnosed disorder or every nonsignificant symptom comparison as proof of universal safety.",
+          "source": "wifi-pmid-32408065",
+          "locator": "Held indexed abstract, Results and Discussion"
+        },
+        {
+          "text": "A simulation adds another kind of evidence. The electric-vehicle charging paper models fields in selected geometries and acknowledges missing field validation and incomplete source combinations. Those calculations are useful for understanding the model, while human health outcomes require their own evidence. Human scientific review for this reading edition remains pending.",
+          "source": "E06-T11-R239",
+          "locator": "Held original PDF physical pages 3 to 10 and 21, model construction and limitations"
+        }
+      ]
+    }
+  ],
+  "E02-T03-R091": [
+    {
+      "title": "A masked acute comparison and its limits",
+      "paragraphs": [
+        {
+          "text": "The experiment compared real and sham WCDMA exposure near the head in selected adults with and without self-attributed sensitivity. It recorded symptoms, autonomic measures and exposure belief. The reported absence of significant active-versus-sham differences concerns this short-term protocol. It is not a diagnosis of every participant's symptoms or a test of all chronic exposures.",
+          "source": "E02-T03-R091",
+          "locator": "Held original PDF physical pages 2 to 6, Subjects, procedure, analysis and results"
+        },
+        {
+          "text": "A greater tendency to believe exposure was present appeared in the sensitive group during both conditions. That pattern is different from reliably identifying the real signal. The authors' expectation-based interpretation should remain distinct from a randomized test of expectation itself. Volunteer selection, exclusions and repeated responses also constrain inference; full scientific and human appraisal remain pending.",
+          "source": "E02-T03-R091",
+          "locator": "Held original PDF physical pages 5 to 7, exposure-belief results and Discussion"
+        }
+      ]
+    }
   ]
 }

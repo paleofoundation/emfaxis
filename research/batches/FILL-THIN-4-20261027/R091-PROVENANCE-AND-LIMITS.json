@@ -1,0 +1,20 @@
+{
+  "id": "E02-T03-R091",
+  "source_hash": "234c7303db0bb4deee84e2dac8a23209941b916a50fc210968dca1be8364cea4",
+  "native_xml_sha256": "cde42c27150749414178843d757cfcc90f58e81c7ea606e878917216227ab569",
+  "identity": {
+    "PMID": "22998837",
+    "PMCID": "PMC3465190",
+    "DOI": "10.1186/1476-069X-11-69",
+    "title": "Effects of radiation emitted by WCDMA mobile phones on electromagnetic hypersensitive subjects"
+  },
+  "source_fidelity_packet": "continuation-v6/c/verification/E02-T03-R091-source-check.json",
+  "recorded_review_hash": "d967735de9aab018d50c41728a044c0faf75bc48316f7da827ae3a1e257a3874",
+  "current_review_file_hash": "1c971c0e086727788528955bbe5cc6a7d1c6c0b21fe5f3a24fbab6d2937497e9",
+  "current_review_hash_matches_recorded": false,
+  "disposition": "No appraisal preview/review import or approval assertion; candidate claims inspected directly against exact raw PDF/native companion; all scientific/numerical/human states pending",
+  "candidate": "R091-restoration-candidate.json",
+  "scope": "One exact target source object only; no bulkport, prior objects unchanged",
+  "R091_ELON_ruling": "RATIFIED10:43 for this draft only",
+  "future_absent_canonical_record_rule": "GATE request first"
+}

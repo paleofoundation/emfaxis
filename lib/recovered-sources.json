@@ -4681,5 +4681,39 @@
     "title": "Effects of 2.45 GHz Wi-Fi exposure on sleep-dependent memory consolidation.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/33166026/",
     "year": "2021"
+  },
+  {
+    "id": "E02-T03-R091",
+    "title": "Effects of radiation emitted by WCDMA mobile phones on electromagnetic hypersensitive subjects",
+    "authors": "Kwon Min Kyung; Choi Joon Yul; Kim Sung Kean; Yoo Tae Keun; Kim Deok Won",
+    "year": 2012,
+    "doi": "10.1186/1476-069X-11-69",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3465190/",
+    "source_type": "human_experiment",
+    "access_basis": "owner_supplied_full_text",
+    "checked_at": "2026-10-27",
+    "review_status": "selected_source_passages_inspected; scientific_review_pending",
+    "fingerprint": "234c7303db0bb4deee84e2dac8a23209941b916a50fc210968dca1be8364cea4",
+    "integrity_status": "Exact held PDF and native PMC companion identities matched; no numerical release or human scientific approval asserted",
+    "scope": "Masked real-versus-sham WCDMA near-head provocation in selected adult volunteers with and without self-attributed sensitivity; acute symptoms, physiology and exposure belief.",
+    "limitations": "Selected acute protocol, volunteer selection and exclusions limit generalization. Repeated symptom and belief responses are not independent participants. A nonsignificant contrast does not establish equivalence or diagnose the cause of symptoms. Scientific, numerical and human review remain pending.",
+    "citation": "Kwon MK, Choi JY, Kim SK, Yoo TK, Kim DW. Effects of radiation emitted by WCDMA mobile phones on electromagnetic hypersensitive subjects. Environmental Health. 2012. DOI: 10.1186/1476-069X-11-69.",
+    "claims": [
+      {
+        "id": "FILL-THIN-4-R091-C01",
+        "text": "The masked real-versus-sham comparison did not identify significant differences in the queried symptoms or autonomic measurements under the tested conditions.",
+        "locator": "Main PDF physical pages 4 to 6, analysis and results; Tables and exposure-belief figure",
+        "basis": "full_text",
+        "scientific_review": "pending"
+      },
+      {
+        "id": "FILL-THIN-4-R091-C02",
+        "text": "Participants reporting sensitivity more often believed exposure was present during both real and sham sessions; that group difference did not demonstrate reliable discrimination of the signal.",
+        "locator": "Main PDF physical pages 5 to 7, exposure belief and Discussion",
+        "basis": "full_text",
+        "scientific_review": "pending"
+      }
+    ],
+    "pages": []
   }
 ]

@@ -1,0 +1,11 @@
+url,frozen_live_words,built_before_status,built_before_words,built_after_status,built_after_words,word_delta,recognized_cites_before,recognized_cites_after,before_thin,after_thin,after_reasons,after_stub,actual_known_source_links_before,actual_unique_source_docs_before,actual_known_source_links_after,actual_unique_source_docs_after,local_restoration,canonical,raw_canonical_self
+https://emfaxis.com/research/E02-T03-R091,535,404,,200,582,,,4,,no,,no,,,4,1,True,https://emfaxis.com/research/E02-T03-R091,no
+https://emfaxis.com/research/E03-T05-R297,536,200,536,200,743,207,2,4,yes,no,,no,2,1,4,1,False,https://emfaxis.com/research/E03-T05-R297,no
+https://emfaxis.com/research/wifi-pmid-17293700,539,200,539,200,699,160,2,4,yes,no,,no,2,1,4,1,False,https://emfaxis.com/research/wifi-pmid-17293700,no
+https://emfaxis.com/outcomes,541,200,541,200,758,217,0,3,yes,no,,no,0,0,3,3,False,https://emfaxis.com/outcomes,no
+https://emfaxis.com/research/wifi-pmid-23085070,545,200,545,200,713,168,2,4,yes,no,,no,2,1,4,1,False,https://emfaxis.com/research/wifi-pmid-23085070,no
+https://emfaxis.com/research/wifi-pmid-26600173,546,200,546,200,735,189,2,4,yes,no,,no,2,1,4,1,False,https://emfaxis.com/research/wifi-pmid-26600173,no
+https://emfaxis.com/research/wifi-pmid-22004929,553,200,553,200,730,177,2,4,yes,no,,no,2,1,4,1,False,https://emfaxis.com/research/wifi-pmid-22004929,no
+https://emfaxis.com/research/wifi-pmid-21856328,554,200,554,200,735,181,2,4,yes,no,,no,2,1,4,1,False,https://emfaxis.com/research/wifi-pmid-21856328,no
+https://emfaxis.com/research/wifi-pmid-32408065,558,200,558,200,743,185,2,4,yes,no,,no,2,1,4,1,False,https://emfaxis.com/research/wifi-pmid-32408065,no
+https://emfaxis.com/research/E06-T11-R239,559,200,555,200,732,177,2,4,yes,no,,no,2,1,4,1,False,https://emfaxis.com/research/E06-T11-R239,no
