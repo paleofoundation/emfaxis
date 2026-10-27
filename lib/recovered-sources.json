@@ -5259,5 +5259,175 @@
       }
     ],
     "pages": []
+  },
+  {
+    "id": "E02-T03-R238",
+    "title": "What is the effect of alarmist media and radiofrequency electromagnetic field (RF‐EMF) exposure on salivary cortisol and non‐specific symptoms?",
+    "authors": "Verrender Adam; Wallace Nikkeah K.; Loughran Sarah P.; Wallace Chloe; Beange James; Croft Rodney J.",
+    "year": "2025",
+    "doi": "10.1111/aphw.70044",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12117290/",
+    "source_type": "open_label_media_provocation",
+    "access_basis": "owner_supplied_full_text",
+    "checked_at": "2026-10-27",
+    "review_status": "selected_source_passages_inspected; scientific_review_pending",
+    "fingerprint": "55f7fc9832bd19a4d19dd894836490b974bf7b1a9602bf2c768e4a798d1b4a68",
+    "integrity_status": "Exact held source PDF/native identity matched; selected passages freshly inspected; no scientific, numerical or human approval asserted",
+    "scope": "Healthy predominantly young volunteers received an alarmist or control video with known RF-on or RF-off laboratory conditions; immediate symptom ratings and salivary cortisol, not clinical disease.",
+    "limitations": "Open-label contrast, immediate outcomes and predominantly young healthy volunteers do not establish a biological RF mechanism or clinical syndrome. Cortisol timing and small-effect uncertainty remain; scientific, numerical and human review pending.",
+    "citation": "Verrender Adam; Wallace Nikkeah K.; Loughran Sarah P.; Wallace Chloe; Beange James; Croft Rodney J.. What is the effect of alarmist media and radiofrequency electromagnetic field (RF‐EMF) exposure on salivary cortisol and non‐specific symptoms? 2025. DOI: 10.1111/aphw.70044.",
+    "claims": [
+      {
+        "id": "FILL-THIN-9-E02-T03-R238-C01",
+        "text": "Symptoms increased under openly known exposure compared with known non-exposure. The alarmist-video manipulation increased perceived risk but did not significantly change the symptom or cortisol outcomes in the reported factorial comparisons.",
+        "locator": "Main PDF physical pages 12 to 16, Results and Discussion",
+        "basis": "full_text",
+        "scientific_review": "pending"
+      },
+      {
+        "id": "FILL-THIN-9-E02-T03-R238-C02",
+        "text": "Because actual exposure and knowledge were bundled in the open condition, the study cannot isolate a pure RF effect. Cortisol timing, anticipatory stress, limited sensitivity to small effects and the nonclinical sample constrain interpretation.",
+        "locator": "Main PDF physical pages 15 to 17, Discussion and limitations",
+        "basis": "full_text",
+        "scientific_review": "pending"
+      }
+    ],
+    "pages": []
+  },
+  {
+    "id": "E02-T03-R242",
+    "title": "Exposure Perception and Symptom Reporting in Idiopathic Environmental Intolerance Attributed to Electromagnetic Fields Using a Co‐Designed Provocation Test",
+    "authors": "Ledent Maryse; Bordarie Jimmy; Vatovez Benjamin; Dieudonné Maël; Prignot Nicolas; Vanderstraeten Jacques; Bouland Catherine; De Clercq Eva M.",
+    "year": "2025",
+    "doi": "10.1002/bem.70006",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12005125/",
+    "source_type": "individualized_blinded_provocation",
+    "access_basis": "owner_supplied_full_text",
+    "checked_at": "2026-10-27",
+    "review_status": "selected_source_passages_inspected; scientific_review_pending",
+    "fingerprint": "01dd677c17bcbe10b7b17d0ba01005cd12b324723c824b7b3f147c9cdaeceb50",
+    "integrity_status": "Exact held source PDF/native identity matched; selected passages freshly inspected; no scientific, numerical or human approval asserted",
+    "scope": "Co-designed individualized real-versus-sham sessions with selected people attributing symptoms to mixed RF and low-frequency sources; acute perception and symptom reports.",
+    "limitations": "Selected volunteers able to tolerate an individualized protocol, mixed signals and repeated sessions are not a population test of every source or chronic condition. No universal safety or symptom-unreality inference. Scientific, numerical and human review pending.",
+    "citation": "Ledent Maryse; Bordarie Jimmy; Vatovez Benjamin; Dieudonné Maël; Prignot Nicolas; Vanderstraeten Jacques; Bouland Catherine; De Clercq Eva M.. Exposure Perception and Symptom Reporting in Idiopathic Environmental Intolerance Attributed to Electromagnetic Fields Using a Co‐Designed Provocation Test 2025. DOI: 10.1002/bem.70006.",
+    "claims": [
+      {
+        "id": "FILL-THIN-9-E02-T03-R242-C01",
+        "text": "The study did not demonstrate consistent exposure detection or exposure-related symptoms at the collective level. A nominal individual detection finding did not persist when the least-certain session was removed, so that exception should not be treated as robust detection.",
+        "locator": "Main PDF physical pages 14 to 16, individual and collective interpretation",
+        "basis": "full_text",
+        "scientific_review": "pending"
+      },
+      {
+        "id": "FILL-THIN-9-E02-T03-R242-C02",
+        "text": "Perceived exposure was associated with symptom reporting, but these joint self-reports do not prove a clinical nocebo mechanism. Small selected series, heterogeneous individualized protocols and multiple comparisons limit generalization beyond the tested sessions.",
+        "locator": "Main PDF physical pages 15 to 17, Discussion and limitations",
+        "basis": "full_text",
+        "scientific_review": "pending"
+      }
+    ],
+    "pages": []
+  },
+  {
+    "id": "E05-T09-R451",
+    "title": "Impact of mobile phone-specific electromagnetic fields on DNA damage caused by occupationally relevant exposures: results of ex vivo experiments with peripheral blood mononuclear cells from different demographic groups",
+    "authors": "Mišík Miroslav; Kundi Michael; Worel Nadine; Ferk Franziska; Hutter Hans-Peter; Grusch Michael; Nersesyan Armen; Herrera Morales Denise; Knasmueller Siegfried",
+    "year": "2023",
+    "doi": "10.1093/mutage/gead022",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10448860/",
+    "source_type": "pooled_human_cell_experiment",
+    "access_basis": "owner_supplied_full_text",
+    "checked_at": "2026-10-27",
+    "review_status": "selected_source_passages_inspected; scientific_review_pending",
+    "fingerprint": "b462974fab7020928dcad6fc50f1c99a8e5cd77008b97909c4213c81a532ae99",
+    "integrity_status": "Exact held source PDF/native identity matched; selected passages freshly inspected; no scientific, numerical or human approval asserted",
+    "scope": "Pooled peripheral blood mononuclear cells from demographic groups, exposed outside the body to a specified mobile-phone-like signal and selected chemical treatments.",
+    "limitations": "Human-derived pooled cells are not exposed intact people; comet-assay differences are not cancer incidence. Donor variation is hidden by pooling, independent replication is limited and numerical reuse remains held. Scientific, numerical and human review pending.",
+    "citation": "Mišík Miroslav; Kundi Michael; Worel Nadine; Ferk Franziska; Hutter Hans-Peter; Grusch Michael; Nersesyan Armen; Herrera Morales Denise; Knasmueller Siegfried. Impact of mobile phone-specific electromagnetic fields on DNA damage caused by occupationally relevant exposures: results of ex vivo experiments with peripheral blood mononuclear cells from different demographic groups 2023. DOI: 10.1093/mutage/gead022.",
+    "claims": [
+      {
+        "id": "FILL-THIN-9-E05-T09-R451-C01",
+        "text": "The highest tested RF condition increased comet-assay signal in the older normal-weight pooled cells, while lower conditions and younger groups did not show that pattern. The tested combined treatments generally did not enhance chemically induced damage; selected decreases are not evidence of clinical protection.",
+        "locator": "Main PDF physical pages 5 to 9, Results, combined-treatment tables and Discussion",
+        "basis": "full_text",
+        "scientific_review": "pending"
+      },
+      {
+        "id": "FILL-THIN-9-E05-T09-R451-C02",
+        "text": "Pooled cells and sparse independent experiments cannot describe individual donor susceptibility or cancer risk. Differences in demographic composition, culture conditions and technical replicate wording constrain interpretation of this laboratory DNA-damage endpoint.",
+        "locator": "Main PDF physical pages 2 to 4, Methods; pages 8 to 9, Discussion",
+        "basis": "full_text",
+        "scientific_review": "pending"
+      }
+    ],
+    "pages": []
+  },
+  {
+    "id": "E02-T03-R229",
+    "title": "Autonomous nervous system responses to environmental‐level exposure to 5G's first deployed band (3.5 GHz) in healthy human volunteers",
+    "authors": "Jamal Layla; Michelant Lisa; Delanaud Stéphane; Hugueville Laurent; Mazet Paul; Lévêque Philippe; Baz Tamara; Bach Véronique; Selmaoui Brahim",
+    "year": "2024",
+    "doi": "10.1113/EP092083",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11607616/",
+    "source_type": "acute_physiology_experiment",
+    "access_basis": "owner_supplied_full_text",
+    "checked_at": "2026-10-27",
+    "review_status": "selected_source_passages_inspected; scientific_review_pending",
+    "fingerprint": "6d26c54ad989657edb350b2bd4100e2604040226ebd86c687e2798889a5f6675",
+    "integrity_status": "Exact held source PDF/native identity matched; selected passages freshly inspected; no scientific, numerical or human approval asserted",
+    "scope": "Brief controlled far-field exposure in healthy young adults, measuring skin temperature and electrodermal responses to auditory stimuli rather than clinical health or cognition.",
+    "limitations": "Original-version skin and electrodermal findings are not measured cognition, clinical benefit or long-term disease. Direction/label reconciliation and numerical appraisal remain outstanding; scientific and human review pending.",
+    "citation": "Jamal Layla; Michelant Lisa; Delanaud Stéphane; Hugueville Laurent; Mazet Paul; Lévêque Philippe; Baz Tamara; Bach Véronique; Selmaoui Brahim. Autonomous nervous system responses to environmental‐level exposure to 5G's first deployed band (3.5 GHz) in healthy human volunteers 2024. DOI: 10.1113/EP092083.",
+    "claims": [
+      {
+        "id": "FILL-THIN-9-E02-T03-R229-C01",
+        "text": "Selected regional skin-temperature and electrodermal measures differed across the tested conditions, while not every measure showed an exposure-related finding. These physiological responses do not themselves establish cognitive improvement, injury or disease.",
+        "locator": "Main PDF physical pages 6 to 11, Results, Figures and Discussion",
+        "basis": "full_text",
+        "scientific_review": "pending"
+      },
+      {
+        "id": "FILL-THIN-9-E02-T03-R229-C02",
+        "text": "The authors restrict interpretation to the tested short-term conditions and call for confirmation. Small selected samples, related repeated measurements and unresolved direction or labeling questions require restraint; no numerical or uniform-direction electrodermal summary is released.",
+        "locator": "Main PDF physical pages 10 to 11, Discussion and Conclusion",
+        "basis": "full_text",
+        "scientific_review": "pending"
+      }
+    ],
+    "pages": []
+  },
+  {
+    "id": "E05-T09-R485",
+    "title": "1.7 GHz long-term evolution radiofrequency electromagnetic field with stable power monitoring and efficient thermal control has no effect on the proliferation of various human cell types",
+    "authors": "Goh Jaeseong; Suh Dongwha; Park Gyuyeon; Jeon Sangbong; Lee Youngseung; Kim Nam; Song Kiwon",
+    "year": "2024",
+    "doi": "10.1371/journal.pone.0302936",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11075873/",
+    "source_type": "thermally_controlled_cell_experiment",
+    "access_basis": "owner_supplied_full_text",
+    "checked_at": "2026-10-27",
+    "review_status": "selected_source_passages_inspected; scientific_review_pending",
+    "fingerprint": "96a4e5ae1506501506c268ed522250a665864a3a2a006c1be5de7f2e4bcfa8c6",
+    "integrity_status": "Exact held source PDF/native identity matched; selected passages freshly inspected; no scientific, numerical or human approval asserted",
+    "scope": "Cultured cell models under a specified LTE signal with feedback power monitoring and temperature control, including a separate cooling-disabled comparison.",
+    "limitations": "Specific cell models, apparatus and selected endpoints do not measure human disease or lifetime exposure. Replicate wording and the limited independent experiments constrain inference; numerical release, scientific appraisal and human review remain pending.",
+    "citation": "Goh Jaeseong; Suh Dongwha; Park Gyuyeon; Jeon Sangbong; Lee Youngseung; Kim Nam; Song Kiwon. 1.7 GHz long-term evolution radiofrequency electromagnetic field with stable power monitoring and efficient thermal control has no effect on the proliferation of various human cell types 2024. DOI: 10.1371/journal.pone.0302936.",
+    "claims": [
+      {
+        "id": "FILL-THIN-9-E05-T09-R485-C01",
+        "text": "With thermal and power control, the measured proliferation and selected cell-cycle, stress or DNA-damage assays did not show a significant RF-related pattern. Disabling cooling changed temperature and growth-related measurements, emphasizing the importance of exposure-system control.",
+        "locator": "Main PDF physical pages 6 to 11, Results, Figures and Discussion",
+        "basis": "full_text",
+        "scientific_review": "pending"
+      },
+      {
+        "id": "FILL-THIN-9-E05-T09-R485-C02",
+        "text": "A cooling-disabled comparison changes thermal conditions together with the exposure setup and does not establish a universal explanation for every prior study. Limited independent replication and nonsignificant cellular comparisons are not proof of equivalence, human safety or absence of all tissue-specific effects.",
+        "locator": "Main PDF physical pages 8 to 11, Discussion and experimental limitations",
+        "basis": "full_text",
+        "scientific_review": "pending"
+      }
+    ],
+    "pages": []
   }
 ]

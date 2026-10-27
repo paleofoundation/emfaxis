@@ -1,0 +1,197 @@
+{
+  "status": "UNAPPLIED; GATE REQUEST FIRST",
+  "base": "e9270e8898090397594e5138c87b20d1a2ec0061",
+  "append_ids": [
+    "E02-T03-R238",
+    "E02-T03-R242",
+    "E05-T09-R451",
+    "E02-T03-R229",
+    "E05-T09-R485"
+  ],
+  "candidate_file": "work/fill-thin-9/canonical-restoration-candidates.json",
+  "candidate_sha256": "0b21cca27a78759d3551b27504eba41acc4a6cbad9092768d929229d874681ec",
+  "scope": "Exactly5 absent-base source records,2qualitativeclaims each; all89 existing rawobjects/80priornotes/bodies/577frozenhashes preserved. No appraisal/reviewimport, acquisition, numerical release, source-file hosting or other records. Local404to200 only, not livefix.",
+  "required_archive_counter_delta": {
+    "recovered_source_records": [
+      89,
+      94
+    ],
+    "checked_qualitative_claims": [
+      222,
+      232
+    ]
+  },
+  "other_archive_counters": "Unchanged70previews/0humanapprovals/0formalgrades/0newnumericrelease",
+  "proof": [
+    {
+      "id": "E02-T03-R238",
+      "native_title": "What is the effect of alarmist media and radiofrequency electromagnetic field (RF‐EMF) exposure on salivary cortisol and non‐specific symptoms?",
+      "PMID": "40432371",
+      "DOI": "10.1111/aphw.70044",
+      "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/corpus/raw/55f7fc9832bd19a4d19dd894836490b974bf7b1a9602bf2c768e4a798d1b4a68.pdf",
+      "source_sha256": "55f7fc9832bd19a4d19dd894836490b974bf7b1a9602bf2c768e4a798d1b4a68",
+      "native_metadata_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/continuation-v6/a/R238/PMC12117290.1.xml",
+      "native_metadata_sha256": "668d3fe981c3c8d158d648b0f87d37b6f6cef31694a9c513977f8aeb18e8d3c6",
+      "printed_DOI_matches_native": true,
+      "historical_review_hash": "426d1dd7f00c5ce034cda8a97a6c5a97ede7c5707f2ed4b930f8305c22d95c1c",
+      "current_review_file_hash": "f8abfd26ed7271ec389cb197a5e2385c6c174b30588de85def925fefe730d983",
+      "review_hash_matches": false,
+      "scientific_approval": false,
+      "numeric_release": false,
+      "human_review": "pending",
+      "candidate_claims": [
+        {
+          "id": "FILL-THIN-9-E02-T03-R238-C01",
+          "text": "Symptoms increased under openly known exposure compared with known non-exposure. The alarmist-video manipulation increased perceived risk but did not significantly change the symptom or cortisol outcomes in the reported factorial comparisons.",
+          "locator": "Main PDF physical pages 12 to 16, Results and Discussion",
+          "basis": "full_text",
+          "scientific_review": "pending"
+        },
+        {
+          "id": "FILL-THIN-9-E02-T03-R238-C02",
+          "text": "Because actual exposure and knowledge were bundled in the open condition, the study cannot isolate a pure RF effect. Cortisol timing, anticipatory stress, limited sensitivity to small effects and the nonclinical sample constrain interpretation.",
+          "locator": "Main PDF physical pages 15 to 17, Discussion and limitations",
+          "basis": "full_text",
+          "scientific_review": "pending"
+        }
+      ],
+      "source_version": "Held published PDF/native metadata"
+    },
+    {
+      "id": "E02-T03-R242",
+      "native_title": "Exposure Perception and Symptom Reporting in Idiopathic Environmental Intolerance Attributed to Electromagnetic Fields Using a Co‐Designed Provocation Test",
+      "PMID": "40243687",
+      "DOI": "10.1002/bem.70006",
+      "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/corpus/raw/01dd677c17bcbe10b7b17d0ba01005cd12b324723c824b7b3f147c9cdaeceb50.pdf",
+      "source_sha256": "01dd677c17bcbe10b7b17d0ba01005cd12b324723c824b7b3f147c9cdaeceb50",
+      "native_metadata_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/continuation-v6/a/R242/PMC12005125.1.xml",
+      "native_metadata_sha256": "4e59e29ec92336fc6f566c688c8a63a3d0ccbc2f011f727fd54c9263af5fc2c7",
+      "printed_DOI_matches_native": true,
+      "historical_review_hash": "f17f6dc63daecc6dc180552791b353c3e5872db9efd9abf24ad632e0f4013f7f",
+      "current_review_file_hash": "d38cd7f094af13dadecfe28b9424ee28ff7aea0a0daa8ce631703476973407f1",
+      "review_hash_matches": false,
+      "scientific_approval": false,
+      "numeric_release": false,
+      "human_review": "pending",
+      "candidate_claims": [
+        {
+          "id": "FILL-THIN-9-E02-T03-R242-C01",
+          "text": "The study did not demonstrate consistent exposure detection or exposure-related symptoms at the collective level. A nominal individual detection finding did not persist when the least-certain session was removed, so that exception should not be treated as robust detection.",
+          "locator": "Main PDF physical pages 14 to 16, individual and collective interpretation",
+          "basis": "full_text",
+          "scientific_review": "pending"
+        },
+        {
+          "id": "FILL-THIN-9-E02-T03-R242-C02",
+          "text": "Perceived exposure was associated with symptom reporting, but these joint self-reports do not prove a clinical nocebo mechanism. Small selected series, heterogeneous individualized protocols and multiple comparisons limit generalization beyond the tested sessions.",
+          "locator": "Main PDF physical pages 15 to 17, Discussion and limitations",
+          "basis": "full_text",
+          "scientific_review": "pending"
+        }
+      ],
+      "source_version": "Held published PDF/native metadata"
+    },
+    {
+      "id": "E05-T09-R451",
+      "native_title": "Impact of mobile phone-specific electromagnetic fields on DNA damage caused by occupationally relevant exposures: results of ex vivo experiments with peripheral blood mononuclear cells from different demographic groups",
+      "PMID": "37418160",
+      "DOI": "10.1093/mutage/gead022",
+      "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/corpus/raw/b462974fab7020928dcad6fc50f1c99a8e5cd77008b97909c4213c81a532ae99.pdf",
+      "source_sha256": "b462974fab7020928dcad6fc50f1c99a8e5cd77008b97909c4213c81a532ae99",
+      "native_metadata_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/continuation-v6/c/e05-t09-r451/PMC10448860.1.xml",
+      "native_metadata_sha256": "090ec87ae3a62fadc56eb18fe65ee4a157390793f88a00fee1f93ad33fffca53",
+      "printed_DOI_matches_native": true,
+      "historical_review_hash": "4112086ffbf065fbeb26b5c72a2cca12b14a3a589a26a6c8a391ed7130b27f9d",
+      "current_review_file_hash": "a517aaa21f3a1c292c731c70ee539079fb9fadc86c45a0fb5f20d2f399922fcf",
+      "review_hash_matches": false,
+      "scientific_approval": false,
+      "numeric_release": false,
+      "human_review": "pending",
+      "candidate_claims": [
+        {
+          "id": "FILL-THIN-9-E05-T09-R451-C01",
+          "text": "The highest tested RF condition increased comet-assay signal in the older normal-weight pooled cells, while lower conditions and younger groups did not show that pattern. The tested combined treatments generally did not enhance chemically induced damage; selected decreases are not evidence of clinical protection.",
+          "locator": "Main PDF physical pages 5 to 9, Results, combined-treatment tables and Discussion",
+          "basis": "full_text",
+          "scientific_review": "pending"
+        },
+        {
+          "id": "FILL-THIN-9-E05-T09-R451-C02",
+          "text": "Pooled cells and sparse independent experiments cannot describe individual donor susceptibility or cancer risk. Differences in demographic composition, culture conditions and technical replicate wording constrain interpretation of this laboratory DNA-damage endpoint.",
+          "locator": "Main PDF physical pages 2 to 4, Methods; pages 8 to 9, Discussion",
+          "basis": "full_text",
+          "scientific_review": "pending"
+        }
+      ],
+      "source_version": "Held published PDF/native metadata"
+    },
+    {
+      "id": "E02-T03-R229",
+      "native_title": "Autonomous nervous system responses to environmental‐level exposure to 5G's first deployed band (3.5 GHz) in healthy human volunteers",
+      "PMID": "39404491",
+      "DOI": "10.1113/EP092083",
+      "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/corpus/raw/6d26c54ad989657edb350b2bd4100e2604040226ebd86c687e2798889a5f6675.pdf",
+      "source_sha256": "6d26c54ad989657edb350b2bd4100e2604040226ebd86c687e2798889a5f6675",
+      "native_metadata_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/continuation-v6/a/R229/PMC11607616.1.xml",
+      "native_metadata_sha256": "6051c56d7f682d5c503b7e176d62b90c3d478d545ba501ab246ef17ee088557e",
+      "printed_DOI_matches_native": true,
+      "historical_review_hash": "eedd4de5bd67c52baf8308ec466f50c3dd63b62c07d390f46ac204c1a78889da",
+      "current_review_file_hash": "d3d691ba5111b0c021ca848443c5d8ff38db641b8260bb5464a8859cc6f0c1eb",
+      "review_hash_matches": false,
+      "scientific_approval": false,
+      "numeric_release": false,
+      "human_review": "pending",
+      "candidate_claims": [
+        {
+          "id": "FILL-THIN-9-E02-T03-R229-C01",
+          "text": "Selected regional skin-temperature and electrodermal measures differed across the tested conditions, while not every measure showed an exposure-related finding. These physiological responses do not themselves establish cognitive improvement, injury or disease.",
+          "locator": "Main PDF physical pages 6 to 11, Results, Figures and Discussion",
+          "basis": "full_text",
+          "scientific_review": "pending"
+        },
+        {
+          "id": "FILL-THIN-9-E02-T03-R229-C02",
+          "text": "The authors restrict interpretation to the tested short-term conditions and call for confirmation. Small selected samples, related repeated measurements and unresolved direction or labeling questions require restraint; no numerical or uniform-direction electrodermal summary is released.",
+          "locator": "Main PDF physical pages 10 to 11, Discussion and Conclusion",
+          "basis": "full_text",
+          "scientific_review": "pending"
+        }
+      ],
+      "source_version": "Held published PDF/native metadata"
+    },
+    {
+      "id": "E05-T09-R485",
+      "native_title": "1.7 GHz long-term evolution radiofrequency electromagnetic field with stable power monitoring and efficient thermal control has no effect on the proliferation of various human cell types",
+      "PMID": "38713716",
+      "DOI": "10.1371/journal.pone.0302936",
+      "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/corpus/raw/96a4e5ae1506501506c268ed522250a665864a3a2a006c1be5de7f2e4bcfa8c6.pdf",
+      "source_sha256": "96a4e5ae1506501506c268ed522250a665864a3a2a006c1be5de7f2e4bcfa8c6",
+      "native_metadata_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/continuation-v6/c/e05-t09-r485/PMC11075873.1.xml",
+      "native_metadata_sha256": "f851b36b12ff9b72cd4cc15ace79a7863d04b612a21769647fc897860b1ce721",
+      "printed_DOI_matches_native": true,
+      "historical_review_hash": "77a7c266c6418a239fb517e9a95e280b6868016d5f73c7b475bef3942e0ce654",
+      "current_review_file_hash": "1373e009974abf83c758bfcc0a21933f57ac7b816578d6517fe2196d9f5c6862",
+      "review_hash_matches": false,
+      "scientific_approval": false,
+      "numeric_release": false,
+      "human_review": "pending",
+      "candidate_claims": [
+        {
+          "id": "FILL-THIN-9-E05-T09-R485-C01",
+          "text": "With thermal and power control, the measured proliferation and selected cell-cycle, stress or DNA-damage assays did not show a significant RF-related pattern. Disabling cooling changed temperature and growth-related measurements, emphasizing the importance of exposure-system control.",
+          "locator": "Main PDF physical pages 6 to 11, Results, Figures and Discussion",
+          "basis": "full_text",
+          "scientific_review": "pending"
+        },
+        {
+          "id": "FILL-THIN-9-E05-T09-R485-C02",
+          "text": "A cooling-disabled comparison changes thermal conditions together with the exposure setup and does not establish a universal explanation for every prior study. Limited independent replication and nonsignificant cellular comparisons are not proof of equivalence, human safety or absence of all tissue-specific effects.",
+          "locator": "Main PDF physical pages 8 to 11, Discussion and experimental limitations",
+          "basis": "full_text",
+          "scientific_review": "pending"
+        }
+      ],
+      "source_version": "Held published PDF/native metadata"
+    }
+  ]
+}

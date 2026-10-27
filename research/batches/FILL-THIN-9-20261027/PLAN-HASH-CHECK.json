@@ -1,0 +1,29 @@
+[
+  {
+    "plan": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/contracts/gp-plan-review.json",
+    "decision": "PASS",
+    "scope": "Prospective839-file processing and source-located AI scientific-appraisal drafts; not human approval",
+    "bound_files": {
+      "research/emf/archive-appraisal/contracts/ingest-plan.md": true,
+      "research/emf/archive-appraisal/contracts/review.schema.json": true,
+      "research/emf/full-rollout/contracts/gp-plan-review.json": true,
+      "research/emf/pilot-wifi-sleep/reconciliation/source-archives.json": true,
+      "research/emf/pilot-wifi-sleep/reconciliation/normalized-report-inventory.jsonl": true,
+      "research/emf/pilot-wifi-sleep/contracts/review-questions-and-inputs.json": true
+    }
+  },
+  {
+    "plan": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/full-rollout/contracts/gp-plan-review.json",
+    "decision": "PASS",
+    "scope": "Prospective direct recovery and full65 selected-source draft ingestion/fanout. Not scientific approval.",
+    "bound_files": {
+      "research/emf/full-rollout/contracts/ingest-plan.md": true,
+      "research/emf/full-rollout/contracts/projection-schema.json": true,
+      "research/emf/pilot-wifi-sleep/contracts/page-registry.json": true,
+      "research/emf/pilot-wifi-sleep/contracts/question-inventory.json": true,
+      "research/emf/pilot-wifi-sleep/contracts/review-questions-and-inputs.json": true,
+      "research/emf/pilot-wifi-sleep/contracts/module-input-map.json": true,
+      "research/emf/pilot-wifi-sleep/contracts/emf-ingest.schema.json": true
+    }
+  }
+]

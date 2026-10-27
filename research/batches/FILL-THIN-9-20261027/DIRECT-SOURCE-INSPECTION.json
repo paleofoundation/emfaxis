@@ -1,0 +1,95 @@
+{
+  "method": "Fresh local pdftotext plus direct selected original passage inspection, no source file copying into public assets",
+  "checked_UTC": "2026-10-27T11:11:32.168431+00:00",
+  "rows": [
+    {
+      "id": "E02-T03-R238",
+      "source_sha256": "55f7fc9832bd19a4d19dd894836490b974bf7b1a9602bf2c768e4a798d1b4a68",
+      "fresh_pdftotext_sha256": "204c5afd37f64ab60a0ae191c81d796fdc48ac8349e07495067d16e5411c33fa",
+      "physical_pages_inspected": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "scope": "Selected original passages directly inspected, not complete scientific appraisal; no historical PASS transfer",
+      "locators": [
+        "Main PDF physical pages 12 to 16, Results and Discussion",
+        "Main PDF physical pages 15 to 17, Discussion and limitations"
+      ]
+    },
+    {
+      "id": "E02-T03-R242",
+      "source_sha256": "01dd677c17bcbe10b7b17d0ba01005cd12b324723c824b7b3f147c9cdaeceb50",
+      "fresh_pdftotext_sha256": "e66e4845230d20318d96fd4132cda8ba7c8a4f757896667770e43ca7c08eb6a5",
+      "physical_pages_inspected": [
+        6,
+        8,
+        14,
+        15,
+        16,
+        17
+      ],
+      "scope": "Selected original passages directly inspected, not complete scientific appraisal; no historical PASS transfer",
+      "locators": [
+        "Main PDF physical pages 14 to 16, individual and collective interpretation",
+        "Main PDF physical pages 15 to 17, Discussion and limitations"
+      ]
+    },
+    {
+      "id": "E05-T09-R451",
+      "source_sha256": "b462974fab7020928dcad6fc50f1c99a8e5cd77008b97909c4213c81a532ae99",
+      "fresh_pdftotext_sha256": "717c7c86e8ba6d9a9b0f3819bd4de2ad75285e4e10799e30ec9af89c54be6dd6",
+      "physical_pages_inspected": [
+        2,
+        3,
+        4,
+        5,
+        8,
+        9
+      ],
+      "scope": "Selected original passages directly inspected, not complete scientific appraisal; no historical PASS transfer",
+      "locators": [
+        "Main PDF physical pages 5 to 9, Results, combined-treatment tables and Discussion",
+        "Main PDF physical pages 2 to 4, Methods; pages 8 to 9, Discussion"
+      ]
+    },
+    {
+      "id": "E02-T03-R229",
+      "source_sha256": "6d26c54ad989657edb350b2bd4100e2604040226ebd86c687e2798889a5f6675",
+      "fresh_pdftotext_sha256": "cba704c8712cd5e5746dbe69ad379f2ed8d4af02fce3c5b380eeb43caaa6bbf4",
+      "physical_pages_inspected": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "scope": "Selected original passages directly inspected, not complete scientific appraisal; no historical PASS transfer",
+      "locators": [
+        "Main PDF physical pages 6 to 11, Results, Figures and Discussion",
+        "Main PDF physical pages 10 to 11, Discussion and Conclusion"
+      ]
+    },
+    {
+      "id": "E05-T09-R485",
+      "source_sha256": "96a4e5ae1506501506c268ed522250a665864a3a2a006c1be5de7f2e4bcfa8c6",
+      "fresh_pdftotext_sha256": "686e9699c30791f6c81ca7e9082a3dea640666b524ec7fadb3cffbfbfeac8a25",
+      "physical_pages_inspected": [
+        6,
+        7,
+        8,
+        10,
+        11
+      ],
+      "scope": "Selected original passages directly inspected, not complete scientific appraisal; no historical PASS transfer",
+      "locators": [
+        "Main PDF physical pages 6 to 11, Results, Figures and Discussion",
+        "Main PDF physical pages 8 to 11, Discussion and experimental limitations"
+      ]
+    }
+  ]
+}

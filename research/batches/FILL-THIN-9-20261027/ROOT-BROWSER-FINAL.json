@@ -1,0 +1,130 @@
+{
+  "at": "2026-10-27T11:36:49.196756+00:00",
+  "method": "cua IAB tab18 mobile390x844; exact observed DOM paragraph text, external source href and source locator tuple SHA256 compared to reviewed ALL-PROPOSED-NOTES. All ten measured in one bounded browser call.",
+  "preview": "http://127.0.0.1:5177",
+  "publicInputs": {
+    "app/glossary/page.tsx": "438f648dd649c44247a0735bafd6529cac514a1d47edf0e3cd592f151027ca88",
+    "components/emf/glossary.tsx": "4f3d0907b8cb51fcfb1bcd558fb1efce15579d70c0367e4f08a94d5cce2f0406",
+    "components/emf/recovered-record.tsx": "42664d105d465781cb0242d0a9ba90ec1e5a1a0a6b6ef23f2a116d6218a718a8",
+    "lib/thin-fill.json": "774e1b4c3de8d9b8c57bc38de83a192079f068b76c31fadcd0583930fa512911",
+    "lib/recovered-sources.json": "29e9be6b4d4a7db331ec0f336795c09bf054c3e969c417b5c4cf76099f762e94",
+    "lib/archive-status.json": "7b9a73d32211702cab0f25b331cae6c4290c36253ebfaf87cbd3e3ca312e449b"
+  },
+  "notesSha256": "f5b18099c05aa964bbbcda16c36fd965fb4ec451d82804ea5dca190f2668f4c8",
+  "rootSourceAuditSha256": "7f654bf263c47609464b45e6832243d2976b6ba5beb75c15bfe9e4981ed9d3f2",
+  "observations": [
+    {
+      "count": 2,
+      "sha256": "de295ce0885b240f1a5bcacfbc7a906ec7437cc27216d96078ee567e3a54773e",
+      "id": "wifi-pmid-33166026",
+      "width": 390,
+      "bodyScrollWidth": 390,
+      "documentScrollWidth": 390,
+      "emEnDashes": 0,
+      "exactDomTupleMatch": true,
+      "humanPendingShown": true
+    },
+    {
+      "count": 2,
+      "sha256": "87b5006cce200f8527fdc064d15465bc54376b93808bd35b840717cf9359a4ee",
+      "id": "E05-T09-R560",
+      "width": 390,
+      "bodyScrollWidth": 390,
+      "documentScrollWidth": 390,
+      "emEnDashes": 0,
+      "exactDomTupleMatch": true,
+      "humanPendingShown": true
+    },
+    {
+      "count": 2,
+      "sha256": "8257b7ad9e52e62eedc31c27c43e1ad57836772fbebf6e7f20ce1c05490b4768",
+      "id": "E05-T09-R232",
+      "width": 390,
+      "bodyScrollWidth": 390,
+      "documentScrollWidth": 390,
+      "emEnDashes": 0,
+      "exactDomTupleMatch": true,
+      "humanPendingShown": true
+    },
+    {
+      "count": 2,
+      "sha256": "1baabe47f2247ca834f9e2301cac6be50649ff9cb606d2d7d829375b1f3312f3",
+      "id": "E05-T10-R110",
+      "width": 390,
+      "bodyScrollWidth": 390,
+      "documentScrollWidth": 390,
+      "emEnDashes": 0,
+      "exactDomTupleMatch": true,
+      "humanPendingShown": true
+    },
+    {
+      "count": 3,
+      "sha256": "b8cba8c35609e6aa7015675763c9d1ceff62d3263a064114e72c65e1da9d4b83",
+      "id": "glossary-index",
+      "width": 390,
+      "bodyScrollWidth": 390,
+      "documentScrollWidth": 390,
+      "emEnDashes": 0,
+      "exactDomTupleMatch": true,
+      "humanPendingShown": false
+    },
+    {
+      "count": 2,
+      "sha256": "69305aec82d322e93b21e4e70a48372d9f54e2330f6c129ae36a9c02b3c8ac3d",
+      "id": "E02-T03-R238",
+      "width": 390,
+      "bodyScrollWidth": 390,
+      "documentScrollWidth": 390,
+      "emEnDashes": 0,
+      "exactDomTupleMatch": true,
+      "humanPendingShown": true
+    },
+    {
+      "count": 2,
+      "sha256": "9e03f39aa76dc7bcc84ba3496b1f8b178395975df42dffea049371d92d3abf2a",
+      "id": "E02-T03-R242",
+      "width": 390,
+      "bodyScrollWidth": 390,
+      "documentScrollWidth": 390,
+      "emEnDashes": 0,
+      "exactDomTupleMatch": true,
+      "humanPendingShown": true
+    },
+    {
+      "count": 2,
+      "sha256": "60f86840b73c06e9571c07d64d669dec63979afc2088cc718bd367849176c0d6",
+      "id": "E05-T09-R451",
+      "width": 390,
+      "bodyScrollWidth": 390,
+      "documentScrollWidth": 390,
+      "emEnDashes": 0,
+      "exactDomTupleMatch": true,
+      "humanPendingShown": true
+    },
+    {
+      "count": 2,
+      "sha256": "a512f49bb1ce42b82449bb84435a8361a62f4c9d8e3496a0c3e4787025553b48",
+      "id": "E02-T03-R229",
+      "width": 390,
+      "bodyScrollWidth": 390,
+      "documentScrollWidth": 390,
+      "emEnDashes": 0,
+      "exactDomTupleMatch": true,
+      "humanPendingShown": true
+    },
+    {
+      "count": 2,
+      "sha256": "f66a3c80f529dc1ce9ca667107f68518175b3e1b9aa7865117a1f5ee66d908e0",
+      "id": "E05-T09-R485",
+      "width": 390,
+      "bodyScrollWidth": 390,
+      "documentScrollWidth": 390,
+      "emEnDashes": 0,
+      "exactDomTupleMatch": true,
+      "humanPendingShown": true
+    }
+  ],
+  "visual": "R229 #reading-notes screenshot inspected: heading, paragraph, external source link and locator wrap within mobile width; fixed bars do not obscure the inspected content.",
+  "limits": "Local preview only. Research human/scientific states pending. Glossary directory does not show per-record human-pending badge; no scientific approval inferred. No live-site claim.",
+  "result": "PASS_EXACT_TEN_SUPPORTED_MOBILE"
+}

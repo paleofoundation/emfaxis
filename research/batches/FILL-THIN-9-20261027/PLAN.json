@@ -1,0 +1,43 @@
+{
+  "id": "FILL-THIN-9",
+  "base": "e9270e8898090397594e5138c87b20d1a2ec0061",
+  "branch": "codex/fill-thin-9",
+  "site_positions": [
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90
+  ],
+  "urls": [
+    "https://emfaxis.com/research/wifi-pmid-33166026",
+    "https://emfaxis.com/research/E02-T03-R238",
+    "https://emfaxis.com/research/E05-T09-R560",
+    "https://emfaxis.com/research/E02-T03-R242",
+    "https://emfaxis.com/research/E05-T09-R232",
+    "https://emfaxis.com/glossary",
+    "https://emfaxis.com/research/E05-T10-R110",
+    "https://emfaxis.com/research/E05-T09-R451",
+    "https://emfaxis.com/research/E02-T03-R229",
+    "https://emfaxis.com/research/E05-T09-R485"
+  ],
+  "absent_base_canonical": [
+    "E02-T03-R238",
+    "E02-T03-R242",
+    "E05-T09-R451",
+    "E02-T03-R229",
+    "E05-T09-R485"
+  ],
+  "prior_counts": {
+    "raw_sources": 89,
+    "note_objects": 80,
+    "qualitative_passages": 222,
+    "frozen_output_entries": 577
+  },
+  "policy": "Held sources, source links+physical locators, no invented facts/new numerical claims/PDFhosting/public em/en; canonical GATE FIRST; all89raw/80notes+bodies/577hashes preserved; same analyzer/fourhosts/UKHSAHELD"
+}
