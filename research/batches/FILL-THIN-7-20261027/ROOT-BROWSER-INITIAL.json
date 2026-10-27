@@ -1,0 +1,104 @@
+{
+  "at": "2026-10-27T12:09:55.181062+02:00",
+  "status": "PARTIAL_MOBILE_DOM_PASS_WITH_R273_PUNCTUATION_FAILURE",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "method": "CUA IABtab14 local5177 productionpreview",
+  "rows": [
+    {
+      "id": "E01-T01-R246",
+      "body_width": 390,
+      "document_width": 390,
+      "note_source_links": 2,
+      "pending_review": true,
+      "appraisal_preview": true,
+      "main_em_en_dash_count": 0
+    },
+    {
+      "id": "E04-T07-R252",
+      "body_width": 390,
+      "document_width": 390,
+      "note_source_links": 2,
+      "pending_review": true,
+      "appraisal_preview": true,
+      "main_em_en_dash_count": 0
+    },
+    {
+      "id": "E03-T05-R242",
+      "body_width": 390,
+      "document_width": 390,
+      "note_source_links": 2,
+      "pending_review": true,
+      "appraisal_preview": false,
+      "main_em_en_dash_count": 0
+    },
+    {
+      "id": "E03-T05-R273",
+      "body_width": 390,
+      "document_width": 390,
+      "note_source_links": 2,
+      "pending_review": true,
+      "appraisal_preview": true,
+      "main_em_en_dash_count": 1
+    },
+    {
+      "id": "E06-T11-R185",
+      "body_width": 390,
+      "document_width": 390,
+      "note_source_links": 2,
+      "pending_review": true,
+      "appraisal_preview": false,
+      "main_em_en_dash_count": 0
+    },
+    {
+      "id": "E05-T09-R518",
+      "body_width": 390,
+      "document_width": 390,
+      "note_source_links": 2,
+      "pending_review": true,
+      "appraisal_preview": false,
+      "main_em_en_dash_count": 0
+    },
+    {
+      "id": "E06-T11-R191",
+      "body_width": 390,
+      "document_width": 390,
+      "note_source_links": 2,
+      "pending_review": true,
+      "appraisal_preview": true,
+      "main_em_en_dash_count": 0
+    },
+    {
+      "id": "E03-T05-R247",
+      "body_width": 390,
+      "document_width": 390,
+      "note_source_links": 2,
+      "pending_review": true,
+      "appraisal_preview": false,
+      "main_em_en_dash_count": 0
+    },
+    {
+      "id": "E03-T06-R109",
+      "body_width": 390,
+      "document_width": 390,
+      "note_source_links": 2,
+      "pending_review": true,
+      "appraisal_preview": true,
+      "main_em_en_dash_count": 0
+    },
+    {
+      "id": "E03-T06-R150",
+      "body_width": 390,
+      "document_width": 390,
+      "note_source_links": 2,
+      "pending_review": true,
+      "appraisal_preview": false,
+      "main_em_en_dash_count": 0
+    }
+  ],
+  "root_all20_new_note_paragraphs_read": true,
+  "failure": "R273 inherited integrity_status: Printed Tables 1\u20132 have incompatible counts or labels; numerical claims held; qualitative author-reported association only.",
+  "limits": "No complete mobile or zero-public-punctuation PASS; correction/fresh binding required. Not full science/human/release approval."
+}

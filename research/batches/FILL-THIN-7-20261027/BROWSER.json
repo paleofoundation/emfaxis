@@ -1,0 +1,18 @@
+{
+  "status": "BOUNDED_FINAL10_PASS",
+  "initial_receipt": {
+    "file": "ROOT-BROWSER-INITIAL.json",
+    "sha256": "1ec93da7f6ef16e64f93e468b040763ac65b126451d1cb9f6f0c2d8f1ed2fc0d",
+    "retained_failure": "R273 inherited integrity-status en dash"
+  },
+  "final_receipt": {
+    "file": "ROOT-BROWSER-FINAL.json",
+    "sha256": "dd136891f03727d62bbf5cc39a3c8f2fb5b9894b1ac4adeedf33e59d568da97d",
+    "scope": "Fresh all ten mobile DOM at390x844; R150 visual sample; all20 new note paragraphs read; bounded console15 empty"
+  },
+  "repair_receipt": {
+    "file": "R273-PUNCTUATION-REPAIR.json",
+    "sha256": "b326e2f0aa39dc13d4b97ab37e12ec04b175ff3790eec1954bf9049a3a99d0ab"
+  },
+  "limits": "No scientific, numerical, human, release, live-fix or network-wide certification."
+}

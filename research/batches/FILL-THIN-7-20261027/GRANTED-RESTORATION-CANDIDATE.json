@@ -1,0 +1,172 @@
+[
+  {
+    "id": "E03-T05-R242",
+    "title": "Probing the Origins of 1,800 MHz Radio Frequency Electromagnetic Radiation Induced Damage in Mouse Immortalized Germ Cells and Spermatozoa in vitro",
+    "authors": "Houston Brendan J.; Nixon Brett; King Bruce V.; Aitken R. John; De Iuliis Geoffry N.",
+    "year": "2018",
+    "doi": "10.3389/fpubh.2018.00270",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6160547/",
+    "source_type": "mouse_cell_and_sperm_experiment",
+    "access_basis": "owner_supplied_full_text",
+    "checked_at": "2026-10-27",
+    "review_status": "selected_source_passages_inspected; scientific_review_pending",
+    "fingerprint": "bc4f9a74e291181c22a66511f022b994239ac507b43c76cf58e1f661e7ebc849",
+    "integrity_status": "Exact held source PDF/native identity matched; selected passages freshly inspected; no scientific, numerical or human approval asserted",
+    "scope": "Cultured mouse germ-cell models and isolated mature mouse sperm under a continuous-wave laboratory exposure, without exposed men or reproductive-success outcomes.",
+    "limitations": "Small biological replication, many connected comparisons and mixed stage/time/assay patterns constrain interpretation. No human clinical fertility outcome or safe-use threshold was tested. Scientific, numerical and human review remain pending.",
+    "citation": "Houston Brendan J.; Nixon Brett; King Bruce V.; Aitken R. John; De Iuliis Geoffry N.. Probing the Origins of 1,800 MHz Radio Frequency Electromagnetic Radiation Induced Damage in Mouse Immortalized Germ Cells and Spermatozoa in vitro 2018. DOI: 10.3389/fpubh.2018.00270.",
+    "claims": [
+      {
+        "id": "FILL-THIN-7-E03-T05-R242-C01",
+        "text": "The experiment found stage-, time- and assay-dependent responses. Mature sperm showed selected later motility and oxidative-DNA findings, while fragmentation results differed by assay and exposure interval.",
+        "locator": "Main PDF physical pages 8 to 9 and 13 to 14, Results, Figures and Discussion",
+        "basis": "full_text",
+        "scientific_review": "pending"
+      },
+      {
+        "id": "FILL-THIN-7-E03-T05-R242-C02",
+        "text": "Mitochondrial probe signals and selected sperm assays do not establish a complete causal disease pathway or human infertility. The experiment studied isolated cells and sperm rather than conception or offspring outcomes.",
+        "locator": "Main PDF physical pages 2 to 5, Methods; pages 13 to 15, Discussion",
+        "basis": "full_text",
+        "scientific_review": "pending"
+      }
+    ],
+    "pages": []
+  },
+  {
+    "id": "E06-T11-R185",
+    "title": "RF-EMF Exposure near 5G NR Small Cells",
+    "authors": "Aerts Sam; Deprez Kenneth; Verloock Leen; Olsen Robert G.; Martens Luc; Tran Phung; Joseph Wout",
+    "year": "2023",
+    "doi": "10.3390/s23063145",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10051828/",
+    "source_type": "engineering_measurement_and_model",
+    "access_basis": "owner_supplied_full_text",
+    "checked_at": "2026-10-27",
+    "review_status": "selected_source_passages_inspected; scientific_review_pending",
+    "fingerprint": "a8bd58c5a65fee84e6b1adcb3ac7511326f7ad210477a825edd4090291d011d4",
+    "integrity_status": "Exact held source PDF/native identity matched; selected passages freshly inspected; no scientific, numerical or human approval asserted",
+    "scope": "Limited Belgian base-station measurements rescaled to small-cell powers and combined with modeled traffic/user scenarios; physical exposure study, not a clinical cohort.",
+    "limitations": "Limited sites and modeled inputs do not establish representative personal exposure or lifetime health outcomes. Close-distance coverage and nearby maximum labels require clarification; numerical release, scientific appraisal and human review remain pending.",
+    "citation": "Aerts Sam; Deprez Kenneth; Verloock Leen; Olsen Robert G.; Martens Luc; Tran Phung; Joseph Wout. RF-EMF Exposure near 5G NR Small Cells 2023. DOI: 10.3390/s23063145.",
+    "claims": [
+      {
+        "id": "FILL-THIN-7-E06-T11-R185-C01",
+        "text": "The measured base stations did not themselves meet the paper's small-cell power definitions. Measurements were rescaled to selected small-cell settings, and typical-user and non-user scenarios were calculated rather than directly sampled as population exposure.",
+        "locator": "Main PDF physical page 6, site definitions; pages 10 to 12, scenario interpretation and Discussion",
+        "basis": "full_text",
+        "scientific_review": "pending"
+      },
+      {
+        "id": "FILL-THIN-7-E06-T11-R185-C02",
+        "text": "The reported rescaled scenarios were below the reference levels used under the stated assumptions. Antenna geometry, traffic, close-distance gaps and unresolved maximum-label wording limit numerical reuse; no health outcomes were measured.",
+        "locator": "Main PDF physical pages 9 to 12, Figures, Table and Discussion",
+        "basis": "full_text",
+        "scientific_review": "pending"
+      }
+    ],
+    "pages": []
+  },
+  {
+    "id": "E05-T09-R518",
+    "title": "Exposure to 26.5 GHz, 5G modulated and unmodulated signal, does not affect key cellular endpoints of human neuroblastoma cells",
+    "authors": "Sannino Anna; Allocca Mariateresa; Scarfì Maria Rosaria; Romeo Stefania; Peluso Valentina; Panariello Gaetano; Schettino Fulvio; Chirico Gaetano; Zeni Olga",
+    "year": "2025",
+    "doi": "10.1038/s41598-025-04834-3",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12214929/",
+    "source_type": "human_cell_experiment",
+    "access_basis": "owner_supplied_full_text",
+    "checked_at": "2026-10-27",
+    "review_status": "selected_source_passages_inspected; scientific_review_pending",
+    "fingerprint": "254e30e89a6f7adbe28d4e3e0bbd3a485817e761b1705bc95ed0ed3bdafc89ae",
+    "integrity_status": "Exact held source PDF/native identity matched; selected passages freshly inspected; no scientific, numerical or human approval asserted",
+    "scope": "Human neuroblastoma-cell cultures under specified modulated and continuous-wave high-band laboratory signals, including a later menadione challenge.",
+    "limitations": "Few independent experiments, a single cell model and specified timing limit transfer to human disease. Methods and figure wording differ on repeated measurements; raw-data reconciliation, numerical release, scientific and human review remain pending.",
+    "citation": "Sannino Anna; Allocca Mariateresa; Scarfì Maria Rosaria; Romeo Stefania; Peluso Valentina; Panariello Gaetano; Schettino Fulvio; Chirico Gaetano; Zeni Olga. Exposure to 26.5 GHz, 5G modulated and unmodulated signal, does not affect key cellular endpoints of human neuroblastoma cells 2025. DOI: 10.1038/s41598-025-04834-3.",
+    "claims": [
+      {
+        "id": "FILL-THIN-7-E05-T09-R518-C01",
+        "text": "Neither tested signal significantly changed the measured cell-cycle distribution or comet-assay damage relative to sham. Prior RF exposure also did not significantly alter the damage response to the later menadione challenge.",
+        "locator": "Main PDF physical pages 6 to 9, Results and Figures",
+        "basis": "full_text",
+        "scientific_review": "pending"
+      },
+      {
+        "id": "FILL-THIN-7-E05-T09-R518-C02",
+        "text": "A delayed chemical challenge in a transformed cell line does not represent every combined exposure or human tissue dose. Nonsignificant comparisons under this protocol do not establish universal equivalence or absence of clinical harm.",
+        "locator": "Main PDF physical pages 3 to 6, experimental sequence; pages 9 to 10, Discussion and Conclusion",
+        "basis": "full_text",
+        "scientific_review": "pending"
+      }
+    ],
+    "pages": []
+  },
+  {
+    "id": "E03-T05-R247",
+    "title": "Moderate Dose of Trolox Preventing the Deleterious Effects of Wi-Fi Radiation on Spermatozoa In vitro through Reduction of Oxidative Stress Damage",
+    "authors": "Ding Shang-Shu; Sun Ping; Zhang Zhou; Liu Xiang; Tian Hong; Huo Yong-Wei; Wang Li-Rong; Han Yan; Xing Jun-Ping",
+    "year": "2018",
+    "doi": "10.4103/0366-6999.225045",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5830824/",
+    "source_type": "human_semen_experiment",
+    "access_basis": "owner_supplied_full_text",
+    "checked_at": "2026-10-27",
+    "review_status": "selected_source_passages_inspected; scientific_review_pending",
+    "fingerprint": "782188998cf162d52eadca57e633b38cdca7ed02c325820aace885df8878b0fa",
+    "integrity_status": "Exact held source PDF/native identity matched; selected passages freshly inspected; no scientific, numerical or human approval asserted",
+    "scope": "Split-sample isolated human semen under a Wi-Fi-labelled laboratory arrangement with exposed Trolox conditions; no oral intervention or reproductive-success follow-up.",
+    "limitations": "Incomplete exposure verification, absent compound-only comparators and uncertain paired/repeated analysis constrain causal interpretation. Culture concentrations are not oral supplement doses. Scientific, numerical and human review remain pending.",
+    "citation": "Ding Shang-Shu; Sun Ping; Zhang Zhou; Liu Xiang; Tian Hong; Huo Yong-Wei; Wang Li-Rong; Han Yan; Xing Jun-Ping. Moderate Dose of Trolox Preventing the Deleterious Effects of Wi-Fi Radiation on Spermatozoa In vitro through Reduction of Oxidative Stress Damage 2018. DOI: 10.4103/0366-6999.225045.",
+    "claims": [
+      {
+        "id": "FILL-THIN-7-E03-T05-R247-C01",
+        "text": "Trolox attenuation was selective rather than uniform across the sperm and molecular assays. Mitochondrial measures were not rescued, and a higher concentration was not uniformly more favorable.",
+        "locator": "Main PDF physical pages 4 to 10, Results, Figures and Discussion",
+        "basis": "full_text",
+        "scientific_review": "pending"
+      },
+      {
+        "id": "FILL-THIN-7-E03-T05-R247-C02",
+        "text": "The authors state that precise exposure could not be verified with the available equipment. Missing unexposed compound-only controls and unclear paired/repeated-measure handling limit attribution, and the experiment does not establish clinical supplement prevention or infertility risk.",
+        "locator": "Main PDF physical pages 2 to 4, Methods; pages 9 to 10, Discussion and limitations",
+        "basis": "full_text",
+        "scientific_review": "pending"
+      }
+    ],
+    "pages": []
+  },
+  {
+    "id": "E03-T06-R150",
+    "title": "Link between Wi-Fi, cordless devices, mobile phone usage patterns, and behavioral problems among Japanese children: A prospective cohort study.",
+    "authors": "Ajmal A, Yamazaki K, Tamura N, Ait Bamai Y, Yoshikawa T, Hikage T, Ikeda A, Kishi R.",
+    "year": "2024",
+    "doi": "10.1016/j.envres.2024.119715",
+    "url": "https://doi.org/10.1016/j.envres.2024.119715",
+    "source_type": "cohort_study_accepted_manuscript",
+    "access_basis": "owner_supplied_full_text",
+    "checked_at": "2026-10-27",
+    "review_status": "selected_source_passages_inspected; scientific_review_pending",
+    "fingerprint": "63a619079fc4ef2291393383a3f13c7a3a45cb3d31c0322a6f7362b9bbba1e90",
+    "integrity_status": "Exact held source PDF/native identity matched; selected passages freshly inspected; no scientific, numerical or human approval asserted",
+    "scope": "Hokkaido child/adolescent device-use reports and maternal behavioral screening, read in the held institutional accepted manuscript rather than a publisher-typeset version.",
+    "limitations": "Accepted-manuscript version, self-report, selection and many comparisons constrain interpretation. Numerical reporting remains withheld pending reconciliation; questionnaire screening is not a clinical diagnosis. Scientific, numerical and human review remain pending.",
+    "citation": "Ajmal A, Yamazaki K, Tamura N, Ait Bamai Y, Yoshikawa T, Hikage T, Ikeda A, Kishi R.. Link between Wi-Fi, cordless devices, mobile phone usage patterns, and behavioral problems among Japanese children: A prospective cohort study. 2024. DOI: 10.1016/j.envres.2024.119715.",
+    "claims": [
+      {
+        "id": "FILL-THIN-7-E03-T06-R150-C01",
+        "text": "The report found sporadic behavioral-screening associations in both directions. Some comparisons survived false-discovery correction while other nominal findings did not; the pattern does not establish RF harm or benefit.",
+        "locator": "Accepted manuscript physical pages 18 to 23, Tables, correction footnotes and Discussion",
+        "basis": "full_text",
+        "scientific_review": "pending"
+      },
+      {
+        "id": "FILL-THIN-7-E03-T06-R150-C02",
+        "text": "Reported calling, streaming and gaming behavior is not measured absorbed RF dose. Wi-Fi was not carried into the longitudinal models because the exposure categories had too little contrast; this is not a strong longitudinal router-exposure test.",
+        "locator": "Accepted manuscript physical pages 8 to 9, Methods; pages 23 to 26, Discussion and Conclusion",
+        "basis": "full_text",
+        "scientific_review": "pending"
+      }
+    ],
+    "pages": []
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "base": "bdd4437c46d11b6530532c47a63c6c9915c2c5c0",
+  "source_file": "lib/recovered-sources.json",
+  "source_file_sha256": "ecbcde00104185ef8bed6cf445f953c6df033c31b3e80095a21725bff64b7c94",
+  "source_records": 80,
+  "absent_ids": [
+    "E03-T05-R242",
+    "E06-T11-R185",
+    "E05-T09-R518",
+    "E03-T05-R247",
+    "E03-T06-R150"
+  ],
+  "all_absent": true,
+  "local_baseline_status": {
+    "E03-T05-R242": 404,
+    "E06-T11-R185": 404,
+    "E05-T09-R518": 404,
+    "E03-T05-R247": 404,
+    "E03-T06-R150": 404
+  }
+}

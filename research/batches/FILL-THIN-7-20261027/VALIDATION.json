@@ -1,0 +1,43 @@
+{
+  "build": "PASS",
+  "content": "PASS",
+  "typescript": "PASS",
+  "SSR_routes": 249,
+  "unknown_source": 404,
+  "after10_status200": true,
+  "after10_thin": 0,
+  "after10_stub": 0,
+  "word_range": [
+    595,
+    806
+  ],
+  "restored_ids": [
+    "E03-T05-R242",
+    "E06-T11-R185",
+    "E05-T09-R518",
+    "E03-T05-R247",
+    "E03-T06-R150"
+  ],
+  "restoration": "local404 to200 only",
+  "existing80_raw_objects": "byte-identical",
+  "prior60_note_raw_values": "byte-identical",
+  "prior60_visible_bodies": "equal",
+  "frozen_output_hashes": 430,
+  "sources": [
+    80,
+    85
+  ],
+  "qualitative_passages": [
+    204,
+    214
+  ],
+  "previews": 70,
+  "human_approvals": 0,
+  "formal_grades": 0,
+  "new_numeric_claims_released": 0,
+  "analyzer_unchanged": true,
+  "UKHSA": "HELD",
+  "scientific_numerical_human_release": "pending",
+  "R273_punctuation": "Only inherited integrity-status range display normalized; rawdata preserved;9otherbodies equal",
+  "R518_title": "Real NBSP only in quoted source title; no literal escape or candidatechange"
+}
