@@ -1,0 +1,26 @@
+[
+  {
+    "id": "E02-T03-R222",
+    "printed_DOI_matches_native": true,
+    "DOI": "10.3390/ijerph20186793",
+    "held_PDF_sha256": "64cfb4a13f61a102a54bc2641becfb02abb601e885e262f726cbd2aa66b435ed",
+    "fresh_extraction_sha256": "d293439380eee12d957c4ea3441e8f6a2b308e67d1dd5f0d70cd261996e47c4a",
+    "no_historical_review_approval_transferred": true
+  },
+  {
+    "id": "E03-T06-R054",
+    "printed_DOI_matches_native": true,
+    "DOI": "10.5271/sjweh.3157",
+    "held_PDF_sha256": "eeee7b5a3711ee254069a25ae34cb8cc6320f32f3d38cdda3385400e4cebdf86",
+    "fresh_extraction_sha256": "56796d481eb073b6a90c176385431f14d080af39f931b340377cad9bcf6a712c",
+    "no_historical_review_approval_transferred": true
+  },
+  {
+    "id": "E05-T09-R435",
+    "printed_DOI_matches_native": true,
+    "DOI": "10.1080/09553002.2022.2055803",
+    "held_PDF_sha256": "c578b867e3bf76abe996fd5cb95f0a425d54fc9ff72cdcb05a0e9af8289983c0",
+    "fresh_extraction_sha256": "e8633cfcb8109f71f7433ac981874b9fa079bd53c87d2ead0f765c3ccdd53ef3",
+    "no_historical_review_approval_transferred": true
+  }
+]

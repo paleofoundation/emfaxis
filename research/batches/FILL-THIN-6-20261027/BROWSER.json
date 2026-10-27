@@ -1,0 +1,103 @@
+{
+  "status": "BOUNDED_COMBINED10_PASS",
+  "partial7_receipt": "ROOT-BROWSER-PARTIAL7.json",
+  "partial7_sha256": "3db3be408df1fbd7db9c2e2aa30fcd918a6ac8035b7baeb79b3d7792cb4e6f92",
+  "final3_receipt": "ROOT-BROWSER-FINAL3.json",
+  "final3_sha256": "9ebea2dca227c44eddef2dfa356896402b57b5b2c03843f084bdb6d490f7c3ff",
+  "checks": [
+    {
+      "path": "/research/E01-T01-R127",
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "notesPresent": true,
+      "externalNoteLinks": 2,
+      "publicEmEnDashes": 0,
+      "reviewPending": true
+    },
+    {
+      "path": "/research/E03-T06-R073",
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "notesPresent": true,
+      "externalNoteLinks": 2,
+      "publicEmEnDashes": 0,
+      "reviewPending": true
+    },
+    {
+      "path": "/research/E02-T03-R147",
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "notesPresent": true,
+      "externalNoteLinks": 2,
+      "publicEmEnDashes": 0,
+      "reviewPending": true
+    },
+    {
+      "path": "/research/E03-T06-R149",
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "notesPresent": true,
+      "externalNoteLinks": 2,
+      "publicEmEnDashes": 0,
+      "reviewPending": true
+    },
+    {
+      "path": "/research/E06-T11-R168",
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "notesPresent": true,
+      "externalNoteLinks": 2,
+      "publicEmEnDashes": 0,
+      "reviewPending": true
+    },
+    {
+      "path": "/research/E01-T01-R022",
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "notesPresent": true,
+      "externalNoteLinks": 2,
+      "publicEmEnDashes": 0,
+      "reviewPending": true
+    },
+    {
+      "path": "/research/E04-T08-R052",
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "notesPresent": true,
+      "externalNoteLinks": 2,
+      "publicEmEnDashes": 0,
+      "reviewPending": true
+    },
+    {
+      "path": "/research/E02-T03-R222",
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "notesPresent": true,
+      "externalNoteLinks": 2,
+      "publicEmEnDashes": 0,
+      "reviewPending": true,
+      "appraisalPreviewPresent": false
+    },
+    {
+      "path": "/research/E03-T06-R054",
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "notesPresent": true,
+      "externalNoteLinks": 2,
+      "publicEmEnDashes": 0,
+      "reviewPending": true,
+      "appraisalPreviewPresent": false
+    },
+    {
+      "path": "/research/E05-T09-R435",
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "notesPresent": true,
+      "externalNoteLinks": 2,
+      "publicEmEnDashes": 0,
+      "reviewPending": true,
+      "appraisalPreviewPresent": false
+    }
+  ],
+  "scope": "Partial7 stable visible bodies preserved across granted3 rebuild; final3 explicitly bound to partial7 hash. No HTTP/scientific/human/release inference from DOM."
+}

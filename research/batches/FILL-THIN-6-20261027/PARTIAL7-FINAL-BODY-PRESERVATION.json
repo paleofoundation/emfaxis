@@ -1,0 +1,37 @@
+[
+  {
+    "path": "/research/E01-T01-R127",
+    "visible_body_equal_partial7_to_final_build": true,
+    "sha256": "9b196db4b9abff80a53aa28f0bad8a05ad5408c7827318c25d41b45ac2d98c3d"
+  },
+  {
+    "path": "/research/E03-T06-R073",
+    "visible_body_equal_partial7_to_final_build": true,
+    "sha256": "e5f0c071640f457466b349c1ac108bf376174b45348baf7149f5cb4d26c6cf0a"
+  },
+  {
+    "path": "/research/E02-T03-R147",
+    "visible_body_equal_partial7_to_final_build": true,
+    "sha256": "e3886dc7c786c4d47b04b590a3144d4c6417ed913ec5caaec80adf54e64950e2"
+  },
+  {
+    "path": "/research/E03-T06-R149",
+    "visible_body_equal_partial7_to_final_build": true,
+    "sha256": "220c724f1ba72ae8990c6717011afda03cf9fc9f59bb1ccf3f289443d3f18b95"
+  },
+  {
+    "path": "/research/E06-T11-R168",
+    "visible_body_equal_partial7_to_final_build": true,
+    "sha256": "8fae4f2347686fb892feb230f0691082516de40bbcb09a8a78561ba3dbbae2b3"
+  },
+  {
+    "path": "/research/E01-T01-R022",
+    "visible_body_equal_partial7_to_final_build": true,
+    "sha256": "9a46062edac7df938461938bb71f1fae2546514a17ce32918bc8b83ac2b99dd3"
+  },
+  {
+    "path": "/research/E04-T08-R052",
+    "visible_body_equal_partial7_to_final_build": true,
+    "sha256": "2b6eddf46e2164ef71ba4bd4d02c62852176e870634846c59afca9fa3e5296e0"
+  }
+]

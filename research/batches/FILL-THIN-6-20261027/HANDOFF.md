@@ -1,0 +1,56 @@
+FILL-THIN-6: EMF AXIS POSITIONS 51-60
+Bounded local draft complete; scientific, numerical, human and release approvals pending.
+Repository paleofoundation/emfaxis; codex/fill-thin-6 stacked on accepted PR5 exact 371310f56231ed1ed7cb4aabf7012a43c9bb863e.
+One ordinary commit and one draft PR. Final head/files/statistics/hashes are in DELIVERY.json.
+
+SCOPE AND GATE
+Exactly the next ten EMF rows 51-60 from frozen FILL-AUDIT-2 ranked-thinnest-first.csv, with no overlap among prior 50 and no substitution. The historical ranking is a snapshot, not a new live measurement. Seven target records existed in this base and returned 200; three absent canonical records returned 404 locally despite historical live 200 ranking. No cause of that source/live mismatch is inferred.
+
+The concrete UNAPPLIED candidate f68f361f5bcad567aaeff9806b8f83d20e97d9f2df54efb58e174dc5f0557386 was posted before application, after fresh selected original-PDF inspection and native identity/hash checks. ELON entry headed 11:37, observed at actual 11:36:18, GRANTED exactly E02-T03-R222 (PMID 37754652/DOI 10.3390/ijerph20186793), E03-T06-R054 (PMID 21403981/DOI 10.5271/sjweh.3157), E05-T09-R435 (PMID 35320060/DOI 10.1080/09553002.2022.2055803), two qualitative claims each, draft only. Only that exact candidate was applied, with no other canonical source, review/preview import or source acquisition. Native XML/indexed metadata and printed PDF DOIs agree; original PDF hashes match held identity receipts. No source document or PDF is hosted. New source-passages remain pending scientific/numerical/human review, not complete appraisal or a certainty grade.
+
+HISTORICAL / CURRENT REVIEW HASHES
+E02-T03-R222: historical 63ad570bcfc17158520375e580e95c622556dd96204fa2c0c994f4618d51d5f3 != current cf5468c38cba20399fb7af75784d5139787fafecf7519bddd1347f16eb66f636.
+E03-T06-R054: historical 2d8ae67d251b4f733e74477bf8254420bb20c70b2e1349817759adf9aaa9b26e != current b6b4d8b02a15e3421e30f68fd48c60e835b41147ca65732497e4a1f45c2e13bd.
+E05-T09-R435: historical 7ca5172464a1cfcc2ecd81c680415065115fdcf0f93252b7591861d0e8c6b021 != current 4a4822e40bee4dbc972b749801df82b83f4bfef7d58f0eb7c893485d682058d8.
+All discrepancies are unresolved and are disclosed in the PR body. Historical PASS is not transferred to current review or approval. The current review files were not imported. Each restored route changes local404→200 only, not a live fix. Future absent-base canonical records still require GATE FIRST.
+
+BEFORE / AFTER
+All final measurements below are built local GETs, not live measurements. Seven successful baseline routes 584-600words rise to 770-804; three local404s become200 with 593-656words. Their successful baseline word counts and deltas are N/A, not zero. All ten final routes are 200,thin=no,stub=no,593-804 words.
+
+| Exact path | Frozen live words | Built before status / words | Built after status / words | Recognized cites before / after | Thin after |
+|---|---:|---|---|---|---|
+| /research/E01-T01-R127 | 587 | 200 / 584 | 200 / 790 | 2 / 4 | no |
+| /research/E03-T06-R073 | 588 | 200 / 584 | 200 / 772 | 2 / 4 | no |
+| /research/E02-T03-R147 | 590 | 200 / 587 | 200 / 786 | 2 / 4 | no |
+| /research/E02-T03-R222 | 591 | 404 / N/A | 200 / 636 | N/A / 4 | no |
+| /research/E03-T06-R149 | 596 | 200 / 592 | 200 / 787 | 2 / 4 | no |
+| /research/E03-T06-R054 | 601 | 404 / N/A | 200 / 593 | N/A / 4 | no |
+| /research/E06-T11-R168 | 602 | 200 / 598 | 200 / 770 | 2 / 4 | no |
+| /research/E01-T01-R022 | 603 | 200 / 600 | 200 / 800 | 2 / 4 | no |
+| /research/E04-T08-R052 | 603 | 200 / 600 | 200 / 804 | 2 / 4 | no |
+| /research/E05-T09-R435 | 607 | 404 / N/A | 200 / 656 | N/A / 4 | no |
+
+All ten research pages link the same original document for different passages. Four recognized links per page are 40 actual known-source links across ten documents, not forty studies or independent replications. The seven successful baselines had 14 known-source links. Twenty new note paragraphs each carry an original-source link and physical-page/section locator. Six appended qualitative claims also carry locators in their linked source records. No new numerical effect, dose, participant count, safety limit or benefit claim is released. Bibliographic titles/IDs and source locators retain their identity, with display punctuation normalized where needed.
+
+SOURCE LIMITS
+R127: pooled Swedish acoustic-neuroma case-control association, longer-latency pattern and sparse technology comparisons retained. Questionnaire history, mixed technology use and hearing-loss/side-of-use issues remain; pooling prior samples is not independent replication. R073: front-door average versus alley-maximum results remain different. No worn dosimeter or activity diary means location measurements are not personal dose; no general causal or preventive conclusion. R147: fixed-transmitter ambient model is not absorbed phone dose. Positive cohort tiredness/concentration comparisons, inverse change analyses and null cross-sectional pattern are all retained, with multiple-analysis confirmation and HERMES overlap limits.
+
+R149: listed phone-model SAR and recalled use time are proxies, not fetal dose. The observed phone-rating versus use-time pattern, selected hospital sample, absence of a reported adjusted causal comparison, unresolved covariate-table inconsistency and unvalidated derived cutoff remain explicit. Numerical estimates stay withheld; no individual safety threshold. R168: workplace measurements/accidents review, not a disease cohort. Selected highest measurements are not typical personal exposure, prevalence or long-term incidence; averaging, operating cycles, frequency components and multiple sources matter, and maintenance incidents differ from intact household use. R022: overall regular-use pattern and longer same-side finding both retained, with hearing change/recall/participation and INTERPHONE overlap limits. R052: reported calls and response-time/error/interference tasks give mixed changes. Low use, report disagreement, dropout, short follow-up, multiple comparisons and transformed scales limit clinical/causal inference; ExPOSURE companions are not independent replication.
+
+R222: resting waking EEG under a specified acute laboratory carrier/sham protocol. Isolated nominal electrode effects did not survive reported correction; physiological spectra are not cognition, sleep diagnosis or chronic disease, and no universal no-effect inference follows. R054: early maternal milestone outcomes were recorded before later recall of pregnancy phone use. Null overall pattern and isolated inverse items do not establish benefit or universal prenatal safety. Behavior is not fetal absorbed dose; screening, missingness, selection, unresolved numeric reporting and same-cohort overlap remain. R435: transformed-cell culture with sham and chemical challenge, not exposed people or clinical disease. Null comet damage/repair/superoxide results coexist with limited chemically challenged ROS/exploratory gene changes. Unadjusted gene testing, few independent cultures and unavailable supplementary tables constrain interpretation. Different significance results do not demonstrate a frequency difference; no protective mechanism, human harm or benefit is established.
+
+SOURCE-BINDING SEMANTICS
+The seven preexisting canonical fingerprints were preserved. Their original full-rollout ingestion fingerprints are source-record version hashes, not raw PDF hashes (ingest.py50/83); an initial local verification assumption was corrected before content use. Actual raw PDF hashes were independently matched against original owned receipts/file manifests or held archive identity bindings. All printed DOIs were freshly checked. available-source-provenance.json records both types without treating an expected difference as source corruption. Plan-bound input hashes were verified before dependent work. No current scientific approval, retrospective acquisition approval or new source retrieval is asserted.
+
+PRESERVATION AND COUNTERS
+All 77 existing recovered-source raw JSON object spans and all 50 prior note raw value spans are byte-identical. All 50 normalized visible bodies match sealed snapshots. All 360 frozen output hashes verify:70+60+97+65+68. Previous committed research packets, studies/reviews/guides, all 70appraisal previews, dependency artifacts, robots/sitemap/hosting and analyzer are unchanged. Only actual payload counters change 77→80 sources/198→204 qualitative passages. Every other archive field stays unchanged, including 70previews,0human approvals,0formal grades,0new numeric claims released. Qualitative passage inspection does not constitute completed scientific appraisal. No test is weakened; own generated tsconfig.tsbuildinfo restored to base bytes.
+
+Only the exact seven existing target IDs are added to display-punctuation normalization, and only the exact ten receive new note/navigation entries. Their canonical text remains unchanged; all ten final visible bodies contain zero em/en dashes. Prior50rendered bodies remain equal. No shared directory, styles, fetching, hooks or client behavior changed. Existing note component, semantic links, stable IDs and keys are reused; relevant condensed React checklist is satisfied without unrelated refactors.
+
+VALIDATION
+Node 24.19.0 production build, content invariants and TypeScript noEmit PASS. Unchanged HTTP/SSR checker PASS 244routes plus expected unknown-source 404. Final exact ten saved GET bodies include notes, linked locators and pending review. Same analyzer88d45f1ff536c96ce1fbd2e8524aeda34f2e607061ef9fd4af72ad94c84770ed and wrapperc804f3aeeff18e75c849ab713407ca386bd296d34bd3fe86920c1df4dcde1c12; four approved hosts unchanged, UKHSA HELD under ELON 10:13. GET-only,max4workers,minimum0.25s perworker attempt,timeout25s,two retries,fail-closed robots beforeURL/redirect,noexternal sitemap or original-link following. min_words400/max_thin_cites2/claim_min_hits3,originalregex/exemptions unchanged. Local canonical_self=no is expected for preserved productioncanonicals, not a live issue.
+
+Root supported-IAB mobile verifies the stable seven at 390x844, then the final three after the explicit grant. Final3receipt binds exact immutable partial7hash3db3be408df1fbd7db9c2e2aa30fcd918a6ac8035b7baeb79b3d7792cb4e6f92. Seven visible bodies are also independently equal between partial and final builds. All ten have body/document 390,nooverflow,notes,twosourceURLlocators,no main em/en dashes and pendingreview. Restoredthree have no appraisalpreview. Root visually inspected R052/R149 then R054/R435, and read allthree new restored-note texts. Source limits retained. Bounded warn/error querieslimit 15 returned no entries; this is not network-wide error clearance. Temporarytabsclosed/defaultviewportreset; no source originals clicked/account actions/scientific approval. BROWSER.json combines and hashes both exact root receipts, while GET establishes HTTP status separately. Screenshots remain in tooltrace, no local image files.
+
+GATES
+Draft only. No merge/deploy/publish/credentials/outbound messages/productiondata/person actions. Receiver OFF. Scientific,numerical,human and release approvals pending;UKHSAHELD. No live improvement or measured turnaround effect claimed.

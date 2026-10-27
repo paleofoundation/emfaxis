@@ -1,0 +1,65 @@
+{
+  "method": "Fresh local pdftotext; selected original passages newly inspected, no public source file copying",
+  "checked_UTC": "2026-10-27T09:28:40.943862+00:00",
+  "rows": [
+    {
+      "id": "E02-T03-R222",
+      "source_sha256": "64cfb4a13f61a102a54bc2641becfb02abb601e885e262f726cbd2aa66b435ed",
+      "fresh_pdftotext_sha256": "d293439380eee12d957c4ea3441e8f6a2b308e67d1dd5f0d70cd261996e47c4a",
+      "physical_pages_inspected": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        14,
+        15,
+        16
+      ],
+      "method": "Newly extracted held PDF passages directly inspected; historical review not used as approval",
+      "locators": [
+        "Main PDF physical pages 6 and 14 to 16, statistical analysis, Discussion and Conclusions",
+        "Main PDF physical pages 2 to 4, exposure/design; pages 14 to 16, Discussion and Conclusions"
+      ]
+    },
+    {
+      "id": "E03-T06-R054",
+      "source_sha256": "eeee7b5a3711ee254069a25ae34cb8cc6320f32f3d38cdda3385400e4cebdf86",
+      "fresh_pdftotext_sha256": "56796d481eb073b6a90c176385431f14d080af39f931b340377cad9bcf6a712c",
+      "physical_pages_inspected": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "method": "Newly extracted held PDF passages directly inspected; historical review not used as approval",
+      "locators": [
+        "Main PDF physical pages 7 to 8, printed pages 346 to 347, Discussion and conclusion",
+        "Main PDF physical pages 3 to 4, printed pages 342 to 343, Methods"
+      ]
+    },
+    {
+      "id": "E05-T09-R435",
+      "source_sha256": "c578b867e3bf76abe996fd5cb95f0a425d54fc9ff72cdcb05a0e9af8289983c0",
+      "fresh_pdftotext_sha256": "e8633cfcb8109f71f7433ac981874b9fa079bd53c87d2ead0f765c3ccdd53ef3",
+      "physical_pages_inspected": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "method": "Newly extracted held PDF passages directly inspected; historical review not used as approval",
+      "locators": [
+        "Main PDF physical pages 6 to 10, Results, Figures and Conclusion",
+        "Main PDF physical page 5, Statistics; pages 8 to 10, Discussion and Conclusion"
+      ]
+    }
+  ]
+}

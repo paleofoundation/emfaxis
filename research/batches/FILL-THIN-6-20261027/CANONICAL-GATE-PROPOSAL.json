@@ -1,0 +1,121 @@
+{
+  "status": "UNAPPLIED; GATE REQUEST FIRST",
+  "base": "371310f56231ed1ed7cb4aabf7012a43c9bb863e",
+  "append_ids": [
+    "E02-T03-R222",
+    "E03-T06-R054",
+    "E05-T09-R435"
+  ],
+  "candidate_file": "work/fill-thin-6/canonical-restoration-candidates.json",
+  "candidate_sha256": "f68f361f5bcad567aaeff9806b8f83d20e97d9f2df54efb58e174dc5f0557386",
+  "scope": "Exactly3 absent-base records,2qualitativeclaims each. All77existing rawobjects and50note rawvalues/bodies unchanged; no review/preview import, acquisitions,numerical release or other record. Local404to200 only.",
+  "required_archive_counter_delta": {
+    "recovered_source_records": [
+      77,
+      80
+    ],
+    "checked_qualitative_claims": [
+      198,
+      204
+    ]
+  },
+  "other_archive_counters": "Unchanged70previews/0humanapprovals/0formalgrades/0newnumericrelease",
+  "proof": [
+    {
+      "id": "E02-T03-R222",
+      "native_title": "Assessment of Electrical Brain Activity of Healthy Volunteers Exposed to 3.5 GHz of 5G Signals within Environmental Levels: A Controlled–Randomised Study",
+      "PMID": "37754652",
+      "DOI": "10.3390/ijerph20186793",
+      "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/corpus/raw/64cfb4a13f61a102a54bc2641becfb02abb601e885e262f726cbd2aa66b435ed.pdf",
+      "source_sha256": "64cfb4a13f61a102a54bc2641becfb02abb601e885e262f726cbd2aa66b435ed",
+      "native_metadata_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/continuation-v6/a/R222/PMC10530694.1.xml",
+      "native_metadata_sha256": "00b15487d487c80a7c5c27433bc6f01c8a048da8f723852e2fe8321bc5c5cdc4",
+      "historical_review_hash": "63ad570bcfc17158520375e580e95c622556dd96204fa2c0c994f4618d51d5f3",
+      "current_review_file_hash": "cf5468c38cba20399fb7af75784d5139787fafecf7519bddd1347f16eb66f636",
+      "review_hash_matches": false,
+      "scientific_approval": false,
+      "numeric_release": false,
+      "human_review": "pending",
+      "candidate_claims": [
+        {
+          "id": "FILL-THIN-6-E02-T03-R222-C01",
+          "text": "Isolated nominal electrode differences did not survive the reported cluster-based correction in the resting EEG analysis. This distinction should remain visible alongside the overall nonsignificant pattern.",
+          "locator": "Main PDF physical pages 6 and 14 to 16, statistical analysis, Discussion and Conclusions",
+          "basis": "full_text",
+          "scientific_review": "pending"
+        },
+        {
+          "id": "FILL-THIN-6-E02-T03-R222-C02",
+          "text": "The tested laboratory exposure and resting physiological measurements do not establish effects on cognition, a clinical sleep disorder or chronic exposure. Complete scientific, numerical and human review remain pending.",
+          "locator": "Main PDF physical pages 2 to 4, exposure/design; pages 14 to 16, Discussion and Conclusions",
+          "basis": "full_text",
+          "scientific_review": "pending"
+        }
+      ]
+    },
+    {
+      "id": "E03-T06-R054",
+      "native_title": "Prenatal cell phone use and developmental milestone delays among infants.",
+      "PMID": "21403981",
+      "DOI": "10.5271/sjweh.3157",
+      "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/corpus/raw/eeee7b5a3711ee254069a25ae34cb8cc6320f32f3d38cdda3385400e4cebdf86.pdf",
+      "source_sha256": "eeee7b5a3711ee254069a25ae34cb8cc6320f32f3d38cdda3385400e4cebdf86",
+      "native_metadata_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/continuation-v6/b/r054/europepmc-core.json",
+      "native_metadata_sha256": "9ae415f671750f354302f1865e6903f165556c269187dda0091409df48ccbda7",
+      "historical_review_hash": "2d8ae67d251b4f733e74477bf8254420bb20c70b2e1349817759adf9aaa9b26e",
+      "current_review_file_hash": "b6b4d8b02a15e3421e30f68fd48c60e835b41147ca65732497e4a1f45c2e13bd",
+      "review_hash_matches": false,
+      "scientific_approval": false,
+      "numeric_release": false,
+      "human_review": "pending",
+      "candidate_claims": [
+        {
+          "id": "FILL-THIN-6-E03-T06-R054-C01",
+          "text": "The cohort report found no coherent overall adverse association or use-pattern gradient for the early reported motor and cognitive/language milestones. This observational pattern is not a universal prenatal safety finding.",
+          "locator": "Main PDF physical pages 7 to 8, printed pages 346 to 347, Discussion and conclusion",
+          "basis": "full_text",
+          "scientific_review": "pending"
+        },
+        {
+          "id": "FILL-THIN-6-E03-T06-R054-C02",
+          "text": "Infant milestone outcomes were recorded before the later questionnaire asking mothers to recall pregnancy phone use. Recalled behavior is not measured fetal absorbed dose, and the questionnaire outcomes are not a clinical developmental examination.",
+          "locator": "Main PDF physical pages 3 to 4, printed pages 342 to 343, Methods",
+          "basis": "full_text",
+          "scientific_review": "pending"
+        }
+      ]
+    },
+    {
+      "id": "E05-T09-R435",
+      "native_title": "Do 50/60 Hz magnetic fields influence oxidative or DNA damage responses in human SH-SY5Y neuroblastoma cells?",
+      "PMID": "35320060",
+      "DOI": "10.1080/09553002.2022.2055803",
+      "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/corpus/raw/c578b867e3bf76abe996fd5cb95f0a425d54fc9ff72cdcb05a0e9af8289983c0.pdf",
+      "source_sha256": "c578b867e3bf76abe996fd5cb95f0a425d54fc9ff72cdcb05a0e9af8289983c0",
+      "native_metadata_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/continuation-v6/c/r435/epmc.json",
+      "native_metadata_sha256": "f1cd0a81c7beb129b9f6ffcfabba4ace75c581ea8f3fe21732c1398f48a0f528",
+      "historical_review_hash": "7ca5172464a1cfcc2ecd81c680415065115fdcf0f93252b7591861d0e8c6b021",
+      "current_review_file_hash": "4a4822e40bee4dbc972b749801df82b83f4bfef7d58f0eb7c893485d682058d8",
+      "review_hash_matches": false,
+      "scientific_approval": false,
+      "numeric_release": false,
+      "human_review": "pending",
+      "candidate_claims": [
+        {
+          "id": "FILL-THIN-6-E05-T09-R435-C01",
+          "text": "The report found no significant magnetic-field difference in comet-assay DNA damage or repair, or cytosolic superoxide. A lower chemically challenged ROS signal and small exploratory gene changes were observed without establishing a protective mechanism.",
+          "locator": "Main PDF physical pages 6 to 10, Results, Figures and Conclusion",
+          "basis": "full_text",
+          "scientific_review": "pending"
+        },
+        {
+          "id": "FILL-THIN-6-E05-T09-R435-C02",
+          "text": "The gene-expression screening was explicitly exploratory and used no multiple-testing correction. Results in transformed cell cultures do not establish human disease effects, and different significance results at the tested frequencies do not by themselves establish a frequency difference.",
+          "locator": "Main PDF physical page 5, Statistics; pages 8 to 10, Discussion and Conclusion",
+          "basis": "full_text",
+          "scientific_review": "pending"
+        }
+      ]
+    }
+  ]
+}

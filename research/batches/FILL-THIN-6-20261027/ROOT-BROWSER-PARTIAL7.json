@@ -1,0 +1,89 @@
+{
+  "atUTC": "2026-10-27T09:36:12.383812+00:00",
+  "preview": "http://127.0.0.1:5177",
+  "browser": "supported IAB temporarytab11 nowclosed/viewportreset",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "checks": [
+    {
+      "path": "/research/E01-T01-R127",
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "notesPresent": true,
+      "externalNoteLinks": 2,
+      "publicEmEnDashes": 0,
+      "reviewPending": true
+    },
+    {
+      "path": "/research/E03-T06-R073",
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "notesPresent": true,
+      "externalNoteLinks": 2,
+      "publicEmEnDashes": 0,
+      "reviewPending": true
+    },
+    {
+      "path": "/research/E02-T03-R147",
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "notesPresent": true,
+      "externalNoteLinks": 2,
+      "publicEmEnDashes": 0,
+      "reviewPending": true
+    },
+    {
+      "path": "/research/E03-T06-R149",
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "notesPresent": true,
+      "externalNoteLinks": 2,
+      "publicEmEnDashes": 0,
+      "reviewPending": true
+    },
+    {
+      "path": "/research/E06-T11-R168",
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "notesPresent": true,
+      "externalNoteLinks": 2,
+      "publicEmEnDashes": 0,
+      "reviewPending": true
+    },
+    {
+      "path": "/research/E01-T01-R022",
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "notesPresent": true,
+      "externalNoteLinks": 2,
+      "publicEmEnDashes": 0,
+      "reviewPending": true
+    },
+    {
+      "path": "/research/E04-T08-R052",
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "notesPresent": true,
+      "externalNoteLinks": 2,
+      "publicEmEnDashes": 0,
+      "reviewPending": true
+    }
+  ],
+  "visualSections": [
+    "/research/E04-T08-R052#reading-notes",
+    "/research/E03-T06-R149#reading-notes"
+  ],
+  "visualResult": "Two inspected new-note sections readable and source-linked without horizontal overflow/clipping. R149 phone-rating versus fetal dose/cutoff limitations retained; numerical estimates explicitly withheld.",
+  "boundedConsole": {
+    "queryLimit": 15,
+    "levels": [
+      "warn",
+      "error"
+    ],
+    "entries": [],
+    "limitation": "Bounded empty console query is not a global network error clearance"
+  },
+  "scope": "PARTIAL7only;E02-T03-R222/E03-T06-R054/E05-T09-R435 remain gated/missing, no whole10pass. No scientific/human/releaseapproval."
+}

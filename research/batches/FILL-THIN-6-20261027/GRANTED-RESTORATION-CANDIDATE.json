@@ -1,0 +1,104 @@
+[
+  {
+    "id": "E02-T03-R222",
+    "title": "Assessment of Electrical Brain Activity of Healthy Volunteers Exposed to 3.5 GHz of 5G Signals within Environmental Levels: A Controlled-Randomised Study",
+    "authors": "Jamal Layla; Yahia-Cherif Lydia; Hugueville Laurent; Mazet Paul; Lévêque Philippe; Selmaoui Brahim",
+    "year": "2023",
+    "doi": "10.3390/ijerph20186793",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10530694/",
+    "source_type": "human_experiment",
+    "access_basis": "owner_supplied_full_text",
+    "checked_at": "2026-10-27",
+    "review_status": "selected_source_passages_inspected; scientific_review_pending",
+    "fingerprint": "64cfb4a13f61a102a54bc2641becfb02abb601e885e262f726cbd2aa66b435ed",
+    "integrity_status": "Exact held PDF/native identity matched; selected passages freshly inspected; no scientific, numerical or human approval asserted",
+    "scope": "Acute far-field laboratory carrier and sham in selected healthy adults, measuring resting waking EEG rather than cognition, sleep diagnosis or chronic disease.",
+    "limitations": "Selected healthy volunteers, a specified acute laboratory signal and physiological endpoints limit transfer to other populations, waveforms or clinical outcomes. Corrected-output reproducibility and full scientific, numerical and human review remain pending.",
+    "citation": "Jamal Layla; Yahia-Cherif Lydia; Hugueville Laurent; Mazet Paul; Lévêque Philippe; Selmaoui Brahim. Assessment of Electrical Brain Activity of Healthy Volunteers Exposed to 3.5 GHz of 5G Signals within Environmental Levels: A Controlled-Randomised Study 2023. DOI: 10.3390/ijerph20186793.",
+    "claims": [
+      {
+        "id": "FILL-THIN-6-E02-T03-R222-C01",
+        "text": "Isolated nominal electrode differences did not survive the reported cluster-based correction in the resting EEG analysis. This distinction should remain visible alongside the overall nonsignificant pattern.",
+        "locator": "Main PDF physical pages 6 and 14 to 16, statistical analysis, Discussion and Conclusions",
+        "basis": "full_text",
+        "scientific_review": "pending"
+      },
+      {
+        "id": "FILL-THIN-6-E02-T03-R222-C02",
+        "text": "The tested laboratory exposure and resting physiological measurements do not establish effects on cognition, a clinical sleep disorder or chronic exposure. Complete scientific, numerical and human review remain pending.",
+        "locator": "Main PDF physical pages 2 to 4, exposure/design; pages 14 to 16, Discussion and Conclusions",
+        "basis": "full_text",
+        "scientific_review": "pending"
+      }
+    ],
+    "pages": []
+  },
+  {
+    "id": "E03-T06-R054",
+    "title": "Prenatal cell phone use and developmental milestone delays among infants.",
+    "authors": "Divan HA, Kheifets L, Olsen J.",
+    "year": "2011",
+    "doi": "10.5271/sjweh.3157",
+    "url": "https://doi.org/10.5271/sjweh.3157",
+    "source_type": "cohort_study",
+    "access_basis": "owner_supplied_full_text",
+    "checked_at": "2026-10-27",
+    "review_status": "selected_source_passages_inspected; scientific_review_pending",
+    "fingerprint": "eeee7b5a3711ee254069a25ae34cb8cc6320f32f3d38cdda3385400e4cebdf86",
+    "integrity_status": "Exact held PDF/native identity matched; selected passages freshly inspected; no scientific, numerical or human approval asserted",
+    "scope": "Historical Danish birth-cohort analysis of recalled maternal phone use during pregnancy and early maternally reported developmental milestones.",
+    "limitations": "Late exposure recall, questionnaire-based outcomes, participation and missing data constrain interpretation. Numerical reporting differences remain unreconciled; same-cohort reports are not independent replications. Scientific, numerical and human review remain pending.",
+    "citation": "Divan HA, Kheifets L, Olsen J.. Prenatal cell phone use and developmental milestone delays among infants. 2011. DOI: 10.5271/sjweh.3157.",
+    "claims": [
+      {
+        "id": "FILL-THIN-6-E03-T06-R054-C01",
+        "text": "The cohort report found no coherent overall adverse association or use-pattern gradient for the early reported motor and cognitive/language milestones. This observational pattern is not a universal prenatal safety finding.",
+        "locator": "Main PDF physical pages 7 to 8, printed pages 346 to 347, Discussion and conclusion",
+        "basis": "full_text",
+        "scientific_review": "pending"
+      },
+      {
+        "id": "FILL-THIN-6-E03-T06-R054-C02",
+        "text": "Infant milestone outcomes were recorded before the later questionnaire asking mothers to recall pregnancy phone use. Recalled behavior is not measured fetal absorbed dose, and the questionnaire outcomes are not a clinical developmental examination.",
+        "locator": "Main PDF physical pages 3 to 4, printed pages 342 to 343, Methods",
+        "basis": "full_text",
+        "scientific_review": "pending"
+      }
+    ],
+    "pages": []
+  },
+  {
+    "id": "E05-T09-R435",
+    "title": "Do 50/60 Hz magnetic fields influence oxidative or DNA damage responses in human SH-SY5Y neuroblastoma cells?",
+    "authors": "Mustafa E, Makinistian L, Luukkonen J, Juutilainen J, Naarala J.",
+    "year": "2022",
+    "doi": "10.1080/09553002.2022.2055803",
+    "url": "https://doi.org/10.1080/09553002.2022.2055803",
+    "source_type": "human_cell_experiment",
+    "access_basis": "owner_supplied_full_text",
+    "checked_at": "2026-10-27",
+    "review_status": "selected_source_passages_inspected; scientific_review_pending",
+    "fingerprint": "c578b867e3bf76abe996fd5cb95f0a425d54fc9ff72cdcb05a0e9af8289983c0",
+    "integrity_status": "Exact held PDF/native identity matched; selected passages freshly inspected; no scientific, numerical or human approval asserted",
+    "scope": "Power-frequency magnetic-field and sham comparisons in a human neuroblastoma cell line, with and without a menadione challenge; laboratory assays rather than recruited people or clinical disease.",
+    "limitations": "Few independent culture experiments, exploratory unadjusted gene comparisons and unavailable supplementary tables limit interpretation. A lower fluorescence response after chemical challenge is not proof of cancer protection or human benefit. Scientific, numerical and human review remain pending.",
+    "citation": "Mustafa E, Makinistian L, Luukkonen J, Juutilainen J, Naarala J.. Do 50/60 Hz magnetic fields influence oxidative or DNA damage responses in human SH-SY5Y neuroblastoma cells? 2022. DOI: 10.1080/09553002.2022.2055803.",
+    "claims": [
+      {
+        "id": "FILL-THIN-6-E05-T09-R435-C01",
+        "text": "The report found no significant magnetic-field difference in comet-assay DNA damage or repair, or cytosolic superoxide. A lower chemically challenged ROS signal and small exploratory gene changes were observed without establishing a protective mechanism.",
+        "locator": "Main PDF physical pages 6 to 10, Results, Figures and Conclusion",
+        "basis": "full_text",
+        "scientific_review": "pending"
+      },
+      {
+        "id": "FILL-THIN-6-E05-T09-R435-C02",
+        "text": "The gene-expression screening was explicitly exploratory and used no multiple-testing correction. Results in transformed cell cultures do not establish human disease effects, and different significance results at the tested frequencies do not by themselves establish a frequency difference.",
+        "locator": "Main PDF physical page 5, Statistics; pages 8 to 10, Discussion and Conclusion",
+        "basis": "full_text",
+        "scientific_review": "pending"
+      }
+    ],
+    "pages": []
+  }
+]
