@@ -1,0 +1,53 @@
+{
+  "status": "PASS",
+  "across_granted_restoration_and_target_punctuation_repair": [
+    {
+      "path": "/research/E01-T01-R251",
+      "expected_visible_body_equal": true,
+      "expected_change": "No visible body change across grant",
+      "final_body_sha256": "18d812c8a3a634e484ec93567c1da519784d8c0d8ba22028dfd46210c41cbf5c"
+    },
+    {
+      "path": "/research/E02-T03-R018",
+      "expected_visible_body_equal": true,
+      "expected_change": "No visible body change across grant",
+      "final_body_sha256": "05188869589b048786eb78bc1b2f4d610b70a42dd00cb6d0636d736b1cd5f72f"
+    },
+    {
+      "path": "/research/E01-T01-R257",
+      "expected_visible_body_equal": true,
+      "expected_change": "Inherited related-title em dash normalized to colon only",
+      "final_body_sha256": "c00e806fc07e42b50340c51290dccc3602bd39dde2cc45626b9ca93b14039c17"
+    },
+    {
+      "path": "/research/E05-T09-R078",
+      "expected_visible_body_equal": true,
+      "expected_change": "No visible body change across grant",
+      "final_body_sha256": "e433fb515647271e850c020b40856b7a1703cf0c95e2fb65c8f2f02a7232146c"
+    },
+    {
+      "path": "/research/E05-T09-R513",
+      "expected_visible_body_equal": true,
+      "expected_change": "No visible body change across grant",
+      "final_body_sha256": "2b2986d4c906728c83d535bfc7b41cc9f63500038ea9994cc65b803d607efff0"
+    },
+    {
+      "path": "/research/E06-T12-R016",
+      "expected_visible_body_equal": true,
+      "expected_change": "Only new R016 supplementary locator made explicit",
+      "final_body_sha256": "3066173c8714186fefb7a392960c8a4287ec057a233587ac9bf6a72ac7d9d343"
+    },
+    {
+      "path": "/research/E03-T05-R222",
+      "expected_visible_body_equal": true,
+      "expected_change": "No visible body change across grant",
+      "final_body_sha256": "49e3e578bc90be81f143e9bc6a30e95104e8819e810890f11807f84c150fb7fa"
+    },
+    {
+      "path": "/research/E02-T04-R161",
+      "expected_visible_body_equal": true,
+      "expected_change": "Only new R161 note archive-basis wording narrowed",
+      "final_body_sha256": "37b6c2777774c49b526a710066dfe2a3771fb85ce2b8031f17d83659b9c4fc05"
+    }
+  ]
+}

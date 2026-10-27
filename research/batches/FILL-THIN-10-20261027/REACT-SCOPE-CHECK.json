@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "scope": "Existing RecoveredRecord exact selected IDs only",
+  "new_hooks_or_state": false,
+  "new_network_or_effects": false,
+  "semantic_component": "Existing SourceReadingNotes headings, stable keys, source anchors and locators",
+  "related_title_guard": "R212 existing plus selected R257 only; original94canonical raw objects unchanged",
+  "unrelated_refactors": false,
+  "diff_sha256": "cb517c18aa973fc26d34dc5fc82831b5f077713f5ab85ddd4e37e822344013a0",
+  "existing94_raw_spans_unchanged": true,
+  "final_sources": 96,
+  "new_numerical_claims": false
+}

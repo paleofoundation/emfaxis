@@ -1,0 +1,40 @@
+{
+  "id": "FILL-THIN-10",
+  "base": "109c3ca0e27877ccffdf93a225cd48f23d2ded8e",
+  "branch": "codex/fill-thin-10",
+  "site_positions": [
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100
+  ],
+  "urls": [
+    "https://emfaxis.com/research/E01-T01-R251",
+    "https://emfaxis.com/research/E02-T03-R018",
+    "https://emfaxis.com/research/E01-T01-R257",
+    "https://emfaxis.com/research/E03-T05-R176",
+    "https://emfaxis.com/research/E05-T09-R078",
+    "https://emfaxis.com/research/E05-T09-R513",
+    "https://emfaxis.com/research/E06-T11-R227",
+    "https://emfaxis.com/research/E06-T12-R016",
+    "https://emfaxis.com/research/E03-T05-R222",
+    "https://emfaxis.com/research/E02-T04-R161"
+  ],
+  "absent_base_canonical": [
+    "E03-T05-R176",
+    "E06-T11-R227"
+  ],
+  "prior_counts": {
+    "raw_sources": 94,
+    "note_objects": 90,
+    "qualitative_passages": 232,
+    "frozen_output_entries": 653
+  },
+  "policy": "Held corpus, source links and locators per addition, no invented facts/new numerical claims/PDF hosting/public em/en; GATE FIRST absent canonical; prior94raw/90notes+bodies/653hashes unchanged; analyzer/fourhosts unchanged UKHSAHELD"
+}

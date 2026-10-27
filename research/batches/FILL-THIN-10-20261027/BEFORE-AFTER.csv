@@ -1,0 +1,11 @@
+url,frozen_live_words,built_before_status,built_before_words,built_after_status,built_after_words,word_delta,recognized_cites_before,recognized_cites_after,before_thin,after_thin,after_reasons,after_stub,actual_known_source_links_before,actual_unique_source_docs_before,actual_known_source_links_after,actual_unique_source_docs_after,local_restoration,canonical,raw_canonical_self
+https://emfaxis.com/research/E01-T01-R251,666,200,663,200,884,221,2,4,yes,no,,no,2,1,4,1,False,https://emfaxis.com/research/E01-T01-R251,no
+https://emfaxis.com/research/E02-T03-R018,668,200,657,200,854,197,2,4,yes,no,,no,2,1,4,1,False,https://emfaxis.com/research/E02-T03-R018,no
+https://emfaxis.com/research/E01-T01-R257,673,200,668,200,887,219,2,4,yes,no,,no,2,1,4,1,False,https://emfaxis.com/research/E01-T01-R257,no
+https://emfaxis.com/research/E03-T05-R176,676,404,,200,686,,,4,,no,,no,,,4,1,True,https://emfaxis.com/research/E03-T05-R176,no
+https://emfaxis.com/research/E05-T09-R078,683,200,676,200,900,224,2,4,yes,no,,no,2,1,4,1,False,https://emfaxis.com/research/E05-T09-R078,no
+https://emfaxis.com/research/E05-T09-R513,684,200,679,200,907,228,2,4,yes,no,,no,2,1,4,1,False,https://emfaxis.com/research/E05-T09-R513,no
+https://emfaxis.com/research/E06-T11-R227,684,404,,200,748,,,4,,no,,no,,,4,1,True,https://emfaxis.com/research/E06-T11-R227,no
+https://emfaxis.com/research/E06-T12-R016,684,200,677,200,902,225,2,4,yes,no,,no,2,1,4,1,False,https://emfaxis.com/research/E06-T12-R016,no
+https://emfaxis.com/research/E03-T05-R222,698,200,691,200,909,218,2,4,yes,no,,no,2,1,4,1,False,https://emfaxis.com/research/E03-T05-R222,no
+https://emfaxis.com/research/E02-T04-R161,699,200,698,200,937,239,2,4,yes,no,,no,2,1,4,1,False,https://emfaxis.com/research/E02-T04-R161,no

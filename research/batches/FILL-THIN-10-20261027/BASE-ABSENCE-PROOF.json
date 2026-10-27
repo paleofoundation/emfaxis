@@ -1,0 +1,10 @@
+{
+  "base": "109c3ca0e27877ccffdf93a225cd48f23d2ded8e",
+  "source_count": 94,
+  "absent_ids": [
+    "E03-T05-R176",
+    "E06-T11-R227"
+  ],
+  "current_canonical_file_sha256": "29e9be6b4d4a7db331ec0f336795c09bf054c3e969c417b5c4cf76099f762e94",
+  "candidate_applied": false
+}
