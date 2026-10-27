@@ -1,0 +1,28 @@
+{
+  "id": "FILL-THIN-3",
+  "base": "a2c90f78cf0f07960985631d9f0ce6aa20f66946",
+  "branch": "codex/fill-thin-3",
+  "urls": [
+    "https://emfaxis.com/research/headache",
+    "https://emfaxis.com/research/icnirp-rf",
+    "https://emfaxis.com/research/rahban",
+    "https://emfaxis.com/research/greenland",
+    "https://emfaxis.com/research/foph-wlan",
+    "https://emfaxis.com/research/hermes",
+    "https://emfaxis.com/research/interphone",
+    "https://emfaxis.com/research/cosmos",
+    "https://emfaxis.com/research/foph-mobile",
+    "https://emfaxis.com/guides"
+  ],
+  "audit": {
+    "workers": 4,
+    "delay": 0.25,
+    "timeout": 25,
+    "retries": 2,
+    "min_words": 400,
+    "max_thin_cites": 2,
+    "claim_min_hits": 3
+  },
+  "UKHSA": "GATE pending, no gov.uk broadening",
+  "preserve": "Prior20 note objects; frozen first2 packets; scientific/human/release gates"
+}

@@ -1,0 +1,125 @@
+{
+  "at_UTC": "2026-10-27T08:06:20.953325+00:00",
+  "browser": "supported IAB temporarytab4",
+  "preview": "http://127.0.0.1:5177",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "checks": [
+    {
+      "path": "/research/headache",
+      "viewport": 390,
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "readingNotes": true,
+      "externalNoteLinks": 2,
+      "publicEmEnDashes": 0,
+      "reviewPending": true
+    },
+    {
+      "path": "/research/icnirp-rf",
+      "viewport": 390,
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "readingNotes": true,
+      "externalNoteLinks": 2,
+      "publicEmEnDashes": 0,
+      "reviewPending": true
+    },
+    {
+      "path": "/research/rahban",
+      "viewport": 390,
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "readingNotes": true,
+      "externalNoteLinks": 2,
+      "publicEmEnDashes": 0,
+      "reviewPending": true
+    },
+    {
+      "path": "/research/greenland",
+      "viewport": 390,
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "readingNotes": true,
+      "externalNoteLinks": 2,
+      "publicEmEnDashes": 0,
+      "reviewPending": true
+    },
+    {
+      "path": "/research/foph-wlan",
+      "viewport": 390,
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "readingNotes": true,
+      "externalNoteLinks": 2,
+      "publicEmEnDashes": 0,
+      "reviewPending": true
+    },
+    {
+      "path": "/research/hermes",
+      "viewport": 390,
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "readingNotes": true,
+      "externalNoteLinks": 2,
+      "publicEmEnDashes": 0,
+      "reviewPending": true
+    },
+    {
+      "path": "/research/interphone",
+      "viewport": 390,
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "readingNotes": true,
+      "externalNoteLinks": 2,
+      "publicEmEnDashes": 0,
+      "reviewPending": true
+    },
+    {
+      "path": "/research/cosmos",
+      "viewport": 390,
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "readingNotes": true,
+      "externalNoteLinks": 2,
+      "publicEmEnDashes": 0,
+      "reviewPending": true
+    },
+    {
+      "path": "/research/foph-mobile",
+      "viewport": 390,
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "readingNotes": true,
+      "externalNoteLinks": 2,
+      "publicEmEnDashes": 0,
+      "reviewPending": true
+    },
+    {
+      "path": "/guides",
+      "viewport": 390,
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "readingNotes": true,
+      "externalNoteLinks": 3,
+      "publicEmEnDashes": 0,
+      "reviewPending": true
+    }
+  ],
+  "visualSections": [
+    "/research/hermes#reading-notes",
+    "/guides#reading-notes"
+  ],
+  "visualResult": "Source-linked new paragraphs and locators readable, no clipping or overflow observed in inspected sections.",
+  "warnErrorLogRead": {
+    "limit": 15,
+    "entries": []
+  },
+  "cleanup": {
+    "viewportReset": "1280x720 default",
+    "temporaryTabClosed": true
+  },
+  "scope": "Local DOM and representative screenshots only; no HTTP status inferred, original-source links unclicked, no account/person/release or scientificapproval. Screenshots displayed in tooltrace, not saved."
+}

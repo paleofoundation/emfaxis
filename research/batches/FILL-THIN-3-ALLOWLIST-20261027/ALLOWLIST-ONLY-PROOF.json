@@ -1,0 +1,8 @@
+{
+  "original_sha256": "2b25ab36f6591acbe49ddaf856f04399f32497b5d00a36315506d7e27be460fc",
+  "candidate_sha256": "88d45f1ff536c96ce1fbd2e8524aeda34f2e607061ef9fd4af72ad94c84770ed",
+  "only_change": "Four approved hostname entries",
+  "ast_equal_except_CITATION_HOSTS": true,
+  "UKHSA": "not applied; GATE pending; gov.uk absent",
+  "external_original_unchanged": true
+}

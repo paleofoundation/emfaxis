@@ -1,0 +1,29 @@
+# UNAPPLIED PROPOSAL ONLY. Requires explicit analyzer-logic exception.
+# Original lines67-73 and270 in thin_audit.py. No production change applied.
+-def host_is_citation(host):
++def host_is_citation(host):
+     # Existing predicate unchanged for current and four approved added hosts.
+     ...
++
++# Exact held-corpus URLs, with publisher evidence reviewed before entry.
++UKHSA_VERIFIED_PUBLICATION_URLS = {
++    'https://www.gov.uk/government/publications/smart-meters-radio-waves-and-health/smart-meters-radio-waves-and-health',
++}
++
++def url_is_citation(url):
++    parsed = urlparse(url)
++    if host_is_citation(parsed.netloc):
++        return True
++    if parsed.scheme not in ('http', 'https') or parsed.hostname not in ('gov.uk', 'www.gov.uk'):
++        return False
++    path = parsed.path.rstrip('/')
++    if path == '/government/organisations/uk-health-security-agency':
++        return True
++    canonical = 'https://www.gov.uk' + path
++    return (path.startswith('/government/publications/') or path.startswith('/guidance/')) and canonical in UKHSA_VERIFIED_PUBLICATION_URLS
+-
+-        if p.scheme in ('http', 'https') and host_is_citation(p.netloc):
++        if p.scheme in ('http', 'https') and url_is_citation(urljoin(r.url, a['href'])):
+# Exact publisher-map metadata would record held snapshot SHA and From: UK Health Security Agency locator.
+# Unknown publishers / unlisted URLs / unrelated gov.uk pages remain unrecognized.
+# RECOMMENDED simpler resolution: explicit UKHSA HOLD, list-only four-domain change proceeds.

@@ -1,0 +1,207 @@
+[
+  {
+    "url": "https://emfaxis.com/research/headache",
+    "sections": [
+      {
+        "title": "Reading the symptom comparison",
+        "paragraphs": [
+          {
+            "text": "The selected participants reported phone-related headache or discomfort and underwent an open exposure test before the blinded comparisons. The report found no demonstrated difference between the tested radiofrequency and sham conditions. That result concerns symptoms in this selected group under an acute protocol; it does not identify the medical cause of every headache.",
+            "source": "headache",
+            "locator": "Saved publisher PDF web extraction, physical page 7, lines 649 to 662"
+          },
+          {
+            "text": "The authors proposed negative expectations as an explanation. They also acknowledged that the study could not properly isolate a nocebo effect: symptoms during open radiofrequency exposure were an entry criterion, and there was no open sham comparison. Their interpretation should therefore remain separate from an experimentally demonstrated explanation for each participant.",
+            "source": "headache",
+            "locator": "Saved publisher PDF web extraction, physical page 7, lines 611 to 627"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://emfaxis.com/research/icnirp-rf",
+    "sections": [
+      {
+        "title": "Read the quantity before the limit",
+        "paragraphs": [
+          {
+            "text": "ICNIRP separates exposure outside the body from energy absorbed within it. Its basic restrictions concern absorbed quantities, while reference levels describe external fields and are derived using exposure assumptions. A field reading and a specific absorption rate therefore answer different measurement questions. The relevant frequency, exposed body region and averaging conditions belong with any comparison to the guidance.",
+            "source": "icnirp-rf",
+            "locator": "HTML Protection; Frequency range and use"
+          },
+          {
+            "text": "The protection discussion addresses excessive whole-body and local heating. It describes conservative factors used when deriving restrictions from adverse-effect thresholds. This is an explanation of ICNIRP's framework, rather than a fresh study or a measurement of a particular reader's exposure. Using the framework for a device or workplace still requires the relevant exposure information and assessment conditions.",
+            "source": "icnirp-rf",
+            "locator": "HTML Protection; RF EMF effects on the body and health implications"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://emfaxis.com/research/rahban",
+    "sections": [
+      {
+        "title": "Phone habits and semen endpoints",
+        "paragraphs": [
+          {
+            "text": "The questionnaire recorded reported phone-use frequency and usual carrying position. Those categories are behavior measures, not a continuous record of transmission or absorbed dose. Semen testing at the examination supplies a different kind of measurement. Keeping the questionnaire exposure and laboratory outcome distinct helps explain why this cross-sectional comparison cannot by itself establish that radiofrequency exposure caused an individual result.",
+            "source": "rahban",
+            "locator": "Original PDF physical pages 3 and 8, questionnaire and statistical methods"
+          },
+          {
+            "text": "The analysis considered several semen characteristics and different model comparisons. A reference threshold for a laboratory parameter is not an observed probability of conception. The authors discuss limitations including reported use and changes over the recruitment period. These distinctions constrain transfer from an association in sampled young men to a diagnosis of infertility or a claim about carrying a phone in a pocket.",
+            "source": "rahban",
+            "locator": "Original PDF physical pages 8 to 11, results and discussion"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://emfaxis.com/research/greenland",
+    "sections": [
+      {
+        "title": "Pooled records and exposure categories",
+        "paragraphs": [
+          {
+            "text": "The abstract describes reuse of original individual records from several studies. It distinguishes estimated magnetic-field exposure from wire-code classifications, and reports that the wire-code associations varied across studies. These are related exposure approaches within the analysis, not interchangeable measurements or separate independent confirmations of the same result.",
+            "source": "greenland",
+            "locator": "Held Europe PMC core abstract, PMID 11055621, opening methods and wire-code results"
+          },
+          {
+            "text": "The authors suggest that any appreciable association may be concentrated in relatively high and uncommon exposures, and call for better information on highly exposed populations. That bounded conclusion should travel with the higher-category finding. The abstract does not provide enough detail to clear the complete methods, tables or exact overlap with other pooled analyses. No new numerical estimate or causal conclusion is added here.",
+            "source": "greenland",
+            "locator": "Held Europe PMC core abstract, PMID 11055621, concluding sentences; abstract-only source scope"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://emfaxis.com/research/foph-wlan",
+    "sections": [
+      {
+        "title": "Network operation and measurement",
+        "paragraphs": [
+          {
+            "text": "The FOPH fact sheet relates WLAN emissions to traffic and the network's transmission and reception characteristics. Its exposure summary distinguishes laboratory conditions from everyday measurements. A router's nominal output or a device's presence therefore does not, by itself, describe the exposure at a person's location. The sheet's interpretation is an agency assessment of the evidence it discusses, not a new certainty grade assigned by this site.",
+            "source": "foph-wlan",
+            "locator": "PDF physical page 1, operating description and exposure/evidence summary"
+          },
+          {
+            "text": "The additional-information section warns against inferring exposure from the number and displayed strength of nearby networks. It also describes the difficulty of measuring wireless-device emissions with ordinary handheld equipment. Read those measurement limits alongside the optional exposure-reduction suggestions. The fact sheet explicitly separates suggestions for personal preference from measures it considers necessary to prevent an established WLAN health risk.",
+            "source": "foph-wlan",
+            "locator": "PDF physical pages 1 to 2, suggestions preamble and Additional information"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://emfaxis.com/research/hermes",
+    "sections": [
+      {
+        "title": "Memory tests and modeled dose",
+        "paragraphs": [
+          {
+            "text": "HERMES assessed changes in verbal and figural memory tests in adolescents. Its exposure estimate combined reported device use, operator information for a subset and dose modeling. A modeled brain-dose estimate is not an assigned exposure or a continuous direct measurement within the brain. The outcome is performance on specified tests, rather than a diagnosis of neurological injury.",
+            "source": "hermes",
+            "locator": "Original PDF physical pages 1 to 4, Abstract and Materials and Methods"
+          },
+          {
+            "text": "The paper explicitly compares this analysis with an earlier HERMES wave and describes changes in dose estimation. Shared programme participants mean the reports should not automatically count as independent replication. Operator information improves some use data but comes from a subset, while model uncertainty and differences between cognitive tests remain. Those qualifications matter when interpreting a more suggestive subgroup alongside the full-sample result.",
+            "source": "hermes",
+            "locator": "Original PDF physical page 11, Comparison with Previous Analysis and Brain Exposure"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://emfaxis.com/research/interphone",
+    "sections": [
+      {
+        "title": "Recalled use and causal interpretation",
+        "paragraphs": [
+          {
+            "text": "INTERPHONE compared interviews about earlier phone use among brain-tumour cases and controls. In its abstract, the authors discuss lower estimates for regular use alongside a higher glioma estimate in the greatest recalled call-time category. They identify implausible reported use in that category and possible participation bias in the overall comparisons. Neither pattern should be selected without the accompanying qualification.",
+            "source": "interphone",
+            "locator": "Held Europe PMC core abstract, PMID 20483835, Methods and Results"
+          },
+          {
+            "text": "The abstract concludes that biases and error prevent a causal interpretation of the suggestion at the highest exposure levels. It calls for further investigation of long-term heavy use. This record retains its abstract-based scope: a bibliographic link or an available publisher address does not show that the full methods, tables and supplementary material were checked. The limitations apply to both reassuring and concerning readings of the result.",
+            "source": "interphone",
+            "locator": "Held Europe PMC core abstract, PMID 20483835, Conclusions; abstract-only source scope"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://emfaxis.com/research/cosmos",
+    "sections": [
+      {
+        "title": "Calibration and follow-up answer different questions",
+        "paragraphs": [
+          {
+            "text": "COSMOS linked adult participants to cancer registries and calibrated reported call time using operator-recorded information. Registry follow-up improves ascertainment of the diagnosed outcomes; calibration addresses part of the exposure-measurement problem. These are separate strengths. Call time remains an estimate of behavior rather than an individual measurement of energy absorbed in brain tissue.",
+            "source": "cosmos",
+            "locator": "Recovered published PDF physical pages 3 to 4, sections 2.2 and 2.3"
+          },
+          {
+            "text": "The principal comparisons did not show an increased tumour-incidence pattern, while rare outcomes and the heaviest-use categories had more limited precision. The discussion also distinguishes historical handset technologies and changes in use. These limits prevent a universal conclusion about every wireless source, age or lifetime exposure. Further publications from the same cohort do not become independent cohorts merely because they address additional outcomes.",
+            "source": "cosmos",
+            "locator": "Recovered published PDF physical pages 6 to 7, Discussion and conclusion; cohort description on page 3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://emfaxis.com/research/foph-mobile",
+    "sections": [
+      {
+        "title": "Connection quality and the meaning of SAR",
+        "paragraphs": [
+          {
+            "text": "FOPH explains that phone activity, connection quality and distance affect exposure. The maximum SAR rating describes specified test uses, including distinct head and body arrangements. It does not describe a person's continuous daily dose. A comparison of ratings should retain that test context rather than treat the larger label value as a measured dose during every call.",
+            "source": "foph-mobile",
+            "locator": "PDF physical page 1, operating conditions and head/body SAR explanation"
+          },
+          {
+            "text": "The fact sheet lists hands-free and headset options for people who wish to reduce exposure. It separately warns that shielding or harmonising products can impair the connection and increase transmission. These are statements about operation and exposure, not evidence from a trial proving that an accessory prevents illness. The distinction matters when reading product claims alongside the agency's discussion of remaining long-term uncertainty.",
+            "source": "foph-mobile",
+            "locator": "PDF physical pages 1 to 2, exposure-reduction options and protective-product paragraph"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://emfaxis.com/guides",
+    "sections": [
+      {
+        "title": "Choose a source that matches the question",
+        "paragraphs": [
+          {
+            "text": "For a guide about measurement, start by identifying the quantity. ICNIRP distinguishes absorbed-energy restrictions from external reference levels. Reading an outside field value as though it were an absorbed dose skips the relationship the guidance is designed to describe. Keep the frequency and exposure arrangement with the comparison.",
+            "source": "icnirp-rf",
+            "locator": "HTML Protection; Frequency range and use"
+          },
+          {
+            "text": "For a guide about a household device, check the operating conditions. The FOPH WLAN sheet relates exposure to traffic, reception and distance, and warns that a list of visible networks is not an exposure measurement. An everyday scenario should therefore be matched to the source's measurement setting before its conclusion is reused.",
+            "source": "foph-wlan",
+            "locator": "PDF physical pages 1 to 2, operating description and Additional information"
+          },
+          {
+            "text": "For a guide about cancer, keep physical categories and health questions distinct. NCI separates ionizing from non-ionizing fields and discusses the designs used to investigate possible health effects. That orientation helps frame the question, while a specific study still needs its own population, exposure, outcome and limitations. None of these context sources supplies human scientific sign-off for this site's guides.",
+            "source": "nci-emf-cancer",
+            "locator": "HTML What are electric and magnetic fields?; Why are non-ionizing EMFs studied in relation to cancer?"
+          }
+        ]
+      }
+    ]
+  }
+]
