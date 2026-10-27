@@ -1,0 +1,162 @@
+{
+  "status": "UNAPPLIED; GATE REQUEST FIRST",
+  "base": "8f1cd4799ebad1f9396e603152437e92f4a597b2",
+  "append_ids": [
+    "E02-T03-R248",
+    "E06-T11-R158",
+    "E06-T11-R232",
+    "E02-T03-R062"
+  ],
+  "candidate_file": "work/fill-thin-8/canonical-restoration-candidates.json",
+  "candidate_sha256": "3aff0124dde7ddec308f18fb076a0bac6dd260f2878523ee783ad13d93e7a621",
+  "scope": "Exactly4 absent-base source records,2qualitativeclaims each; all85 existing rawobjects/70priornotes/bodies/503frozenhashes preserved. No appraisal/reviewimport, acquisition, numerical release, source-file hosting or other records. Local404to200 only, not livefix.",
+  "required_archive_counter_delta": {
+    "recovered_source_records": [
+      85,
+      89
+    ],
+    "checked_qualitative_claims": [
+      214,
+      222
+    ]
+  },
+  "other_archive_counters": "Unchanged70previews/0humanapprovals/0formalgrades/0newnumericrelease",
+  "proof": [
+    {
+      "id": "E02-T03-R248",
+      "native_title": "Do expectations shape interoceptive perceptions across body domains? A sham EMF study to test the predictive processing theory",
+      "PMID": "40727578",
+      "DOI": "10.1016/j.ijchp.2025.100609",
+      "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/corpus/raw/5eb2044b1fe13ca5efe974c6ba681c34fe28ab3ce623e3eedc2b85bd78557d79.pdf",
+      "source_sha256": "5eb2044b1fe13ca5efe974c6ba681c34fe28ab3ce623e3eedc2b85bd78557d79",
+      "native_metadata_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/continuation-v6/a/R248/PMC12301728.1.xml",
+      "native_metadata_sha256": "c403fb55e94adc97a53658758ad17370aaa347fa05dc8f61274ca536d70f7e5e",
+      "printed_DOI_matches_native": true,
+      "historical_review_hash": "3889c244fdee524de4273d4697b66dbf9ac8b9cad268178eed57f4e26216db0d",
+      "current_review_file_hash": "ecc13599a144df95d5db688dd64aec4d95642adf45736904250bab0375b1c43a",
+      "review_hash_matches": false,
+      "scientific_approval": false,
+      "numeric_release": false,
+      "human_review": "pending",
+      "candidate_claims": [
+        {
+          "id": "FILL-THIN-8-E02-T03-R248-C01",
+          "text": "The sham threat condition did not significantly change response bias or sensitivity in either task. State anxiety was higher, while overall symptom experience did not significantly differ between the instruction groups.",
+          "locator": "Main PDF physical pages 3 to 5, procedure and Results; page 7, Discussion",
+          "basis": "full_text",
+          "scientific_review": "pending"
+        },
+        {
+          "id": "FILL-THIN-8-E02-T03-R248-C02",
+          "text": "Selected exploratory associations within the sham group do not establish a difference between groups or a real-RF effect. The predominantly student sample, imperfect cover story and task-validity limitations constrain transfer to clinical symptoms.",
+          "locator": "Main PDF physical pages 5 to 7, exploratory analyses and Discussion",
+          "basis": "full_text",
+          "scientific_review": "pending"
+        }
+      ],
+      "source_version": "Held published PDF/native metadata"
+    },
+    {
+      "id": "E06-T11-R158",
+      "native_title": "Exposure to radiofrequency electromagnetic fields: Comparison of exposimeters with a novel body-worn distributed meter.",
+      "PMID": "34153890",
+      "DOI": "10.1016/j.envint.2021.106711",
+      "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/corpus/raw/280e848f5d28b78f26af8028a8180184d029e9cbedd085fcd536498a30dd7383.pdf",
+      "source_sha256": "280e848f5d28b78f26af8028a8180184d029e9cbedd085fcd536498a30dd7383",
+      "native_metadata_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/continuation-v6/c/e06-t11-r158/epmc.json",
+      "native_metadata_sha256": "039b6a995eb839c46f5752d0c45a7c294c775f38e448088ad5d488f648133b4b",
+      "printed_DOI_matches_native": true,
+      "historical_review_hash": "036061494b8a52b2163950175b5687e14a9ec3a562d644ac17a46dbb13346ced",
+      "current_review_file_hash": "322908037d81e96931912cae23f45b45d85228b8e3f59a294fbe52206eac54eb",
+      "review_hash_matches": false,
+      "scientific_approval": false,
+      "numeric_release": false,
+      "human_review": "pending",
+      "candidate_claims": [
+        {
+          "id": "FILL-THIN-8-E06-T11-R158-C01",
+          "text": "Commercial exposimeters generally read lower than the distributed body-worn meter, while ranking total and downlink environments similarly. Agreement varied by frequency band, so similar ranking does not establish identical absolute exposure.",
+          "locator": "Main PDF physical pages 4 to 6, Results, Discussion and Conclusion",
+          "basis": "full_text",
+          "scientific_review": "pending"
+        },
+        {
+          "id": "FILL-THIN-8-E06-T11-R158-C02",
+          "text": "Comparisons use overlapping device bands and assistants who were not using their own phones. Body shielding, calibration, crosstalk and device availability limit interpretation; the measurements do not represent own-phone absorbed dose or average population exposure.",
+          "locator": "Main PDF physical pages 3 to 6, measurement protocol and limitations",
+          "basis": "full_text",
+          "scientific_review": "pending"
+        }
+      ],
+      "source_version": "Held published PDF/native metadata"
+    },
+    {
+      "id": "E06-T11-R232",
+      "native_title": "In‐Situ Measurements of Radiofrequency Electromagnetic Fields Measurements Around 5G Macro Base Stations in the UK",
+      "PMID": "40586584",
+      "DOI": "10.1002/bem.70012",
+      "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/corpus/raw/1b91558cd552262c2e931a68e5d19797bc6bc335d9b4d00cec12298246f85c04.pdf",
+      "source_sha256": "1b91558cd552262c2e931a68e5d19797bc6bc335d9b4d00cec12298246f85c04",
+      "native_metadata_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/continuation-v6/c/e06-t11-r232/PMC12207951.1.xml",
+      "native_metadata_sha256": "045ded301a7f9172bfa11ea443db52063e5d3cdde4bc32e9dcf98344135a19b0",
+      "printed_DOI_matches_native": true,
+      "historical_review_hash": "e2fe8c854b81156b40a9d93f15fd224a0ad995c0cf7782568301062aea64b125",
+      "current_review_file_hash": "ed54b003753f62365a0716d11144d5d848bf111daf2e2041f04350b62a7c71ac",
+      "review_hash_matches": false,
+      "scientific_approval": false,
+      "numeric_release": false,
+      "human_review": "pending",
+      "candidate_claims": [
+        {
+          "id": "FILL-THIN-8-E06-T11-R232-C01",
+          "text": "The sampled and extrapolated scenarios were within the public reference levels used by the authors. Background, streaming, speed tests and extrapolation describe different network conditions rather than interchangeable measurements of personal absorbed dose.",
+          "locator": "Main PDF physical pages 2 to 4, Methods; pages 7 to 8, Discussion and Conclusions",
+          "basis": "full_text",
+          "scientific_review": "pending"
+        },
+        {
+          "id": "FILL-THIN-8-E06-T11-R232-C02",
+          "text": "Convenience line-of-sight sites and limited control over active network bands constrain representativeness. Distance alone did not reliably predict the measured levels, and the campaign does not establish a universal distance rule or clinical health outcome.",
+          "locator": "Main PDF physical pages 4 and 7, distance analysis and limitations",
+          "basis": "full_text",
+          "scientific_review": "pending"
+        }
+      ],
+      "source_version": "Held published PDF/native metadata"
+    },
+    {
+      "id": "E02-T03-R062",
+      "native_title": "Do TETRA (Airwave) Base Station Signals Have a Short-Term Impact on Health and Well-Being? A Randomized Double-Blind Provocation Study",
+      "PMID": "20075020",
+      "DOI": "10.1289/ehp.0901416",
+      "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/corpus/raw/b736653db4a093681e5beb67c332e706f801a5195406f4354d4f1d7b1209059b.pdf",
+      "source_sha256": "b736653db4a093681e5beb67c332e706f801a5195406f4354d4f1d7b1209059b",
+      "native_metadata_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/continuation-v6/a/R062/PMC2898847.1.xml",
+      "native_metadata_sha256": "c8dda33358cf0386c2f77b3943090a7b151777665eef63380739ebd824071eb4",
+      "printed_DOI_matches_native": true,
+      "historical_review_hash": "8ccaa075bcf859209bb80da414989e8034b55f1b609a34a19b17dfdf428dbc07",
+      "current_review_file_hash": "722d3476da51e4a1227c6800f9840ec88f4d76619175b6757d8b6fa00ef23030",
+      "review_hash_matches": false,
+      "scientific_approval": false,
+      "numeric_release": false,
+      "human_review": "pending",
+      "candidate_claims": [
+        {
+          "id": "FILL-THIN-8-E02-T03-R062-C01",
+          "text": "Sensitive volunteers reported worse subjective outcomes during known exposure, but the baseline-adjusted masked comparisons did not show a consistent exposure-related symptom or autonomic effect. Neither group reliably identified the signal after the stated multiple-comparison treatment.",
+          "locator": "Main PDF physical pages 5 to 7, subjective and physiological Results, detection tests and Discussion",
+          "basis": "full_text",
+          "scientific_review": "pending"
+        },
+        {
+          "id": "FILL-THIN-8-E02-T03-R062-C02",
+          "text": "Sensitive volunteers still reported more symptoms independently of assigned exposure. Brief laboratory sessions and self-identified sensitivity do not test chronic disease, establish universal equivalence or show that symptoms are unreal.",
+          "locator": "Main PDF physical pages 6 to 7, Discussion and limitations",
+          "basis": "full_text",
+          "scientific_review": "pending"
+        }
+      ],
+      "source_version": "Held published PDF/native metadata"
+    }
+  ]
+}

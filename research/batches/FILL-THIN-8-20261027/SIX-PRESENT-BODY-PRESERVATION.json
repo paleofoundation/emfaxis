@@ -1,0 +1,32 @@
+[
+  {
+    "id": "E02-T03-R264",
+    "six_present_visible_body_unchanged_after_restoration": true,
+    "sha256": "72242be6851d30582aa3e9e6016d7e4c4760498804fda90830cf8d2de0131d84"
+  },
+  {
+    "id": "E03-T06-R135",
+    "six_present_visible_body_unchanged_after_restoration": true,
+    "sha256": "10dd2e9a87808846d058ec3e2b7b4be316c6dd9d39c317060b29319b51e68b50"
+  },
+  {
+    "id": "E02-T03-R175",
+    "six_present_visible_body_unchanged_after_restoration": true,
+    "sha256": "407ee7d311017ef7838fb97c741b61c3627c56f969396df5989dde78b363aa19"
+  },
+  {
+    "id": "E03-T05-R212",
+    "six_present_visible_body_unchanged_after_restoration": true,
+    "sha256": "a90ac57c8d33254a0da45bde3fe6f41515f285d4fcb1dfa55b992fd3479e2b97"
+  },
+  {
+    "id": "E06-T11-R208",
+    "six_present_visible_body_unchanged_after_restoration": true,
+    "sha256": "f299c217588447207b6dba230984e47d22133ec0b1990365ff5305697eeb120c"
+  },
+  {
+    "id": "eeg",
+    "six_present_visible_body_unchanged_after_restoration": true,
+    "sha256": "8886aec48665428f7cf08cb3b737f8e5633ea9141c3fc03588ac145a9d4cfdd0"
+  }
+]

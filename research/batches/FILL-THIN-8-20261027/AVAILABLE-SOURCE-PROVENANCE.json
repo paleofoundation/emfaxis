@@ -1,0 +1,96 @@
+[
+  {
+    "id": "E02-T03-R264",
+    "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/full-rollout/owned/files/E02-T03-R264.pdf",
+    "source_sha256": "87887a64be66f5daae2c3af5cdc8ac9fd7c10502f898f0f84a32dddf23936fd8",
+    "binding": "full-rollout owned original source manifest",
+    "text_sha256": "4754a42752c21ccb51a184ebc4bf4d33401dddd7b5d6e453f97221822f8e92a1",
+    "doi": "10.1038/s41598-026-49616-7",
+    "printed_DOI_in_extraction": true,
+    "identity_note": "Printed DOI matched",
+    "scope": "Fresh selected original passages, not full scientific appraisal",
+    "physical_pages_selected": [
+      6,
+      7,
+      10,
+      11
+    ]
+  },
+  {
+    "id": "E03-T06-R135",
+    "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/full-rollout/owned/files/E03-T06-R135.pdf",
+    "source_sha256": "d7e978f43d6b521b80076456b4d9e9c2cd6b5b4476889cb0055ea848070bde10",
+    "binding": "full-rollout owned original source manifest",
+    "text_sha256": "32cbc7a6c03763bf759c926c11988129a01a5ca9bcf04da8af4f9255b30d129b",
+    "doi": "10.3390/ijerph191911912",
+    "printed_DOI_in_extraction": true,
+    "identity_note": "Printed DOI matched",
+    "scope": "Fresh selected original passages, not full scientific appraisal",
+    "physical_pages_selected": [
+      10,
+      11
+    ]
+  },
+  {
+    "id": "E02-T03-R175",
+    "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/full-rollout/owned/files/E02-T03-R175.pdf",
+    "source_sha256": "3a48d33c71a5492bb775448260658e5b7edd2ec531db94155ac387740cad4df0",
+    "binding": "full-rollout owned original source manifest",
+    "text_sha256": "ac5c58ed807b7ed58514f3281d4b5e0cc4b036e0c3f9d853d8dbd497b4cef7e8",
+    "doi": "10.1093/ije/dyz127",
+    "printed_DOI_in_extraction": true,
+    "identity_note": "Printed DOI matched",
+    "scope": "Fresh selected original passages, not full scientific appraisal",
+    "physical_pages_selected": [
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "id": "E03-T05-R212",
+    "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/corpus/raw/a3d592d9798aced27ef0c8d17ff27c8eedf6d7a49de9c8062dafcdeeb089ae38.pdf",
+    "source_sha256": "a3d592d9798aced27ef0c8d17ff27c8eedf6d7a49de9c8062dafcdeeb089ae38",
+    "binding": "historical source binding only, no prior PASS transfer",
+    "text_sha256": "5289bda5c8298ee425ae472ae2dd5977bf694cd82066690bdea15f1ba276c997",
+    "doi": "10.22074/cellj.2016.3848",
+    "printed_DOI_in_extraction": false,
+    "identity_note": "Existing source raw manifest and exact held title/byline match; DOI not extractable in this original",
+    "scope": "Fresh selected original passages, not full scientific appraisal",
+    "physical_pages_selected": [
+      1
+    ]
+  },
+  {
+    "id": "E06-T11-R208",
+    "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/corpus/raw/ef992a05ad0af43f33b51c3875b6c992d2773fe512de01e8b25e131c92777bd1.pdf",
+    "source_sha256": "ef992a05ad0af43f33b51c3875b6c992d2773fe512de01e8b25e131c92777bd1",
+    "binding": "historical source binding only, no prior PASS transfer",
+    "text_sha256": "2e32aa5c087bee07ab244bc7f9d49eea42fc9ecefbfca61a2be9ec2da469d7e7",
+    "doi": "10.3390/s24175634",
+    "printed_DOI_in_extraction": true,
+    "identity_note": "Printed DOI matched",
+    "scope": "Fresh selected original passages, not full scientific appraisal",
+    "physical_pages_selected": [
+      13,
+      21,
+      22
+    ]
+  },
+  {
+    "id": "5g-sleep",
+    "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/recovery/legacy/files/5g-sleep-repository-attempt2.pdf",
+    "source_sha256": "3a782822dd821fe547a633a9b8272237eda6c502041b4762629fe7d2fca0c892",
+    "binding": "historical source binding only, no prior PASS transfer",
+    "text_sha256": "5cb773d1fabbbdd3e4cb31703e5adea4af34a63abb963b26f68934044b95c9a2",
+    "doi": "10.1016/j.neuroimage.2025.121340",
+    "printed_DOI_in_extraction": true,
+    "identity_note": "Printed DOI matched",
+    "scope": "Fresh selected original passages, not full scientific appraisal",
+    "physical_pages_selected": [
+      6,
+      8,
+      9
+    ]
+  }
+]

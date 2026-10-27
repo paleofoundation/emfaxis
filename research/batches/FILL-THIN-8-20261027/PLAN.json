@@ -1,0 +1,36 @@
+{
+  "id": "FILL-THIN-8",
+  "base": "8f1cd4799ebad1f9396e603152437e92f4a597b2",
+  "branch": "codex/fill-thin-8",
+  "site_positions": [
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80
+  ],
+  "urls": [
+    "https://emfaxis.com/research/E02-T03-R248",
+    "https://emfaxis.com/research/E06-T11-R158",
+    "https://emfaxis.com/research/E02-T03-R264",
+    "https://emfaxis.com/research/E06-T11-R232",
+    "https://emfaxis.com/research/E03-T06-R135",
+    "https://emfaxis.com/research/E02-T03-R062",
+    "https://emfaxis.com/research/E02-T03-R175",
+    "https://emfaxis.com/research/E03-T05-R212",
+    "https://emfaxis.com/research/E06-T11-R208",
+    "https://emfaxis.com/glossary/eeg"
+  ],
+  "absent_base_canonical": [
+    "E02-T03-R248",
+    "E06-T11-R158",
+    "E06-T11-R232",
+    "E02-T03-R062"
+  ],
+  "policy": "Held corpus only; source+locator peraddition; no new numerical claims, hosted PDFs or public em/en dashes; canonical GATE FIRST;85 existing raw objects/70 note rawvalues and visiblebodies/503frozenoutputs preserved; analyzer unchanged UKHSA HELD"
+}

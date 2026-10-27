@@ -1,0 +1,76 @@
+{
+  "method": "Fresh local pdftotext plus direct selected original passage inspection, no source file copying into public assets",
+  "checked_UTC": "2026-10-27T10:35:40.488101+00:00",
+  "rows": [
+    {
+      "id": "E02-T03-R248",
+      "source_sha256": "5eb2044b1fe13ca5efe974c6ba681c34fe28ab3ce623e3eedc2b85bd78557d79",
+      "fresh_pdftotext_sha256": "57dba98b16824f398f2e7bae7ac58f46094c2fb13ad96bc92827a6382c42fbea",
+      "physical_pages_inspected": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "scope": "Selected original passages directly inspected, not complete scientific appraisal; no historical PASS transfer",
+      "locators": [
+        "Main PDF physical pages 3 to 5, procedure and Results; page 7, Discussion",
+        "Main PDF physical pages 5 to 7, exploratory analyses and Discussion"
+      ]
+    },
+    {
+      "id": "E06-T11-R158",
+      "source_sha256": "280e848f5d28b78f26af8028a8180184d029e9cbedd085fcd536498a30dd7383",
+      "fresh_pdftotext_sha256": "f61417ae86ef3adf86fb9d4928384756afdc7be6e3d88d7781dd1dab0560f500",
+      "physical_pages_inspected": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "scope": "Selected original passages directly inspected, not complete scientific appraisal; no historical PASS transfer",
+      "locators": [
+        "Main PDF physical pages 4 to 6, Results, Discussion and Conclusion",
+        "Main PDF physical pages 3 to 6, measurement protocol and limitations"
+      ]
+    },
+    {
+      "id": "E06-T11-R232",
+      "source_sha256": "1b91558cd552262c2e931a68e5d19797bc6bc335d9b4d00cec12298246f85c04",
+      "fresh_pdftotext_sha256": "1894fde7a5ce9e6d4c7779050a187aa634d39792b0112e6750851bafbc301b65",
+      "physical_pages_inspected": [
+        2,
+        3,
+        4,
+        6,
+        7,
+        8
+      ],
+      "scope": "Selected original passages directly inspected, not complete scientific appraisal; no historical PASS transfer",
+      "locators": [
+        "Main PDF physical pages 2 to 4, Methods; pages 7 to 8, Discussion and Conclusions",
+        "Main PDF physical pages 4 and 7, distance analysis and limitations"
+      ]
+    },
+    {
+      "id": "E02-T03-R062",
+      "source_sha256": "b736653db4a093681e5beb67c332e706f801a5195406f4354d4f1d7b1209059b",
+      "fresh_pdftotext_sha256": "2ba65706face4403346f21c91f6013efc7c5766a81d6b4b8473f133590034e26",
+      "physical_pages_inspected": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "scope": "Selected original passages directly inspected, not complete scientific appraisal; no historical PASS transfer",
+      "locators": [
+        "Main PDF physical pages 5 to 7, subjective and physiological Results, detection tests and Discussion",
+        "Main PDF physical pages 6 to 7, Discussion and limitations"
+      ]
+    }
+  ]
+}

@@ -1383,5 +1383,175 @@
         }
       ]
     }
+  ],
+  "E02-T03-R264": [
+    {
+      "title": "A temperature endpoint under controlled conditions",
+      "paragraphs": [
+        {
+          "text": "Infrared skin-temperature measurements concern the surface regions observed during a brief controlled session. They do not measure every organ or physiological process. The authors identify the healthy young adult sample and controlled ambient conditions as limits on generalization. Their conclusion about this protocol does not directly validate an exposure-limit threshold or establish what happens during prolonged or repeated exposure.",
+          "source": "E02-T03-R264",
+          "locator": "Original PDF physical pages 10 to 11, limitations and Conclusion"
+        },
+        {
+          "text": "A small sample and the measurement interval could miss subtle or rapidly changing temperature responses. Children, older adults and people with altered thermoregulation were not established as covered populations. The unresolved difference between the pooled-result wording and its table also remains material: the source should not be summarized as every analysis being null. Exact numerical interpretation stays withheld while that distinction is unresolved.",
+          "source": "E02-T03-R264",
+          "locator": "Original PDF physical pages 6 to 7, pooled regional result and Table; pages 10 to 11, limitations"
+        }
+      ]
+    }
+  ],
+  "E03-T06-R135": [
+    {
+      "title": "An instantaneous model needs a time history",
+      "paragraphs": [
+        {
+          "text": "The model estimates a field at a fixed cooking position. Movement while cooking, heat-output adjustments and time spent at the cooker are separate inputs that the instantaneous estimate does not capture. A useful epidemiological exposure history would need that activity information as well. The model is specific to induction-cooker use, rather than a measurement of every intermediate-frequency source encountered during a day.",
+          "source": "E03-T06-R135",
+          "locator": "Original PDF physical pages 10 to 11, Limitations and Conclusions"
+        },
+        {
+          "text": "The household surveys and validation took place in Japan. Applying the model elsewhere requires checking the appliance and voltage conditions, body dimensions and counter geometry. The paper also describes difficulty obtaining appliance specifications from questionnaires. Validation of ordering or prediction within these surveys does not by itself establish an individual absorbed dose, a clinical outcome or one universally superior model.",
+          "source": "E03-T06-R135",
+          "locator": "Original PDF physical page 10, validation discussion and limitations; page 11, Conclusions"
+        }
+      ]
+    }
+  ],
+  "E02-T03-R175": [
+    {
+      "title": "Recorded calls remain a proxy for dose",
+      "paragraphs": [
+        {
+          "text": "Operator records improve the measurement of calling behavior, but the baseline observation window does not describe every later call or operating condition. The symptom outcomes were collected by questionnaire at separated times. The authors discuss changes in use, participation and symptom reporting as limitations. A prospective design helps with temporal ordering while retaining those measurement and selection questions.",
+          "source": "E02-T03-R175",
+          "locator": "Original PDF physical pages 9 to 10, Strengths and weaknesses"
+        },
+        {
+          "text": "The small headache pattern weakened with confounder adjustment and lacked a clear calling-time gradient. The network-specific pattern also did not align with a straightforward RF-dose explanation, and tinnitus and hearing loss were not associated with baseline call time. Lifestyle or other residual confounding remains possible. These findings do not turn call duration into a causal threshold or make related COSMOS reports independent participants.",
+          "source": "E02-T03-R175",
+          "locator": "Original PDF physical pages 9 to 11, Discussion and Conclusions"
+        }
+      ]
+    }
+  ],
+  "E03-T05-R212": [
+    {
+      "title": "Read the letter and reply as correspondence",
+      "paragraphs": [
+        {
+          "text": "The letter challenges exposure geometry, the absence of a sham group and how the transmitting hardware was described. Those are attributed methodological criticisms of the same rat experiment. They are not new animal observations or an independent replication of its fertility findings. The referenced studies in the letter would need their own source-specific checks before being used to extend a health conclusion.",
+          "source": "E03-T05-R212",
+          "locator": "Original one-page letter, printed page 755, complete letter and references"
+        },
+        {
+          "text": "In the embedded reply, the investigator describes freely moving animals and changing cage positions, and states that geometry was not measured. The reply also reports consultation about the hardware, without supplying manufacturer correspondence or a measured field map. The exchange therefore leaves dosimetry and control questions open. A published disagreement is not itself a formal correction, proof of misconduct or a new estimate of human fertility risk.",
+          "source": "E03-T05-R212",
+          "locator": "Original one-page letter, printed page 755, Reply of the Author"
+        }
+      ]
+    }
+  ],
+  "E06-T11-R208": [
+    {
+      "title": "A field survey is not a passenger-outcome study",
+      "paragraphs": [
+        {
+          "text": "The campaign separates magnetic measurements from band-selective radiofrequency readings during bus operation and charging. Its source-band discussion attributes much of the radiofrequency contribution to surrounding radiocommunication systems. Being measured inside an electric vehicle does not make a signal a battery or motor emission. Route position, nearby base stations and the measurement frequency remain part of the interpretation.",
+          "source": "E06-T11-R208",
+          "locator": "Original PDF physical pages 13 to 17, band-selective results; page 21, Conclusions"
+        },
+        {
+          "text": "The report presents environmental readings and distribution fits rather than observed passenger illness, symptoms or implanted-device performance. Local routes and repeated measurements do not establish independent health follow-up. Its suggestions about safety and design therefore extend beyond a measured clinical endpoint. Exact numerical and compliance summaries remain withheld because the existing averaging, condition-label and reference-value questions require clarification.",
+          "source": "E06-T11-R208",
+          "locator": "Original PDF physical pages 21 to 22, Conclusions and study declarations; measurement methods on pages 7 to 10"
+        }
+      ]
+    }
+  ],
+  "eeg": [
+    {
+      "title": "Analysis choices belong with the EEG finding",
+      "paragraphs": [
+        {
+          "text": "The sleep report distinguishes all-night recordings from the first sleep episode. Technical problems affected some whole-night recordings, while usable early-episode data were retained. A separate peak-selection issue led to exclusion of a participant from subsequent analysis. An EEG finding therefore belongs with its analysis population and recording interval; it should not be described as if every original recording contributed to every comparison.",
+          "source": "5g-sleep",
+          "locator": "Held repository PDF physical pages 6 and 8, EEG methods and spindle analysis"
+        },
+        {
+          "text": "The authors describe a genotype-dependent spindle-frequency shift and explicitly state that potential health effects cannot be concluded from it. Their spectral procedure selects the dominant peak and does not separately identify slow and fast spindles at the same channel. That physiological signal and its analysis choices do not establish a neurological diagnosis, a population-wide effect or a clinical sleep-harm threshold.",
+          "source": "5g-sleep",
+          "locator": "Held repository PDF physical page 9, Discussion"
+        }
+      ]
+    }
+  ],
+  "E02-T03-R248": [
+    {
+      "title": "Expectation instructions are the experimental contrast",
+      "paragraphs": [
+        {
+          "text": "The blinking repeaters were dummy equipment. The assigned difference was what volunteers were told about an enhanced electromagnetic field, together with the warning and laboratory story. This is a test of contextual expectations during perception tasks. It does not compare an actual transmitting router with sham, estimate absorbed RF dose or establish the effects of routine wireless-device use.",
+          "source": "E02-T03-R248",
+          "locator": "Main PDF physical pages 2 to 3, Methods, procedure and cover story"
+        },
+        {
+          "text": "The expected group difference in response bias was not demonstrated in either bodily task. Exploratory within-group associations with symptoms remain distinct from that primary comparison, and a positive model in one group with a nonsignificant model in another does not itself establish a group interaction. The student sample, variable credibility of the threat story and task limitations leave clinical and causal interpretation open.",
+          "source": "E02-T03-R248",
+          "locator": "Main PDF physical pages 5 to 7, Results and Discussion"
+        }
+      ]
+    }
+  ],
+  "E06-T11-R158": [
+    {
+      "title": "Rank agreement is different from identical readings",
+      "paragraphs": [
+        {
+          "text": "The meters were used simultaneously on selected walking routes, allowing paired comparisons within the bands common to the devices. The distributed meter was calibrated for each assistant, while commercial devices were affected differently by placement and shielding by the body. A similar ranking of environments can coexist with lower absolute readings or weaker agreement in particular bands.",
+          "source": "E06-T11-R158",
+          "locator": "Main PDF physical pages 3 to 6, protocol, Results and Discussion"
+        },
+        {
+          "text": "Assistants were instructed not to use their own phones or electronic devices. The campaign therefore characterizes nearby sources under those route conditions rather than the user's own phone dose. Device failures, incomplete common-band coverage and crosstalk also remain relevant. The comparison was not intended to represent average population exposure, and a printed table difference still requires paired-data clarification before numerical reuse.",
+          "source": "E06-T11-R158",
+          "locator": "Main PDF physical pages 3 to 6, measurement restrictions and limitations"
+        }
+      ]
+    }
+  ],
+  "E06-T11-R232": [
+    {
+      "title": "Spot measurements and extrapolation answer different questions",
+      "paragraphs": [
+        {
+          "text": "Background readings, streaming and speed tests were taken under different traffic conditions, while the maximum scenario was extrapolated using stated resource and beam assumptions. The phone could switch technology or frequency band, and maximum loading was not always achieved. Those conditions matter when interpreting a comparison with a reference level; an extrapolated value is not an observed lifetime personal dose.",
+          "source": "E06-T11-R232",
+          "locator": "Main PDF physical pages 2 to 3, Methods; page 7, network-control limitations"
+        },
+        {
+          "text": "The locations were chosen for access and line of sight near urban and suburban base stations, without a rural sample. This limits population representativeness even when the measured values are below the reference levels used. Distance alone did not reliably predict the field, and the campaign followed no clinical health outcomes. Different distance-fit displays remain numerically unreconciled; neither a universal safe-distance rule nor a disease conclusion is established.",
+          "source": "E06-T11-R232",
+          "locator": "Main PDF physical pages 4 and 7 to 8, distance analysis, Discussion and Conclusions"
+        }
+      ]
+    }
+  ],
+  "E02-T03-R062": [
+    {
+      "title": "Open and masked sessions need separate interpretation",
+      "paragraphs": [
+        {
+          "text": "The experiment included known on/off exposures and separate masked comparisons with TETRA-like signals and sham. The open symptom pattern was not reproduced as a consistent exposure-related pattern in the baseline-adjusted masked tests. Those sessions also differed in duration and position in the visit sequence, so the contrast is not a randomized change in knowledge alone.",
+          "source": "E02-T03-R062",
+          "locator": "Main PDF physical pages 2 to 3, Design; pages 5 to 7, Results and Discussion"
+        },
+        {
+          "text": "Self-identified sensitive volunteers continued to report more symptoms overall, independently of assigned exposure. The detection and physiological comparisons did not show a consistent signal effect after the stated multiple-comparison treatment. This does not make the reported symptoms unreal. Recruitment shortfalls and brief laboratory observation also prevent conclusions about chronic disease, every possible exposure pattern or formal equivalence between active and sham.",
+          "source": "E02-T03-R062",
+          "locator": "Main PDF physical pages 6 to 7, detection tests, Discussion and limitations"
+        }
+      ]
+    }
   ]
 }

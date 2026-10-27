@@ -1,0 +1,38 @@
+[
+  {
+    "id": "E02-T03-R248",
+    "current_review_path": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/reviews/continuation-v6-a/E02-T03-R248.json",
+    "current_review_sha256": "ecc13599a144df95d5db688dd64aec4d95642adf45736904250bab0375b1c43a",
+    "historical_decision_path": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/verification/preview-decisions/E02-T03-R248.json",
+    "historical_decision_sha256": "036848f7fd6b441f581dc50d127b401355a15afb90fe263746dbcb05c5a1a041",
+    "historical_review_sha256": "3889c244fdee524de4273d4697b66dbf9ac8b9cad268178eed57f4e26216db0d",
+    "matches": false
+  },
+  {
+    "id": "E06-T11-R158",
+    "current_review_path": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/reviews/continuation-v6-c/E06-T11-R158.json",
+    "current_review_sha256": "322908037d81e96931912cae23f45b45d85228b8e3f59a294fbe52206eac54eb",
+    "historical_decision_path": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/verification/preview-decisions/E06-T11-R158.json",
+    "historical_decision_sha256": "bc71fc27345bb32bada11702c6f9c8510fb4388cb544f844234bada310376806",
+    "historical_review_sha256": "036061494b8a52b2163950175b5687e14a9ec3a562d644ac17a46dbb13346ced",
+    "matches": false
+  },
+  {
+    "id": "E06-T11-R232",
+    "current_review_path": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/reviews/continuation-v6-c/E06-T11-R232.json",
+    "current_review_sha256": "ed54b003753f62365a0716d11144d5d848bf111daf2e2041f04350b62a7c71ac",
+    "historical_decision_path": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/verification/preview-decisions/E06-T11-R232.json",
+    "historical_decision_sha256": "ad6df4d9fd29d3765e9e8bf773e5868be5cb93f6ce524c9b5208fe0b8c24f9a5",
+    "historical_review_sha256": "e2fe8c854b81156b40a9d93f15fd224a0ad995c0cf7782568301062aea64b125",
+    "matches": false
+  },
+  {
+    "id": "E02-T03-R062",
+    "current_review_path": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/reviews/continuation-v6-a/E02-T03-R062.json",
+    "current_review_sha256": "722d3476da51e4a1227c6800f9840ec88f4d76619175b6757d8b6fa00ef23030",
+    "historical_decision_path": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/verification/preview-decisions/E02-T03-R062.json",
+    "historical_decision_sha256": "77a99a19f370937fc032b70d780887dfc17fea1a29423a2b8ba85ba885a4c389",
+    "historical_review_sha256": "8ccaa075bcf859209bb80da414989e8034b55f1b609a34a19b17dfdf428dbc07",
+    "matches": false
+  }
+]
