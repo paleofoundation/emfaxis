@@ -1,0 +1,46 @@
+{
+  "build": "PASS",
+  "content": "PASS",
+  "typescript": "PASS",
+  "SSR_routes": 260,
+  "unknown_source": 404,
+  "swept_routes": 270,
+  "unselected_reader_DOM_equal": 264,
+  "after6_status200": true,
+  "after6_thin": 1,
+  "after6_stub": 0,
+  "remaining_flags": {
+    "https://emfaxis.com/research/progress": "claims_with_2_citations"
+  },
+  "word_range": [
+    2590,
+    12135
+  ],
+  "sources": [
+    96,
+    96
+  ],
+  "qualitative_passages": [
+    236,
+    236
+  ],
+  "new_canonical_records": 0,
+  "prior130_note_raw_values": "byte-identical",
+  "prior130_visible_bodies": "equal",
+  "frozen_output_hashes": 944,
+  "new_note_paragraphs": 12,
+  "UKHSA": "HELD",
+  "analyzer_unchanged": true,
+  "previews": 70,
+  "human_approvals": 0,
+  "formal_grades": 0,
+  "new_numeric_claims_released": 0,
+  "ranked_remaining_pages": 6,
+  "nonexistent_requested_positions": [
+    137,
+    138,
+    139,
+    140
+  ],
+  "scientific_numerical_human_release": "pending"
+}

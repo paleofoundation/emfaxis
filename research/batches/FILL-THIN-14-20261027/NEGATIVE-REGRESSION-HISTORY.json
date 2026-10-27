@@ -1,0 +1,7 @@
+{
+  "initial_check": "FAIL: inherited selected guide module RF\u2013sleep en dash",
+  "reviewed_new_notes_changed": false,
+  "repair": "Exactly guide exposure-measurement displayText RF\u2013sleep -> RF-sleep only; raw module unchanged",
+  "history": "work/fill-thin-14/receipt-history/initial-after and initial-candidate-all-routes",
+  "final_rerun": "PASS:6GET200/publicdashes0;270fixtures/264unselectedreaderDOM/130priorbodies/944hashes"
+}

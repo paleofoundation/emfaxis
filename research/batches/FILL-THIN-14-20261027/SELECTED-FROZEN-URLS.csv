@@ -1,0 +1,7 @@
+rank,site,url,page_type,words,citations,unique_citation_hosts,reference_entries,claim_hits,makes_claims,stub_flag,stub_match,thin_reasons,meta_desc_len,canonical,canonical_self,noindex,status,headings,thin,final_url,bytes,error
+322,emfaxis.com,https://emfaxis.com/fields/static,fields,2405,2,1,5,71,yes,no,,claims_with_2_citations,99,https://emfaxis.com/fields/static,yes,,200,18,yes,,114286,
+337,emfaxis.com,https://emfaxis.com/questions/sleeping-near-phone,questions,2714,8,2,6,121,yes,yes,hold,stub_language,112,https://emfaxis.com/questions/sleeping-near-phone,yes,,200,18,yes,,109933,
+340,emfaxis.com,https://emfaxis.com/sources/baby-monitors,sources,2728,2,1,5,64,yes,no,,claims_with_2_citations,136,https://emfaxis.com/sources/baby-monitors,yes,,200,17,yes,,120843,
+371,emfaxis.com,https://emfaxis.com/guides/exposure-measurement,guides,8027,26,2,24,287,yes,yes,hold,stub_language,99,https://emfaxis.com/guides/exposure-measurement,yes,,200,19,yes,,186328,
+374,emfaxis.com,https://emfaxis.com/research/progress,research,9852,0,0,0,343,yes,no,,claims_with_0_citations,89,https://emfaxis.com/research/progress,yes,,200,100,yes,,265490,
+377,emfaxis.com,https://emfaxis.com/sources/mobile-phones,sources,15303,54,3,41,507,yes,yes,hold,stub_language,128,https://emfaxis.com/sources/mobile-phones,yes,,200,20,yes,,346258,

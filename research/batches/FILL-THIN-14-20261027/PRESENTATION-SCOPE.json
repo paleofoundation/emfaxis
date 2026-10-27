@@ -1,0 +1,34 @@
+{
+  "status": "APPLIED_EXACT_V2_PATCH",
+  "candidate_sha256": "41582dbbddccfe96ae272f05b5a70782b9c3a6b274744efe9b3dfd48c7846fce",
+  "patch_sha256": "0b60a211ced96051b2cb7d6da1320fe18d1f83f9d8bd47ce8e70c57795079a24",
+  "files": [
+    "lib/thin-fill.json",
+    "components/emf/topic-page.tsx",
+    "components/emf/editorial-page.tsx",
+    "components/emf/research-section.tsx",
+    "app/research/progress/page.tsx"
+  ],
+  "new_normalizePunctuation_default": false,
+  "enabled_only": [
+    "guide:exposure-measurement",
+    "source:mobile-phones"
+  ],
+  "other_scoped_display": [
+    "static/baby/sleep locator normalization",
+    "mobile-only intro and computed evidence-row clone punctuation, raw values unchanged",
+    "sleeping-near-phone tries to hold accompanying circumstances stable -> tries to keep accompanying circumstances stable"
+  ],
+  "genuine_HOLD_and_review_states": "retained",
+  "raw_source_review_page_objects_and_counters": "unchanged",
+  "prior130_rendered_bodies_required": true,
+  "unselected264_readerDOM_bytes_includingFAQIDs_required": true,
+  "final_selected_guide_repair": "Root-directed exact RF\u2013sleep -> RF-sleep, display only; original module unchanged",
+  "final_inputs": {
+    "lib/thin-fill.json": "907fbccf2c488ee852bbcddef5e7b22f2a7e7c8a1e4e847c663e8ac292f27e81",
+    "components/emf/topic-page.tsx": "a6702920bce44fd6585675a4cad2cc48b80a1314ca91720e708eddee390bd706",
+    "components/emf/editorial-page.tsx": "399cf64f1235748ad3222502585e1cc8d7fd7fd81c78a632bf4b1cfa0009b2b1",
+    "components/emf/research-section.tsx": "33cfcf3bb24d9314e5696b2e28261b17c57f3efec404ae0a2e3b17a13e640cf8",
+    "app/research/progress/page.tsx": "64be6ea6c402642d7528a60d77e6f24c20b93b69189dab2e79d70d756de33603"
+  }
+}

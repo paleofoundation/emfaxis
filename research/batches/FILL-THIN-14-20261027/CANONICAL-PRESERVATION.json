@@ -1,0 +1,15 @@
+{
+  "existing96_canonical_file_byte_equal_base": true,
+  "sha256": "10f7c3ccdb34e76d14db7e0365d56fb4940852f02e5ea85c38a1ac7f0c3e1a5d",
+  "archive_status_file_byte_equal_base": true,
+  "source_records": [
+    96,
+    96
+  ],
+  "qualitative_passages": [
+    236,
+    236
+  ],
+  "new_canonical_records": 0,
+  "no_review_or_preview_import": true
+}

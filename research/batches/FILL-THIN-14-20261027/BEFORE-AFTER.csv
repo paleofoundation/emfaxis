@@ -1,0 +1,7 @@
+url,frozen_live_words,built_before_status,built_before_words,built_after_status,built_after_words,word_delta,recognized_cites_before,recognized_cites_after,before_thin,after_thin,after_reasons,after_stub,actual_known_source_links_before,actual_unique_source_docs_before,actual_known_source_links_after,actual_unique_source_docs_after,local_restoration,canonical,raw_canonical_self
+https://emfaxis.com/fields/static,2405,200,2404,200,2590,186,5,7,no,no,,no,5,5,7,5,False,https://emfaxis.com/fields/static,no
+https://emfaxis.com/questions/sleeping-near-phone,2714,200,2713,200,2921,208,9,11,yes,no,,no,9,6,11,6,False,https://emfaxis.com/questions/sleeping-near-phone,no
+https://emfaxis.com/sources/baby-monitors,2728,200,2727,200,2937,210,5,7,no,no,,no,5,5,7,5,False,https://emfaxis.com/sources/baby-monitors,no
+https://emfaxis.com/guides/exposure-measurement,8027,200,6923,200,7157,234,31,33,no,no,,no,27,20,29,21,False,https://emfaxis.com/guides/exposure-measurement,no
+https://emfaxis.com/research/progress,9852,200,7262,200,7492,230,0,2,yes,yes,claims_with_2_citations,no,0,0,2,2,False,https://emfaxis.com/research/progress,no
+https://emfaxis.com/sources/mobile-phones,15303,200,11897,200,12135,238,52,54,no,no,,no,46,31,48,32,False,https://emfaxis.com/sources/mobile-phones,no

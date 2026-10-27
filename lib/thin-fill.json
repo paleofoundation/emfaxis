@@ -2408,5 +2408,107 @@
         }
       ]
     }
+  ],
+  "field-static": [
+    {
+      "title": "Read the field and the setting together",
+      "paragraphs": [
+        {
+          "text": "ICNIRP describes a static magnetic field as constant in direction and intensity, while also discussing interactions involving moving charges and movement through a strong field. A constant source therefore does not make the person or the interaction stationary. Its protection discussion treats transient sensory effects and magnet-sensitive implanted devices as distinct issues. These are source-specific mechanisms and precautions, rather than a single measure of general illness risk.",
+          "source": "icnirp-static",
+          "locator": "Held official HTML, Characteristics of the field and its use; Effects of static magnetic fields on the body and health implications; Protection"
+        },
+        {
+          "text": "MRI combines a static field with low-frequency fields and radiofrequency fields. ICNIRP separates the medical context of a patient from the work of personnel near the equipment, including movement-related sensory effects. A statement about the static component cannot describe every part of an MRI procedure. The guidance provides context for those different situations; it is not a study showing that an everyday household magnet produces the same exposure or clinical outcome.",
+          "source": "icnirp-mri",
+          "locator": "Held official HTML, Characteristics of the application and its use; Protection"
+        }
+      ]
+    }
+  ],
+  "question-sleeping-near-phone": [
+    {
+      "title": "Match the bedtime question to the exposure record",
+      "paragraphs": [
+        {
+          "text": "FOPH explains that a phone transmits mainly during calls or data transfer, with different activity in standby, and that connection quality can change its output. A place beside the bed does not by itself describe the phone’s activity throughout the night. This operating context helps specify an exposure question, but the fact sheet is not a controlled trial of changing a bedtime routine or treating a sleep disorder.",
+          "source": "foph-mobile",
+          "locator": "Owned original PDF physical p1, opening description of connection quality, distance, calls/data and standby"
+        },
+        {
+          "text": "The COSMOS sleep analysis linked operator-recorded baseline calling with later questionnaire outcomes and used network information in its exposure comparisons. That is a different record from continuous nighttime position or absorbed dose. Its questionnaire-derived insomnia indicator also lacked the duration and frequency requirements of a clinical diagnosis. The study can inform its defined calling-and-sleep comparison without becoming a direct test of a bedside placement, screen-light intervention or clinical insomnia treatment.",
+          "source": "E02-T04-R161",
+          "locator": "Held native PMC XML, Methods2.1 to2.4 and Strength and limitations; questionnaire indicator and baseline exposure limitations"
+        }
+      ]
+    }
+  ],
+  "source-baby-monitors": [
+    {
+      "title": "Keep device function and study population visible",
+      "paragraphs": [
+        {
+          "text": "The FOPH fact sheet distinguishes audio and video systems, networked cameras and phone-based arrangements. Voice activation and range checking are separate functions, and some systems can still send test signals when there is no audible activity. The document excludes advanced bodily-function monitoring features. Its radio-exposure discussion therefore cannot validate the accuracy of a breathing alert or substitute for checking how a particular monitor and connection mode operate.",
+          "source": "foph-baby-monitors",
+          "locator": "Owned original PDF physical pp1 to3, scope/device descriptions and Technical data1.1"
+        },
+        {
+          "text": "The monitored-bedroom pilot used a modified baby-monitor system in selected healthy adults under active and sham conditions. The device name does not make its sleep findings infant evidence. Placement varied between homes, and missing or unequal recordings affected the available analyses. Keeping that population, setup and analysis limit visible prevents the pilot from being treated as a clinical evaluation of every cot-side monitor, a bodily-function alert or the benefit of switching a household device off.",
+          "source": "E02-T03-R227",
+          "locator": "Owned original PDF physical pp2 to3, Materials and methods/device setup; pp5 to8, available recordings, analyses and Strengths and limitations"
+        }
+      ]
+    }
+  ],
+  "guide-exposure-measurement": [
+    {
+      "title": "Trace the measured quantity before a health inference",
+      "paragraphs": [
+        {
+          "text": "ICNIRP distinguishes basic restrictions expressed through absorbed exposure from reference levels outside the body. The latter are derived using assumptions about how external fields couple to the body. A meter display and an absorbed quantity consequently answer different measurement questions. This framework does not turn a room reading into a personal organ dose, and it does not supply a clinical diagnosis from an isolated measurement. The relevant quantity and assessment conditions still need to be stated.",
+          "source": "icnirp-rf",
+          "locator": "Held official HTML, Protection, basic restrictions and externally measured reference levels"
+        },
+        {
+          "text": "The Australian school survey used moving classroom checks alongside fixed-position measurements and recorded averages and maxima under specified network activity. Those sampling methods describe different windows and locations rather than a child’s continuous absorbed dose. Most sampled classrooms were empty, and the occupied-room observations were limited. The report is useful for understanding what a field survey actually measures; it does not independently establish a health outcome or validate every network load and occupied classroom arrangement.",
+          "source": "E06-T11-R114",
+          "locator": "Owned original PDF physical pp2 to3, Measurements and classroom walk-through/stationary methods; p7, occupied-room limitations"
+        }
+      ]
+    }
+  ],
+  "research-progress": [
+    {
+      "title": "A recovered source can describe plans or completed observations",
+      "paragraphs": [
+        {
+          "text": "The reproductive-review protocol specifies planned eligibility, risk-of-bias assessment and synthesis for experimental mammals and human sperm exposed outside the body. Its planned certainty assessment is a method, rather than an already completed grade or pooled result. Recovering and identifying that protocol therefore adds access to a research plan. It does not add a completed fertility experiment, a clinical pregnancy finding or human scientific approval of the site’s summaries.",
+          "source": "E03-T05-R297",
+          "locator": "Held native PMC XML, abstract Objectives, Study eligibility and criteria, Study appraisal and synthesis method; Methods"
+        },
+        {
+          "text": "The COSMOS sleep report illustrates why access and interpretation remain separate even for a completed cohort analysis. Its own limitations identify baseline calling proxies and a questionnaire-derived insomnia indicator that did not include symptom duration and frequency. Those details remain part of the report after the full text is recovered. A source-recovery count cannot resolve such exposure and outcome limitations or replace the separate scientific appraisal needed to interpret the study.",
+          "source": "E02-T04-R161",
+          "locator": "Held native PMC XML, Methods2.2 to2.3 and Strength and limitations"
+        }
+      ]
+    }
+  ],
+  "source-mobile-phones": [
+    {
+      "title": "Keep operating conditions separate from cohort exposure histories",
+      "paragraphs": [
+        {
+          "text": "FOPH distinguishes a phone’s connection quality, distance and transmission activity when explaining exposure. It also describes maximum head and body SAR values under their stated uses. Such a device rating is different from a record of someone’s changing daily use. Comparing phones or habits requires the actual operating arrangement; a listed maximum does not reconstruct the absorbed exposure of a participant in a long-term health study.",
+          "source": "foph-mobile",
+          "locator": "Owned original PDF physical p1, connection/distance/activity and maximum head/body SAR descriptions"
+        },
+        {
+          "text": "The Million Women analysis collected reported phone use before subsequent cancer-register follow-up. Its authors identify simple exposure assessment, missing technology detail and possible exposure misclassification as limitations, with further uncertainty for rare or location-specific comparisons. These are characteristics of a defined prospective cohort, not direct measurements from each handset. The results should retain the study population and measured outcomes rather than becoming a universal verdict for every use pattern, device generation or health question.",
+          "source": "million-women",
+          "locator": "Owned original PDF physical p2, Exposure Variables and follow-up; p6, Discussion strengths, exposure assessment, laterality and rare-outcome limitations"
+        }
+      ]
+    }
   ]
 }

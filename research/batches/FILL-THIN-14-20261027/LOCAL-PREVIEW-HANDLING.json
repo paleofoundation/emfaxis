@@ -1,0 +1,10 @@
+{
+  "scope": "Accepted identical local-only QA config on base/candidate",
+  "config_sha256": "e2fc7fc436c369d6980d20ca1b9d42269115c61c36a1388a7708a4ed0f4c44b3",
+  "asset_html_handling": "drop-trailing-slash",
+  "tracked_hosting_unchanged": true,
+  "configured_reading_route_contract_checks": 260,
+  "additional_directory_auxiliary_fixtures": 10,
+  "actual_total_GET_rendered_HTML_fixtures": 270,
+  "production_routing_change": false
+}

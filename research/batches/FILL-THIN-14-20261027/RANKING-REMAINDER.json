@@ -1,0 +1,34 @@
+{
+  "requested_positions": [
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140
+  ],
+  "actual_total_ranked_emf_urls": 136,
+  "selected_positions": [
+    131,
+    132,
+    133,
+    134,
+    135,
+    136
+  ],
+  "nonexistent_positions": [
+    137,
+    138,
+    139,
+    140
+  ],
+  "missing_canonical_targets": [],
+  "substitutions": [],
+  "other_repositories_touched": false,
+  "ranking_exhausted_after_this_batch": true,
+  "not_a_claim_all_site_pages_are_clear": true
+}

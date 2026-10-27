@@ -1,0 +1,1865 @@
+{
+  "status": "PASS",
+  "accepted_base": "32dea468209f1be358c54ba235963cbf5f001b50",
+  "captured_base_routes": 270,
+  "captured_final_routes": 270,
+  "selected_routes": [
+    "/research/progress",
+    "/questions/sleeping-near-phone",
+    "/guides/exposure-measurement",
+    "/fields/static",
+    "/sources/mobile-phones",
+    "/sources/baby-monitors"
+  ],
+  "unselected_routes": [
+    {
+      "route": "/questions/t01",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "c0e431fe6d5000f0d85cbf8562d9ac4bf642924c457719722df01b02d1508f5c"
+    },
+    {
+      "route": "/questions/t02",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "b323594f519ea690e237e33e66ebe4b108dabb74a4e050b91c1fdd4303479cc7"
+    },
+    {
+      "route": "/questions/t03",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "bad3cf3790266479dc6ee1b7e8e758f2cd660677fa97169287557c6618acb06b"
+    },
+    {
+      "route": "/questions/t04",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "cc3874b4317b881bc8f85e5e0f9b79846017615c49f3059f513a539254190d48"
+    },
+    {
+      "route": "/questions/t05",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "4e3595fd850a1b3b48560d1cbc205a50fb3a2fe7eb55fe4046fd14630e0860de"
+    },
+    {
+      "route": "/questions/t06",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "9b7fe80fce5458b3a3e991379db6471d9e21b738bc8c12e8dcb3e3c7813fb643"
+    },
+    {
+      "route": "/questions/t07",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "0ff633194b5d826add89101300bc52d50b08c6f171d7e81cc2fd3d3cc4d99216"
+    },
+    {
+      "route": "/questions/t08",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "a5f6c4573276ce0ff4e513cff7b639929bc645bd2253c869b8d53b30fa308977"
+    },
+    {
+      "route": "/questions/t09",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "850be097b68c530d9a828301e353f8ef01d8dcaa21fb7718e6c3ce0e0bab150c"
+    },
+    {
+      "route": "/questions/t10",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "076cde0e161688e44a580af90fe2d0df6ca8da077a3932b392449e5179536ca8"
+    },
+    {
+      "route": "/questions/t11",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "98d94da771622586b9dc42c0f6234d916f8ddea36bd4742991e7f67f15e7104e"
+    },
+    {
+      "route": "/questions/t12",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "781e3e60e45aae63ddc4aec4fce2e84a332fa41a6a04b419e4097e5c2351c575"
+    },
+    {
+      "route": "/questions/t13",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "64828a3c3c0636d5a8beac9e7da6b5731d2759ae5d5fb81a20d7c01b0e84996b"
+    },
+    {
+      "route": "/questions/t14",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "32b16675d275b24f7d11b8b421cc2e53e6e56491524dd9eb6292a76a3ac3c1bb"
+    },
+    {
+      "route": "/questions/t15",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "1f09213325c2714f32eaa22e9026e554f16f76c3987a64a9afcd2fc29a6e536d"
+    },
+    {
+      "route": "/questions/t16",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "4c1e9db63854b44e4ea9dfcc965beede15b2752da87f5bbe1e40434dd573b10c"
+    },
+    {
+      "route": "/questions/t17",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "b80a368a7323d307245beffd75f997955cdd379499601d218ab5c1451a65a39f"
+    },
+    {
+      "route": "/questions/t18",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "dfd3dda36bbebb5ed5b8881301eb09183a1c1d69a9b4bb0d1a9cea6644cb5d9f"
+    },
+    {
+      "route": "/questions/t19",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "2f1b6cf2cf43e9e5155b764aa250ace59d35f4ad30fcd1bc6ca268f00a0b4d7f"
+    },
+    {
+      "route": "/questions/t20",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "d3aa1d165b2db95aecca052e6ecb0c496cd4650740e0270ca1b4f6ff54a9b87d"
+    },
+    {
+      "route": "/questions/t21",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "ffecefb9a6061f11863d885ec245a50c1098b31f8896ed48e5eabd4236f6f102"
+    },
+    {
+      "route": "/questions/t22",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "007ea469ffb4e687899dafb5810b96f611ed6d4ad71d1aeb2238773ce851fa17"
+    },
+    {
+      "route": "/questions/t23",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "00a51b1f4484ad4f38d26a2d8cf4271a082662249d84a2333ccb903eadad3ba6"
+    },
+    {
+      "route": "/questions/t24",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "c9ef2c403ceaf1ea9283f44d7733880da732b6ca841b05fa5f1d7f23d57556a8"
+    },
+    {
+      "route": "/questions/t25",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "189e9ae8a7eba809cc5c0e24af56674a987dc34ba9c4e407e2718c48316a211d"
+    },
+    {
+      "route": "/questions/t26",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "64f5d9aa471d0ddfe89f9063c2fe61e07f24fc6d1d71586c8423449b5bb42221"
+    },
+    {
+      "route": "/questions/t27",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "0abd0a49f532ccb42de381dbdafa47630afb4dca1d85372824491829aaf8dc18"
+    },
+    {
+      "route": "/questions/t28",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "54bce1ac53c76f1a08ac5cf74d12250b703c5cdc19e1a3e557d999f89907914f"
+    },
+    {
+      "route": "/questions/t29",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "e4e5ebf0063531758a1baa4cb50f31b98983ab787931bd97aa7f5f7260512c0e"
+    },
+    {
+      "route": "/questions/t30",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "59fb44216243dffda00a1edfbbe07449aab7e8e441d7e0079b4f7b8dafe8146f"
+    },
+    {
+      "route": "/questions/t31",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "98a01ea5f683365919d672fcd7b0dfce73772cc6130f4e657c130ad7101949cb"
+    },
+    {
+      "route": "/questions/t32",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "1b7010056ae70f75c25feb5d7c69299a92e0adf97dbaf5ec66a7ad9f56064157"
+    },
+    {
+      "route": "/questions/t33",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "5e454616dae97fd17fbb2254e6a488991b165fa450b9c327482368a7bfa26e3d"
+    },
+    {
+      "route": "/questions/t34",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "876fba00b19b80a84cc45c552744d2dd6f24996760d860aa6805cd1af8167241"
+    },
+    {
+      "route": "/questions/t35",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "ce2a9096acc49bf7e95406ed53b0c7d1d0cd0714a9d6bfec36edf6fe105265c1"
+    },
+    {
+      "route": "/questions/t36",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "9a6e014232e48f06126b5db80c58f0b8829465e9364e46a8d1e8a18136a32c97"
+    },
+    {
+      "route": "/questions/t37",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "47fab0e6960805a1ffc276cb8e09764ae5704fb9692fff9af99a7ffc721a3dcf"
+    },
+    {
+      "route": "/questions/t38",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "ad59059418612d6030cc8ddcf4f52ecd7cd31e774ec86b9d9f5d5dae2ba51422"
+    },
+    {
+      "route": "/questions/t39",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "2051e909be26f4e9b7307dc63fe7eb5b0989dc868065bae2ff47cfdaa9fd4987"
+    },
+    {
+      "route": "/questions/t40",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "47b32e9046960699a18d7267049056947c901af7a848bca37af3de072a174b83"
+    },
+    {
+      "route": "/glossary/absolute-risk",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "ababd9bc16818fe4679808da1a5367a1910b4e34284c6c20d8252946c3ce182c"
+    },
+    {
+      "route": "/glossary/association",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "7da97571a2ed690787ae90ad576c03b9d75390834ac7538514fc44bf444c533d"
+    },
+    {
+      "route": "/glossary/bias",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "64e777976983403f1aca9dbbf11da70eae83eb6e5eaba6dddac5032389a23583"
+    },
+    {
+      "route": "/glossary/case-control-study",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "f203eebb1c7bae7ff14d3fd2b80c1ee831c975ad87ca4e875a2d6fe93b20632d"
+    },
+    {
+      "route": "/glossary/cohort-study",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "6c70568ecf56dc07d43f42305ba356486dd1244cc53da1d19dd5814d1d021114"
+    },
+    {
+      "route": "/glossary/confidence-interval",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "faa9f8c8af156d3b99b4586923c113239b33231d6345f0aab898349a10a283b6"
+    },
+    {
+      "route": "/glossary/confounding",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "a22e44dcc72f6b0caa31387e14a3529e9f9794ee5dfdef17263266ead1eb346b"
+    },
+    {
+      "route": "/glossary/dosimetry",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "d7f384322a12a76be9928c2682b490d60f43b05cf7253ea1d6734335623d0bf8"
+    },
+    {
+      "route": "/glossary/double-blind",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "b4422b9fb860ae60de5552f9ef438b61773333b0f5e56602f202d67827e0a59e"
+    },
+    {
+      "route": "/glossary/eeg",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "2c8c955864dc467e415c929ae264e85fc4357243207e4ec737a55c4fb41ce718"
+    },
+    {
+      "route": "/glossary/electric-field",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "002153b31f0270ae680620a0973d4d43acd43de47e4678ea512f02506240a51c"
+    },
+    {
+      "route": "/glossary/elf",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "18ce7ea17a33b0c0e460b0dae55d78f302a71f097e5a756d855be18228fee1e0"
+    },
+    {
+      "route": "/glossary/exposure-misclassification",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "0c7ef71d285b51ab3a1bae86bc0d3373397dbfdbd37891e9cec7aee73d6fa0b7"
+    },
+    {
+      "route": "/glossary/fecundability",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "762e9ed986e77113cac435905f2a4d59d17e84e625ac9016b33a9adabfca35ac"
+    },
+    {
+      "route": "/glossary/frequency",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "eeed16a5f9ad08e513510f936330beea428f1db37e634fee0fe7c62491028bc9"
+    },
+    {
+      "route": "/glossary/hazard",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "0425f0fc0f3360525ea0b2e92d9b54f88b73e8d33b422760cee8a027907b7a5b"
+    },
+    {
+      "route": "/glossary/hazard-ratio-hr",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "6dfc4ce3464f6b98a30052729178093eec0a8e79eb2c18f7103a16d7c6e862cd"
+    },
+    {
+      "route": "/glossary/in-vitro",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "c251749a8eaccc736ebf37547fd3298113d6ca71f480f6e276e2796094a4fc08"
+    },
+    {
+      "route": "/glossary/ionizing-radiation",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "7bb3021982589f16f452b657961ad041db52a53e6e2755b7339d0c487d74cffc"
+    },
+    {
+      "route": "/glossary/latency",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "52bd4887ae14d4cb1f39c85512b9c48f49304002fb1662a470ce840a60f28bf5"
+    },
+    {
+      "route": "/glossary/magnetic-flux-density",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "afe1ade935a73230da1533794bdfc46fa4f484680ee5415eeb548ff79ed0defe"
+    },
+    {
+      "route": "/glossary/nocebo-effect",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "61c5dd38c80430ba9416b83830a482ff7275beaeabcc941f79fa3998e1a4ca17"
+    },
+    {
+      "route": "/glossary/odds-ratio-or",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "a64ee0d325cd95d9368fa31b332b38e786a0993970712839199eca9170a19f55"
+    },
+    {
+      "route": "/glossary/pooled-analysis",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "fffc579bb57ce6985a9bdbd70387d82e4254090596e7a8bec8c8f520257a41c4"
+    },
+    {
+      "route": "/glossary/power-density",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "cbb22a6d5c4dc38d1e0a5d9fe7cd8c8085f48a079fd6537cb12cb65bfbf57696"
+    },
+    {
+      "route": "/glossary/radiofrequency-rf",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "8af703eb8ad85edf14001a40cd76761a9a9f44f31d1b2e004970dcc85bfe487b"
+    },
+    {
+      "route": "/glossary/relative-risk-rr",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "844d7dc8cf0e504de64db7aa16b8073931b6e6516d83e6572ded44b58899a0dc"
+    },
+    {
+      "route": "/glossary/sar",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "8f0a45db6a2a07873e31c2d868101795707024dd1e22d81b7b5ec428e11124e8"
+    },
+    {
+      "route": "/glossary/sham-exposure",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "2fdec02f0b07939ec5b88fd94898261b2a63696ba905239b9852344d10ee2b72"
+    },
+    {
+      "route": "/glossary/statistical-significance",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "b4b395b425b8316a202a2c595035360fbd94509ea4ecf546bd8686b6b4739f3f"
+    },
+    {
+      "route": "/research/cosmos",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "01a5f30a2a32f29ea99458f56929f60f286a1b3afe8fe795170eba6d568461f6"
+    },
+    {
+      "route": "/research/million-women",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "6c3b0d10c8e3aba21449ccdc714e6b47ba9d00b8bdec210823e514bc1f105f4b"
+    },
+    {
+      "route": "/research/interphone",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "7a11a1396c2fa2a7970823b189876d20f4e6e6d957efab794b2f5363ab37c20e"
+    },
+    {
+      "route": "/research/mobi-kids",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "395083c7fcc3b2e88491a759162a5f32fbcbf86e2aa1d91010cf03b9aba5fb52"
+    },
+    {
+      "route": "/research/ntp-rats",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "4b49408c303b828719f7571d4bae1f23edad099d49965d11c6880000afaccc1d"
+    },
+    {
+      "route": "/research/ramazzini",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "4a0b0b610bbb9faefc17cddf998f64c8c42b5f20320288896bac18ad68cc6fc5"
+    },
+    {
+      "route": "/research/eltiti",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "4de41d8639c3ff62cef2f957e33ecc6d9e981aa13da45db12381e305ef5ebcb0"
+    },
+    {
+      "route": "/research/headache",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "e2a6946f6899331cf82897bacd5ba917ffe910e3bfc46479c80692d55e7576d1"
+    },
+    {
+      "route": "/research/hermes",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "f090f0c22a3644b56d327245f3ce83f3d4bcd47573c2221abd7db37e9e90677b"
+    },
+    {
+      "route": "/research/5g-sleep",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "350576be8f3f95125041a88f1b31c42df0834a6ed1b742c6ec56be808e5eacde"
+    },
+    {
+      "route": "/research/ahlbom",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "68c9f5c4dcd4b93a06db35095d0589e8bc644c2f3d3cd876e55838693e6941a1"
+    },
+    {
+      "route": "/research/greenland",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "9564d7ee070122195fb2d101a73095785d42229539c9aafd5794e32f3072a98e"
+    },
+    {
+      "route": "/research/draper",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "3b3bce9b8d6283dd369c366a2eee16924105a7a2c43c2377d63cae08cad87012"
+    },
+    {
+      "route": "/research/rahban",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "b16fd34bf093e7b0a27d15aa693df70b4cb9757552445ee1ef32d866ea8b0232"
+    },
+    {
+      "route": "/research/hatch",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "e664dba1cdd3afa1f641bee9bf3d0de633742196c1e3cd7983e2803444160bd3"
+    },
+    {
+      "route": "/research/de-iuliis",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "a5749936663a47c7ce26f7ffd84be4a35bcb17d9ec43d4551d5f03267120416d"
+    },
+    {
+      "route": "/questions/do-phones-cause-brain-cancer",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "6364d3ad0732f14c16bba17be518bf86f081e4d8356d449e02e32527a6cd3a18"
+    },
+    {
+      "route": "/questions/heavy-long-term-phone-use",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "4bc350090e05beec8659b152fbf59ae7b1a4d03bed91761cdf5377f6f1d79aa0"
+    },
+    {
+      "route": "/questions/brain-cancer-trends",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "b83c8b7c5d3af0c1e01e4a901d4876ee559fdcd6655df5f70184316cd8689c98"
+    },
+    {
+      "route": "/questions/why-studies-disagree",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "e9f389bcfd6db18c734717851313c6010d0445ad446317bd08245798e27aeb02"
+    },
+    {
+      "route": "/questions/ntp-and-ramazzini",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "8bcf1b5e9c155856daea27f559c30f14fada0656a782437dc58424c7856f5c7c"
+    },
+    {
+      "route": "/questions/children-and-phones",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "dffdc04ccd0503da01f24c9327821ecfd626fcba879cddd3d847f549d8e5fd6e"
+    },
+    {
+      "route": "/questions/router-at-night",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "3b72bfa1141d742314cc88c8ec6264e8244fbafe7a22af6edad160bb5d376473"
+    },
+    {
+      "route": "/questions/living-near-tower",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "c5b323536edc316b01bcc4b76139e377f96a4ecb361906b9dceec32c3831046e"
+    },
+    {
+      "route": "/questions/living-near-power-lines",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "eec547f2ac76b10a645294ea62e0d276643e4c6484f539a1df28f50fd3d18088"
+    },
+    {
+      "route": "/questions/5g-versus-older-networks",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "615690ee2a848df5b37cc35f02b7e85261b0d0e358bde161b6d10efb3a8ff1b6"
+    },
+    {
+      "route": "/questions/reducing-phone-exposure",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "7bb35a89f24628c6ff2b7ee94ed8be911a1739c7bb2410322d3fa003e76f984d"
+    },
+    {
+      "route": "/questions/phone-pocket-fertility",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "93ea90fad89affdd05e9186e86eb64162c2d1adcac5888f1f387219f6581c045"
+    },
+    {
+      "route": "/questions/shields-and-stickers",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "ff5348dfaa276a0942e18e5086a821a2e4329318a68279037f2a5c0efcd72202"
+    },
+    {
+      "route": "/questions/below-limits",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "89a21ee5039763d0aeb98ad39e3ea7ced4fa774c5bc37c8aac4d2807e0de4b93"
+    },
+    {
+      "route": "/questions/funding-and-trust",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "52f672150065f3b043e89b071720e46a67a9d1a416252f996baa1ccb26eab26c"
+    },
+    {
+      "route": "/guides/emf-basics",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "247f053da1a3bbe2bdfbb74625907da407bd30f3e64fe5af0b1dee23134a3098"
+    },
+    {
+      "route": "/guides/reading-risk",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "2a802b020581b9193fadc2df5a5b220bf4d8d20293fa4fb09b49b37cec63938c"
+    },
+    {
+      "route": "/guides/study-designs",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "da1b27044765a68a30dc9157ace1fd3147253e52cd69c9dd949fcf48e5f71aa6"
+    },
+    {
+      "route": "/guides/animal-to-human",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "483906c75db4a41d6f67d98fb7efa8816c02d82a29b998fa5f8f6024d064a575"
+    },
+    {
+      "route": "/guides/limits-and-regulators",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "aa956a12c7d4c3be072ab48014dceeb46a40fa65189ef52d67e3c88cc9d2c246"
+    },
+    {
+      "route": "/guides/home-exposure",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "dc2b1d42807aceedc3e4e41709881657a20be4f37a23993bc5c42af6b8a96c64"
+    },
+    {
+      "route": "/guides/family-choices",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "b63e35ac41da0b2480cebfe1548035870588d651684169cc79e5f90e015b1ec3"
+    },
+    {
+      "route": "/guides/symptoms-and-support",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "4889eecbc6dff756d80a8aa96cadfc45a31bcf3f3057187d38d63b649f031187"
+    },
+    {
+      "route": "/guides/how-we-grade-evidence",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "b769f63789051d115ecda8ce640eee0e4e711783ca0a43fda688f2e014df5ecd"
+    },
+    {
+      "route": "/guides/rf-animal-experiments",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "2e8ec241fa248080ed381b9490cb056fe5cbb71aefae26eb0b7909213d150994"
+    },
+    {
+      "route": "/research/E01-T01-R022",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "46c3ec62f0d683e1616a51c5c79da771d3a570df819b6cfe1126a8b2ac67ae12"
+    },
+    {
+      "route": "/research/E01-T01-R126",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "18897adb7a3bed2b2f49ba3386046d58dd291cbf59b2edd69433d2de978efe54"
+    },
+    {
+      "route": "/research/E01-T01-R127",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "7173c7c9392f9a8230b56f2c7a273cd2ee5b77bfe4980b66746c2f16438ca3da"
+    },
+    {
+      "route": "/research/E01-T01-R246",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "051eb3c1c7e460d9d6301e7be9c528cafc1d4a129a734bfbeb2fb93da08ecf34"
+    },
+    {
+      "route": "/research/E01-T01-R251",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "3d78e831aefaec417e8438d1c473725fd2796b64d203e4a879f9fc2bd6d09409"
+    },
+    {
+      "route": "/research/E01-T01-R257",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "1164e99df005f495bbba831dcece9d36d975ea6d0cdbcff551ca8dee27b2560e"
+    },
+    {
+      "route": "/research/E02-T03-R018",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "475c6843cb259e9334e2310f55be84d2c11deb9475297d6d093b1a13f22af182"
+    },
+    {
+      "route": "/research/E02-T03-R054",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "dbe1fe76de29aca45527f951f780b1bda61f38e2dcde087b20e1096c7a28b2e5"
+    },
+    {
+      "route": "/research/E02-T03-R147",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "07d662403a2202bbd2ee686907b9cfe07d1fe7a378ab450e6cf00bae743473f3"
+    },
+    {
+      "route": "/research/E02-T03-R175",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "d9fe0062a9f699e6dbe1628e4c1c130f32bc0ca775689a844b65f1532a441684"
+    },
+    {
+      "route": "/research/E02-T03-R227",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "759eb884b179c879010112c826607698217d1844207dc2bc7e7976ca7e554e9c"
+    },
+    {
+      "route": "/research/E02-T03-R264",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "ea17f1a1fba5c9ac4bb613633c2d13044c9778da04429d3f60decb4af78c2543"
+    },
+    {
+      "route": "/research/E02-T04-R122",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "5e364274a6d48690425a7a807939f20930cecff686c478b6e6ca0951d88b8ca2"
+    },
+    {
+      "route": "/research/E02-T04-R143",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "3b215311d94e304ab084274318ca1f07b75c19428ad8df720c4db37adc1aeed1"
+    },
+    {
+      "route": "/research/E02-T04-R161",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "a11d09096f4f22d8343881bf848c709990b7081a7a042b6d432eccee60717aa7"
+    },
+    {
+      "route": "/research/E02-T04-R174",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "c2e6ce004afba715e38d991b9b89846999916567f495641e0727c13acac9930a"
+    },
+    {
+      "route": "/research/E03-T05-R182",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "f367ce2c25b2866d17b5ccd31f4a4e79ff78337e0f7b0163b14e9267aa18de61"
+    },
+    {
+      "route": "/research/E03-T05-R212",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "da7bfcd22830a854a3a49e1cb015ccca819f2958ecdcd9195aefc509da52393e"
+    },
+    {
+      "route": "/research/E03-T05-R222",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "7efdceb8dbbd0cd9b6990e8662b152635412ac7e7a649e54b724f036c21e246a"
+    },
+    {
+      "route": "/research/E03-T05-R267",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "e7104cf3067bfadc6e0240d60055374b9ad106264908a11d6d1086d782b10b0e"
+    },
+    {
+      "route": "/research/E03-T05-R273",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "cd1406453875133f8378774085e86c6f7b6751aa15dba2c70563de8a6a848083"
+    },
+    {
+      "route": "/research/E03-T05-R297",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "7042705533c1531bd0f9b916bb64d1883e615e9d7878e40d839c9cf51e623206"
+    },
+    {
+      "route": "/research/E03-T06-R073",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "99db08bba5278abd47fde851ab4833e1a73c783ff0249333c534771251b9507e"
+    },
+    {
+      "route": "/research/E03-T06-R094",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "81df89bc254bfbf759beec433532e58303ecbcb804a639c986a03950d2cf0c1c"
+    },
+    {
+      "route": "/research/E03-T06-R096",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "ee9e525d557712bf6e9e62d4a876cb183725fa4c5e4b260a3f862c3cb9d87e18"
+    },
+    {
+      "route": "/research/E03-T06-R109",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "f0c615079ad505e10c5d5e57d6e068b177a6631afccf59480eed95ae70148724"
+    },
+    {
+      "route": "/research/E03-T06-R135",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "9fa2bca86d3b1c2a0963a1ebdcf8fe8865d11142969d49a18f5300df9727b031"
+    },
+    {
+      "route": "/research/E03-T06-R139",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "c28f064a861f325bc047704cfa04966a001d964b0aef4c317d45e07cf95c7d97"
+    },
+    {
+      "route": "/research/E03-T06-R149",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "ac4de5a96304ac3dedb30607054ff9ce59e6bcef2891d4c6a17cdfc4eee6d4d7"
+    },
+    {
+      "route": "/research/E04-T07-R230",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "3004b33c4a7e33c186e0cac0ae58ba4bd6383c86a6dee05f300493939627e27b"
+    },
+    {
+      "route": "/research/E04-T07-R237",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "8c9cd3f3c203414e736c36d8b261221e12b8cb309a4a8b185700ebc988a4ed93"
+    },
+    {
+      "route": "/research/E04-T07-R252",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "1a41c3215632a97a8766db26f50758ee674409b7ce1f9c4d897fc048bfda6a19"
+    },
+    {
+      "route": "/research/E04-T07-R257",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "1585cff807839d0270ef7945745faeb2d6e15ee3b0c7964d3d97ec51bfdb4b02"
+    },
+    {
+      "route": "/research/E04-T08-R044",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "9339a5d09f305389cadfdbabe216cbba2ff2c154bc42709b9a27192d337ab023"
+    },
+    {
+      "route": "/research/E04-T08-R052",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "27cf228a4108d4e7f7668af679fd810a89dda1485cb303becc4997d5ce58dfee"
+    },
+    {
+      "route": "/research/E05-T09-R078",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "6772c86efd959b14a88d50803527b5fa9a0e2be42e443aae2e58cd30f4c0d7d2"
+    },
+    {
+      "route": "/research/E05-T09-R232",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "2103d36565ab50303fa0dccc8abee49495698a6c8ad09ae6d9f4348a54451eab"
+    },
+    {
+      "route": "/research/E05-T09-R513",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "4164407f5ee9db405561b9bd9fc1814b172b96323b4946c60520f56350ad9152"
+    },
+    {
+      "route": "/research/E05-T09-R560",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "b3aa1aee84cf29ee77d845b64211bdb8a48cdd67256101dda9f2bcfa673eec6c"
+    },
+    {
+      "route": "/research/E05-T10-R110",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "59e5a095d8f571080571706ac520426cbff0bbdeb663da700114d6fe5ababe4a"
+    },
+    {
+      "route": "/research/E06-T11-R114",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "c2eedef45e9da594981e7000eb49599995340c332c65dce4accb162db6cea179"
+    },
+    {
+      "route": "/research/E06-T11-R137",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "db55baaf74b6df38ddcf13cd0d03038883674ab9bdbf7ce632544f737745ef49"
+    },
+    {
+      "route": "/research/E06-T11-R168",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "32ea58854a23c2e08f7bd2c4beddfdd2055c34ba4ccb49cc4a9f261a0874c5eb"
+    },
+    {
+      "route": "/research/E06-T11-R191",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "c87ecdc41b25bb8a07e0217726e9ba7524386b8468837eafb4a90270064170bf"
+    },
+    {
+      "route": "/research/E06-T11-R208",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "41886073cc490744b16cb0b6a439f69d8f6872a023df25a6d2bc6a9272006edf"
+    },
+    {
+      "route": "/research/E06-T11-R239",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "f34721aed06fc9ce8ab534aaea84025fff9e2f84f1ae88e91ce0ad5a8841c1d5"
+    },
+    {
+      "route": "/research/E06-T12-R016",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "081b8dce36bff50a18be9285337c5f155a51e7e9dc815be4fb64f21b65eb2cf3"
+    },
+    {
+      "route": "/research/fda-microwave",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "ae5bff24bd6f48b546f934ad937e96389a4b2256a318afc4dc902c477728e8d0"
+    },
+    {
+      "route": "/research/foph-baby-monitors",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "1638ea18b505861eae28e95f3e3518bdc231b7415a4d1b8f9a002a9a96671caf"
+    },
+    {
+      "route": "/research/foph-bluetooth",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "9c5fc727e43f46d2b3e7f913299fc52930edfae5d6b18463e5b1602342bf4723"
+    },
+    {
+      "route": "/research/foph-induction",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "c456f0c22f0ac8e7c4fd809d422ac84151e799d186611607f6121d8fa234a833"
+    },
+    {
+      "route": "/research/foph-mobile",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "1b4e73fc493fbad36370af587521824d4858bc7c9de1a3307f36a19af641447c"
+    },
+    {
+      "route": "/research/foph-wearables",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "3f70e7957dd10a70a8a0000f357119db06e65b6e1f8d4e3866d0928aca9d2edf"
+    },
+    {
+      "route": "/research/foph-wlan",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "c9ec62277000225f7e8b3f34772d24f498e378bdbdbd7fa77dd874cd5d6f6d0b"
+    },
+    {
+      "route": "/research/hse-workplace",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "6792b42865f7b3a60289cb992200469222beb2a634b9af510817332214503e11"
+    },
+    {
+      "route": "/research/icnirp-dect",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "3189cd2b23d76d6a093afba554e127e0b055252a019aad1352c2172c005cda96"
+    },
+    {
+      "route": "/research/icnirp-lf",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "b202f6881ee9278f9c47e13facf55a37d3752fb8b5e8579301dc0d134556b1fe"
+    },
+    {
+      "route": "/research/icnirp-mri",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "57930c2a4fdf85183a854b0e5248c780e8e42676e89acf6303fa7bcb2e5af327"
+    },
+    {
+      "route": "/research/icnirp-rf",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "487272f382f2ae3d9125b68e11af84c44c18ca2b028df4139efb1b42262f3c0b"
+    },
+    {
+      "route": "/research/icnirp-static",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "cbd0bd7a0811520be3e3a38c925db901cdc4705274bf83a01eac1e03886b5cdd"
+    },
+    {
+      "route": "/research/nci-emf-cancer",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "6b9d0ddb7396fbe521e5787576fd09c0c18bfcdeed64183238ade175ded9e96e"
+    },
+    {
+      "route": "/research/ukhsa-smart-meters",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "6f8cc8584a9a9eaa3cfd807562e5b68252d18af425e7e7c53ae7f0ca8a3cedcf"
+    },
+    {
+      "route": "/research/who-ehs",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "d72f557d2a0e88a1a561866ac6039c2bad21331d9bf9c3d997b175bfb4e92e01"
+    },
+    {
+      "route": "/research/wifi-pmid-17293700",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "6740dd36eed232a16497158ea0d49d2ea09853f175ea39ce0deca95a2faeb571"
+    },
+    {
+      "route": "/research/wifi-pmid-21856328",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "ddcbdc924d0dfa4999f6e1ecdf60c514460d57041340ea1b978b0be8c9badb97"
+    },
+    {
+      "route": "/research/wifi-pmid-22004929",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "a8da380bcbfda8e3941318d9de17240197b53f8cb5be02e077f811f23717a126"
+    },
+    {
+      "route": "/research/wifi-pmid-23085070",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "99e11d63d412edfd8ad42a358a2851933bb31d354da719a6658ab78a7046feb6"
+    },
+    {
+      "route": "/research/wifi-pmid-26600173",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "9cef7b7d1c570ba994b4d1c5c028ee551a93ceb4450d8dcaf2d839fb2feeb39f"
+    },
+    {
+      "route": "/research/wifi-pmid-32104921",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "e1eac86a06d572939222ea0478705016057891d131836ce3c224b1672ca1cb13"
+    },
+    {
+      "route": "/research/wifi-pmid-32408065",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "6b0cf92a1839ce592e3e5b6ca2c276fde7d3f033efa8c5ae3b20d46f321a6fb6"
+    },
+    {
+      "route": "/research/wifi-pmid-33166026",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "be7313982e9b23deae1116d3cbc3f2ed66171222fe59e8e4e35c23f814f766e7"
+    },
+    {
+      "route": "/research/E02-T03-R091",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "f079e586ca3553fa193c22aec49f4239e16d08d84fb1f2afcd3bcec76d2361c6"
+    },
+    {
+      "route": "/research/E03-T05-R354",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "eb7bae9d4d008a4bb9c56dc7d18ebf6875d5ed7390a50a317f003240ca573147"
+    },
+    {
+      "route": "/research/E03-T05-R320",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "3ae9cabc55f30dac5a3de201121a14784bf6b4ad884d81da80fe2344be4f594a"
+    },
+    {
+      "route": "/research/E02-T03-R207",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "f46d7851fd6bef2de53d52bf604681017808ad5745901ce0041960d62174a1f8"
+    },
+    {
+      "route": "/research/E03-T05-R270",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "9a5d75f24c180e23027ad8074aa602cabdb0f454142f8d01bd0226e317924a9a"
+    },
+    {
+      "route": "/research/E02-T03-R222",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "ce5b166d341a4a8b80468b466ac63dae420a58a7d402c17989ed6e18bdf79444"
+    },
+    {
+      "route": "/research/E03-T06-R054",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "d6df1c013931bf1c4c0bae7aadd20d4da8e7fa0a661e9fa7b218ade41c742697"
+    },
+    {
+      "route": "/research/E05-T09-R435",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "49b5548e4d3f158361926289a05b1b52a5714a0741924ab2194652164871fbf7"
+    },
+    {
+      "route": "/research/E03-T05-R242",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "7a819ca445c09d802d0444a0d139284f64aee5fbc9fc24cab651f8a13f7169ce"
+    },
+    {
+      "route": "/research/E06-T11-R185",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "ecb65306cbd32eb3a49350bb68962a0f48e1c844e423e62360df38754de1105f"
+    },
+    {
+      "route": "/research/E05-T09-R518",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "1e42de991b2b19c235e19d81c6d6b68818becd70e0cc1aa49c6abd00bab38827"
+    },
+    {
+      "route": "/research/E03-T05-R247",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "56caf503b4ed55cbfe4c19f44ca960df24103bf2792a35fccecf77a573a94b81"
+    },
+    {
+      "route": "/research/E03-T06-R150",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "fbf30252d9e4b638b43a0a8a3ef8c7f95ed3171a3c33a3b2a1db6bb9602e6cd6"
+    },
+    {
+      "route": "/research/E02-T03-R248",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "9d0c64a2feba608b7453cc76ddc2b2f948d68dee8858b960d437b30018d867de"
+    },
+    {
+      "route": "/research/E06-T11-R158",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "29ea7a0346392e9a93c4ab9fecad417958ccda1ae3795e3c966167298f184ea6"
+    },
+    {
+      "route": "/research/E06-T11-R232",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "48253cc76caaf511030ada5b4009a5252c549a61795e776865af2f5acaa39573"
+    },
+    {
+      "route": "/research/E02-T03-R062",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "cddca8eff146c3be6573a06fdc91590677fc20311d8adeea18b869976470b325"
+    },
+    {
+      "route": "/research/E02-T03-R238",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "276338824184d0293e1c4e69ab06e93e6af0dfaa674e012019a92e99fb62feb6"
+    },
+    {
+      "route": "/research/E02-T03-R242",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "c915de7a97437ae95ede2cf28308f1671eb553eb390ad4d063d28d04976a0828"
+    },
+    {
+      "route": "/research/E05-T09-R451",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "7fdde58b5dddc78a87de16555509607fe7d5fe016b60bfc3c131d77f4ca7d1ff"
+    },
+    {
+      "route": "/research/E02-T03-R229",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "2b51666f049aa2479cce2be076310c13d28eba56b3d08123e5024c28b72a350e"
+    },
+    {
+      "route": "/research/E05-T09-R485",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "ffeed7b09950460d6768734dba0b418ac44484e008145e5033977ee06e5bf010"
+    },
+    {
+      "route": "/research/E03-T05-R176",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "7bc9253dac0fb86a7b30d8364a435edb771458e5afd14303df943f0d76fa6ea7"
+    },
+    {
+      "route": "/research/E06-T11-R227",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "220af022a2847db0216b18e340360ea4d3464debdfbb6b94a290c86e17710fd9"
+    },
+    {
+      "route": "/",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "c3c6790dbecac736e1c8a7b4f9f3fcdc1b4270e0e95cbc928b68e123cb9e449f"
+    },
+    {
+      "route": "/sources",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "a6ce23d1ccacb64554c7d46058309cfaca0afccf848829bba9b4e43d9c9eee99"
+    },
+    {
+      "route": "/outcomes",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "939978aa7fe90a35993deedb5c702fd0d41046a1a860e1b408a07350b8af7300"
+    },
+    {
+      "route": "/search?q=router",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "ff8fb12dfef1622bf5d44797011ba6964e5a1c26cf06ce90a8190388412a2e06"
+    },
+    {
+      "route": "/fields/radiofrequency",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "d24beb93ae3b1a30b2dfeb3241876d4e9f2c6bb9968f8602571b9c239ae4a1d3"
+    },
+    {
+      "route": "/fields/elf",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "67c5c9fd7cd025759bff4228f2f8e3f987f2e6281fd0ac37323b38847fb56d1c"
+    },
+    {
+      "route": "/fields/intermediate-frequency",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "99b78fbefaee28662be9a87a71f6f8dd54774654cc61df8f9ae95a4cd2a27d68"
+    },
+    {
+      "route": "/sources/wifi",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "b7f09934c1b636619c014d540afa26d2d6dc47487eb2cf14d8d8e503eebcd716"
+    },
+    {
+      "route": "/sources/5g",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "270657c1617942b866a5fca017ec144d662fc8159b50e8b008ef9884359cecca"
+    },
+    {
+      "route": "/sources/base-stations",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "d9ed399b3ea7b3328944729688acf3a346620b4cfc3469b45e9efaa3a6c01f3c"
+    },
+    {
+      "route": "/sources/power-lines",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "2efe04375055f4f4019c7b79f3ba5e05154e99095e0fd352621bf01aec6dd38d"
+    },
+    {
+      "route": "/sources/cordless-phones",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "0aa7ac91021e6c1a699ba09c21bc9c1747343353e87ed24c0fda64c8104196e4"
+    },
+    {
+      "route": "/sources/smart-meters",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "c0d276438224f094ad5e4b4f98632a2adc33d32e19798b9939ef823ec08b9576"
+    },
+    {
+      "route": "/sources/bluetooth",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "a27393b2435794e8c12734f1948b753818366c7594ecd9616d22df157f1fc47f"
+    },
+    {
+      "route": "/sources/induction-hobs",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "97027bce9df84f1f4e35900f2b2db3580ddb107e12173833caa2241d1174f014"
+    },
+    {
+      "route": "/sources/microwave-ovens",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "c44962c365ffabcf21ee2af997ad5a6bf18734f56545b6aa99c0da032c8037be"
+    },
+    {
+      "route": "/sources/electric-blankets",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "fbe37ef63685c451548feb238ddc655ec9396fd71f04bbe12cc18b563b6051d7"
+    },
+    {
+      "route": "/sources/electric-vehicles",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "94274b9c12aac9884732154e196f9756433c7cb81042abdc5ddf012cbb6177d3"
+    },
+    {
+      "route": "/sources/household-wiring",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "2b04ae1f48df629433fb3881864cec7fd6531590f3dac640b44b76cf8c1a5936"
+    },
+    {
+      "route": "/sources/occupational-rf",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "27a5d0aafd98dc0010ddaaaefd00582a882b2cf2c6d40ba3d0c82deb5ea4c248"
+    },
+    {
+      "route": "/sources/occupational-elf",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "3f51856fb5744752565acc1ccf17ce4d595a89f0940f8fe47b85b81966f02c6c"
+    },
+    {
+      "route": "/sources/mri-static-fields",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "04ab3d869ba3dc9d76094d56e7824956091a600a7d42546a31b87410d5e2843c"
+    },
+    {
+      "route": "/outcomes/brain-tumours",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "fcb7257a42d5aaf3f9b0a0738d1731511a0a410017bba530eb14f10b22a1c11c"
+    },
+    {
+      "route": "/outcomes/childhood-brain-tumours",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "e3255c6bc8cb9bdb725cfde4d95a7db586dc4755174ff710c7f5b833a7024416"
+    },
+    {
+      "route": "/outcomes/childhood-leukaemia",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "8d4478839a9f69e57f7dfe140db7286d7d0ed07d961a9a530fca8fdddd9adf6e"
+    },
+    {
+      "route": "/outcomes/sleep",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "9a85a103f9090f70d97de516ce45f0808ea965f0ff62ab9591eeb61e2f8a3e7b"
+    },
+    {
+      "route": "/outcomes/male-fertility",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "430cda067f43d194ae227a0aa3eff3b0c10df5c5e9a803a759366e95b80aa525"
+    },
+    {
+      "route": "/outcomes/ehs-symptoms",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "6db7579d24b82b746a67537e8f9facb4a9f333ee13616f014ca44b6f53c3384d"
+    },
+    {
+      "route": "/outcomes/headache",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "fca5b349c7a44bba1815f2ccbe773ba84ab4b678b224b48385e69ca0830a9aa7"
+    },
+    {
+      "route": "/outcomes/cognition",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "95edf41c1e79a78bb81c2f07dd130101bdb4d975f66e46d11c64a7363222ac2b"
+    },
+    {
+      "route": "/outcomes/animal-cancer",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "1c8eb1945ced2918ad821fa330d359594291853dc61ac860760109ef6f794378"
+    },
+    {
+      "route": "/outcomes/dna-damage",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "29d700171af6b94c144b28018e82dfca0fb305b1fca1ecc9e1fa248ba3878563"
+    },
+    {
+      "route": "/outcomes/glioma",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "76c538d2aee27df0b076eb3e331a570abe0da4afd66910710afed7fa8de515ca"
+    },
+    {
+      "route": "/outcomes/meningioma",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "651e35e6dcc4446146bbfa08775292938847d29ce77b29f560e9624672f56687"
+    },
+    {
+      "route": "/outcomes/acoustic-neuroma",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "ef3f7d71cbe53dd2586bc937553097752aafef1f53c2dacb084501c293832ae0"
+    },
+    {
+      "route": "/outcomes/other-cancers",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "0c570891a275fba126eca48b153c5cbad7e80bdd0e9af59951a563a17368115f"
+    },
+    {
+      "route": "/outcomes/female-fertility-pregnancy",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "c1d9135cc33804f55c85fd4c2d523746258ba1dff0e41451a01a6436aa11e906"
+    },
+    {
+      "route": "/outcomes/heating",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "acf07bd899d06912f512a1279e967f8036c3d811da04c9b3ed88f886f09bf519"
+    },
+    {
+      "route": "/outcomes/tinnitus",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "c83c3ad04448db567e3cf0389f5b056ca03d2ffac16cd34ee0b1bdf1fa04a882"
+    },
+    {
+      "route": "/guides/basics",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "72a32f05313982a92e0b64905de696fcffe53082eed7bec113f4931d6418ffd7"
+    },
+    {
+      "route": "/guides/wireless",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "aa0fa4858486837ab655bb9a7ae9344aad37b5c2cbe17bb39ea4d4e780d29067"
+    },
+    {
+      "route": "/guides/power-lines",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "6dafd19f76bddbbbacf1919ac0fbea7224ef4c4221493786bf95d05b456e3482"
+    },
+    {
+      "route": "/guides/symptoms",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "68a36c4ba1f263b3e88c8393fe3e3096a6613c9c9e3874eeeb0cb542ffa71e23"
+    },
+    {
+      "route": "/guides/sleep",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "0e9ff5e14053cc04ea92e7375be30e53e3baf3521271ba92326beaace4949416"
+    },
+    {
+      "route": "/guides/fertility",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "995990bab620e957f37901259a2a1b12a1f9db3ae3da4f90c30d83c0ef0cacb4"
+    },
+    {
+      "route": "/guides/children",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "c1ae56bd4212d7b3209e671342cda16990630503719137e830f98b49a760decd"
+    },
+    {
+      "route": "/guides/measurement",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "6a10e32f52072a6c53ab56c3809ae267dcd707e9807cf10c9723deaa56645057"
+    },
+    {
+      "route": "/guides/animal-studies",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "cb6153fdd14c80a7d176ce8d02df2d52f00894f21ebcf0477e235c9eb2ceae60"
+    },
+    {
+      "route": "/resources",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "3e4632ae546796acc2bf3dad8c961cd354ccaba5db2a0dc3e22f5bacdc89d9b9"
+    },
+    {
+      "route": "/fields",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "381cd0e8021c96d9e225506e23ade8926cb49b656dbe53a0f2658066a3b86a89"
+    },
+    {
+      "route": "/resources/reading-worksheet",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "f3a7aea5810ec6b93b18762694c32be0c8bb4fe9c4bf037cb0c1833585bd5bed"
+    },
+    {
+      "route": "/resources/first-guide-preview",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "8b8af3e2b2827dde96a11ca3ea7a038abfe107f434525b0c5a4d7a8cd516483b"
+    },
+    {
+      "route": "/resources/reading-guide",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "d4147b157f70e379e170858d1199ce86a41a2b4307f1b2202220a374d32582d5"
+    },
+    {
+      "route": "/resources/emf-reading-worksheet",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "815aa4ef3852182473bd80b58b1f66819b618b8f51e0c26e15b6a865b386da8e"
+    },
+    {
+      "route": "/guides",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "8d242b1bb53fe5945f1b71210f68bedaae77404f5696974023885d5614c64276"
+    },
+    {
+      "route": "/glossary",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "dd0e9482f30dc4583c0624e775d60f5209bea5e414ead21c8b9040c7c4cf285f"
+    },
+    {
+      "route": "/questions",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "dc3f139934874f05123c456ca9c914a5bf085018f673d86d4ba43ea21c94c037"
+    },
+    {
+      "route": "/research",
+      "status": 200,
+      "reader_DOM_byte_equal": true,
+      "body_text_equal": true,
+      "reader_DOM_sha256": "5bfbc5ec41c3461974ed5e97e119e277506032a6aece7bfa8af72159fb153896"
+    }
+  ],
+  "scope": "Reader main DOM serialized after scripts/styles/nonreader navigation removed; bytes equal. Build/RSC asset manifests are not asserted byte-equal. Same local-only QA configuration used for base/candidate."
+}
