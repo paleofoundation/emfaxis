@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "field": "questionDepth.t06.sections.phone-system.paragraphs[0].text",
+  "before_phrase": "A useful comparison would hold the task and geometry constant",
+  "after_phrase": "A useful comparison would keep the task and geometry constant",
+  "all_other_question_depth_bytes": "unchanged",
+  "analyzer_regex": "unchanged",
+  "reason": "HOLD keyword false positive in ordinary experimental-control wording; no scientific HOLD removed"
+}

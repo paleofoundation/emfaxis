@@ -1,0 +1,11 @@
+rank,site,url,page_type,words,citations,unique_citation_hosts,reference_entries,claim_hits,makes_claims,stub_flag,stub_match,thin_reasons,meta_desc_len,canonical,canonical_self,noindex,status,headings,thin,final_url,bytes,error
+192,emfaxis.com,https://emfaxis.com/research/E02-T04-R174,research,803,2,1,0,14,yes,no,,claims_with_2_citations,0,https://emfaxis.com/research/E02-T04-R174,yes,,200,7,yes,,66734,
+193,emfaxis.com,https://emfaxis.com/research/E03-T05-R182,research,803,2,1,0,21,yes,no,,claims_with_2_citations,0,https://emfaxis.com/research/E03-T05-R182,yes,,200,7,yes,,66844,
+194,emfaxis.com,https://emfaxis.com/research/E02-T03-R227,research,813,2,1,0,24,yes,no,,claims_with_2_citations,0,https://emfaxis.com/research/E02-T03-R227,yes,,200,7,yes,,67716,
+196,emfaxis.com,https://emfaxis.com/questions/t33,questions,937,1,1,4,6,yes,no,,claims_with_1_citations,66,https://emfaxis.com/questions/t33,yes,,200,13,yes,,81343,
+198,emfaxis.com,https://emfaxis.com/questions/t23,questions,986,2,2,3,12,yes,no,,claims_with_2_citations,84,https://emfaxis.com/questions/t23,yes,,200,13,yes,,81393,
+199,emfaxis.com,https://emfaxis.com/questions/t22,questions,1005,1,1,3,19,yes,no,,claims_with_1_citations,88,https://emfaxis.com/questions/t22,yes,,200,13,yes,,81437,
+200,emfaxis.com,https://emfaxis.com/questions/t12,questions,1138,1,1,4,27,yes,no,,claims_with_1_citations,80,https://emfaxis.com/questions/t12,yes,,200,13,yes,,83479,
+201,emfaxis.com,https://emfaxis.com/questions/t06,questions,1183,4,2,4,40,yes,yes,hold,stub_language,84,https://emfaxis.com/questions/t06,yes,,200,13,yes,,83186,
+204,emfaxis.com,https://emfaxis.com/questions/t40,questions,1222,1,1,5,19,yes,no,,claims_with_1_citations,78,https://emfaxis.com/questions/t40,yes,,200,13,yes,,84620,
+207,emfaxis.com,https://emfaxis.com/questions/t13,questions,1275,2,1,4,25,yes,no,,claims_with_2_citations,111,https://emfaxis.com/questions/t13,yes,,200,13,yes,,85615,

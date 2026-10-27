@@ -1,0 +1,8 @@
+{
+  "status": "BOUNDED_FINAL10_PASS",
+  "receipt": "ROOT-BROWSER-FINAL.json",
+  "receipt_sha256": "b81f7b38886f8ecf2dea3e2bbdc406eadaa972eea62adea6a8c5db51060df13b",
+  "source_audit_sha256": "c0e3e3389231f13b21141b9d235fbcc4bf7bdc722b98dc5b5cecbd4152202ddf",
+  "notes_sha256": "c585cce47bb022bd4d4710b592057d20c5c77ee5f6e49834d6d02efd748f75ac",
+  "scope": "Actual root CUA mobile10,20 DOM text/sourcehref/locator tuples, widths390, publicdashes0,pending visible, bounded screenshots. No scientific/numeric/human/release approval"
+}

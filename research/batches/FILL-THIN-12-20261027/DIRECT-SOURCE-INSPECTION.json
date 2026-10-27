@@ -1,0 +1,114 @@
+{
+  "status": "fresh_selected_passages_read",
+  "records": 12,
+  "notes": 10,
+  "paragraphs": 20,
+  "basis": "seven held research PDFs and five held official documents; selected full-text scopes only",
+  "new_quantitative_claims": 0,
+  "raw_sources_hosted": false,
+  "all_review_states": "pending; no historical PASS transfer",
+  "notes_sha256": "c585cce47bb022bd4d4710b592057d20c5c77ee5f6e49834d6d02efd748f75ac",
+  "locators": {
+    "E02-T04-R174": [
+      {
+        "source": "E02-T04-R174",
+        "locator": "Original PDF physical pages 2 to 4, Methods 2.1 to 2.4; page 7, Table 6 and footnote a"
+      },
+      {
+        "source": "E02-T04-R174",
+        "locator": "Original PDF physical page 3, integrated exposure model and assumptions; page 8, Discussion 4.2 and 4.5"
+      }
+    ],
+    "E03-T05-R182": [
+      {
+        "source": "E03-T05-R182",
+        "locator": "Original PDF physical pages 2 to 4, animal exposure and endpoint methods; pages 5 to 6, Results, Tables 2 to 3 and Figures 2 to 4"
+      },
+      {
+        "source": "E03-T05-R182",
+        "locator": "Original PDF physical page 2, Exposure system; pages 3 to 4, endpoint assays; pages 7 to 8, Discussion and comparisons with other studies"
+      }
+    ],
+    "E02-T03-R227": [
+      {
+        "source": "E02-T03-R227",
+        "locator": "Original PDF physical pages 2 to 3, device and study procedure; pages 8 to 9, Strengths and limitations"
+      },
+      {
+        "source": "E02-T03-R227",
+        "locator": "Original PDF physical page 5, Results and Statistical analysis; pages 6 to 7, Table 1 and Figure 2; pages 8 to 9, limitations"
+      }
+    ],
+    "t33": [
+      {
+        "source": "E06-T11-R227",
+        "locator": "Original PDF physical page 3, Methods 2.2 to 2.4, mobile phone scenarios, measurement device and measurement setup"
+      },
+      {
+        "source": "E06-T11-R227",
+        "locator": "Original PDF physical pages 3 to 4, Methods 2.5.1 cross-talk corrections; page 9, Strengths and limitations"
+      }
+    ],
+    "t23": [
+      {
+        "source": "fda-microwave",
+        "locator": "Held FDA HTML, Microwave Oven Safety Standard, interlock systems and FDA testing paragraphs"
+      },
+      {
+        "source": "fda-microwave",
+        "locator": "Held FDA HTML, Cooking with Microwaves; Avoiding Injuries from Super-Heated Water in Microwave Ovens; Have Radiation Injuries Resulted from Microwave Ovens?"
+      }
+    ],
+    "t22": [
+      {
+        "source": "E06-T11-R137",
+        "locator": "Held final-manuscript PDF physical pages 4 to 7, objective and measurement method; pages 18 to 19, Discussion A"
+      },
+      {
+        "source": "E06-T11-R137",
+        "locator": "Held final-manuscript PDF physical pages 20 to 21, Strengths and Limitations; pages 4 to 7, study scope and instrumentation"
+      }
+    ],
+    "t12": [
+      {
+        "source": "foph-induction",
+        "locator": "Held FOPH PDF physical pages 1 to 2, induction explanation and operating recommendations"
+      },
+      {
+        "source": "foph-induction",
+        "locator": "Held FOPH PDF physical page 1, field limits and pregnancy literature; pages 1 to 2, electronic-implant recommendation"
+      }
+    ],
+    "t06": [
+      {
+        "source": "foph-mobile",
+        "locator": "Held FOPH PDF physical pages 1 to 2, connection-quality explanation and protective/shielding/harmonising-product paragraph"
+      },
+      {
+        "source": "icnirp-rf",
+        "locator": "Held ICNIRP RF HTML, Protection, basic-restriction and external-reference-level paragraphs"
+      }
+    ],
+    "t40": [
+      {
+        "source": "icnirp-lf",
+        "locator": "Held ICNIRP LF HTML, Frequency range and LF use; Protection"
+      },
+      {
+        "source": "E05-T10-R110",
+        "locator": "Original PDF physical pages 2 to 4, Methods 2.1 to 2.3 and Results 3.1; page 6, Discussion"
+      }
+    ],
+    "t13": [
+      {
+        "source": "E06-T12-R016",
+        "locator": "Original PDF physical pages 2 to 4, Simulation Model, Figure 1 and Study Protocol; pages 6 to 9, Results and Discussion limits, including the non-beating-heart limitation on page 9"
+      },
+      {
+        "source": "E05-T10-R110",
+        "locator": "Original PDF physical pages 3 to 4, Test protocol and Results; page 6, Discussion, in-vitro versus in-vivo comparison"
+      }
+    ]
+  },
+  "root_receipt_sha256": "c0e3e3389231f13b21141b9d235fbcc4bf7bdc722b98dc5b5cecbd4152202ddf"
+}

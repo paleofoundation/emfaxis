@@ -2068,5 +2068,175 @@
         }
       ]
     }
+  ],
+  "E02-T04-R174": [
+    {
+      "title": "Different sleep comparisons within the same report",
+      "paragraphs": [
+        {
+          "text": "The usual-use and evening analyses did not use interchangeable exposure histories. The all-day model relied on questionnaires, whereas the repeated evening comparison used children’s diaries alongside wrist recordings in a smaller cohort subset. The evening phone-call category combined mobile and cordless calls. Its shorter-sleep association therefore belongs to that defined comparison, rather than to every screen activity or to a direct experiment switching a router on and off.",
+          "source": "E02-T04-R174",
+          "locator": "Original PDF physical pages 2 to 4, Methods 2.1 to 2.4; page 7, Table 6 and footnote a"
+        },
+        {
+          "text": "The exposure model combined reported activity with assumed network use, output power and device positions. These estimates were not measurements of each child’s absorbed brain dose. The discussion also states that estimated evening call dose and calling duration were strongly correlated, preventing the authors from separating RF exposure from the circumstances of calling. Mental arousal and displaced sleep remain possible explanations, without either being demonstrated as the cause by this analysis.",
+          "source": "E02-T04-R174",
+          "locator": "Original PDF physical page 3, integrated exposure model and assumptions; page 8, Discussion 4.2 and 4.5"
+        }
+      ]
+    }
+  ],
+  "E03-T05-R182": [
+    {
+      "title": "Separate reproductive endpoints from a fertility conclusion",
+      "paragraphs": [
+        {
+          "text": "The experiment assessed sperm samples, reproductive tissues and cell-death markers after exposure of male rats. Those endpoints are related but did not all follow the same daily-duration pattern: the longer-duration group showed the clearer tissue and apoptosis findings, while some sperm measurements were more changed in the shorter-duration group. A general claim that every reproductive measure steadily worsened with longer daily exposure would lose that endpoint-specific pattern. Mating success and human conception were not measured.",
+          "source": "E03-T05-R182",
+          "locator": "Original PDF physical pages 2 to 4, animal exposure and endpoint methods; pages 5 to 6, Results, Tables 2 to 3 and Figures 2 to 4"
+        },
+        {
+          "text": "The methods describe the antenna arrangement and exposure schedules but do not provide a quantified delivered field or absorbed dose for this experiment. Its discussion cites exposure quantities from other experiments; those values cannot fill the gap in this setup. The proposed hormonal and oxidative explanations likewise exceed the measurements made here: the assays concern sperm, tissue structure and apoptosis, without direct testosterone or reactive-oxygen-species measurements establishing those proposed pathways.",
+          "source": "E03-T05-R182",
+          "locator": "Original PDF physical page 2, Exposure system; pages 3 to 4, endpoint assays; pages 7 to 8, Discussion and comparisons with other studies"
+        }
+      ]
+    }
+  ],
+  "E02-T03-R227": [
+    {
+      "title": "Read the device and the available recordings together",
+      "paragraphs": [
+        {
+          "text": "The active and sham units were modified baby monitors used in healthy adults’ bedrooms. The report identifies the signal modulation as well as its frequency band, and cautions that transferring the results to devices using different modulations is difficult. This is an adult sleep experiment with a particular transmitting system. A shared frequency band does not turn it into a direct trial of every Wi-Fi router, an infant-development study or a measurement of each participant’s whole-night absorbed dose.",
+          "source": "E02-T03-R227",
+          "locator": "Original PDF physical pages 2 to 3, device and study procedure; pages 8 to 9, Strengths and limitations"
+        },
+        {
+          "text": "Subjective sleep scores, EEG bands, actigraphy and heart-rate measures did not supply one uniform result. The paper reports selected subjective and EEG differences alongside nonsignificant comparisons for other measures. Attrition, incomplete recordings and technical problems left different available samples and unequal order groups. The authors acknowledge multiple analyses and possible chance findings. Those limits matter when interpreting the reported differences; a nonsignificant comparison in this small pilot also does not establish equivalence or universal absence of an effect.",
+          "source": "E02-T03-R227",
+          "locator": "Original PDF physical page 5, Results and Statistical analysis; pages 6 to 7, Table 1 and Figure 2; pages 8 to 9, limitations"
+        }
+      ]
+    }
+  ],
+  "t33": [
+    {
+      "title": "A research phone app is not the field sensor",
+      "paragraphs": [
+        {
+          "text": "The European measurement survey used phone software to run download and upload scenarios and record network information. RF fields were measured by a separate frequency-selective exposimeter carried with the phone. A diary application recorded timing and location, then its records were merged with the instrument data. The presence of an app in that workflow therefore does not show that an ordinary phone application alone measured the surrounding RF field.",
+          "source": "E06-T11-R227",
+          "locator": "Original PDF physical page 3, Methods 2.2 to 2.4, mobile phone scenarios, measurement device and measurement setup"
+        },
+        {
+          "text": "The survey also corrected cross-talk between nearby measurement bands and identified limits in distinguishing uplink from downlink in a shared time-division band. These are instrument and signal-classification issues, separate from a phone’s display of its connection state. The study describes external fields under selected activity scenarios, without deriving an individual organ dose or measuring health outcomes. It cannot validate an unrelated detector app or convert that app’s display into a clinical conclusion.",
+          "source": "E06-T11-R227",
+          "locator": "Original PDF physical pages 3 to 4, Methods 2.5.1 cross-talk corrections; page 9, Strengths and limitations"
+        }
+      ]
+    }
+  ],
+  "t23": [
+    {
+      "title": "Read oven protection and injury reports by their purpose",
+      "paragraphs": [
+        {
+          "text": "The FDA describes oven interlocks that stop microwave production when the door is opened, along with a monitoring system for interlock failure. Its discussion places leakage limits within a product-performance standard and laboratory testing programme. That is a defined assessment of microwave ovens. A change in a nearby wireless connection does not reproduce the standard’s leakage measurement or inspect whether a particular oven’s door and protective systems are functioning correctly.",
+          "source": "fda-microwave",
+          "locator": "Held FDA HTML, Microwave Oven Safety Standard, interlock systems and FDA testing paragraphs"
+        },
+        {
+          "text": "The same page distinguishes unusual radiation-injury circumstances from the much more common burns involving hot containers, food or liquids. Its account of superheated water concerns an eruption of hot liquid after disturbance, not food becoming radioactive. Keeping the injury mechanism explicit prevents a report of a cooking burn from being treated as a leakage measurement. The FDA source provides product and use context, without supplying a diagnosis for an individual incident.",
+          "source": "fda-microwave",
+          "locator": "Held FDA HTML, Cooking with Microwaves; Avoiding Injuries from Super-Heated Water in Microwave Ovens; Have Radiation Injuries Resulted from Microwave Ovens?"
+        }
+      ]
+    }
+  ],
+  "t22": [
+    {
+      "title": "Measure bursts as well as the spaces between them",
+      "paragraphs": [
+        {
+          "text": "The residential-device report determined transmission frequencies, peak fields and duty cycles separately. For smart meters, a prominent transmission peak could coexist with a small time-averaged contribution because transmissions were infrequent and the device was positioned away from residents. The result depends on those operating and placement conditions. A peak reading alone is therefore an incomplete description of the tested meter’s exposure pattern, rather than a value that necessarily persists throughout the day.",
+          "source": "E06-T11-R137",
+          "locator": "Held final-manuscript PDF physical pages 4 to 7, objective and measurement method; pages 18 to 19, Discussion A"
+        },
+        {
+          "text": "The authors found that their handheld broadband setup could miss short or weak signals and could not distinguish sources, so they omitted its results from the reported device characterisation. Their frequency-selective method addressed a different measurement task. They also caution that the selected homes and source placements form a cross-section in space and time, without generalisation to all smart homes. Neither that survey nor its equipment comparison tested a health benefit from a meter shield.",
+          "source": "E06-T11-R137",
+          "locator": "Held final-manuscript PDF physical pages 20 to 21, Strengths and Limitations; pages 4 to 7, study scope and instrumentation"
+        }
+      ]
+    }
+  ],
+  "t12": [
+    {
+      "title": "Keep cookware and the assessment quantity visible",
+      "paragraphs": [
+        {
+          "text": "FOPH explains that the pan receives energy through induced currents and magnetisation, while some magnetic field remains outside the pan. Its operating recommendations distinguish suitable cookware, pan size, centring and cooker settings. These details describe the coupled cooker-and-pan system. A measurement made with one pan arrangement cannot establish the exposure for every other arrangement merely because the hob has the same name or nominal power setting.",
+          "source": "foph-induction",
+          "locator": "Held FOPH PDF physical pages 1 to 2, induction explanation and operating recommendations"
+        },
+        {
+          "text": "The fact sheet separates comparison with magnetic-field limits from the available studies of pregnancy outcomes. It explains that the limit includes a safety margin, so a field result relative to that limit is not itself an observed health outcome. The document also treats electronic implants as a distinct compatibility concern. These distinctions prevent a general cooker exposure comparison from being presented as either a pregnancy-risk estimate or a functional test of someone’s implanted device.",
+          "source": "foph-induction",
+          "locator": "Held FOPH PDF physical page 1, field limits and pregnancy literature; pages 1 to 2, electronic-implant recommendation"
+        }
+      ]
+    }
+  ],
+  "t06": [
+    {
+      "title": "Define what a protective accessory is claimed to change",
+      "paragraphs": [
+        {
+          "text": "FOPH’s mobile-phone fact sheet warns that shielding, harmonising or neutralising products can impair the phone’s network connection and thereby increase its radiation. This concerns how the phone operates: it may respond to the changed connection. It is not a controlled clinical trial demonstrating an illness benefit or harm for every sticker or pendant. An accessory claim therefore needs evidence for its actual use configuration, rather than a conclusion transferred from a marketing label.",
+          "source": "foph-mobile",
+          "locator": "Held FOPH PDF physical pages 1 to 2, connection-quality explanation and protective/shielding/harmonising-product paragraph"
+        },
+        {
+          "text": "ICNIRP distinguishes external reference levels from basic restrictions expressed in absorbed quantities. That distinction is relevant when a product demonstration shows only a local field-meter display. A reading outside the body and a claim about absorbed exposure are different endpoints, and neither alone is a clinical outcome. The guidance supplies a framework for those quantities; it does not provide a matched efficacy trial of the stickers, pendants or harmonisers discussed in this question.",
+          "source": "icnirp-rf",
+          "locator": "Held ICNIRP RF HTML, Protection, basic-restriction and external-reference-level paragraphs"
+        }
+      ]
+    }
+  ],
+  "t40": [
+    {
+      "title": "Separate a field assessment from a magnet-mode experiment",
+      "paragraphs": [
+        {
+          "text": "ICNIRP’s low-frequency explanation distinguishes the external electric and magnetic fields from electric fields induced inside the body. Its basic restrictions and external reference levels therefore describe different quantities linked through exposure assumptions. That framework can help identify what a technical report needs to assess, but this context page is not a measurement of a particular phone charging pad. A charger-specific conclusion still needs the actual equipment, field regime and operating arrangement.",
+          "source": "icnirp-lf",
+          "locator": "Held ICNIRP LF HTML, Frequency range and LF use; Protection"
+        },
+        {
+          "text": "The MagSafe experiment tested magnetic-mode activation in demo pacemaker and defibrillator generators while varying the phone’s position. The investigators also tested case and wallet configurations and mapped the phone’s static magnetic field. Those observations concern the magnets and the tested implanted-device functions, rather than an experiment measuring inductive charging dose or charging-related illness. Retaining the tested endpoint prevents this bench result from becoming a universal rule about the exposure of all wireless chargers.",
+          "source": "E05-T10-R110",
+          "locator": "Original PDF physical pages 2 to 4, Methods 2.1 to 2.3 and Results 3.1; page 6, Discussion"
+        }
+      ]
+    }
+  ],
+  "t13": [
+    {
+      "title": "The tested implanted system is part of the evidence",
+      "paragraphs": [
+        {
+          "text": "The transient-field experiment placed pacemakers and leads in a swine-tissue chest model immersed in saline. It compared excess-lead arrangements while measuring induced voltages and pacing inhibition. This made the lead geometry part of the tested system, rather than an incidental detail. This model did not follow implanted patients or reproduce a beating heart, so its engineering comparison cannot supply a patient event rate or an instruction to change an implanted lead arrangement.",
+          "source": "E06-T12-R016",
+          "locator": "Original PDF physical pages 2 to 4, Simulation Model, Figure 1 and Study Protocol; pages 6 to 9, Results and Discussion limits, including the non-beating-heart limitation on page 9"
+        },
+        {
+          "text": "The MagSafe bench study activated magnetic mode only at particular relative positions of the phone and generators, with normal mode returning after phone removal. It did not involve implanted patients. The paper discusses body anatomy and implant placement as reasons that in-vivo work would answer additional questions. A local bench response therefore needs its device and geometry context; it does not establish the frequency or severity of clinical events among people with implanted systems.",
+          "source": "E05-T10-R110",
+          "locator": "Original PDF physical pages 3 to 4, Test protocol and Results; page 6, Discussion, in-vitro versus in-vivo comparison"
+        }
+      ]
+    }
   ]
 }
