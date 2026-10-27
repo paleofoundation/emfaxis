@@ -1,0 +1,8 @@
+{
+  "initial_public_dash_check": "FAIL: t09 inherited study.limitations Figures 1\u20135",
+  "reviewed_new_notes_changed": false,
+  "repair": "Existing t09-only normalizeSourceText presentation flag now covers study finding/limitations as well as recovered claim text. Default false, raw study unchanged.",
+  "retained_history": "work/fill-thin-13/receipt-history/initial-after and initial-candidate-all-routes",
+  "prior270_reader_DOM_check": "PASS before repair; rerun pending",
+  "final_check": "PASS: selected10 public dashes0,260unselected exact reader DOM,120prior bodies,872hashes"
+}

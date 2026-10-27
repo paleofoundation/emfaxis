@@ -1,0 +1,11 @@
+rank,site,url,page_type,words,citations,unique_citation_hosts,reference_entries,claim_hits,makes_claims,stub_flag,stub_match,thin_reasons,meta_desc_len,canonical,canonical_self,noindex,status,headings,thin,final_url,bytes,error
+215,emfaxis.com,https://emfaxis.com/questions/t05,questions,1353,2,1,5,25,yes,no,,claims_with_2_citations,89,https://emfaxis.com/questions/t05,yes,,200,13,yes,,86767,
+234,emfaxis.com,https://emfaxis.com/questions,questions,1520,0,0,0,53,yes,no,,claims_with_0_citations,72,https://emfaxis.com/questions,yes,,200,58,yes,,61740,
+248,emfaxis.com,https://emfaxis.com/questions/t09,questions,1587,9,3,6,44,yes,yes,hold,stub_language,72,https://emfaxis.com/questions/t09,yes,,200,13,yes,,88533,
+262,emfaxis.com,https://emfaxis.com/research/million-women,research,1701,22,3,0,72,yes,yes,not yet reviewed,stub_language,79,https://emfaxis.com/research/million-women,yes,,200,11,yes,,95778,
+297,emfaxis.com,https://emfaxis.com/guides/symptoms-and-support,guides,1976,6,3,4,75,yes,yes,hold,stub_language,88,https://emfaxis.com/guides/symptoms-and-support,yes,,200,18,yes,,102734,
+299,emfaxis.com,https://emfaxis.com/sources/microwave-ovens,sources,2018,2,2,3,41,yes,no,,claims_with_2_citations,163,https://emfaxis.com/sources/microwave-ovens,yes,,200,17,yes,,106049,
+301,emfaxis.com,https://emfaxis.com/sources/smart-meters,sources,2046,1,1,3,57,yes,no,,claims_with_1_citations,129,https://emfaxis.com/sources/smart-meters,yes,,200,17,yes,,107020,
+302,emfaxis.com,https://emfaxis.com/sources/electric-blankets,sources,2071,1,1,3,68,yes,no,,claims_with_1_citations,157,https://emfaxis.com/sources/electric-blankets,yes,,200,17,yes,,109002,
+307,emfaxis.com,https://emfaxis.com/sources/mri-static-fields,sources,2129,1,1,4,66,yes,no,,claims_with_1_citations,149,https://emfaxis.com/sources/mri-static-fields,yes,,200,17,yes,,110679,
+310,emfaxis.com,https://emfaxis.com/sources/bluetooth,sources,2237,1,1,5,48,yes,yes,hold,claims_with_1_citations;stub_language,114,https://emfaxis.com/sources/bluetooth,yes,,200,17,yes,,112069,

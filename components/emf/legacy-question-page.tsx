@@ -8,7 +8,7 @@ import {FAQ} from './faq';
 
 type ReaderQuestion=(typeof questions)[number];
 export function LegacyQuestionPage({question:q}:{question:ReaderQuestion}){
- const fillSelected=['t33','t23','t22','t12','t06','t40','t13'].includes(q.id.toLowerCase());
+ const fillSelected=['t33','t23','t22','t12','t06','t40','t13','t05','t09'].includes(q.id.toLowerCase());
  const depth=questionDepth[q.id.toLowerCase()];
  const overview=depth?.overview||[{text:q.shortAnswer,refs:q.studyIds}];
  const sections=depth?.sections||[];
@@ -27,6 +27,6 @@ export function LegacyQuestionPage({question:q}:{question:ReaderQuestion}){
   {sections.map(section=><section id={section.id} key={section.id}><h2>{section.title}</h2>{section.paragraphs.map((paragraph,i)=><p key={i}>{paragraph.text}<Citations ids={paragraph.refs||[]} order={cited}/></p>)}</section>)}
   <section id="discussions"><h2>Where people are asking</h2><p>These public discussions illustrate the question. Their claims are separate from the scientific sources below.</p><ul className="discussion-list">{q.publicDiscussions.map((discussion,i)=><li key={discussion.id}><a href={discussion.url} target="_blank" rel="noreferrer">Discussion {i+1}</a><span>{discussion.community}</span></li>)}</ul>{!q.publicDiscussions.length&&<p>No supporting discussion was retained after the current audit. This remains an editorial research question.</p>}</section>
   <section id="evidence"><span id="focus" aria-hidden="true"/><h2>Evidence for this question</h2><p>{q.researchFocus}</p><p>The linked catalogue separates the available human, animal, laboratory and context records. Read the source’s exposure and outcome beside its finding; the number of reports does not establish confidence or independent replication.</p>{fillSelected&&<SourceReadingNotes id={q.id.toLowerCase()}/>}</section>
-  <ResearchSection ids={cited} afterFeed={afterFeed} normalizeLocators={fillSelected}/>
+  <ResearchSection ids={cited} afterFeed={afterFeed} normalizeLocators={fillSelected} normalizeSourceText={q.id.toLowerCase()==='t09'}/>
  </PostShell>;
 }

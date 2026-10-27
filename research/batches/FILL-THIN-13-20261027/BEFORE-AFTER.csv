@@ -1,0 +1,11 @@
+url,frozen_live_words,built_before_status,built_before_words,built_after_status,built_after_words,word_delta,recognized_cites_before,recognized_cites_after,before_thin,after_thin,after_reasons,after_stub,actual_known_source_links_before,actual_unique_source_docs_before,actual_known_source_links_after,actual_unique_source_docs_after,local_restoration,canonical,raw_canonical_self
+https://emfaxis.com/questions/t05,1353,200,1353,200,1572,219,5,7,no,no,,no,5,5,7,5,False,https://emfaxis.com/questions/t05,no
+https://emfaxis.com/questions,1520,200,1520,200,1723,203,0,2,yes,yes,claims_with_2_citations,no,0,0,2,2,False,https://emfaxis.com/questions,no
+https://emfaxis.com/questions/t09,1587,200,1587,200,1802,215,10,12,yes,yes,stub_language,yes,8,5,10,5,False,https://emfaxis.com/questions/t09,no
+https://emfaxis.com/research/million-women,1701,200,1701,200,1930,229,22,24,yes,yes,stub_language,yes,2,1,4,1,False,https://emfaxis.com/research/million-women,no
+https://emfaxis.com/guides/symptoms-and-support,1976,200,1975,200,2211,236,6,8,yes,no,,no,6,4,8,6,False,https://emfaxis.com/guides/symptoms-and-support,no
+https://emfaxis.com/sources/microwave-ovens,2018,200,2017,200,2205,188,3,5,no,no,,no,3,3,5,3,False,https://emfaxis.com/sources/microwave-ovens,no
+https://emfaxis.com/sources/smart-meters,2046,200,2045,200,2251,206,2,4,yes,no,,no,3,3,5,3,False,https://emfaxis.com/sources/smart-meters,no
+https://emfaxis.com/sources/electric-blankets,2071,200,2070,200,2262,192,3,5,no,no,,no,3,3,5,3,False,https://emfaxis.com/sources/electric-blankets,no
+https://emfaxis.com/sources/mri-static-fields,2129,200,2128,200,2317,189,4,6,no,no,,no,4,4,6,4,False,https://emfaxis.com/sources/mri-static-fields,no
+https://emfaxis.com/sources/bluetooth,2237,200,2236,200,2430,194,5,7,yes,no,,no,5,5,7,5,False,https://emfaxis.com/sources/bluetooth,no

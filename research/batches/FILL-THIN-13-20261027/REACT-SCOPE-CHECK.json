@@ -1,0 +1,9 @@
+{
+  "status": "PASS_CONDENSED_SCOPED_REVIEW",
+  "scope": "Six TSX files, ten exact existing target routes plus appended note data",
+  "hooks_state_effects_network": "No additions",
+  "normalization": "Optional flags default false; source text only t09; review clone only million-women; exact source/guide IDs for locator display",
+  "accessibility": "Existing semantic sections, source links, heading hierarchy and Radix IDs retained",
+  "route_preservation": "270 final fixtures,260 unselected reader DOM exact including FAQ IDs,120 prior visible bodies",
+  "not_scientific_approval": true
+}

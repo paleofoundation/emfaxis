@@ -1,0 +1,37 @@
+{
+  "id": "FILL-THIN-13",
+  "base": "06155f148f919431ed0c02c54f08c37e39033757",
+  "branch": "codex/fill-thin-13",
+  "site_positions": [
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130
+  ],
+  "urls": [
+    "https://emfaxis.com/questions/t05",
+    "https://emfaxis.com/questions",
+    "https://emfaxis.com/questions/t09",
+    "https://emfaxis.com/research/million-women",
+    "https://emfaxis.com/guides/symptoms-and-support",
+    "https://emfaxis.com/sources/microwave-ovens",
+    "https://emfaxis.com/sources/smart-meters",
+    "https://emfaxis.com/sources/electric-blankets",
+    "https://emfaxis.com/sources/mri-static-fields",
+    "https://emfaxis.com/sources/bluetooth"
+  ],
+  "absent_base_canonical": [],
+  "prior_counts": {
+    "raw_sources": 96,
+    "note_objects": 120,
+    "qualitative_passages": 236,
+    "frozen_output_entries": 872
+  },
+  "policy": "Held corpus source+locator per addition; exact candidate independent source audit before apply; no invented facts/new numeric claims/PDFhosting/publicemdash-endash; missingcanonGATEfirst; prior120notes+bodies96source/archive96/236 and872hashes immutable; unchangedanalyzerfourhostsUKHSAHELD"
+}
