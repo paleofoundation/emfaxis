@@ -1,0 +1,121 @@
+{
+  "at": "2026-10-27T12:17:09.565318+02:00",
+  "status": "PASS_BOUNDED_FINAL_MOBILE_DOM_AND_R150_VISUAL",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "method": "CUA IABtab14 local5177 productionpreview",
+  "rows": [
+    {
+      "id": "E01-T01-R246",
+      "body_width": 390,
+      "document_width": 390,
+      "note_source_links": 2,
+      "pending_review": true,
+      "appraisal_preview": true,
+      "main_em_en_dash_count": 0
+    },
+    {
+      "id": "E04-T07-R252",
+      "body_width": 390,
+      "document_width": 390,
+      "note_source_links": 2,
+      "pending_review": true,
+      "appraisal_preview": true,
+      "main_em_en_dash_count": 0
+    },
+    {
+      "id": "E03-T05-R242",
+      "body_width": 390,
+      "document_width": 390,
+      "note_source_links": 2,
+      "pending_review": true,
+      "appraisal_preview": false,
+      "main_em_en_dash_count": 0
+    },
+    {
+      "id": "E03-T05-R273",
+      "body_width": 390,
+      "document_width": 390,
+      "note_source_links": 2,
+      "pending_review": true,
+      "appraisal_preview": true,
+      "main_em_en_dash_count": 0
+    },
+    {
+      "id": "E06-T11-R185",
+      "body_width": 390,
+      "document_width": 390,
+      "note_source_links": 2,
+      "pending_review": true,
+      "appraisal_preview": false,
+      "main_em_en_dash_count": 0
+    },
+    {
+      "id": "E05-T09-R518",
+      "body_width": 390,
+      "document_width": 390,
+      "note_source_links": 2,
+      "pending_review": true,
+      "appraisal_preview": false,
+      "main_em_en_dash_count": 0
+    },
+    {
+      "id": "E06-T11-R191",
+      "body_width": 390,
+      "document_width": 390,
+      "note_source_links": 2,
+      "pending_review": true,
+      "appraisal_preview": true,
+      "main_em_en_dash_count": 0
+    },
+    {
+      "id": "E03-T05-R247",
+      "body_width": 390,
+      "document_width": 390,
+      "note_source_links": 2,
+      "pending_review": true,
+      "appraisal_preview": false,
+      "main_em_en_dash_count": 0
+    },
+    {
+      "id": "E03-T06-R109",
+      "body_width": 390,
+      "document_width": 390,
+      "note_source_links": 2,
+      "pending_review": true,
+      "appraisal_preview": true,
+      "main_em_en_dash_count": 0
+    },
+    {
+      "id": "E03-T06-R150",
+      "body_width": 390,
+      "document_width": 390,
+      "note_source_links": 2,
+      "pending_review": true,
+      "appraisal_preview": false,
+      "main_em_en_dash_count": 0
+    }
+  ],
+  "root_all20_new_note_paragraphs_read": true,
+  "limits": "Final ten-page local mobile DOM check plus R150 visual sample and all20 added paragraphs read. No full scientific, numerical, human, release or live-fix acceptance.",
+  "initial_receipt_sha256": "1ec93da7f6ef16e64f93e468b040763ac65b126451d1cb9f6f0c2d8f1ed2fc0d",
+  "repair": "R273 visible integrity notice now reads Tables 1 to 2; initial failure preserved. Five restored records have no appraisal preview.",
+  "visual": "R150 source-checked statements, pending disclosure and added notes with linked title and accepted-manuscript locator are readable at 390x844. Other nine pages receive final DOM, not additional screenshot review.",
+  "console": {
+    "levels": [
+      "warn",
+      "error"
+    ],
+    "limit": 15,
+    "observed_entries": 0,
+    "limits": "Bounded console sample, not network-wide certificate."
+  },
+  "final_input_sha256": {
+    "components/emf/recovered-record.tsx": "1e331ab87b727cac65e14cc7b38156533781aa701b964a895b17076aab3c9d35",
+    "lib/thin-fill.json": "421005e95a8746af8edd1c79cdcb9da6dde70059831b8b9e29b29399fe190349",
+    "lib/recovered-sources.json": "d7eb7a6bf009ed07b9dd4d7cdd76a4083e5316da5e64e1d15dd0ba1ae4420589",
+    "lib/archive-status.json": "5a52765077984a6571f4a12830153c7e51b4fec58ab4f26ed2b8da0a340aa234"
+  }
+}

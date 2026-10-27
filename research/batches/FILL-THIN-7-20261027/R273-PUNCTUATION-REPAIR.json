@@ -1,0 +1,71 @@
+{
+  "finding": "One inherited public en dash in R273 integrity_status, independently caught by receipt compiler and root mobile",
+  "repair": "Only R273 display copy integrity_status uses existing clean helper; raw canonical data unchanged",
+  "broader_gate": "None required: explicit selected-target no-public-dashes scope and existing presentation policy",
+  "nine_other_target_bodies": "Require byte-equivalent normalized visible-body proof after rebuild",
+  "status": "PASS",
+  "nine_other_targets_body_equal": true,
+  "R273_only_delta": "Tables 1\u20132 to Tables 1 to 2, preserves held numerical claims/incompatible source-count warning",
+  "rows": [
+    {
+      "file": "research__E01-T01-R246.html",
+      "unchanged_except_R273_integrity_range_punctuation": true,
+      "changed": false,
+      "final_visible_body_sha256": "d3613b160d1b558a9377344c3bd0e63489e999e99cca4214d0f02a91155f28b7"
+    },
+    {
+      "file": "research__E03-T05-R242.html",
+      "unchanged_except_R273_integrity_range_punctuation": true,
+      "changed": false,
+      "final_visible_body_sha256": "e7b3b88e836c553513cd0385a6c3a7a75c92a723f1b457256452f6d20a7beb34"
+    },
+    {
+      "file": "research__E03-T05-R247.html",
+      "unchanged_except_R273_integrity_range_punctuation": true,
+      "changed": false,
+      "final_visible_body_sha256": "418df85aeccbd5fbf84d7a1a3df5cf145f5a273d8b471935c3d96107e557bb36"
+    },
+    {
+      "file": "research__E03-T05-R273.html",
+      "unchanged_except_R273_integrity_range_punctuation": true,
+      "changed": true,
+      "final_visible_body_sha256": "f25d67ae1f696ee84d55f6659079d50dcc0227192c658e61fc27aea06507c825"
+    },
+    {
+      "file": "research__E03-T06-R109.html",
+      "unchanged_except_R273_integrity_range_punctuation": true,
+      "changed": false,
+      "final_visible_body_sha256": "4e90cb3ea6c991f2cb7a5f5a0b42b76ee716c32ca3d6051a61ca096cf9d367ff"
+    },
+    {
+      "file": "research__E03-T06-R150.html",
+      "unchanged_except_R273_integrity_range_punctuation": true,
+      "changed": false,
+      "final_visible_body_sha256": "91f1df8e59ac5d26516d728a28fc7c51d2147ca7b182ca7567e9b3b0d953d9cd"
+    },
+    {
+      "file": "research__E04-T07-R252.html",
+      "unchanged_except_R273_integrity_range_punctuation": true,
+      "changed": false,
+      "final_visible_body_sha256": "8c1220efcf6300df86c1a410526f59828468213d0e4c276a4a6cd60e66418cbc"
+    },
+    {
+      "file": "research__E05-T09-R518.html",
+      "unchanged_except_R273_integrity_range_punctuation": true,
+      "changed": false,
+      "final_visible_body_sha256": "e0b7bf118498685a0183c3467e49fc0cdd8f7fdbd50a1adbc18b41a4069b2fa7"
+    },
+    {
+      "file": "research__E06-T11-R185.html",
+      "unchanged_except_R273_integrity_range_punctuation": true,
+      "changed": false,
+      "final_visible_body_sha256": "3e1edd2671cf6ed92647a16362be233d2d658b64b9a2c7c5647771aad4451141"
+    },
+    {
+      "file": "research__E06-T11-R191.html",
+      "unchanged_except_R273_integrity_range_punctuation": true,
+      "changed": false,
+      "final_visible_body_sha256": "b64f1a6a132832936d8d57bb46d3cf27bfe4ea4b79e9685379c55b62f690ea3f"
+    }
+  ]
+}

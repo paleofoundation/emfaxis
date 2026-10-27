@@ -1,0 +1,95 @@
+[
+  {
+    "id": "E01-T01-R246",
+    "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/full-rollout/owned/files/E01-T01-R246.pdf",
+    "source_sha256": "6d3282c32bf51574c95a360b98d50180e836b36606f4ec734de1e499490cf299",
+    "binding": "full-rollout/owned/receipt.json and original_file_manifest",
+    "canonical_record_fingerprint_unchanged": "34d11cae519b6a0bcab498ace0b139dec322ccc856f23c875f79403fab5b2b83",
+    "fingerprint_semantics": "Canonical ingested source record version hash, not raw PDF hash (full-rollout/ingest.py lines50/83)",
+    "doi": "10.1002/ijc.35182",
+    "source_url": "https://doi.org/10.1002/ijc.35182",
+    "fresh_text_sha256": "4964cef5030a9fe3ebca1ab91c2f241940e91874592b7f2a06939a13b6198eda",
+    "physical_pages_read": [
+      10,
+      11
+    ],
+    "printed_DOI_in_extraction": true,
+    "identity_note": "Printed DOI matched",
+    "scope": "Selected original passages, not full scientific review"
+  },
+  {
+    "id": "E03-T05-R273",
+    "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/full-rollout/owned/files/E03-T05-R273.pdf",
+    "source_sha256": "4b2ee67f2a188c9f227070da743aede81f813bf6d5418e5d3037adb11ca276b4",
+    "binding": "full-rollout/owned/receipt.json and original_file_manifest",
+    "canonical_record_fingerprint_unchanged": "ef6a27a9b4aef12d2379cf58176359aeef2d091579fd5c2e2eb206a093c6ee06",
+    "fingerprint_semantics": "Canonical ingested source record version hash, not raw PDF hash (full-rollout/ingest.py lines50/83)",
+    "doi": "10.15171/ijoem.2019.1429",
+    "source_url": "https://doi.org/10.15171/ijoem.2019.1429",
+    "fresh_text_sha256": "93f8d46f387499dea71208cb5332503c5f5a3e31e31cf1bca6d385c887315179",
+    "physical_pages_read": [
+      2,
+      3,
+      4
+    ],
+    "printed_DOI_in_extraction": false,
+    "identity_note": "R273 PDF has no extractable DOI; exact original receipt raw hash and title/byline bind DOI/PMID. No DOI is invented from the PDF.",
+    "scope": "Selected original passages, not full scientific review"
+  },
+  {
+    "id": "E03-T06-R109",
+    "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/full-rollout/owned/files/E03-T06-R109.pdf",
+    "source_sha256": "257b7dc64dd3b11051b8c4b6c538b70942c992df58061b67afe6c54616b344d7",
+    "binding": "full-rollout/owned/receipt.json and original_file_manifest",
+    "canonical_record_fingerprint_unchanged": "68cf9c5634f8eb9a42230aa37f5266c308cac0871ec8a711dc80bf5e36512c45",
+    "fingerprint_semantics": "Canonical ingested source record version hash, not raw PDF hash (full-rollout/ingest.py lines50/83)",
+    "doi": "10.1093/aje/kwz092",
+    "source_url": "https://doi.org/10.1093/aje/kwz092",
+    "fresh_text_sha256": "c7b478ab306f1efd5f12e3f4e9b554bffaf7bd77603d87694ac6722ffc80559e",
+    "physical_pages_read": [
+      7,
+      8
+    ],
+    "printed_DOI_in_extraction": true,
+    "identity_note": "Printed DOI matched",
+    "scope": "Selected original passages, not full scientific review"
+  },
+  {
+    "id": "E04-T07-R252",
+    "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/full-rollout/owned/files/E04-T07-R252.pdf",
+    "source_sha256": "112d5cdd49d3c37ac5d08e6dcdfb439570588aefbf9577eed5b3ed4d5c10cfa5",
+    "binding": "full-rollout/owned/receipt.json and original_file_manifest",
+    "canonical_record_fingerprint_unchanged": "79d241ddca387887b440663a5bed25a22a50f14feb8bf0e21ff90e545addf2be",
+    "fingerprint_semantics": "Canonical ingested source record version hash, not raw PDF hash (full-rollout/ingest.py lines50/83)",
+    "doi": "10.1515/reveh-2021-0112",
+    "source_url": "https://doi.org/10.1515/reveh-2021-0112",
+    "fresh_text_sha256": "9499d14dab76d60720781ceb9c7d2b2436d56ba7a6ea100218dc47744271692e",
+    "physical_pages_read": [
+      18,
+      21,
+      22
+    ],
+    "printed_DOI_in_extraction": true,
+    "identity_note": "Printed DOI matched",
+    "scope": "Selected original passages, not full scientific review"
+  },
+  {
+    "id": "E06-T11-R191",
+    "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/full-rollout/owned/files/E06-T11-R191.pdf",
+    "source_sha256": "83217a00a05241b87150ba67f2d1b5f506d9f7ca85e6e37e4f23bcde63a8004d",
+    "binding": "full-rollout/owned/receipt.json and original_file_manifest",
+    "canonical_record_fingerprint_unchanged": "d0a5af540c9c1f1afdba0b6f210879444e910d7125684e7c1af85e795b70ea7a",
+    "fingerprint_semantics": "Canonical ingested source record version hash, not raw PDF hash (full-rollout/ingest.py lines50/83)",
+    "doi": "10.3390/ijerph20166552",
+    "source_url": "https://doi.org/10.3390/ijerph20166552",
+    "fresh_text_sha256": "63dd8e6eeb3855362daf04cdc7ea6669937a3c0e11d7a75da652d8d6e2ae9bf9",
+    "physical_pages_read": [
+      5,
+      6,
+      12
+    ],
+    "printed_DOI_in_extraction": true,
+    "identity_note": "Printed DOI matched",
+    "scope": "Selected original passages, not full scientific review"
+  }
+]

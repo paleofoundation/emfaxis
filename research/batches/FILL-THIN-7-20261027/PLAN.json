@@ -1,0 +1,37 @@
+{
+  "id": "FILL-THIN-7",
+  "base": "bdd4437c46d11b6530532c47a63c6c9915c2c5c0",
+  "branch": "codex/fill-thin-7",
+  "site_positions": [
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70
+  ],
+  "urls": [
+    "https://emfaxis.com/research/E01-T01-R246",
+    "https://emfaxis.com/research/E04-T07-R252",
+    "https://emfaxis.com/research/E03-T05-R242",
+    "https://emfaxis.com/research/E03-T05-R273",
+    "https://emfaxis.com/research/E06-T11-R185",
+    "https://emfaxis.com/research/E05-T09-R518",
+    "https://emfaxis.com/research/E06-T11-R191",
+    "https://emfaxis.com/research/E03-T05-R247",
+    "https://emfaxis.com/research/E03-T06-R109",
+    "https://emfaxis.com/research/E03-T06-R150"
+  ],
+  "absent_base_canonical": [
+    "E03-T05-R242",
+    "E06-T11-R185",
+    "E05-T09-R518",
+    "E03-T05-R247",
+    "E03-T06-R150"
+  ],
+  "policy": "Held corpus only; source+locator; no new numerical claims or public em/en dashes; canonical GATE FIRST;prior60 rawnotes/bodies+430outputhashes frozen;analyzer unchanged/UKHSAHELD"
+}

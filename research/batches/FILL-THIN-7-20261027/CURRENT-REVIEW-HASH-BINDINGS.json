@@ -1,0 +1,52 @@
+[
+  {
+    "id": "E03-T05-R242",
+    "current_review_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/reviews/continuation-v6-b/E03-T05-R242.json",
+    "current_review_sha256": "531f15a9f8e1422e7d729bbe630863485449d79c0dfbaf1d81596ee05896935f",
+    "historical_decision_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/verification/preview-decisions/E03-T05-R242.json",
+    "historical_decision_sha256": "4e9c42b0dd7e7a0084600dd66afedfbbba4368706ecaca5799af948abf96a450",
+    "historical_review_sha256": "1e36ebdd4310063c4585c5ca94f67a0064571fabc8a8a7661a1d9bd512fa2d66",
+    "matches": false,
+    "approval_transferred": false
+  },
+  {
+    "id": "E06-T11-R185",
+    "current_review_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/reviews/continuation-v6-c/E06-T11-R185.json",
+    "current_review_sha256": "df618952763af3c6f74a2b8533d0501d3f079f9be4eafb48b606082babb4af49",
+    "historical_decision_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/verification/preview-decisions/E06-T11-R185.json",
+    "historical_decision_sha256": "4a4463745ade7e8fad02f7d6fd5ece89524a1b14386cdaea0c180d354c6a1ac3",
+    "historical_review_sha256": "18b7e0a9ac1c602c190385645c7acec0f70498abc981185d24c191d77049bc14",
+    "matches": false,
+    "approval_transferred": false
+  },
+  {
+    "id": "E05-T09-R518",
+    "current_review_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/reviews/continuation-v6-c/E05-T09-R518.json",
+    "current_review_sha256": "d1acd071cf8c4706a2bb4980afb14594556675207697f10435b660dd6e7baf21",
+    "historical_decision_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/verification/preview-decisions/E05-T09-R518.json",
+    "historical_decision_sha256": "5f91c74d9fe3ba45324afbdb73a538a37ecfd9bc45cb2c9ee42511d54459a433",
+    "historical_review_sha256": "618ce33ddfa6a5aa0cc033e9d94d5ec4335a439f0655b65cc892bc56c9aa746c",
+    "matches": false,
+    "approval_transferred": false
+  },
+  {
+    "id": "E03-T05-R247",
+    "current_review_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/reviews/continuation-v6-b/E03-T05-R247.json",
+    "current_review_sha256": "3c708490f9cd2afe96e46adc172fc05a903bfe19a63b04b982c8ef8f10284ea0",
+    "historical_decision_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/verification/preview-decisions/E03-T05-R247.json",
+    "historical_decision_sha256": "349813de846aab63ae7c3d23871e7d1a15bd91b63cd12ba0483cbbd348603c76",
+    "historical_review_sha256": "6c46e970c8265495b443f0ed067f30d9407a158014adb8b534b13b09a8845e45",
+    "matches": false,
+    "approval_transferred": false
+  },
+  {
+    "id": "E03-T06-R150",
+    "current_review_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/reviews/continuation-v6-b/E03-T06-R150.json",
+    "current_review_sha256": "e8971574e634477c1927fce3af274f3d2487491ab129626659563c23a32dea8e",
+    "historical_decision_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/verification/preview-decisions/E03-T06-R150.json",
+    "historical_decision_sha256": "7c7c573a0132fdd3727e9c370a20b9c3b032d76c405f73da2b1ed2ec44ae6109",
+    "historical_review_sha256": "fa307e44d41c756c0f65c24d41478bf10f436e8865259df5edae5aa759789719",
+    "matches": false,
+    "approval_transferred": false
+  }
+]

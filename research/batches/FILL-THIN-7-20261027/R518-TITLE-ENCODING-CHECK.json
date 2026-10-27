@@ -1,0 +1,12 @@
+{
+  "candidate_sha256": "7a29ca052ae644a78d1f2f2e099dcabf539706177468d93c217f58481f7ced0d",
+  "id": "E05-T09-R518",
+  "unicode_codepoint_between_26_5_and_GHz": "U+00A0 NON-BREAKING SPACE",
+  "utf8_bytes": "C2 A0",
+  "literal_backslash_u00a0": false,
+  "literal_backslash_xa0": false,
+  "title_utf8_hex": "4578706f7375726520746f2032362e35c2a047487a2c203547206d6f64756c6174656420616e6420756e6d6f64756c61746564207369676e616c2c20646f6573206e6f7420616666656374206b65792063656c6c756c617220656e64706f696e7473206f662068756d616e206e6575726f626c6173746f6d612063656c6c73",
+  "candidate_changed": false,
+  "PDF_display_title": "Exposure to26.5 GHz,5G modulated and unmodulated signal...",
+  "interpretation": "Python repr/JSON encoding may show an escape; decoded candidate contains real whitespace, not a literal escape string. No V2 repair needed."
+}

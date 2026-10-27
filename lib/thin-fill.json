@@ -1213,5 +1213,175 @@
         }
       ]
     }
+  ],
+  "E01-T01-R246": [
+    {
+      "title": "Job assignment and isolated analysis findings",
+      "paragraphs": [
+        {
+          "text": "The job-exposure matrix assigns occupational RF estimates to reported job histories. Different assignment methods and exposure windows therefore summarize the same underlying case-control dataset in different ways. They do not provide personal measurements for every worker. Within-job variability, sparse measurement information and reporting or selection bias remain relevant when interpreting an assigned electric- or magnetic-field category.",
+          "source": "E01-T01-R246",
+          "locator": "Original PDF physical pages 10 to 11, Discussion and exposure-assignment limitations"
+        },
+        {
+          "text": "The analysis did not show clear, consistent trends for glioma or meningioma across its approaches. Positive findings in selected windows remain visible, but they were not consistent across methods and may reflect chance among many comparisons. The result should not become either a universal workplace safety threshold or an isolated positive headline. Related INTEROCC and INTERPHONE exposure analyses also need overlap accounting before being counted as independent replication.",
+          "source": "E01-T01-R246",
+          "locator": "Original PDF physical pages 10 to 11, Discussion and Conclusion"
+        }
+      ]
+    }
+  ],
+  "E04-T07-R252": [
+    {
+      "title": "A pooled result retains its original exposure methods",
+      "paragraphs": [
+        {
+          "text": "The review combines studies using direct measurements, calculated fields, power-line proximity and wire codes, while considering appliance-use studies separately. Those approaches describe different exposure information. A pooled estimate does not convert a short measurement, residential distance or reported appliance use into the same personal dose history. The methodological variation and quality limitations remain part of the evidence after synthesis.",
+          "source": "E04-T07-R252",
+          "locator": "Original PDF physical pages 21 to 22, Discussion and limitations"
+        },
+        {
+          "text": "The electric-blanket analysis reports an association using older studies, and the authors explicitly caution about applying that evidence to equipment used today. Product design, operating pattern and exposure assessment belong with the interpretation. The review does not directly measure current blanket models or establish an individual prediction for a present-day user. Original studies shared with earlier pooled analyses also remain the same participants rather than additional independent evidence.",
+          "source": "E04-T07-R252",
+          "locator": "Original PDF physical page 18, appliance table; pages 21 to 22, appliance interpretation and limitations"
+        }
+      ]
+    }
+  ],
+  "E03-T05-R273": [
+    {
+      "title": "Residential proximity is a proxy",
+      "paragraphs": [
+        {
+          "text": "The case-control comparison uses mapped distance from homes to overhead power lines. It reports higher odds of infertility among women living closer to the lines. That proximity measure is not a direct measurement of field strength at the home or energy absorbed by an individual. Other sources, time spent away from home and residential characteristics can differ even between people assigned to the same distance category.",
+          "source": "E03-T05-R273",
+          "locator": "Original PDF physical pages 2 to 4, Materials and Methods, Results and Discussion"
+        },
+        {
+          "text": "The investigators acknowledge that field measurements were not made and that the observational design does not establish the temporal or causal relationship. Selection of clinic cases and controls and other residential factors also matter. The reported association therefore does not establish that power-line fields caused infertility or that moving house would improve reproductive outcomes. A clinical recommendation would require evidence beyond this proximity comparison.",
+          "source": "E03-T05-R273",
+          "locator": "Original PDF physical pages 3 to 4, distance methods and Discussion limitations"
+        }
+      ]
+    }
+  ],
+  "E06-T11-R191": [
+    {
+      "title": "Workplace patterns and a communication article",
+      "paragraphs": [
+        {
+          "text": "This communication explains why intermittent workplace exposure, close work near equipment and uneven fields can differ from ordinary public exposure or a controlled laboratory condition. A peak, a time average and a local exposure are different descriptions. Combining them without attention to the task and timing can hide the features that the authors want occupational research to examine.",
+          "source": "E06-T11-R191",
+          "locator": "Original PDF physical pages 5 to 6, workplace exposure examples and interpretation"
+        },
+        {
+          "text": "The article draws on prior examples and studies rather than presenting a new comparative worker cohort or pooled disease estimate. Its discussion of MRI-worker symptoms and long-term uncertainty is background evidence, not newly observed cases in this report. The call for better occupational study designs does not itself quantify a worker's individual risk. Referenced studies still need source-specific appraisal and overlap checks before clinical or causal conclusions.",
+          "source": "E06-T11-R191",
+          "locator": "Original PDF physical page 6, MRI/static-field context; page 12, Conclusions"
+        }
+      ]
+    }
+  ],
+  "E03-T06-R109": [
+    {
+      "title": "Call frequency and different birth outcomes",
+      "paragraphs": [
+        {
+          "text": "The combined birth-cohort analysis uses maternal reports of calling behavior during pregnancy. Call frequency is a behavior measure rather than a direct estimate of absorbed RF dose, particularly when call duration and operating conditions are incomplete. Some exposure reports were collected retrospectively. Combining cohorts increases the information considered, but it does not make those different measurement histories identical or create new participants beyond the contributing cohorts.",
+          "source": "E03-T06-R109",
+          "locator": "Original PDF physical pages 7 to 8, Discussion and exposure limitations"
+        },
+        {
+          "text": "More frequent calls were associated with shorter pregnancy duration, while fetal growth and birth weight did not show an association. Those endpoints should remain distinct. The authors caution that stress or residual confounding could explain the duration finding, and those possible explanations were not measured consistently enough to isolate their contributions. The result does not establish RF causation or a preventive calling rule for pregnancy.",
+          "source": "E03-T06-R109",
+          "locator": "Original PDF physical pages 7 to 8, Discussion, Figure and Conclusion"
+        }
+      ]
+    }
+  ],
+  "E03-T05-R242": [
+    {
+      "title": "Cell stage, culture time and assay choice",
+      "paragraphs": [
+        {
+          "text": "The experiment compares mouse germ-cell models with isolated mature mouse sperm under a continuous-wave laboratory exposure. Those stages did not show the same response pattern. A mitochondrial probe signal in a precursor model should not be treated as a complete explanation for every result in mature sperm. The report concerns selected culture assays rather than exposed men or observed reproductive success.",
+          "source": "E03-T05-R242",
+          "locator": "Main PDF physical pages 2 to 5, Methods and early Results; pages 13 to 15, Discussion"
+        },
+        {
+          "text": "In mature sperm, fragmentation findings differed by assay and time, while selected later oxidative-DNA and motility changes were reported. Null and discordant comparisons remain relevant alongside those changes. Small biological replication and many connected contrasts limit a simple dose-response or mechanism claim. These observations do not estimate human infertility, conception risk or an appropriate phone-use duration, and scientific, numerical and human review remain pending.",
+          "source": "E03-T05-R242",
+          "locator": "Main PDF physical pages 8 to 9 and 13 to 15, Results, Figures and Discussion"
+        }
+      ]
+    }
+  ],
+  "E06-T11-R185": [
+    {
+      "title": "Measured stations and modeled small-cell scenarios",
+      "paragraphs": [
+        {
+          "text": "The actual base stations measured did not meet the paper's small-cell power definitions. The investigators rescaled those measurements to selected small-cell powers and calculated typical-user and non-user scenarios. These are useful engineering estimates under stated assumptions, but they are not a representative population survey or direct measurements of every person carrying out ordinary activities near an installed small cell.",
+          "source": "E06-T11-R185",
+          "locator": "Main PDF physical page 6, site definitions; pages 10 to 12, scenario interpretation and Discussion"
+        },
+        {
+          "text": "The reported rescaled scenarios were below the reference levels used by the authors. That physical comparison retains the antenna geometry, traffic, averaging and separation assumptions. Close-distance coverage gaps and inconsistent nearby maximum labels require clarification before numerical reuse. A limited station sample and modeled inputs do not establish a universal distance rule or lifetime health outcome, and the study did not measure disease.",
+          "source": "E06-T11-R185",
+          "locator": "Main PDF physical pages 9 to 12, Figures, scenario table and Discussion"
+        }
+      ]
+    }
+  ],
+  "E05-T09-R518": [
+    {
+      "title": "A defined signal comparison in a cell model",
+      "paragraphs": [
+        {
+          "text": "The study compares specified modulated and continuous-wave signals in neuroblastoma-cell cultures, with sham and positive-control conditions. Neither signal significantly changed the measured cell-cycle distribution or spontaneous comet-assay damage under this protocol. Prior RF exposure also did not significantly modify the response to a later menadione challenge. The result remains tied to those endpoints, observation windows and experimental arrangements.",
+          "source": "E05-T09-R518",
+          "locator": "Main PDF physical pages 4 to 6 and 9, experimental sequence, Results and comet figure"
+        },
+        {
+          "text": "The chemical challenge followed the RF exposure rather than occurring throughout the same interval. A negative result for that sequence does not describe every simultaneous or delayed combination. Few independent culture experiments and a transformed cell model also limit generalization to intact tissue. Methods and figure wording differ on repeated measurements, and a nonsignificant comparison does not establish universal equivalence or absence of human harm.",
+          "source": "E05-T09-R518",
+          "locator": "Main PDF physical pages 4 to 5, protocol and Statistics; pages 9 to 10, figure wording and Discussion"
+        }
+      ]
+    }
+  ],
+  "E03-T05-R247": [
+    {
+      "title": "Selective laboratory attenuation is not clinical prevention",
+      "paragraphs": [
+        {
+          "text": "The same donor's semen was divided among sham, exposed and exposed-plus-Trolox conditions. Attenuation was selective across the assays: a lower concentration improved some comparisons, while a higher concentration was not uniformly more favorable. The mitochondrial measures were not rescued. These details qualify a broad protection narrative and do not show that increasing an antioxidant concentration necessarily improves the result.",
+          "source": "E03-T05-R247",
+          "locator": "Main PDF physical pages 4 to 10, Results, Figures and Discussion"
+        },
+        {
+          "text": "The authors acknowledge that precise exposure could not be verified with the available equipment. Without unexposed compound-only controls, a compound effect cannot be cleanly separated from an exposure-specific rescue. Handling of donor pairing and repeated observations also needs review. Isolated semen responses and culture concentrations do not establish infertility risk, oral supplement dosing or clinical prevention, and no supplement recommendation follows from this experiment alone.",
+          "source": "E03-T05-R247",
+          "locator": "Main PDF physical pages 2 to 4, Methods; pages 9 to 10, Discussion and limitations"
+        }
+      ]
+    }
+  ],
+  "E03-T06-R150": [
+    {
+      "title": "Device-use reports and behavioral screening",
+      "paragraphs": [
+        {
+          "text": "The held source is an institutional accepted manuscript examining device-use reports and maternal behavioral screening. Calling, streaming and gaming describe behavior rather than measured absorbed RF dose. Wi-Fi was not carried into the longitudinal models because the categories offered too little contrast. That exclusion should not be presented as a strong prospective demonstration about router exposure or a clinical neurological outcome.",
+          "source": "E03-T06-R150",
+          "locator": "Accepted manuscript physical pages 8 to 9, Methods; pages 23 to 26, Discussion and Conclusion"
+        },
+        {
+          "text": "Associations were sporadic and ran in both favorable and unfavorable directions. Some survived false-discovery correction, while other nominal findings did not; neither a uniformly positive nor an entirely null corrected summary is accurate. Self-report, selection, correlated behavior and many comparisons constrain causal interpretation. Numerical reporting remains withheld pending reconciliation, and improved questionnaire categories do not establish an RF benefit or a reason to increase device use.",
+          "source": "E03-T06-R150",
+          "locator": "Accepted manuscript physical pages 18 to 23, main tables, correction footnotes and Discussion; pages 25 to 26, limitations"
+        }
+      ]
+    }
   ]
 }

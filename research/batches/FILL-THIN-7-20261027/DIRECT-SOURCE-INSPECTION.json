@@ -1,0 +1,105 @@
+{
+  "method": "Fresh local pdftotext plus direct selected original passage inspection, no source file copying into public assets",
+  "checked_UTC": "2026-10-27T09:59:21.489355+00:00",
+  "rows": [
+    {
+      "id": "E03-T05-R242",
+      "source_sha256": "bc4f9a74e291181c22a66511f022b994239ac507b43c76cf58e1f661e7ebc849",
+      "fresh_pdftotext_sha256": "117d55ff28af8090f9959039f92b2b907224e434bf75532789ff2eb224ef2b50",
+      "physical_pages_inspected": [
+        1,
+        2,
+        3,
+        5,
+        7,
+        8,
+        9,
+        13,
+        14,
+        15
+      ],
+      "scope": "Selected original passages directly inspected, not complete scientific appraisal; no historical PASS transfer",
+      "locators": [
+        "Main PDF physical pages 8 to 9 and 13 to 14, Results, Figures and Discussion",
+        "Main PDF physical pages 2 to 5, Methods; pages 13 to 15, Discussion"
+      ]
+    },
+    {
+      "id": "E06-T11-R185",
+      "source_sha256": "a8bd58c5a65fee84e6b1adcb3ac7511326f7ad210477a825edd4090291d011d4",
+      "fresh_pdftotext_sha256": "b541378e36bf78f591a1d03188cab8213675617d2d984a778d6ea1850563eac3",
+      "physical_pages_inspected": [
+        6,
+        9,
+        10,
+        11,
+        12
+      ],
+      "scope": "Selected original passages directly inspected, not complete scientific appraisal; no historical PASS transfer",
+      "locators": [
+        "Main PDF physical page 6, site definitions; pages 10 to 12, scenario interpretation and Discussion",
+        "Main PDF physical pages 9 to 12, Figures, Table and Discussion"
+      ]
+    },
+    {
+      "id": "E05-T09-R518",
+      "source_sha256": "254e30e89a6f7adbe28d4e3e0bbd3a485817e761b1705bc95ed0ed3bdafc89ae",
+      "fresh_pdftotext_sha256": "4f153e539edafcb39f4a0266c269601dffc987f16aedb9f2fadef456a5347071",
+      "physical_pages_inspected": [
+        1,
+        2,
+        4,
+        5,
+        6,
+        8,
+        9,
+        10
+      ],
+      "scope": "Selected original passages directly inspected, not complete scientific appraisal; no historical PASS transfer",
+      "locators": [
+        "Main PDF physical pages 6 to 9, Results and Figures",
+        "Main PDF physical pages 3 to 6, experimental sequence; pages 9 to 10, Discussion and Conclusion"
+      ]
+    },
+    {
+      "id": "E03-T05-R247",
+      "source_sha256": "782188998cf162d52eadca57e633b38cdca7ed02c325820aace885df8878b0fa",
+      "fresh_pdftotext_sha256": "61be9c961661a3982131f25a0ea1b326bc7b5ffc7f38024ebb60844c2c57455d",
+      "physical_pages_inspected": [
+        3,
+        4,
+        5,
+        7,
+        8,
+        9,
+        10
+      ],
+      "scope": "Selected original passages directly inspected, not complete scientific appraisal; no historical PASS transfer",
+      "locators": [
+        "Main PDF physical pages 4 to 10, Results, Figures and Discussion",
+        "Main PDF physical pages 2 to 4, Methods; pages 9 to 10, Discussion and limitations"
+      ]
+    },
+    {
+      "id": "E03-T06-R150",
+      "source_sha256": "63a619079fc4ef2291393383a3f13c7a3a45cb3d31c0322a6f7362b9bbba1e90",
+      "fresh_pdftotext_sha256": "abcd9e0d79012cb2b5a37cc2f86e6940e7f0784e403c99741278099af730b8da",
+      "physical_pages_inspected": [
+        8,
+        9,
+        18,
+        20,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "scope": "Selected original passages directly inspected, not complete scientific appraisal; no historical PASS transfer",
+      "locators": [
+        "Accepted manuscript physical pages 18 to 23, Tables, correction footnotes and Discussion",
+        "Accepted manuscript physical pages 8 to 9, Methods; pages 23 to 26, Discussion and Conclusion"
+      ]
+    }
+  ]
+}
