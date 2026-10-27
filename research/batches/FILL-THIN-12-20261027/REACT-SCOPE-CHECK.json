@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "skill": "vercel:react-best-practices condensed checklist",
+  "scope": "Three existing TSX display components, five total public files",
+  "new_hooks": false,
+  "new_state": false,
+  "new_effects": false,
+  "new_network": false,
+  "new_route": false,
+  "stable_keys": "Existing source-reading section/title/index and paragraph index keys retained for static immutable notes",
+  "accessibility": "Semantic sections/source anchors/locators; inherited FAQ ID-path shift observed and repaired with same-tree nesting; original ID bindings exact on unselected260",
+  "negative_result": "All260unselected main reader DOM byte equal, no ID normalization",
+  "locator_presentation": "normalizeLocators defaults false; caller true for exactly t33,t23,t22,t12,t06,t40,t13",
+  "research_guard": "Existing exact-ID punctuation guard adds only selected R174,R182,T03R227 and related-title R182",
+  "canonical_data_mutation": false,
+  "public_metadata_or_style_change": false,
+  "prose_version": "c585cce47bb022bd4d4710b592057d20c5c77ee5f6e49834d6d02efd748f75ac",
+  "unrelated_refactor": false
+}

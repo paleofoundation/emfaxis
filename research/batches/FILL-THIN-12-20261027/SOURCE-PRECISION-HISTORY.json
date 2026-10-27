@@ -1,0 +1,17 @@
+{
+  "v1_sha256": "e37a8a13a4ad5626ce1c746140953f79ba48f2db36063edcc6a784a85be58c81",
+  "v2_sha256": "c585cce47bb022bd4d4710b592057d20c5c77ee5f6e49834d6d02efd748f75ac",
+  "changed_paragraphs": [
+    [
+      "t06",
+      0
+    ],
+    [
+      "t13",
+      0
+    ]
+  ],
+  "other18_unchanged": true,
+  "reason": "Root source-precision review: ordinary phone-operation wording and explicit R016 model-only/non-beating originalp9 locator",
+  "prior_reviewed_notes": "unchanged"
+}

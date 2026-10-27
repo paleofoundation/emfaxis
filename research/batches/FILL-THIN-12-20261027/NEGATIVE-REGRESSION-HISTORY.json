@@ -1,0 +1,10 @@
+{
+  "initial_result": "FAIL main DOM exact equality on /questions/t01",
+  "visible_text": "unchanged",
+  "observed_difference": "Radix FAQ id and aria-labelledby tokens consistently shifted, for example radix-_R_pmfbi_ to radix-_R_pnfbi_",
+  "cause": "New false sibling node before ResearchSection changed React useId path",
+  "repair": "Selected SourceReadingNotes moved inside existing evidence section; no new top-level sibling node, prose unchanged",
+  "ID_normalization_used": false,
+  "initial_capture_history": "work/fill-thin-12/receipt-history/before-nested-notes-renderer/candidate-all-routes",
+  "final_verification": "PASS260unselected reader main DOM byte equality including unchanged Radix IDs; prior110body equality; no normalization"
+}

@@ -1,0 +1,20 @@
+{
+  "scope": "Isolated local QA only, not deployed/tracked hosting source",
+  "initial_default_clean_alias_status": {
+    "/resources/first-guide-preview": 404,
+    "/resources/emf-reading-worksheet": 404
+  },
+  "explicit_html_assets_status": 200,
+  "runtime": "Installed Wrangler4.92 schema permits assets.html_handling drop-trailing-slash",
+  "configuration": "work/fill-thin-12/local-preview.json",
+  "setting": {
+    "assets.html_handling": "drop-trailing-slash"
+  },
+  "same_setting_for_base_and_candidate": true,
+  "raw_public_assets": "unchanged",
+  "public_route_source_change": false,
+  "tracked_hosting_config_change": false,
+  "initial_failure_history": "work/fill-thin-12/receipt-history/initial-local-preview/failed-clean-alias-capture.log",
+  "base_fixture_capture": "PASS270; prior110 accepted bodies exact",
+  "candidate_fixture_capture": "PASS270; unselected260 readerDOM and prior110bodies exact"
+}

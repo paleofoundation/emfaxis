@@ -1,0 +1,33 @@
+{
+  "status": "PASS",
+  "source_plan_id": "EMFAXIS-ARCHIVE-20261022-v3.0.0",
+  "bound_files": {
+    "research/emf/archive-appraisal/contracts/ingest-plan.md": {
+      "expected": "659937fecaf04d8367bc40cccce1ef44f4f9bfa4083792509380c1fc11a322e6",
+      "actual": "659937fecaf04d8367bc40cccce1ef44f4f9bfa4083792509380c1fc11a322e6"
+    },
+    "research/emf/archive-appraisal/contracts/review.schema.json": {
+      "expected": "e97bec6dda7cc45c1373064e0592c659909838d96d2c68b638743c2d4201f7ba",
+      "actual": "e97bec6dda7cc45c1373064e0592c659909838d96d2c68b638743c2d4201f7ba"
+    },
+    "research/emf/full-rollout/contracts/gp-plan-review.json": {
+      "expected": "20e2f0740935575e607bedda8106b8ee7e7cc2398f18efc70a1d7199b96db538",
+      "actual": "20e2f0740935575e607bedda8106b8ee7e7cc2398f18efc70a1d7199b96db538"
+    },
+    "research/emf/pilot-wifi-sleep/reconciliation/source-archives.json": {
+      "expected": "d0c10a52402329ddbbace344b6c533cef8abf57701011e101859567c04a7934e",
+      "actual": "d0c10a52402329ddbbace344b6c533cef8abf57701011e101859567c04a7934e"
+    },
+    "research/emf/pilot-wifi-sleep/reconciliation/normalized-report-inventory.jsonl": {
+      "expected": "10c877eb508655adf2982b496c4426864257c428fa898db14d5766114a5c6db0",
+      "actual": "10c877eb508655adf2982b496c4426864257c428fa898db14d5766114a5c6db0"
+    },
+    "research/emf/pilot-wifi-sleep/contracts/review-questions-and-inputs.json": {
+      "expected": "1d4db1d850fde7072f4936e31aadb72b9f76a6522237ee1d0516b02dcf28b7e3",
+      "actual": "1d4db1d850fde7072f4936e31aadb72b9f76a6522237ee1d0516b02dcf28b7e3"
+    }
+  },
+  "new_fill_plan": "work/fill-thin-12/PLAN.json",
+  "source_processing_scope": "Twenty qualitative paragraphs from held corpus; no new scientific appraisal or numerical release",
+  "plan_sha256": "81dbd4cd631ea8b3dbd18d73fc3a5debb41199779b5dd6f9f731bde7ef235a8f"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "FILL-THIN-12",
+  "base": "17254fc46cae50334ead034dda065cbc537120e2",
+  "branch": "codex/fill-thin-12",
+  "site_positions": [
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120
+  ],
+  "urls": [
+    "https://emfaxis.com/research/E02-T04-R174",
+    "https://emfaxis.com/research/E03-T05-R182",
+    "https://emfaxis.com/research/E02-T03-R227",
+    "https://emfaxis.com/questions/t33",
+    "https://emfaxis.com/questions/t23",
+    "https://emfaxis.com/questions/t22",
+    "https://emfaxis.com/questions/t12",
+    "https://emfaxis.com/questions/t06",
+    "https://emfaxis.com/questions/t40",
+    "https://emfaxis.com/questions/t13"
+  ],
+  "absent_base_canonical": [],
+  "prior_counts": {
+    "raw_sources": 96,
+    "note_objects": 110,
+    "qualitative_passages": 236,
+    "frozen_output_entries": 802
+  },
+  "policy": "Held corpus source+locator per addition; no invented facts/new numerical claims/hosted PDFs/public em/en; absent canonical GATE before application; prior96 raw/110notes+bodies/802hashes immutable; analyzer/fourhosts unchanged UKHSA HELD"
+}

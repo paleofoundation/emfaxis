@@ -1,0 +1,84 @@
+{
+  "files": [
+    {
+      "path": "app/robots.ts",
+      "sha256": "ad679d34d485a05bdd3c981be98ddf4a4d7778b59a4b8e27b46c170b8008fde1",
+      "byte_equal_base": true
+    },
+    {
+      "path": "app/sitemap.ts",
+      "sha256": "2f2bb28151696aaadb4be3354bf16803d84077a08c1482a907a3111be438b427",
+      "byte_equal_base": true
+    },
+    {
+      "path": ".openai/hosting.json",
+      "sha256": "14708e1582feb5570be7f0ebe949e8e90bb2f46d5d42e169ccbc26ff0662e354",
+      "byte_equal_base": true
+    },
+    {
+      "path": "lib/appraisal-previews.json",
+      "sha256": "d0c760a500ffad28481d102a3fa45a9c250bfc5d48708f8350b27213d1cf0212",
+      "byte_equal_base": true
+    },
+    {
+      "path": "lib/studies.ts",
+      "sha256": "51e6c6ea85925bfd1d312ea28949ab625c2d8e5f696f53d9199e701dfb8e6a28",
+      "byte_equal_base": true
+    },
+    {
+      "path": "lib/reviews.ts",
+      "sha256": "8a87caec4da85f9d0d4bf42b162c41f01c1e56505aab4fd4455ad5e859ac0cc5",
+      "byte_equal_base": true
+    },
+    {
+      "path": "lib/guides.ts",
+      "sha256": "5685a892435942322f1b6493198f9356b4e099217a94e76d85626d890abee09d",
+      "byte_equal_base": true
+    },
+    {
+      "path": "research/contracts/recovered-baseline.json",
+      "sha256": "6896ba9f6d64b95725f8e0eeb90e3435d4a98973788c678dfac4f3cd4a0337cb",
+      "byte_equal_base": true
+    },
+    {
+      "path": "tools/site-fill/thin_audit.py",
+      "sha256": "88d45f1ff536c96ce1fbd2e8524aeda34f2e607061ef9fd4af72ad94c84770ed",
+      "byte_equal_base": true
+    },
+    {
+      "path": "tsconfig.tsbuildinfo",
+      "sha256": "650a1dc82d9358caffb6a907d5325c2631f64658c57d66079dc24edb0a300d62",
+      "byte_equal_base": true
+    },
+    {
+      "path": "lib/glossary.ts",
+      "sha256": "f4be8b216640ad1a7902c51df4944aad030b2a34a1a8c68014e00265c182dfb5",
+      "byte_equal_base": true
+    },
+    {
+      "path": "lib/glossary-depth.ts",
+      "sha256": "f695f0f3d326a97e942840204bd3735251be0fe816d465fac836e55c6782a5ea",
+      "byte_equal_base": true
+    },
+    {
+      "path": "app/glossary/[id]/page.tsx",
+      "sha256": "23725074e94097a729a1a8f25f22d8169b793e62039a9d16f950e57786e6c267",
+      "byte_equal_base": true
+    },
+    {
+      "path": "lib/recovered-sources.json",
+      "sha256": "10f7c3ccdb34e76d14db7e0365d56fb4940852f02e5ea85c38a1ac7f0c3e1a5d",
+      "byte_equal_base": true
+    },
+    {
+      "path": "lib/archive-status.json",
+      "sha256": "7a04b89ae4c8dfe0b5d68e3957855ce8dc83a334d81a35d8c2dfc8b55bd3d15f",
+      "byte_equal_base": true
+    }
+  ],
+  "archive_counter_only_delta": {},
+  "existing96_source_raw_spans_unchanged": true,
+  "prior110_note_objects_unchanged": true,
+  "accepted_committed_packets_byte_equal": true,
+  "qualitative_checked_meaning": "Source passages inspected, not completed scientific appraisal or human approval"
+}

@@ -1,0 +1,140 @@
+[
+  {
+    "id": "E02-T04-R174",
+    "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/corpus/raw/a624d73e5dfa3a5139e89fff5c186f624a7f6f581bf3755b80331ca1978e2497.pdf",
+    "source_sha256": "a624d73e5dfa3a5139e89fff5c186f624a7f6f581bf3755b80331ca1978e2497",
+    "fresh_text_file": "/Users/kmfp/Documents/Codex/2026-10-25/you-are-conductor-the-single-codex/work/fill-thin-12/direct-source-extractions/E02-T04-R174.txt",
+    "fresh_text_sha256": "dd6f26d1ab518c67e4fc9c40aa53e88536ba094908f391900f7e7d62c7c386a1",
+    "scope": "fresh selected original passages to inspect; no scientific/numeric/human/release approval",
+    "review_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/reviews/continuation-v5-a/E02-T04-R174.json",
+    "current_review_sha256": "e9f3d9b5d19d3e0ec2d0e81d21de102c2e7cd52b5182adf3640a7e138cd2fd4d",
+    "decision_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/verification/preview-decisions/E02-T04-R174.json",
+    "decision_sha256": "e4bc19dd6c5279f8006571ef6de71dddb3141113565810b9e37b2fa359083764",
+    "historical_review_hash": "e13efcc070f8e71ed41e8f50c8168b13a5a89bc6dc77ced893c8301769854830",
+    "review_hash_matches": false
+  },
+  {
+    "id": "E03-T05-R182",
+    "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/corpus/raw/d4b22bd7637739a370cd1d43fe82e08323c333f10c1db6349022f96e2d4aebd8.pdf",
+    "source_sha256": "d4b22bd7637739a370cd1d43fe82e08323c333f10c1db6349022f96e2d4aebd8",
+    "fresh_text_file": "/Users/kmfp/Documents/Codex/2026-10-25/you-are-conductor-the-single-codex/work/fill-thin-12/direct-source-extractions/E03-T05-R182.txt",
+    "fresh_text_sha256": "dec82fa4b7bce3947da940946b93f030306faac589bf446958948522f55b7590",
+    "scope": "fresh selected original passages to inspect; no scientific/numeric/human/release approval",
+    "review_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/reviews/continuation-v5-b/E03-T05-R182.json",
+    "current_review_sha256": "8606051d49ec90c1b98833f386186c83417fd559f55ce4ec5e283125948ebd3d",
+    "decision_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/verification/preview-decisions/E03-T05-R182.json",
+    "decision_sha256": "13ca213f2ef269018fcb3d5fe8dbe36532b90eb5bd3d399a725c8e6b7544143d",
+    "historical_review_hash": "96db322263f3f74991e561708eca0940aead58bd8f8ebb5a637ec77fd1596d6e",
+    "review_hash_matches": false
+  },
+  {
+    "id": "E02-T03-R227",
+    "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/corpus/raw/6c065c6d15189b75cff69798314aa44719eb4d1591e0a6547b1ffae00ddcb6a0.pdf",
+    "source_sha256": "6c065c6d15189b75cff69798314aa44719eb4d1591e0a6547b1ffae00ddcb6a0",
+    "fresh_text_file": "/Users/kmfp/Documents/Codex/2026-10-25/you-are-conductor-the-single-codex/work/fill-thin-12/direct-source-extractions/E02-T03-R227.txt",
+    "fresh_text_sha256": "652eef5482d8e334d797d7badbc08abda237170bad9f840bba769445a24dbc87",
+    "scope": "fresh selected original passages to inspect; no scientific/numeric/human/release approval",
+    "review_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/reviews/continuation-v5-a/E02-T03-R227.json",
+    "current_review_sha256": "72e88d3c11c37eb3958c8aae6d2cb7f5894d6fd00731843c4fa0cd424af266ba",
+    "decision_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/verification/preview-decisions/E02-T03-R227.json",
+    "decision_sha256": "91936d169cf8b030acac5add3b339bab564f374d8ef3ce2920210db865123843",
+    "historical_review_hash": "5123d0eea44f7c7e7b39f6ee59a21b8f3026f3ab268615b9d50aa10756a29bdb",
+    "review_hash_matches": false
+  },
+  {
+    "id": "E06-T11-R227",
+    "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/corpus/raw/b5ba28371c8a253a2b94b058619766e777d4b2b382710f2d19de9d511ba27cb1.pdf",
+    "source_sha256": "b5ba28371c8a253a2b94b058619766e777d4b2b382710f2d19de9d511ba27cb1",
+    "fresh_text_file": "/Users/kmfp/Documents/Codex/2026-10-25/you-are-conductor-the-single-codex/work/fill-thin-12/direct-source-extractions/E06-T11-R227.txt",
+    "fresh_text_sha256": "4d3301a1a85ef8ae966381cf444e8cbf994c3bdbf1bfaa715c7310579ccea90f",
+    "scope": "fresh selected original passages to inspect; no scientific/numeric/human/release approval",
+    "review_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/reviews/continuation-v6-c/E06-T11-R227.json",
+    "current_review_sha256": "0a28a6f4d0476bcc2aee324cbc325e45df9288d8c18b584f2057fbc2c9e7cf69",
+    "decision_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/verification/preview-decisions/E06-T11-R227.json",
+    "decision_sha256": "9e5c48c847ea0b9f9e341e0c086d301adf48c619edff5771dd4366474cea8927",
+    "historical_review_hash": "f434cc609a61db67ba4404229fd745daa96d91adfda2f34c6f13a32b7f5fb23a",
+    "review_hash_matches": false
+  },
+  {
+    "id": "E06-T11-R137",
+    "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/corpus/raw/ed61372a455f8a087008093ecd37a1a2595b05b9f5e564f02f2a6bc1502e44b0.pdf",
+    "source_sha256": "ed61372a455f8a087008093ecd37a1a2595b05b9f5e564f02f2a6bc1502e44b0",
+    "fresh_text_file": "/Users/kmfp/Documents/Codex/2026-10-25/you-are-conductor-the-single-codex/work/fill-thin-12/direct-source-extractions/E06-T11-R137.txt",
+    "fresh_text_sha256": "20d112167398d16b2051fd65e0105d58bc6f20d19e65fc518146a410d40d5acd",
+    "scope": "fresh selected original passages to inspect; no scientific/numeric/human/release approval",
+    "review_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/reviews/owned/E06-T11-R137.json",
+    "current_review_sha256": "0cf2f81e62bb9e82a03bf63fb0a82f0410efd5b4bd09df0191827eb19792e7a1",
+    "decision_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/verification/preview-decisions/E06-T11-R137.json",
+    "decision_sha256": "9c22eca2a1c718c0d3a1ed03092f257dd0ab8c2cb69c2fcfaf486501b4352bf6",
+    "historical_review_hash": "4037859bc772d151fbe360dd8f95b8876c9636d14e5720d8387b2ea40cec869f",
+    "review_hash_matches": false
+  },
+  {
+    "id": "E06-T12-R016",
+    "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/corpus/raw/e64283540b181faae5528202258632e417c340229a1a62de0ecfee518d454a87.pdf",
+    "source_sha256": "e64283540b181faae5528202258632e417c340229a1a62de0ecfee518d454a87",
+    "fresh_text_file": "/Users/kmfp/Documents/Codex/2026-10-25/you-are-conductor-the-single-codex/work/fill-thin-12/direct-source-extractions/E06-T12-R016.txt",
+    "fresh_text_sha256": "0356a3d45d27f73a92248c730160f6c832f40657c1eb9594a58da1a075d3060c",
+    "scope": "fresh selected original passages to inspect; no scientific/numeric/human/release approval",
+    "review_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/reviews/continuation-c/E06-T12-R016.json",
+    "current_review_sha256": "bd1968cbc12806736cf47579bcd50911d4161df5ca282d4f904ecf5055a34a2b",
+    "decision_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/verification/preview-decisions/E06-T12-R016.json",
+    "decision_sha256": "95118599f04e6a50f67faec4b50f171ed36a58c3940bcc27764567fbb89ade82",
+    "historical_review_hash": "779777d61f11b628f9609d6f543b681bfc3138f490ce109129c561e09390e398",
+    "review_hash_matches": false
+  },
+  {
+    "id": "E05-T10-R110",
+    "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/corpus/raw/1f44f111bfe8fdda8bbfe03b97bbf9a8d8e639cc4b03abb737d9315bdabb7492.pdf",
+    "source_sha256": "1f44f111bfe8fdda8bbfe03b97bbf9a8d8e639cc4b03abb737d9315bdabb7492",
+    "fresh_text_file": "/Users/kmfp/Documents/Codex/2026-10-25/you-are-conductor-the-single-codex/work/fill-thin-12/direct-source-extractions/E05-T10-R110.txt",
+    "fresh_text_sha256": "9a19b9ae5c6d456613d52a41cd1220e95434761bf7546140156a64b6a4f113d1",
+    "scope": "fresh selected original passages to inspect; no scientific/numeric/human/release approval",
+    "review_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/reviews/continuation-b/E05-T10-R110.json",
+    "current_review_sha256": "b3df91ebe07a51225d0b54b2e2619ef1c89b2575d16490ab739048ac8baa7eeb",
+    "decision_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/verification/preview-decisions/E05-T10-R110.json",
+    "decision_sha256": "dc0e9d2b7f72831dba8a6866dddce4e119545eadb7be9af09c81a12b1e967fa2",
+    "historical_review_hash": "c6ddd0690d7639a17168a8b7e7269fd90edb4b0eb300b4d5a27457bd0386d0ce",
+    "review_hash_matches": false
+  },
+  {
+    "id": "fda-microwave",
+    "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/full-rollout/sources/official/fda-microwave.html",
+    "source_sha256": "0f1be3966273cf47677cad5dec35fa02ee65540b3d5fe020daa39af351a09851",
+    "fresh_text_file": "/Users/kmfp/Documents/Codex/2026-10-25/you-are-conductor-the-single-codex/work/fill-thin-12/direct-source-extractions/fda-microwave.txt",
+    "fresh_text_sha256": "92b5f6b7b99a42b4482ff01340fa9d732eed5b98cf42a3e417f077630a75ee23",
+    "scope": "fresh selected original passages to inspect; no scientific/numeric/human/release approval"
+  },
+  {
+    "id": "foph-induction",
+    "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/full-rollout/sources/official/foph-induction.pdf",
+    "source_sha256": "23f235da0c52711d98b651798d74f32f4f59e8e7586fe55589aff5804e797137",
+    "fresh_text_file": "/Users/kmfp/Documents/Codex/2026-10-25/you-are-conductor-the-single-codex/work/fill-thin-12/direct-source-extractions/foph-induction.txt",
+    "fresh_text_sha256": "55476ebd2f29a267715a63fd05c3ddf424bec1c49806b7fc496825137e9c6508",
+    "scope": "fresh selected original passages to inspect; no scientific/numeric/human/release approval"
+  },
+  {
+    "id": "foph-mobile",
+    "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/full-rollout/sources/official/foph-mobile.pdf",
+    "source_sha256": "e061b2ecc2b6c8b76cc62f4269d9293d9717405ff52e66cc9dd2591b74ce34be",
+    "fresh_text_file": "/Users/kmfp/Documents/Codex/2026-10-25/you-are-conductor-the-single-codex/work/fill-thin-12/direct-source-extractions/foph-mobile.txt",
+    "fresh_text_sha256": "7ff94f7363dcd579f88932d1423662cdfbbb7cf0573afbe29b9453abe7b6b4b9",
+    "scope": "fresh selected original passages to inspect; no scientific/numeric/human/release approval"
+  },
+  {
+    "id": "icnirp-rf",
+    "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/full-rollout/sources/official/icnirp-rf.html",
+    "source_sha256": "95f233c22543f3840568c14db45a1acf6159f24dfb57329c56d8c36bd949437b",
+    "fresh_text_file": "/Users/kmfp/Documents/Codex/2026-10-25/you-are-conductor-the-single-codex/work/fill-thin-12/direct-source-extractions/icnirp-rf.txt",
+    "fresh_text_sha256": "f076749753aba841614be8d76a16ba2d889ec4cfaf74d99ab2658c4d0bc86864",
+    "scope": "fresh selected original passages to inspect; no scientific/numeric/human/release approval"
+  },
+  {
+    "id": "icnirp-lf",
+    "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/full-rollout/sources/official/icnirp-lf.html",
+    "source_sha256": "22ceba17e4297df0eb8b6c07b3caafa973447065d5b817f3480e214af420e7ec",
+    "fresh_text_file": "/Users/kmfp/Documents/Codex/2026-10-25/you-are-conductor-the-single-codex/work/fill-thin-12/direct-source-extractions/icnirp-lf.txt",
+    "fresh_text_sha256": "0ad89e194c40aee84cb30044e7a3c7e7b824dc405f9cab42e931c0caee441b83",
+    "scope": "fresh selected original passages to inspect; no scientific/numeric/human/release approval"
+  }
+]

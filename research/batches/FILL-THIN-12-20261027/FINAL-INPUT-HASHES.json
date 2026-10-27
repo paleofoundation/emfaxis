@@ -1,0 +1,7 @@
+{
+  "components/emf/legacy-question-page.tsx": "86ef9c0e831b5482224cdcccfe37c83776535b7204342bb66759e8493b1c840a",
+  "components/emf/recovered-record.tsx": "598eb523dd423e9cc10c86309d9a4975c481bf3217581f98b565088f7ab15900",
+  "components/emf/research-section.tsx": "8d4b97ff854dd8eddc802c78885e9a507a217e9d8a7606fac57939e56bb6123b",
+  "lib/question-depth.ts": "b1b7c1ac8ff09405de336e809dc2a2beaf5704f17e2caaa8623ad893210d6f8d",
+  "lib/thin-fill.json": "20eea92a318f5f2aceb6b37301a864537106dd899e973f5a679522606d725dc8"
+}
