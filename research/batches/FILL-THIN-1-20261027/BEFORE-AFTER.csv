@@ -1,0 +1,11 @@
+url,live_audit_words,built_baseline_words,built_after_words,words_delta,recognized_citations_before,recognized_citations_after,actual_official_links_before,actual_unique_official_sources_before,actual_official_links_after,actual_unique_official_sources_after,before_thin_reasons,after_thin_reasons,after_status,after_stub_flag,canonical,canonical_self
+https://emfaxis.com/resources,97,97,541,444,0,0,0,0,5,3,words<400,claims_with_0_citations,200,no,https://emfaxis.com/resources,no
+https://emfaxis.com/fields,100,100,508,408,0,0,0,0,5,3,words<400;claims_with_0_citations,claims_with_0_citations,200,no,https://emfaxis.com/fields,no
+https://emfaxis.com/resources/reading-worksheet,179,179,543,364,0,0,0,0,4,3,words<400;claims_with_0_citations,claims_with_0_citations,200,no,https://emfaxis.com/resources/reading-worksheet,no
+https://emfaxis.com/resources/first-guide-preview,199,195,467,272,0,0,0,0,3,2,words<400;claims_with_0_citations,claims_with_0_citations,200,no,https://emfaxis.com/resources/first-guide-preview,no
+https://emfaxis.com/resources/reading-guide,206,206,458,252,0,0,0,0,3,3,words<400;claims_with_0_citations,claims_with_0_citations,200,no,https://emfaxis.com/resources/reading-guide,no
+https://emfaxis.com/research/icnirp-static,270,270,528,258,0,0,1,1,4,1,words<400;claims_with_0_citations,claims_with_0_citations,200,no,https://emfaxis.com/research/icnirp-static,no
+https://emfaxis.com/research/icnirp-dect,282,282,538,256,0,0,1,1,4,1,words<400;claims_with_0_citations,claims_with_0_citations,200,no,https://emfaxis.com/research/icnirp-dect,no
+https://emfaxis.com/research/foph-wearables,302,300,563,263,0,0,1,1,4,1,words<400;claims_with_0_citations,claims_with_0_citations,200,no,https://emfaxis.com/research/foph-wearables,no
+https://emfaxis.com/research/nci-emf-cancer,304,304,581,277,0,0,1,1,4,1,words<400;claims_with_0_citations,claims_with_0_citations,200,no,https://emfaxis.com/research/nci-emf-cancer,no
+https://emfaxis.com/resources/emf-reading-worksheet,305,302,547,245,0,0,0,0,3,2,words<400;claims_with_0_citations,claims_with_0_citations,200,no,https://emfaxis.com/resources/emf-reading-worksheet,no

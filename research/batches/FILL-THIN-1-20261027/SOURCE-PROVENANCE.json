@@ -1,0 +1,50 @@
+[
+  {
+    "id": "icnirp-dect",
+    "url": "https://www.icnirp.org/en/applications/dect/index.html",
+    "held_original_sha256": "3ed55bb180db9506a95d873cf9188cde9211d4911bcccd38f3a25b23f760d22e",
+    "bytes": 21584,
+    "basis": "official_context",
+    "receipt_status": "retrieved_unreviewed",
+    "read_text_sha256": "6c0b252a3e4cdfb06cbc4c6b438934088c5bd3330986af082d9172db2ad8d145",
+    "source_access": "held original snapshot, no new retrieval",
+    "human_review": "pending",
+    "formal_grade": null
+  },
+  {
+    "id": "icnirp-static",
+    "url": "https://www.icnirp.org/en/frequencies/static-magnetic-fields/index.html",
+    "held_original_sha256": "05c47e84317a7ad99feab4eaa5bcbbe10b08cbeb588ab89bba26ae10fab5bd2d",
+    "bytes": 21536,
+    "basis": "official_context",
+    "receipt_status": "retrieved_unreviewed",
+    "read_text_sha256": "d5aa150fc28d752374b16cdb5d669273c1e00c65cec2dbe1cf927b7b5167060b",
+    "source_access": "held original snapshot, no new retrieval",
+    "human_review": "pending",
+    "formal_grade": null
+  },
+  {
+    "id": "nci-emf-cancer",
+    "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/electromagnetic-fields-fact-sheet",
+    "held_original_sha256": "a7b3d77f37599a989ea61a5f174ed1a792aac111e6837888ff7e378a77de352e",
+    "bytes": 97743,
+    "basis": "official_context",
+    "receipt_status": "retrieved_unreviewed",
+    "read_text_sha256": "2733f0018cef3c657b264fefa1672ea9d84109fdd7f3c3338cad371bb07e7c41",
+    "source_access": "held original snapshot, no new retrieval",
+    "human_review": "pending",
+    "formal_grade": null
+  },
+  {
+    "id": "foph-wearables",
+    "url": "https://www.bag.admin.ch/dam/en/sd-web/TbZw2-iKw61w/Fact%20sheet%20fitness%20trackers%20and%20smartwatches.pdf",
+    "held_original_sha256": "7c55624fd47efe1a25fd7f14b942bd764ea94eb8e6de67e8d9958540fee28d54",
+    "bytes": 199171,
+    "basis": "official_context",
+    "receipt_status": "retrieved_unreviewed",
+    "read_text_sha256": "ab1186a9fbbc51241a73bd80f68fdfc46ba6c68613d894ba9876520c5d5687d5",
+    "source_access": "held original snapshot, no new retrieval",
+    "human_review": "pending",
+    "formal_grade": null
+  }
+]

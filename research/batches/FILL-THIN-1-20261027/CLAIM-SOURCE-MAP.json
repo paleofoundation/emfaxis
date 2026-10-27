@@ -1,0 +1,332 @@
+[
+  {
+    "route": "/resources",
+    "sections": [
+      {
+        "title": "Choose a tool by the question you have",
+        "paragraphs": [
+          {
+            "text": "Use the worksheet when you have one headline, product statement or paper to inspect. Write your question before you start reading, then keep a separate space for the source’s actual scope. For example, the FOPH wearable fact sheet distinguishes a watch connected through a phone from a watch using a mobile network directly. A note that says only smartwatch exposure loses that distinction. Record the connection arrangement before deciding whether the source addresses your question.",
+            "source": "foph-wearables",
+            "locator": "PDF introduction and section 1, physical pages 1 and 2"
+          },
+          {
+            "text": "Use the reading guide when you need to compare unlike records. A technical explanation, an exposure measurement and a study of illness contribute different information. NCI’s fact sheet first explains field quantities and common sources, then discusses cancer research separately. Follow that separation in your own notes: identify what the source describes before treating it as evidence for a health conclusion. The guide and worksheet organize that process; they do not perform an individual exposure assessment.",
+            "source": "nci-emf-cancer",
+            "locator": "HTML: What are electric and magnetic fields?; What are common sources of non-ionizing EMFs?"
+          }
+        ]
+      },
+      {
+        "title": "A concrete first reading session",
+        "paragraphs": [
+          {
+            "text": "Try the ICNIRP cordless-phone record as a short example. Identify the base station and portable handset as separate parts of the setup. The source describes far-field exposure relative to the base station and near-field exposure relative to a handset or monitor. In the worksheet, put those descriptions under exposure, rather than entering one value for the entire system. Under comparison, write which part of the setup a second source actually measured.",
+            "source": "icnirp-dect",
+            "locator": "HTML: Characteristics of the application and its use"
+          },
+          {
+            "text": "Then write one limit on the interpretation. The cordless-phone page says much of the health discussion draws on mobile-phone and base-station literature. That makes the origin of the evidence relevant: a discussion on a DECT application page is not automatically a new DECT-specific experiment. Keep the source type and the tested technology visible. Open the original source whenever you need its complete wording, references or technical conditions.",
+            "source": "icnirp-dect",
+            "locator": "HTML: HF effects on the body and health implications"
+          },
+          {
+            "text": "Keep the notes tied to one reading session. Save the document title, the passage you inspected and the date you accessed it. The same technical source may be useful for identifying an exposure while leaving a health question unanswered. That is a reason to specify the next source needed, rather than stretching the original source into a broader verdict.",
+            "source": "nci-emf-cancer",
+            "locator": "HTML: What are electric and magnetic fields?; What have studies shown about possible associations between non-ionizing EMFs and cancer in children?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "route": "/fields",
+    "sections": [
+      {
+        "title": "Start with the field, then the exposure",
+        "paragraphs": [
+          {
+            "text": "A source name is a starting point for classification, not a complete exposure description. NCI distinguishes static fields, fields associated with electrical power systems and radiofrequency sources. Its examples include household wiring and appliances in the low-frequency group, and wireless communication devices in the radiofrequency group. The categories below help you reach the relevant reading pages. They do not assign one health verdict to every device or every situation within a category.",
+            "source": "nci-emf-cancer",
+            "locator": "HTML: What are electric and magnetic fields?; What are common sources of non-ionizing EMFs?"
+          },
+          {
+            "text": "Static magnetic fields do not vary with time. ICNIRP’s static-field explanation uses the Earth’s field, magnets and specialized equipment as examples. This is a different starting point from an alternating field. Its protection discussion also distinguishes general static-field exposure, movement through strong fields and MRI procedures. When reading an equipment description, check which of those situations is actually addressed instead of transferring advice between them.",
+            "source": "icnirp-static",
+            "locator": "HTML: Characteristics of the field and its use; Protection"
+          }
+        ]
+      },
+      {
+        "title": "Keep the quantity and comparison visible",
+        "paragraphs": [
+          {
+            "text": "An electric-field reading and a magnetic-field reading are different quantities. NCI explains electric fields in relation to voltage and magnetic fields in relation to current, and describes their units separately. A comparison therefore needs the measured quantity as well as the number. Record frequency, position, operating conditions and duration where reported. If a paper supplies only a device-use questionnaire, keep that exposure measure rather than replacing it with a field measurement that was never made.",
+            "source": "nci-emf-cancer",
+            "locator": "HTML: What are electric and magnetic fields?"
+          },
+          {
+            "text": "A wireless system can contain more than one relevant source. ICNIRP describes the base station and nearby handset separately for DECT. Use the source-specific pages when a broad field label is insufficient. A category identifies where to look next; the actual device, body position, exposure conditions and endpoint determine how closely a study matches a question.",
+            "source": "icnirp-dect",
+            "locator": "HTML: Characteristics of the application and its use"
+          },
+          {
+            "text": "Read guidance and research as distinct kinds of information. The static-field page describes protection against established effects and separate issues for implanted devices. It does not turn every listed source into an individual risk calculation. Likewise, finding an exposure category here is not a compliance check on your equipment. Follow the original document for its scope and technical conditions, and keep unresolved source or setting differences explicit.",
+            "source": "icnirp-static",
+            "locator": "HTML: Protection"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "route": "/resources/reading-worksheet",
+    "sections": [
+      {
+        "title": "Work through one example before comparing studies",
+        "paragraphs": [
+          {
+            "text": "Begin with a precise question such as whether a source measured the same wearable connection you are asking about. The FOPH fact sheet describes both communication through a paired phone and direct mobile-network communication. Write the tested arrangement, not just the product category. If your question concerns a different mode or device, record the mismatch before copying the source’s conclusion. This keeps the note useful even when it cannot answer your original question.",
+            "source": "foph-wearables",
+            "locator": "PDF introduction and section 1, physical pages 1 and 2"
+          },
+          {
+            "text": "Next, distinguish the measurement from an outcome. FOPH describes tests using models of body parts, called phantoms, under specified operating conditions. Such a measurement concerns exposure in the tested setup. It is not a follow-up of people developing a disease. Put the measurement method in its own field and leave a clinical-outcome field unfilled when the document does not provide one. Do not convert a laboratory measurement into a personal diagnosis.",
+            "source": "foph-wearables",
+            "locator": "PDF section 2.4, physical pages 4 and 5"
+          }
+        ]
+      },
+      {
+        "title": "Make the final two sentences specific",
+        "paragraphs": [
+          {
+            "text": "For the cordless-phone example, a useful first sentence is that the source explains the base station and portable handset as different exposure situations. A useful second sentence is that this description does not tell you the exposure of a particular room or person. ICNIRP’s application page supplies the distinction; your actual room, device activity and position still need their own information. Link the passage so another reader can see why you kept those questions separate.",
+            "source": "icnirp-dect",
+            "locator": "HTML: Characteristics of the application and its use"
+          },
+          {
+            "text": "Keep source access separate from certainty. NCI’s fact sheet links to research about several different cancer questions; the presence of a reference does not mean you inspected that paper’s methods. In the worksheet, label whether you read the fact sheet, an abstract or the full paper. Record the relevant section beside the claim you paraphrased. A clear source trail helps the next reader check the reasoning without assuming that every cited study was independently appraised.",
+            "source": "nci-emf-cancer",
+            "locator": "HTML: What have studies shown about possible associations between non-ionizing EMFs and cancer in children?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "route": "/resources/reading-guide",
+    "sections": [
+      {
+        "title": "What the reading method looks like",
+        "paragraphs": [
+          {
+            "text": "First name the physical situation. NCI places wiring, power lines and household appliances in the low-frequency discussion and wireless communication equipment in the radiofrequency discussion. A paper about one group should not silently become an answer about another. Write the source and exposure measure beside your question, then check whether the population, comparison and outcome also match. Use the linked original document when the short description here is not enough.",
+            "source": "nci-emf-cancer",
+            "locator": "HTML: What are common sources of non-ionizing EMFs?"
+          },
+          {
+            "text": "Then ask what kind of evidence the document supplies. FOPH’s wearable fact sheet includes a measurement discussion using selected devices and body-part models. It explicitly says the measurements are not a market overview. That is a useful example of a bounded finding: it can describe tested arrangements without certifying every watch or fitness tracker. Reading the sample and test conditions is part of interpreting the result, rather than an optional detail after the headline.",
+            "source": "foph-wearables",
+            "locator": "PDF section 2.4, physical pages 4 and 5"
+          },
+          {
+            "text": "Finally keep the limit beside the conclusion. ICNIRP’s static-field page discusses general protection, movement through strong fields, MRI procedures and implanted devices as distinct issues. A short general explanation cannot replace those different assessments. In your summary, say which issue the source addresses and which remains unanswered. This edition teaches that source-reading process. It does not supply a new clinical recommendation, a device certificate or an independently completed appraisal of the literature.",
+            "source": "icnirp-static",
+            "locator": "HTML: Protection"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "route": "/resources/first-guide-preview",
+    "sections": [
+      {
+        "title": "Try the method on a technical source",
+        "paragraphs": [
+          {
+            "text": "The FOPH wearable fact sheet provides a practical example of why the exposure description belongs beside the conclusion. It distinguishes communication through a paired phone or wireless router from direct mobile-network communication. In a reading note, name that connection path before comparing a finding with a different device. The word wearable alone does not preserve the tested arrangement. This is an exercise in matching the question to the source, rather than choosing a product.",
+            "source": "foph-wearables",
+            "locator": "PDF introduction and section 1, physical pages 1 and 2"
+          },
+          {
+            "text": "The same fact sheet says its measurement sample is not a market overview. It describes tests on selected devices using phantoms that represent exposed body parts. A summary should retain that sample limit and measurement setting. It should not become a claim that all models were tested or that a measurement establishes a long-term health outcome. Keep the original document linked and note the page containing the condition that matters to your question.",
+            "source": "foph-wearables",
+            "locator": "PDF section 2.4, physical pages 4 and 5"
+          },
+          {
+            "text": "For a second example, ICNIRP’s DECT page distinguishes a base station from a portable handset or monitor near the body. Write each source arrangement separately in the worksheet, then ask which arrangement another report actually investigated. The application page also explains that much of its health discussion draws on mobile-phone and base-station research. That is a reason to inspect the underlying evidence, not to count the application page as an additional independent experiment.",
+            "source": "icnirp-dect",
+            "locator": "HTML: Characteristics of the application and its use; HF effects on the body and health implications"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "route": "/resources/emf-reading-worksheet",
+    "sections": [
+      {
+        "title": "A worked note without a risk score",
+        "paragraphs": [
+          {
+            "text": "Suppose the question is what a wearable measurement represents. The FOPH fact sheet distinguishes a device communicating through a phone from one using a mobile network directly. Enter that arrangement in the exposure box, together with the mode and position reported. Keep a separate question about whether your own device was tested. A shared product label does not document a matching model or operating condition.",
+            "source": "foph-wearables",
+            "locator": "PDF introduction and section 1, physical pages 1 and 2"
+          },
+          {
+            "text": "Under methods, record that FOPH describes measurements on selected devices using body-part phantoms. Under limitations, record its statement that this is not a market overview. The result is a source trail with a defined sample and test setting. It is not a calculation of an individual’s disease risk or a check that every device complies under every use. Use the original section to verify a number before repeating it.",
+            "source": "foph-wearables",
+            "locator": "PDF section 2.4, physical pages 4 and 5"
+          },
+          {
+            "text": "If your next source concerns a cordless phone, start a new note. ICNIRP separates the base station from a nearby handset or monitor, so one entry for all cordless exposure would conceal an important distinction. Write which part was studied and what the comparison describes. Ending with an unresolved match is useful: it identifies the information needed next without turning missing information into either reassurance or alarm.",
+            "source": "icnirp-dect",
+            "locator": "HTML: Characteristics of the application and its use"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "route": "/research/icnirp-static",
+    "sections": [
+      {
+        "title": "Read the physical category first",
+        "paragraphs": [
+          {
+            "text": "This source describes static magnetic fields as fields that do not vary in intensity or direction over time. It uses the Earth’s magnetic field, magnets and specialized industrial or medical equipment to illustrate that category. Those examples explain what the term means; they do not make all of the settings equivalent. In a reading note, preserve the actual source and setting before moving to a discussion of biological effects or protection.",
+            "source": "icnirp-static",
+            "locator": "HTML: Characteristics of the field and its use"
+          }
+        ]
+      },
+      {
+        "title": "Separate the protection questions",
+        "paragraphs": [
+          {
+            "text": "The protection section addresses several different situations. It links general static-field guidance, discusses working procedures for movement through strong fields, points to specific MRI patient recommendations and identifies implanted devices as a separate concern. These are distinct scopes within one overview. A sentence about general field exposure should therefore not be substituted for an MRI procedure assessment or an implant-specific assessment. Follow the linked original guidance for the situation actually being considered.",
+            "source": "icnirp-static",
+            "locator": "HTML: Protection"
+          }
+        ]
+      },
+      {
+        "title": "What this source can contribute",
+        "paragraphs": [
+          {
+            "text": "Use the page to identify the field category and locate the relevant protection discussion. It is an official explanatory source, rather than a new clinical trial or an independent replication of every study it references. The selected passages summarized here do not establish a personal risk estimate, a complete equipment assessment or a certainty grade across all static-field outcomes. Reading the underlying guidance remains necessary when a technical condition matters to the question.",
+            "source": "icnirp-static",
+            "locator": "HTML: Characteristics of the field and its use; Protection"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "route": "/research/icnirp-dect",
+    "sections": [
+      {
+        "title": "Two parts of the same system",
+        "paragraphs": [
+          {
+            "text": "ICNIRP describes DECT as a technology used for cordless telephone systems and also in some baby monitors and industrial applications. Its exposure explanation distinguishes the local base station from a portable phone or monitor near the body. That distinction matters when reading a comparison: a measurement made around a base station and an assessment of a handset are different source arrangements, even though both are described as DECT.",
+            "source": "icnirp-dect",
+            "locator": "HTML: Characteristics of the application and its use"
+          }
+        ]
+      },
+      {
+        "title": "Trace the health discussion to its evidence",
+        "paragraphs": [
+          {
+            "text": "The application page states that much of the health discussion draws on mobile-phone and base-station literature. Treat that statement as a scope limit when using this record. An official application overview can explain how an organization interprets related evidence without becoming a new DECT-specific experiment. For an individual study claim, follow the underlying paper and retain the technology, population, exposure method and outcome that the paper actually investigated.",
+            "source": "icnirp-dect",
+            "locator": "HTML: HF effects on the body and health implications"
+          }
+        ]
+      },
+      {
+        "title": "Guidance is not a room measurement",
+        "paragraphs": [
+          {
+            "text": "The protection section discusses absorbed-energy limits and distinguishes whole-body exposure from the head exposure relevant to handset use. Its role is to explain the guidance framework, not to measure a reader’s equipment or reconstruct a room’s exposure. Keep the quantity and scenario beside any technical comparison. This record provides source-linked context with scientific and human review still pending; it does not supply a device-specific certificate or a new clinical verdict.",
+            "source": "icnirp-dect",
+            "locator": "HTML: Protection"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "route": "/research/foph-wearables",
+    "sections": [
+      {
+        "title": "Identify the connection path",
+        "paragraphs": [
+          {
+            "text": "The fact sheet describes trackers and smartwatches as devices with different possible communication arrangements. Some communicate through nearby devices using low-powered wireless technologies; some can connect directly to a mobile network. It also distinguishes a tracker’s functions from the additional communication functions of a smartwatch. When comparing sources, preserve the active radio and connection path. The category name alone does not establish that two reports tested the same arrangement.",
+            "source": "foph-wearables",
+            "locator": "PDF introduction and section 1, physical pages 1 and 2"
+          }
+        ]
+      },
+      {
+        "title": "Read how the measurements were made",
+        "paragraphs": [
+          {
+            "text": "Section 2.4 describes measurements of selected trackers and watches and explicitly says the work is not a market overview. It explains tests using phantoms representing exposed body parts, with operating modes, frequency bands, positions and contact conditions defined for the measurements. These details describe the test rather than optional background. A result should stay attached to them instead of being generalized to every device, position or activity.",
+            "source": "foph-wearables",
+            "locator": "PDF section 2.4, physical pages 4 and 5"
+          }
+        ]
+      },
+      {
+        "title": "Separate exposure from a health conclusion",
+        "paragraphs": [
+          {
+            "text": "The document discusses health evidence and exposure measurements in different sections. Its measurement setup does not follow people over time to measure a clinical outcome. A reading summary should therefore identify whether it is describing a tested exposure, the document’s guidance discussion or evidence about health. This source record keeps those contributions bounded. It does not add a market-wide ranking, an individual risk estimate or a formal evidence grade.",
+            "source": "foph-wearables",
+            "locator": "PDF sections 2.1 and 2.4, physical pages 2 to 5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "route": "/research/nci-emf-cancer",
+    "sections": [
+      {
+        "title": "The field definition comes before the cancer question",
+        "paragraphs": [
+          {
+            "text": "NCI explains electric fields in relation to voltage and magnetic fields in relation to electric current. It then separates higher-frequency ionizing radiation from the lower-frequency field categories relevant to this fact sheet. Those distinctions help identify what a report measured. They do not replace the report’s exposure definition. Keep the quantity, source and study setting visible when moving from the physical explanation to a statement about a health outcome.",
+            "source": "nci-emf-cancer",
+            "locator": "HTML: What are electric and magnetic fields?"
+          }
+        ]
+      },
+      {
+        "title": "Use source examples without merging their evidence",
+        "paragraphs": [
+          {
+            "text": "The common-sources section places power lines, wiring and household appliances in the low-frequency discussion and wireless communication equipment in the radiofrequency discussion. These examples orient the reader; they are not a claim that every source has the same exposure pattern or cancer evidence. A report on a household appliance should retain its own measurement or use history, and a wireless-device study should retain its actual technology and population.",
+            "source": "nci-emf-cancer",
+            "locator": "HTML: What are common sources of non-ionizing EMFs?"
+          }
+        ]
+      },
+      {
+        "title": "Keep the outcome and uncertainty attached",
+        "paragraphs": [
+          {
+            "text": "The childhood-cancer discussion distinguishes power-line exposure, appliance use and other source settings, and describes uncertainty in interpreting the observational findings. A summary should preserve the specific diagnosis and exposure comparison instead of announcing a single conclusion for all EMFs. This fact sheet is a context source with references to underlying research. Counting its references is not equivalent to independently appraising each paper, and this record does not claim that such an appraisal is complete.",
+            "source": "nci-emf-cancer",
+            "locator": "HTML: What have studies shown about possible associations between non-ionizing EMFs and cancer in children?"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "id": "FILL-THIN-1",
+  "site": "emfaxis.com",
+  "base": "e19d64ad853e6020f42cd5f155db70fb378ccd07",
+  "scope": "exact first ten EMF Axis rows from FILL-AUDIT-2 ranking",
+  "inputs": "existing own corpus official context records, held original source snapshots, existing reading guide and source-checked study summaries",
+  "no_new_acquisition": true,
+  "purpose": "expand bounded page-specific reading explanations with citations; not clinical appraisal",
+  "gates": {
+    "human_review": "pending",
+    "formal_certainty_grading": "unchanged pending",
+    "publication": "not authorized"
+  },
+  "public_pdf_hosting": false,
+  "preserve": [
+    "ids",
+    "citation anchors",
+    "review states",
+    "global indexing policy",
+    "source files"
+  ],
+  "audit": {
+    "adapter": "/Users/kmfp/ops/site-fill/thin_audit.py",
+    "thresholds": {
+      "min_words": 400,
+      "max_thin_cites": 2,
+      "claim_min_hits": 3
+    },
+    "workers": 4,
+    "delay": 0.25,
+    "local_preview_only": true
+  }
+}
