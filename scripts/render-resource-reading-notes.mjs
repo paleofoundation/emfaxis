@@ -14,6 +14,6 @@ for(const id of ['first-guide-preview','emf-reading-worksheet']){
  if(prior.test(html))html=html.replace(prior,start+block+end);
  else html=html.replace('<footer>',start+block+end+'<footer>');
  // Public prose uses American punctuation; do not alter minus signs in technical values.
- html=html.replaceAll('—',', ').replaceAll('–',' to ');
+ html=html.replaceAll('\u2014',', ').replaceAll('\u2013',' to ');
  fs.writeFileSync(file,html);
 }
