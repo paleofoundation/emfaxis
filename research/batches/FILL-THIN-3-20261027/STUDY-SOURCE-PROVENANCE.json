@@ -1,0 +1,69 @@
+[
+  {
+    "id": "headache",
+    "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/recovery/legacy/files/headache-web-snapshot.json",
+    "sha256": "f0d9e44c579f291d5aa6368e2a10a88c710f060206a8688596057d0d2c2660e8",
+    "basis": "publisher_fulltext_web_snapshot",
+    "locators": [
+      "Saved publisher PDF web extraction headache-web-snapshot.json, physical pp4\u20135 results (lines369\u2013393 and continuation)",
+      "Publisher web physical p7 lines611\u2013624 nocebo limitations; lines649\u2013662 selected-sample conclusion"
+    ],
+    "scientific_acceptance": "HOLD",
+    "human_review": "pending"
+  },
+  {
+    "id": "rahban",
+    "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/recovery/legacy/files/rahban.pdf",
+    "sha256": "63121523ab8215aa8469e70b23cf71f5e632dd43a886898ba8bd2b8b506b18ce",
+    "basis": "full_text",
+    "locators": [
+      "Original PDF physical p2 Abstract; p3 conscription recruitment/consent; p8 questionnaire/statistical methods; pp9\u201311 results and discussion"
+    ],
+    "scientific_acceptance": "HOLD",
+    "human_review": "pending"
+  },
+  {
+    "id": "greenland",
+    "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/recovery/legacy/metadata/greenland-europepmc.json",
+    "sha256": "02f18098ac79984c88822cc30667fc69e1b80f36c6c5e4a038161fa56156247d",
+    "basis": "abstract_only",
+    "locators": [
+      "Metadata EuropePMC core resultList.result[0].abstractText; PMID11055621; source individual-data and high/uncommon exposure description"
+    ],
+    "scientific_acceptance": "HOLD",
+    "human_review": "pending"
+  },
+  {
+    "id": "hermes",
+    "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/recovery/legacy/files/hermes.pdf",
+    "sha256": "becf7944b0c82b079c6d196edbd715f8116383da673b4f602aeb8f0dbb766227",
+    "basis": "full_text",
+    "locators": [
+      "Original PDF physical p1 Abstract; p2 memory tests and cohort waves; p11 Comparison with Previous Analysis and Brain Exposure sections"
+    ],
+    "scientific_acceptance": "HOLD",
+    "human_review": "pending"
+  },
+  {
+    "id": "interphone",
+    "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/recovery/legacy/metadata/interphone-europepmc.json",
+    "sha256": "2fea18b59f5c672cb8bef62fe7f2bf5b79484d472ac176d1b9164e01b4ccc2a1",
+    "basis": "abstract_only",
+    "locators": [
+      "Metadata EuropePMC core resultList.result[0].abstractText Results/Conclusions; commentCorrectionList Erratum in note; PMID20483835"
+    ],
+    "scientific_acceptance": "HOLD",
+    "human_review": "pending"
+  },
+  {
+    "id": "cosmos",
+    "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/recovery/legacy/files/cosmos-repository-published.pdf",
+    "sha256": "196ba37f8536c21dd24c1614bec39c62486f695a7d38c8d309521167defcc79f",
+    "basis": "full_text",
+    "locators": [
+      "Recovered published PDF physical p2 Abstract; p6 Tables3\u20134 and calibration/limits discussion; p7 conclusion, technology differences and rare-tumour limitation"
+    ],
+    "scientific_acceptance": "HOLD",
+    "human_review": "pending"
+  }
+]

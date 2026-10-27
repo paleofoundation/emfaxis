@@ -1,0 +1,134 @@
+{
+  "paragraphs": [
+    {
+      "id": "headache",
+      "source": "headache",
+      "locator": "Saved publisher PDF web extraction, physical page 7, lines 649 to 662",
+      "no_new_numeric_claim": true
+    },
+    {
+      "id": "headache",
+      "source": "headache",
+      "locator": "Saved publisher PDF web extraction, physical page 7, lines 611 to 627",
+      "no_new_numeric_claim": true
+    },
+    {
+      "id": "icnirp-rf",
+      "source": "icnirp-rf",
+      "locator": "HTML Protection; Frequency range and use",
+      "no_new_numeric_claim": true
+    },
+    {
+      "id": "icnirp-rf",
+      "source": "icnirp-rf",
+      "locator": "HTML Protection; RF EMF effects on the body and health implications",
+      "no_new_numeric_claim": true
+    },
+    {
+      "id": "rahban",
+      "source": "rahban",
+      "locator": "Original PDF physical pages 3 and 8, questionnaire and statistical methods",
+      "no_new_numeric_claim": true
+    },
+    {
+      "id": "rahban",
+      "source": "rahban",
+      "locator": "Original PDF physical pages 8 to 11, results and discussion",
+      "no_new_numeric_claim": true
+    },
+    {
+      "id": "greenland",
+      "source": "greenland",
+      "locator": "Held Europe PMC core abstract, PMID 11055621, opening methods and wire-code results",
+      "no_new_numeric_claim": true
+    },
+    {
+      "id": "greenland",
+      "source": "greenland",
+      "locator": "Held Europe PMC core abstract, PMID 11055621, concluding sentences; abstract-only source scope",
+      "no_new_numeric_claim": true
+    },
+    {
+      "id": "foph-wlan",
+      "source": "foph-wlan",
+      "locator": "PDF physical page 1, operating description and exposure/evidence summary",
+      "no_new_numeric_claim": true
+    },
+    {
+      "id": "foph-wlan",
+      "source": "foph-wlan",
+      "locator": "PDF physical pages 1 to 2, suggestions preamble and Additional information",
+      "no_new_numeric_claim": true
+    },
+    {
+      "id": "hermes",
+      "source": "hermes",
+      "locator": "Original PDF physical pages 1 to 4, Abstract and Materials and Methods",
+      "no_new_numeric_claim": true
+    },
+    {
+      "id": "hermes",
+      "source": "hermes",
+      "locator": "Original PDF physical page 11, Comparison with Previous Analysis and Brain Exposure",
+      "no_new_numeric_claim": true
+    },
+    {
+      "id": "interphone",
+      "source": "interphone",
+      "locator": "Held Europe PMC core abstract, PMID 20483835, Methods and Results",
+      "no_new_numeric_claim": true
+    },
+    {
+      "id": "interphone",
+      "source": "interphone",
+      "locator": "Held Europe PMC core abstract, PMID 20483835, Conclusions; abstract-only source scope",
+      "no_new_numeric_claim": true
+    },
+    {
+      "id": "cosmos",
+      "source": "cosmos",
+      "locator": "Recovered published PDF physical pages 3 to 4, sections 2.2 and 2.3",
+      "no_new_numeric_claim": true
+    },
+    {
+      "id": "cosmos",
+      "source": "cosmos",
+      "locator": "Recovered published PDF physical pages 6 to 7, Discussion and conclusion; cohort description on page 3",
+      "no_new_numeric_claim": true
+    },
+    {
+      "id": "foph-mobile",
+      "source": "foph-mobile",
+      "locator": "PDF physical page 1, operating conditions and head/body SAR explanation",
+      "no_new_numeric_claim": true
+    },
+    {
+      "id": "foph-mobile",
+      "source": "foph-mobile",
+      "locator": "PDF physical pages 1 to 2, exposure-reduction options and protective-product paragraph",
+      "no_new_numeric_claim": true
+    },
+    {
+      "id": "guides",
+      "source": "icnirp-rf",
+      "locator": "HTML Protection; Frequency range and use",
+      "no_new_numeric_claim": true
+    },
+    {
+      "id": "guides",
+      "source": "foph-wlan",
+      "locator": "PDF physical pages 1 to 2, operating description and Additional information",
+      "no_new_numeric_claim": true
+    },
+    {
+      "id": "guides",
+      "source": "nci-emf-cancer",
+      "locator": "HTML What are electric and magnetic fields?; Why are non-ionizing EMFs studied in relation to cancer?",
+      "no_new_numeric_claim": true
+    }
+  ],
+  "prior20_objects_unchanged": true,
+  "new_formal_grade": false,
+  "clinical_recommendations_added": false,
+  "scope": "Bounded qualitative context; no scientific/human clearance"
+}

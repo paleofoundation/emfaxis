@@ -1,0 +1,27 @@
+{
+  "build": "PASS",
+  "node": "24.19.0",
+  "content": "PASS",
+  "typescript": "PASS",
+  "SSR236": "PASS",
+  "unknown404": true,
+  "next10_after_thin": 0,
+  "next10_after_status200": true,
+  "next10_words": [
+    519,
+    742
+  ],
+  "prior20_original_thin": 18,
+  "prior20_after_thin": 2,
+  "newly_cleared_citation_flags": 16,
+  "prior20_body_equal": true,
+  "prior20_note_objects_equal": true,
+  "prior_packets_verified": {
+    "PR1": 70,
+    "PR2": 60
+  },
+  "original_ops_analyzer": "unchanged",
+  "analyzer_logic_regex_thresholds": "unchanged",
+  "UKHSA": "BLOCKED/open09:58GATE; no GOV.UK recognition; no implied HOLD waiver",
+  "scientific_human_release": "pending"
+}
