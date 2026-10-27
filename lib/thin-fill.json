@@ -1898,5 +1898,175 @@
         }
       ]
     }
+  ],
+  "E04-T07-R257": [
+    {
+      "title": "Apartment position is a proxy, not a child’s measured dose",
+      "paragraphs": [
+        {
+          "text": "TransExpo used registry and building information to compare children whose apartments occupied different positions relative to built-in transformer rooms. Exposure classification was blinded to case or control status. Pilot measurements helped justify the apartment categories, but were not measurements in the included children’s homes. The design reduces the need for active household participation while retaining uncertainty about each child’s actual exposure and residential history. It remains an observational comparison rather than randomized exposure.",
+          "source": "E04-T07-R257",
+          "locator": "Original PDF physical pages 2 to 3, study design, pilot exposure classification and blinding"
+        },
+        {
+          "text": "The planned matched analysis did not show a clear association, while alternative models produced weak elevations. The paper explains that the conditional model dropped some matched sets and that highly exposed cases were sparse. These model-specific findings should not be collapsed into either a precise risk increase or proof of no possible association. Wide uncertainty and exposure-category overlap limit conclusions, and pilot exposure studies are not independent confirmations of the childhood-leukaemia result.",
+          "source": "E04-T07-R257",
+          "locator": "Original PDF physical page 5, pooled analyses and Table 5; page 6, Discussion and limitations"
+        }
+      ]
+    }
+  ],
+  "E06-T11-R114": [
+    {
+      "title": "Average and peak readings answer different measurement questions",
+      "paragraphs": [
+        {
+          "text": "In the classroom walkthrough, active Wi-Fi produced a higher sampled average than idle Wi-Fi, without a statistically significant difference in the sampled maximum. The authors relate this to more frequent transmission rather than a higher transmitted peak. A short-window average and a short-window maximum should therefore remain separately labelled. Neither quantity is a child’s measured full-day absorbed dose or a direct observation of sleep, learning or disease.",
+          "source": "E06-T11-R114",
+          "locator": "Original PDF physical page 4, walkthrough Results and Figure 1; page 7, active-versus-idle interpretation"
+        },
+        {
+          "text": "Most classrooms were empty during measurement, and the occupied-room comparison was a small part of the survey. It does not establish that every class size, traffic pattern or device configuration produces the same exposure. Source rankings also changed between indoor and schoolyard settings and between average and peak measures. The measured environmental fields and the comparison with cited reference levels should not become a clinical-harm finding or a universal claim about all school networks.",
+          "source": "E06-T11-R114",
+          "locator": "Original PDF physical page 2, classroom recruitment and measurement setting; pages 4 to 7, source comparisons and occupied-room limitations"
+        }
+      ]
+    }
+  ],
+  "E03-T06-R096": [
+    {
+      "title": "A dependency score is not fetal radiofrequency dosimetry",
+      "paragraphs": [
+        {
+          "text": "The Kumamoto adjunct classified excessive use with a text-message dependency subscale. Its comparator was ordinary use, rather than a group with no phone use. This makes the exposure measure behavioral: it does not isolate transmitted radiofrequency energy, absorbed fetal dose or a particular phone model. The lower average birth weight reported in the excessive-use group also needs to remain distinct from the categorical low-birth-weight comparison, which was not statistically significant.",
+          "source": "E03-T06-R096",
+          "locator": "Original PDF physical page 2, dependency scale and group definitions; page 5, Table 2; page 6, Results interpretation"
+        },
+        {
+          "text": "The emergency-transport association came from sparse events, and the authors explicitly allow for chance. They also state that mental-health factors were not accounted for, although such factors could relate both to dependent phone behavior and pregnancy outcomes. The report does not provide transport indications or severity sufficient to turn that association into a specific neonatal diagnosis. These observational findings do not demonstrate an RF mechanism or establish a phone-use safety threshold during pregnancy.",
+          "source": "E03-T06-R096",
+          "locator": "Original PDF physical pages 3 and 5, outcome Results and Table 2; page 6, limitations and mental-health discussion"
+        }
+      ]
+    }
+  ],
+  "E04-T07-R237": [
+    {
+      "title": "Parental job averages are a different exposure question",
+      "paragraphs": [
+        {
+          "text": "The CLIC pooling linked parental occupational titles to a job-exposure matrix for workplace magnetic fields. Paternal and maternal periods of interest were defined separately. These job-average estimates are not measurements of a child’s residential field or absorbed dose, and people with the same job title may have different tasks and exposure histories. Harmonizing job codes across contributing studies improves comparability but does not remove the proxy nature of the exposure.",
+          "source": "E04-T07-R237",
+          "locator": "Original PDF physical pages 2 to 3, occupational exposure matrix, periods and harmonization"
+        },
+        {
+          "text": "The harmonized individual-data analyses did not show a clear association with the childhood-leukaemia outcomes. The expanded literature analysis gave a different, borderline paternal result and raised publication-bias concerns. These are not interchangeable analyses or independent replications to be simply added together. Missing parental job histories and differential maternal missingness were identified as selection concerns. The paper’s null and borderline findings therefore retain their specific datasets, exposure definitions and uncertainty rather than establishing a universal occupational-risk conclusion.",
+          "source": "E04-T07-R237",
+          "locator": "Original PDF physical page 4, pooled and expanded analyses; page 7, exposure misclassification and missing-history limitations"
+        }
+      ]
+    }
+  ],
+  "E02-T04-R122": [
+    {
+      "title": "The nested sleep measurements belong to the same cohort",
+      "paragraphs": [
+        {
+          "text": "QUALIFEX used several exposure surrogates, including reported phone use, modeled environmental fields and bedroom or personal measurements. The linked actigraphy and diary study sampled a subset of the cohort, so it is not independent replication of the questionnaire analysis. Actigraphy describes movement-based sleep duration and efficiency rather than EEG sleep architecture. Its reported category comparisons did not show significant associations with those sleep measures, without establishing clinical equivalence for every possible sleep endpoint.",
+          "source": "E02-T04-R122",
+          "locator": "Original PDF physical pages 2 to 4, nested recruitment and exposure methods; page 5, Table 3; page 7, actigraphy rationale"
+        },
+        {
+          "text": "The longitudinal analyses included nominally significant contrasts but no consistent adverse exposure-response pattern. The authors did not apply a formal correction across endpoints, instead considering consistency and biological plausibility. That is different from every statistical test being null. Modeled ambient fields, nearby handset use and bedroom measurements also capture different parts of exposure. They cannot be treated as a continuous record of absorbed dose or used to rule out all responses in people who report particular sensitivities.",
+          "source": "E02-T04-R122",
+          "locator": "Original PDF physical page 4, questionnaire Results; page 7, interpretation and multiple-endpoint approach; pages 7 to 8, exposure limits"
+        }
+      ]
+    }
+  ],
+  "E03-T05-R267": [
+    {
+      "title": "Sperm biomarkers and selected fertilization assays stay distinct",
+      "paragraphs": [
+        {
+          "text": "The mouse study reported mature-sperm vitality, motility and oxidative or DNA-marker changes, with responses differing across tissues, assays and exposure periods. The mitochondrial probe signal did not follow the same pattern as the general oxidative probe, and its time pattern was not uniform. These observations support the authors’ oxidative interpretation while leaving the precise initiating RF interaction unresolved. They do not supply a human infertility rate or show that every tissue and endpoint responds in the same way.",
+          "source": "E03-T05-R267",
+          "locator": "Original PDF physical pages 2 to 4, Results and oxidative probes; page 7, duration-dependent interpretation"
+        },
+        {
+          "text": "The selected fertilization and early embryo assays did not show significant impairment under the tested conditions. The authors acknowledge that their in-vitro fertilization strategy selected higher-quality motile sperm, which limits the comparison with the broader recovered sperm population. Those early assays did not measure natural mating success, live birth or later offspring health. Neither the biomarker findings nor the selected functional nulls justify treating all reproductive outcomes as equivalent or translating the mouse regimen directly to ordinary phone carriage.",
+          "source": "E03-T05-R267",
+          "locator": "Original PDF physical page 4, fertilization Results; pages 7 to 8, sperm selection and unmeasured later outcomes"
+        }
+      ]
+    }
+  ],
+  "E02-T04-R143": [
+    {
+      "title": "A birth-cohort setting does not make every comparison prospective",
+      "paragraphs": [
+        {
+          "text": "The child-sleep analysis was nested within a birth cohort, but parents recalled earlier phone use in the same survey that collected current sleep reports. The authors note that this part of the analysis resembles a cross-sectional comparison and may be affected by reporting bias. Household Wi-Fi or cordless-phone presence was another exposure proxy, not a measurement of nighttime absorbed dose. The design did not test whether switching off a router improves a child’s sleep.",
+          "source": "E02-T04-R143",
+          "locator": "Original PDF physical pages 3 to 4, recalled phone use, household-source questions and sleep assessment; pages 11 to 12, reporting and design limitations"
+        },
+        {
+          "text": "The researchers prespecified some sleep subscales as possible negative controls for unmeasured confounding. Higher mobile calling was associated with less favorable scores in several domains, but findings differed across mobile, cordless and modeled environmental-source comparisons. That mixed pattern does not isolate a radiofrequency cause. The questionnaire sleep-duration score also differs from calculated hours in bed. Keeping source type, outcome definition and common reporting method attached to each result prevents a general clinical sleep-harm conclusion.",
+          "source": "E02-T04-R143",
+          "locator": "Original PDF physical pages 4 to 6, outcome definitions and negative-control analysis; pages 11 to 12, mixed-source interpretation"
+        }
+      ]
+    }
+  ],
+  "E06-T11-R137": [
+    {
+      "title": "Transmission timing and the tested device mode matter",
+      "paragraphs": [
+        {
+          "text": "The residential-device work measured peak fields and transmission timing, then used duty cycle and placement in its exposure comparisons. Infrequent smart-meter transmission can make a time-averaged quantity differ substantially from a peak reading. This is an exposure-characterization exercise, not a study of diagnosed illness or development. A device measured at a particular distance and operating state should not be described as a direct measurement of an individual organ’s absorbed dose.",
+          "source": "E06-T11-R137",
+          "locator": "Held final-manuscript PDF physical pages 5 to 8, measurement methods; pages 18 to 21, duty-cycle interpretation and exposure limits"
+        },
+        {
+          "text": "The Bluetooth measurements involved a computer mouse and speakers during failed pairing attempts. They did not characterize earbuds worn at the head or every Bluetooth mode. The manuscript also cautions that its household placements form a small cross-section in space and time that cannot be generalized to all smart homes. These mode and sampling limits belong with the reported readings. Source identity is preserved as the held final manuscript, without claiming access to a publisher-typeset version.",
+          "source": "E06-T11-R137",
+          "locator": "Held final-manuscript PDF physical page 17, Bluetooth device mode; page 21, sampling and generalization limits; pages 33 to 34, Table 5"
+        }
+      ]
+    }
+  ],
+  "E03-T06-R094": [
+    {
+      "title": "Favorable developmental associations do not establish an RF benefit",
+      "paragraphs": [
+        {
+          "text": "MoBa linked reported maternal phone talking during pregnancy with later parent-reported language, communication and motor screens. Some associations were favorable, but reported talking was not measured fetal RF dose. Parental phone use also tracked social and personal characteristics. The presence of paternal associations in a similar direction supports considering shared family or social factors rather than treating a maternal association as evidence that radiofrequency exposure improved fetal development.",
+          "source": "E03-T06-R094",
+          "locator": "Original PDF physical pages 2 to 4, exposure, outcomes and covariates; page 9, paternal findings and confounding interpretation"
+        },
+        {
+          "text": "The outcomes were developmental screening measures rather than a complete diagnostic assessment. Children not yet talking were excluded from the sentence-complexity analysis, and motor instruments differed between follow-ups. These details limit claims about all children or all developmental conditions. Remaining exposure and outcome misclassification and unmeasured confounding also constrain interpretation. The findings should not become a recommendation to increase phone use during pregnancy or a precise estimate of a fetal radiofrequency effect.",
+          "source": "E03-T06-R094",
+          "locator": "Original PDF physical pages 2 to 3, sentence-complexity exclusion and screening instruments; page 9, misclassification and observational limitations"
+        }
+      ]
+    }
+  ],
+  "E04-T08-R044": [
+    {
+      "title": "Read the baseline analysis beneath the prospective study title",
+      "paragraphs": [
+        {
+          "text": "The ExPOSURE study-design section explicitly identifies this paper as baseline cross-sectional results within a prospective cohort. It therefore compares reported phone use with cognition at that assessment, rather than measuring within-child cognitive change caused by later exposure. Parents and children gave different reports of phone ownership or use, adding uncertainty to the behavioral exposure proxy. The disagreement does not identify which individual report was correct or provide an objective measure of brain RF dose.",
+          "source": "E04-T08-R044",
+          "locator": "Original PDF physical pages 2 to 3, study design and exposure questions; page 6, parent-child reporting discrepancy"
+        },
+        {
+          "text": "Most baseline cognitive comparisons were not significant, alongside selected differences in response speed or accuracy. The analyses did not adjust for multiple comparisons, and the authors treated possible gender differences as exploratory. They sought consistent patterns rather than relying on an isolated significant result. These laboratory task measures are not developmental diagnoses or proof that phone use caused cognitive impairment. A prospective cohort label does not remove the baseline comparison’s confounding, reporting uncertainty or chance explanations.",
+          "source": "E04-T08-R044",
+          "locator": "Original PDF physical pages 3 to 4, analysis strategy; pages 6 to 9, cognitive results, interpretation and exploratory conclusion"
+        }
+      ]
+    }
   ]
 }

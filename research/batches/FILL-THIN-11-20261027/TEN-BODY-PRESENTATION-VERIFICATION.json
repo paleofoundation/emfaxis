@@ -1,0 +1,65 @@
+{
+  "status": "PASS",
+  "rows": [
+    {
+      "path": "/research/E04-T07-R257",
+      "normalized_visible_body_matches_expected": true,
+      "expected_change": "None",
+      "final_body_sha256": "12a31d6a607dcd41cb68d7a87d3d27b7fd3277f6bcea7b36801fdbf060e9f1fe"
+    },
+    {
+      "path": "/research/E06-T11-R114",
+      "normalized_visible_body_matches_expected": true,
+      "expected_change": "None",
+      "final_body_sha256": "3e587ad3a2069d24dada851bad1e95ad4592854bce0d0c7f6beb8b2c615563ba"
+    },
+    {
+      "path": "/research/E03-T06-R096",
+      "normalized_visible_body_matches_expected": true,
+      "expected_change": "None",
+      "final_body_sha256": "bef809b600b0db5e3e5bc64b46b2579d8938625873b86122950f5415083d9a3b"
+    },
+    {
+      "path": "/research/E04-T07-R237",
+      "normalized_visible_body_matches_expected": true,
+      "expected_change": "None",
+      "final_body_sha256": "a69fe85b431f39d2030f0ade954b1de28c03b4ce0242991d800bf967158070b7"
+    },
+    {
+      "path": "/research/E02-T04-R122",
+      "normalized_visible_body_matches_expected": true,
+      "expected_change": "None",
+      "final_body_sha256": "1c683391d678b6c80ab203a891c7ea9952bb76560d49c638c11631f9474bdb54"
+    },
+    {
+      "path": "/research/E03-T05-R267",
+      "normalized_visible_body_matches_expected": true,
+      "expected_change": "Only inherited related-title em dash to colon",
+      "final_body_sha256": "17132f7b1cb1a2f63860a8c7961fe52f0ab9c317daaeb08b981a454e5d1fa7b1"
+    },
+    {
+      "path": "/research/E02-T04-R143",
+      "normalized_visible_body_matches_expected": true,
+      "expected_change": "None",
+      "final_body_sha256": "2852dca7eec7ecac94327804fb97ddb6c60a166fff4c999c389ff207261e4f02"
+    },
+    {
+      "path": "/research/E06-T11-R137",
+      "normalized_visible_body_matches_expected": true,
+      "expected_change": "None",
+      "final_body_sha256": "2f4f0f0d8c2248518b15f12821201ac2d6d6c8822146fb9656f91572006153cb"
+    },
+    {
+      "path": "/research/E03-T06-R094",
+      "normalized_visible_body_matches_expected": true,
+      "expected_change": "None",
+      "final_body_sha256": "68998d55f3d29b86637f8c96ecfffe6fe07ae351715c0c76ffbcf6dadd477f35"
+    },
+    {
+      "path": "/research/E04-T08-R044",
+      "normalized_visible_body_matches_expected": true,
+      "expected_change": "Only new R044 phone ownership/use wording narrowed",
+      "final_body_sha256": "260b91bca98a431cd4e13a6f6e84e22de55f7bc16d58a19bffbad92aa2e1ea39"
+    }
+  ]
+}

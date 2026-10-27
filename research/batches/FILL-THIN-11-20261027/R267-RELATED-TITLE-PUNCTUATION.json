@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "initial_failure": "Inherited related-page display title RF exposure in animal experiments \u2014 methods guide on exact selected E03-T05-R267 target",
+  "repair": "Reuse existing exact-source-ID related-title display normalizer, adding R267 only; all96canonical raw objects remain exactbase",
+  "initial_receipts": "work/fill-thin-11/receipt-history/after-before-R267-related-title-punctuation",
+  "prior100_scope": "No prior note target is E03-T05-R267; prior100 bodies will remain checked",
+  "final_public_dash_count": 0,
+  "other9_targets": "normalized visible bodies unchanged",
+  "prior100_note_bodies": "unchanged",
+  "other8_targets": "normalized visible bodies unchanged",
+  "R044_new_note": "Separately disclosed source-precision wording only"
+}
