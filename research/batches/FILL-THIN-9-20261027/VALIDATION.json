@@ -1,0 +1,42 @@
+{
+  "build": "PASS",
+  "content": "PASS",
+  "typescript": "PASS",
+  "SSR_routes": 258,
+  "unknown_source": 404,
+  "after10_status200": true,
+  "after10_thin": 0,
+  "after10_stub": 0,
+  "word_range": [
+    638,
+    894
+  ],
+  "restored_ids": [
+    "E02-T03-R238",
+    "E02-T03-R242",
+    "E05-T09-R451",
+    "E02-T03-R229",
+    "E05-T09-R485"
+  ],
+  "restoration": "local404 to200 only",
+  "existing89_raw_objects": "byte-identical",
+  "prior80_note_raw_values": "byte-identical",
+  "prior80_visible_bodies": "equal",
+  "frozen_output_hashes": 577,
+  "sources": [
+    89,
+    94
+  ],
+  "qualitative_passages": [
+    222,
+    232
+  ],
+  "previews": 70,
+  "human_approvals": 0,
+  "formal_grades": 0,
+  "new_numeric_claims_released": 0,
+  "new_note_paragraphs": 21,
+  "analyzer_unchanged": true,
+  "UKHSA": "HELD",
+  "scientific_numerical_human_release": "pending"
+}

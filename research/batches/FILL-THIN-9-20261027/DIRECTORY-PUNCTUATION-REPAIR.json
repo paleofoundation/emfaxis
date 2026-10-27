@@ -1,0 +1,38 @@
+{
+  "status": "PASS",
+  "failure": "Selected glossary directory inherited ELF definition has50\u201360 Hz",
+  "change": "Display-only existing directory Glossary component renders range as50 to60Hz; raw lib/glossary.ts untouched",
+  "scope": "Only importer is app/glossary/page.tsx; term detail route uses canonical data independently and is unchanged",
+  "public_semantics": "Same existing frequency range, no new numerical claim",
+  "prior_notes_and_source_objects": "Untouched",
+  "initial_receipts": "work/fill-thin-9/receipt-history/available-before-directory-punctuation",
+  "four_research_bodies_equal": true,
+  "directory_only_visible_delta": "50\u201360 Hz to50 to60 Hz",
+  "rows": [
+    {
+      "file": "research__wifi-pmid-33166026.html",
+      "only_directory_range_changed": true,
+      "final_body_sha256": "cc212b932d8ef7bf0afac0419878d58f2ddf5e27628590c5455dfdd498dcc93d"
+    },
+    {
+      "file": "research__E05-T09-R560.html",
+      "only_directory_range_changed": true,
+      "final_body_sha256": "5b38dabdd1a195d6eaec6ea3c09d66bcd3012cfce9d0156e800ed70745d23ba8"
+    },
+    {
+      "file": "research__E05-T09-R232.html",
+      "only_directory_range_changed": true,
+      "final_body_sha256": "aee7828b7b1bd568acf0c28b2397455e936f165fa8a70e124783a3157a6a9cab"
+    },
+    {
+      "file": "research__E05-T10-R110.html",
+      "only_directory_range_changed": true,
+      "final_body_sha256": "eea83a55700887d0b49ae4384ad82b6c078dc878487ae6902f4b0c6777097c89"
+    },
+    {
+      "file": "glossary.html",
+      "only_directory_range_changed": true,
+      "final_body_sha256": "778a7f1eb8bd353f40ac04a18f579fb39c737e8922f55de01c52be02a901de3c"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "wifi-pmid-33166026",
+    "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/full-rollout/wifi/raw/33166026-publisher-fulltext-snapshot-v1.json",
+    "source_sha256": "aa9d420870dc50ab625eef3e4c6d7dab29e01aae8a38fa76e0e9e20edceceba5",
+    "binding": "Exact prior publisher-parsed fulltext snapshot, not original PDF/HTML bytes",
+    "doi": "10.1111/jsr.13224",
+    "printed_DOI_in_extraction": true,
+    "fresh_text_sha256": "5f326e612ba5fd2e303031dc78395b6a54b4251cebe34029f99a42e76843fa5b",
+    "scope": "Selected original passages or explicitly bounded publisher snapshot; not scientific appraisal",
+    "original_pdf_available": false,
+    "selected_passage_locators": [
+      "Publisher sections 2.7/3.2/4.1/4.2, native lines243-247/258-261/406-414/430-441"
+    ]
+  },
+  {
+    "id": "E05-T09-R560",
+    "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/corpus/raw/2b0a79dbae8fac5866dad50aa0cc4df61febf95c5a33efe4fa2e354ae8031bc8.pdf",
+    "source_sha256": "2b0a79dbae8fac5866dad50aa0cc4df61febf95c5a33efe4fa2e354ae8031bc8",
+    "binding": "Historical source hash only, not PASS transfer",
+    "doi": "10.1016/j.jacasi.2025.09.012",
+    "printed_DOI_in_extraction": true,
+    "fresh_text_sha256": "b282b1cc97ab52bc40e232c3357d1ea20ab4afa90b4821977f1051785de9ac3a",
+    "scope": "Selected original passages or explicitly bounded publisher snapshot; not scientific appraisal",
+    "original_pdf_available": true,
+    "selected_passage_locators": [
+      2,
+      3,
+      4,
+      6,
+      7
+    ]
+  },
+  {
+    "id": "E05-T09-R232",
+    "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/corpus/raw/f44864c68abaa4eee3d09260dc92624d204a5a566a932279f86760a12b3e7e7d.pdf",
+    "source_sha256": "f44864c68abaa4eee3d09260dc92624d204a5a566a932279f86760a12b3e7e7d",
+    "binding": "Historical source hash only, not PASS transfer",
+    "doi": "10.1186/2052-336x-12-15",
+    "printed_DOI_in_extraction": true,
+    "fresh_text_sha256": "a709bacaac0e1c3355be61992b108588e469b48e8668fa5adb7bde038cbde17f",
+    "scope": "Selected original passages or explicitly bounded publisher snapshot; not scientific appraisal",
+    "original_pdf_available": true,
+    "selected_passage_locators": [
+      3,
+      4,
+      6
+    ]
+  },
+  {
+    "id": "E05-T10-R110",
+    "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/corpus/raw/1f44f111bfe8fdda8bbfe03b97bbf9a8d8e639cc4b03abb737d9315bdabb7492.pdf",
+    "source_sha256": "1f44f111bfe8fdda8bbfe03b97bbf9a8d8e639cc4b03abb737d9315bdabb7492",
+    "binding": "Historical source hash only, not PASS transfer",
+    "doi": "10.1111/pace.14450",
+    "printed_DOI_in_extraction": true,
+    "fresh_text_sha256": "9a19b9ae5c6d456613d52a41cd1220e95434761bf7546140156a64b6a4f113d1",
+    "scope": "Selected original passages or explicitly bounded publisher snapshot; not scientific appraisal",
+    "original_pdf_available": true,
+    "selected_passage_locators": [
+      2,
+      3,
+      4,
+      6,
+      7
+    ]
+  },
+  {
+    "id": "E06-T11-R158",
+    "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/corpus/raw/280e848f5d28b78f26af8028a8180184d029e9cbedd085fcd536498a30dd7383.pdf",
+    "source_sha256": "280e848f5d28b78f26af8028a8180184d029e9cbedd085fcd536498a30dd7383",
+    "binding": "Historical source hash only, not PASS transfer",
+    "doi": "10.1016/j.envint.2021.106711",
+    "printed_DOI_in_extraction": true,
+    "fresh_text_sha256": "f61417ae86ef3adf86fb9d4928384756afdc7be6e3d88d7781dd1dab0560f500",
+    "scope": "Selected original passages or explicitly bounded publisher snapshot; not scientific appraisal",
+    "original_pdf_available": true,
+    "selected_passage_locators": [
+      4,
+      6
+    ]
+  },
+  {
+    "id": "E03-T06-R135",
+    "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/full-rollout/owned/files/E03-T06-R135.pdf",
+    "source_sha256": "d7e978f43d6b521b80076456b4d9e9c2cd6b5b4476889cb0055ea848070bde10",
+    "binding": "Full-rollout owned original manifest",
+    "doi": "10.3390/ijerph191911912",
+    "printed_DOI_in_extraction": true,
+    "fresh_text_sha256": "32cbc7a6c03763bf759c926c11988129a01a5ca9bcf04da8af4f9255b30d129b",
+    "scope": "Selected original passages or explicitly bounded publisher snapshot; not scientific appraisal",
+    "original_pdf_available": true,
+    "selected_passage_locators": [
+      10,
+      11
+    ]
+  },
+  {
+    "id": "5g-sleep",
+    "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/recovery/legacy/files/5g-sleep-repository-attempt2.pdf",
+    "source_sha256": "3a782822dd821fe547a633a9b8272237eda6c502041b4762629fe7d2fca0c892",
+    "binding": "Historical source hash only, not PASS transfer",
+    "doi": "10.1016/j.neuroimage.2025.121340",
+    "printed_DOI_in_extraction": true,
+    "fresh_text_sha256": "5cb773d1fabbbdd3e4cb31703e5adea4af34a63abb963b26f68934044b95c9a2",
+    "scope": "Selected original passages or explicitly bounded publisher snapshot; not scientific appraisal",
+    "original_pdf_available": true,
+    "selected_passage_locators": [
+      9
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "status": "PASS",
+  "across_granted_restoration": [
+    {
+      "path": "/research/wifi-pmid-33166026",
+      "normalized_visible_body_equal": true,
+      "sha256": "cc212b932d8ef7bf0afac0419878d58f2ddf5e27628590c5455dfdd498dcc93d"
+    },
+    {
+      "path": "/research/E05-T09-R560",
+      "normalized_visible_body_equal": true,
+      "sha256": "5b38dabdd1a195d6eaec6ea3c09d66bcd3012cfce9d0156e800ed70745d23ba8"
+    },
+    {
+      "path": "/research/E05-T09-R232",
+      "normalized_visible_body_equal": true,
+      "sha256": "aee7828b7b1bd568acf0c28b2397455e936f165fa8a70e124783a3157a6a9cab"
+    },
+    {
+      "path": "/glossary",
+      "normalized_visible_body_equal": true,
+      "sha256": "778a7f1eb8bd353f40ac04a18f579fb39c737e8922f55de01c52be02a901de3c"
+    },
+    {
+      "path": "/research/E05-T10-R110",
+      "normalized_visible_body_equal": true,
+      "sha256": "eea83a55700887d0b49ae4384ad82b6c078dc878487ae6902f4b0c6777097c89"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "status": "BOUNDED_FINAL10_PASS",
+  "receipt": "ROOT-BROWSER-FINAL.json",
+  "sha256": "69dc77548bc106a69dfca4fec0345c8677ef8fd29e5a15bf893a23eb63539e9a",
+  "viewport": [
+    390,
+    844
+  ],
+  "paths": 10,
+  "exact_DOM_paragraph_href_locator_tuples": 21,
+  "public_em_en_dashes": 0,
+  "body_document_width": 390,
+  "review_state": "Nine research records show human review pending; glossary directory has no per-record badge",
+  "visual_sample": "R229 notes wrapping inspected",
+  "final_public_input_hashes_independently_matched": 6,
+  "limitations": "Local technical/source fidelity only; not scientific/human/release/network-wide acceptance; external links not clicked"
+}

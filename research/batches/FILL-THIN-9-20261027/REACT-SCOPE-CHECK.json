@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "scope": "Exact nine research IDs and existing glossary directory; no detail-route changes",
+  "new_hooks_or_state": false,
+  "new_network_or_effects": false,
+  "semantic_component": "SourceReadingNotes with headings, stable keys, source anchors and locators",
+  "directory_punctuation": "Existing Glossary display only; canonical lib/glossary.ts and term detail pages byte-identical",
+  "unrelated_refactors": false,
+  "diff_sha256": "d415b7350315f63778249ee838ca9e78a3247dc46b1a0651bb6cac3461b80289",
+  "existing89_raw_spans_unchanged": true,
+  "final_sources": 94,
+  "new_numerical_claims": false
+}

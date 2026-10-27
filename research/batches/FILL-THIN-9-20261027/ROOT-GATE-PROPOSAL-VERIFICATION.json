@@ -1,0 +1,168 @@
+{
+  "at": "2026-10-27T13:14:07.109298+02:00",
+  "status": "BOUNDED_QUALITATIVE_CLAIM_FIDELITY_CHECKED_GATE_REMAINS_ELON",
+  "candidate_sha256": "0b21cca27a78759d3551b27504eba41acc4a6cbad9092768d929229d874681ec",
+  "gate_proposal_sha256": "e3c10796477b3e429751669ef564f0b356ef23dc2b7931c313a81dc800458661",
+  "source_inputs": [
+    {
+      "id": "E02-T03-R238",
+      "source": "55f7fc9832bd19a4d19dd894836490b974bf7b1a9602bf2c768e4a798d1b4a68",
+      "metadata": "668d3fe981c3c8d158d648b0f87d37b6f6cef31694a9c513977f8aeb18e8d3c6"
+    },
+    {
+      "id": "E02-T03-R242",
+      "source": "01dd677c17bcbe10b7b17d0ba01005cd12b324723c824b7b3f147c9cdaeceb50",
+      "metadata": "4e59e29ec92336fc6f566c688c8a63a3d0ccbc2f011f727fd54c9263af5fc2c7"
+    },
+    {
+      "id": "E05-T09-R451",
+      "source": "b462974fab7020928dcad6fc50f1c99a8e5cd77008b97909c4213c81a532ae99",
+      "metadata": "090ec87ae3a62fadc56eb18fe65ee4a157390793f88a00fee1f93ad33fffca53"
+    },
+    {
+      "id": "E02-T03-R229",
+      "source": "6d26c54ad989657edb350b2bd4100e2604040226ebd86c687e2798889a5f6675",
+      "metadata": "6051c56d7f682d5c503b7e176d62b90c3d478d545ba501ab246ef17ee088557e"
+    },
+    {
+      "id": "E05-T09-R485",
+      "source": "96a4e5ae1506501506c268ed522250a665864a3a2a006c1be5de7f2e4bcfa8c6",
+      "metadata": "f851b36b12ff9b72cd4cc15ace79a7863d04b612a21769647fc897860b1ce721"
+    }
+  ],
+  "current_review_bindings": [
+    {
+      "id": "E02-T03-R238",
+      "current_review_path": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/reviews/continuation-v6-a/E02-T03-R238.json",
+      "current_review_sha256": "f8abfd26ed7271ec389cb197a5e2385c6c174b30588de85def925fefe730d983",
+      "historical_decision_path": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/verification/preview-decisions/E02-T03-R238.json",
+      "historical_decision_sha256": "2a27a6b9e2d21a90f8756e74985b8119e30dd90cdd0fa11be27f5ff5d6ed6fd2",
+      "historical_review_sha256": "426d1dd7f00c5ce034cda8a97a6c5a97ede7c5707f2ed4b930f8305c22d95c1c",
+      "matches": false
+    },
+    {
+      "id": "E02-T03-R242",
+      "current_review_path": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/reviews/continuation-v6-a/E02-T03-R242.json",
+      "current_review_sha256": "d38cd7f094af13dadecfe28b9424ee28ff7aea0a0daa8ce631703476973407f1",
+      "historical_decision_path": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/verification/preview-decisions/E02-T03-R242.json",
+      "historical_decision_sha256": "ade4979f8fd2ece7d668f4d1fc8190379e62e335e72367108d9c89b0f783bf64",
+      "historical_review_sha256": "f17f6dc63daecc6dc180552791b353c3e5872db9efd9abf24ad632e0f4013f7f",
+      "matches": false
+    },
+    {
+      "id": "E05-T09-R451",
+      "current_review_path": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/reviews/continuation-v6-c/E05-T09-R451.json",
+      "current_review_sha256": "a517aaa21f3a1c292c731c70ee539079fb9fadc86c45a0fb5f20d2f399922fcf",
+      "historical_decision_path": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/verification/preview-decisions/E05-T09-R451.json",
+      "historical_decision_sha256": "ddcf621c44d92504f07107ecaade48e780c46854c13dcc3ac2b4792d7494c11c",
+      "historical_review_sha256": "4112086ffbf065fbeb26b5c72a2cca12b14a3a589a26a6c8a391ed7130b27f9d",
+      "matches": false
+    },
+    {
+      "id": "E02-T03-R229",
+      "current_review_path": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/reviews/continuation-v6-a/E02-T03-R229.json",
+      "current_review_sha256": "d3d691ba5111b0c021ca848443c5d8ff38db641b8260bb5464a8859cc6f0c1eb",
+      "historical_decision_path": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/verification/preview-decisions/E02-T03-R229.json",
+      "historical_decision_sha256": "26a2dc92223b03cdd5e6d6a37a346e00eff633571e07542c9d85d8c844a52a2a",
+      "historical_review_sha256": "eedd4de5bd67c52baf8308ec466f50c3dd63b62c07d390f46ac204c1a78889da",
+      "matches": false
+    },
+    {
+      "id": "E05-T09-R485",
+      "current_review_path": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/reviews/continuation-v6-c/E05-T09-R485.json",
+      "current_review_sha256": "1373e009974abf83c758bfcc0a21933f57ac7b816578d6517fe2196d9f5c6862",
+      "historical_decision_path": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/verification/preview-decisions/E05-T09-R485.json",
+      "historical_decision_sha256": "b3b8ae49f16217989096abc370ba64aab5853858825c9e0a4265d088e44c3cca",
+      "historical_review_sha256": "77a7c266c6418a239fb517e9a95e280b6868016d5f73c7b475bef3942e0ce654",
+      "matches": false
+    }
+  ],
+  "root_text_pages_read": {
+    "R238": [
+      1,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "T03R242": [
+      1,
+      6,
+      8,
+      14,
+      15,
+      16,
+      17
+    ],
+    "R451": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      8,
+      9
+    ],
+    "R229": [
+      1,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "R485": [
+      1,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  "root_visual_pages": {
+    "R238": [
+      13
+    ],
+    "T03R242": [
+      15
+    ],
+    "R451": [
+      6
+    ],
+    "R229": [
+      10
+    ],
+    "R485": [
+      10
+    ]
+  },
+  "correction": {
+    "held_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/continuation-v6/a/R229/correction.xml",
+    "sha256": "225b3bc92fa9031caa39fe396d060f27158a2045629c8d142e01db71a55ade17",
+    "correction_doi": "10.1113/EP093357",
+    "correction_pmid": "41084331",
+    "original_doi": "10.1113/EP092083",
+    "original_pmid": "39404491",
+    "native_body_explicitly_matches_original": true,
+    "scope": "Funding-section omission only, no result or numerical repair inferred; checked privately, no new public correction-source object created"
+  },
+  "checks": [
+    "R238openexposurebundlesrealRFandknowledge,symptoms\u2191notpureRFeffect;alarmistvideoriskperception\u2191butfactorialsymptom/cortisolnull,noobjectivenoceboprooforclinicalgeneralization.",
+    "T03R242collectivenull,nominalindividualv11detectiondoesnotpersistleastcertainsessionremoved;selected/heterogeneousselfreports/noceboassociationnotclinicalmechanism.",
+    "R451pooledPBMCcometendpoint/oldernormalweighthighconditionwithandwithoutserum\u2191notindividualsusceptibility/cancerrisk;lowerandyoungergroupsnull,combinationnotenhancement/selectedBPDEdecreaseisnotclinicalprotection;replicatewording/sexcompositionlimits.",
+    "R229shorttermregionaltemperatureandselectedEDAmixed;bodytonicincreasevsFigure6/conclusionsglobaldecreasedirectionheld. Noquantitative/directionaluniformEDAsummary,cognitivebenefit/diseaseinjury. CorrectionexplicitEP092083linkandEP093357identity,fundingsectiononly/nodatarepairinferred.",
+    "R485PDF-onlyselectedassaysnullwiththermalandpowercontrol;coolingdisabledalterstemperatureandMTTgrowthreadings,notisolateduniversalthermalexplanation/assayendpointnotallcellularsafetyorformalequivalence. Noinferencefromunreadworkbook."
+  ],
+  "limits": [
+    "Tenqualitativeclaims/sourceidentitybindingonly,notfullscientificappraisal/numericorhumanrelease.",
+    "GATEunappliedpendingElon;89priorobjects/80notes/577frozenhashesmustremainidentical."
+  ],
+  "scientificApproval": false,
+  "humanApproval": false,
+  "released": false
+}

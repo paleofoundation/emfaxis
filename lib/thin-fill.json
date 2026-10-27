@@ -1553,5 +1553,180 @@
         }
       ]
     }
+  ],
+  "wifi-pmid-33166026": [
+    {
+      "title": "Keep the exploratory task result with its limits",
+      "paragraphs": [
+        {
+          "text": "The word-pair task showed a greater overnight improvement in the Wi-Fi condition, while the emotional and procedural tasks did not show an exposure difference. The authors discuss differences in evening reference performance and uncertainty in the gain estimate. A selected task result should not be expanded into a general memory benefit or a recommendation to seek wireless exposure during sleep.",
+          "source": "wifi-pmid-33166026",
+          "locator": "Held publisher fulltext snapshot, section 3.2 native lines 258 to 261 and section 4.1 lines 406 to 414"
+        },
+        {
+          "text": "The analysis was exploratory and did not correct for multiple testing. Exclusions also left exposure sequences unbalanced, and the associated sleep-physiology findings did not corroborate the word-pair result. The authors therefore call the interpretation inconclusive and allow for chance. This memory analysis shares participants with the related sleep report, so the publications do not supply independent replication. The held basis remains a publisher snapshot, without an original PDF or supplement.",
+          "source": "wifi-pmid-33166026",
+          "locator": "Held publisher fulltext snapshot, section 2.7 native lines 243 to 247 and section 4.2 lines 430 to 441"
+        }
+      ]
+    }
+  ],
+  "E05-T09-R560": [
+    {
+      "title": "Separate exposure surveys from clinical questions",
+      "paragraphs": [
+        {
+          "text": "The review discusses vehicle field measurements, implant-function experiments, electrocardiographic features and proposed biological pathways. These are different kinds of evidence. A measured field inside a vehicle is not a newly diagnosed passenger condition, and a bench interference result is not a rate of clinical events. The design and endpoint of each original report need to remain attached to any summarized finding.",
+          "source": "E05-T09-R560",
+          "locator": "Original PDF physical pages 2 to 4, Methods and included-study table; pages 6 to 7, device discussion"
+        },
+        {
+          "text": "Some included experiments concern broader field exposures rather than direct electric-vehicle use. Applying them to every vehicle, charging system or implant would require additional source-specific justification. The review itself recruits no participants and supplies no pooled patient-risk estimate. Its selection-reporting questions remain unresolved, and proposed mechanisms do not close the causal chain from a particular vehicle exposure to chronic cardiovascular injury.",
+          "source": "E05-T09-R560",
+          "locator": "Original PDF physical pages 2 to 4, eligibility and included studies; pages 6 to 7, mechanisms and interpretation"
+        }
+      ]
+    }
+  ],
+  "E05-T09-R232": [
+    {
+      "title": "A comet assay does not directly test a disease",
+      "paragraphs": [
+        {
+          "text": "The experiment assessed cultured Vero cells with comet and cell-cycle methods after a defined pulsed-field exposure. These assays describe selected cellular responses under the laboratory conditions. The discussion proposes an oxidative pathway, but reactive oxygen species were not directly measured in this report. Increased DNA migration therefore does not identify a demonstrated mechanism or establish a human cancer outcome.",
+          "source": "E05-T09-R232",
+          "locator": "Original PDF physical pages 3 to 6, assay methods, Results and Discussion"
+        },
+        {
+          "text": "Many evaluated cells are technical observations within a small number of independently repeated experiments. They do not turn that number of experiments into an equally large number of independent exposures. The source also uses inconsistent wording about continuous and intermittent schedules. Without resolving that comparison and the remaining assay controls, neither a precise schedule ranking nor a real-world household or workplace risk estimate should be inferred.",
+          "source": "E05-T09-R232",
+          "locator": "Original PDF physical pages 3 to 4, treatment and statistical methods; pages 4 to 6, schedule interpretation"
+        }
+      ]
+    }
+  ],
+  "E05-T10-R110": [
+    {
+      "title": "Static-magnet interaction is a device-specific question",
+      "paragraphs": [
+        {
+          "text": "The laboratory tests deliberately searched for relative positions where the phone magnet could activate a generator's magnetic mode. The response varied with position and stopped when the phone was removed. This identifies a localized static-magnet interaction in the tested devices. It is different from a radiofrequency dose study or an observation that phone use caused a general cardiovascular disease.",
+          "source": "E05-T10-R110",
+          "locator": "Original PDF physical pages 2 to 4, objective and Methods; page 6, Results and Discussion"
+        },
+        {
+          "text": "No implanted patients were tested. Body anatomy, implant placement, actual use patterns and later product designs remain separate questions. The manufacturers supplied devices and programming assistance, as the acknowledgements disclose. The bench findings cannot quantify how often a clinically important event occurs in everyday use, establish compatibility for every product or provide a universal spacing rule. Model-specific clinical advice is outside this experiment.",
+          "source": "E05-T10-R110",
+          "locator": "Original PDF physical pages 6 to 7, laboratory versus in-vivo interpretation, Conclusions and acknowledgements"
+        }
+      ]
+    }
+  ],
+  "glossary-index": [
+    {
+      "title": "Use definitions with the source design",
+      "paragraphs": [
+        {
+          "text": "A measurement term does not make different instruments interchangeable. The body-worn-meter comparison shows how similar ranking of environments can coexist with different absolute readings because bands, calibration and shielding by the body differ. When using definitions for field strength or exposure assessment, keep the instrument and measurement setting with the result rather than treating every reading as an individual absorbed dose.",
+          "source": "E06-T11-R158",
+          "locator": "Original PDF physical pages 4 to 6, instrument comparison Discussion and limitations"
+        },
+        {
+          "text": "Time and position also belong with an exposure term. The induction-cooker model estimates an instantaneous field at a fixed position, while movement, heat-output changes and cooking duration need additional information. A glossary definition helps name the quantity, but does not supply the missing activity history or turn that model into a measured clinical risk.",
+          "source": "E03-T06-R135",
+          "locator": "Original PDF physical pages 10 to 11, Limitations and Conclusions"
+        },
+        {
+          "text": "An outcome term needs the same care. In the sleep study, a genotype-dependent EEG spindle-frequency finding was not a conclusion about potential health effects. Reading the recording method and analysis population alongside the term helps distinguish a physiological endpoint from a diagnosis, a population-wide effect or a clinical sleep-harm claim. The underlying scientific appraisal and human review remain pending.",
+          "source": "5g-sleep",
+          "locator": "Held repository PDF physical page 9, Discussion"
+        }
+      ]
+    }
+  ],
+  "E02-T03-R238": [
+    {
+      "title": "Knowledge and exposure were bundled",
+      "paragraphs": [
+        {
+          "text": "Participants knew whether the experimental RF signal was on or off. That open comparison combines actual exposure with information about exposure, unlike a masked RF-versus-sham test. The symptom difference cannot therefore isolate a biological RF mechanism from expectation or the laboratory context. The sample also consisted mainly of healthy young volunteers rather than a clinical group with established long-term illness.",
+          "source": "E02-T03-R238",
+          "locator": "Original PDF physical pages 15 to 16, Discussion and open-label limitations"
+        },
+        {
+          "text": "The alarmist video increased perceived risk without producing a significant video effect on the symptom or cortisol outcomes. Cortisol also did not track the reported symptom change. The authors discuss timing, anticipatory stress and limited sensitivity to small effects as possible limitations. A null comparison under this protocol is not an equivalence test or proof that every expectation or stress response is absent.",
+          "source": "E02-T03-R238",
+          "locator": "Original PDF physical pages 13 to 16, Results and Discussion"
+        }
+      ]
+    }
+  ],
+  "E02-T03-R242": [
+    {
+      "title": "Individual sessions do not become independent people",
+      "paragraphs": [
+        {
+          "text": "The protocol was individualized with participant input, using mixed sources and real-versus-sham sessions. Repeated sessions provide information about a participant within that protocol, but do not supply an equal number of independent participants. Selection, tolerance of testing and differences in personal schedules constrain how far the collective result can be generalized to everyone reporting environmental intolerance.",
+          "source": "E02-T03-R242",
+          "locator": "Original PDF physical pages 4 to 5, co-design, source conditions and masking; pages 6 to 8, participants; pages 16 to 17, limitations"
+        },
+        {
+          "text": "The nominal individual detection exception did not survive removal of the least-certain session. Associations between perceived exposure and symptom reporting also remain joint self-reports, rather than a randomized manipulation of belief alone. They do not prove that symptoms are unreal or establish a clinical nocebo explanation for every participant. The results require the stated repeated-session and multiple-comparison context.",
+          "source": "E02-T03-R242",
+          "locator": "Original PDF physical pages 15 to 17, individual interpretation and limitations"
+        }
+      ]
+    }
+  ],
+  "E05-T09-R451": [
+    {
+      "title": "The donor pool is not an individual susceptibility test",
+      "paragraphs": [
+        {
+          "text": "The experiment pooled blood-cell material within demographic groups before laboratory exposure. A response in an older-group pool cannot identify how each donor responded or separate age from every other group difference. Culture and serum conditions also matter. The reported high-condition comet finding should remain an assay-specific result, not an individual cancer prediction or a clinical classification of older phone users.",
+          "source": "E05-T09-R451",
+          "locator": "Original PDF physical pages 2 to 5, donors, Methods and Results; page 9, Discussion"
+        },
+        {
+          "text": "The combined-treatment experiments generally did not show enhanced chemically induced damage under the tested sequences. Selected decreases do not establish protection in exposed workers or a treatment benefit. There were few independently repeated exposures, while many cells and slides provided technical measurements. Those are different units of information; uncertainty in donor variation and replicate handling is not resolved by counting more scored cells.",
+          "source": "E05-T09-R451",
+          "locator": "Original PDF physical pages 3 to 4, experimental and statistical methods; pages 8 to 9, combined treatments and Discussion"
+        }
+      ]
+    }
+  ],
+  "E02-T03-R229": [
+    {
+      "title": "Physiological observations are not cognition or injury",
+      "paragraphs": [
+        {
+          "text": "The study measured regional skin temperature and electrodermal responses during a brief controlled laboratory protocol. Selected metrics changed, while other metrics did not. The authors discuss possible cognitive interpretations, but cognitive performance was not itself the measured endpoint. These recordings do not establish improved decision-making, clinical benefit or tissue injury. A physiological difference and a health consequence remain separate questions.",
+          "source": "E02-T03-R229",
+          "locator": "Original PDF physical pages 6 to 11, Results, Figures and Discussion"
+        },
+        {
+          "text": "Interpretation remains restricted to the tested signal, exposure geometry and selected healthy volunteers. The paper calls for replication and acknowledges uncontrolled variables. Repeated recordings and related metrics are not independent participants. Because directional and labeling questions remain unresolved, neither a numerical effect summary nor a single direction for all skin-conductance results is released here. No long-term disease inference follows from this short protocol.",
+          "source": "E02-T03-R229",
+          "locator": "Original PDF physical pages 10 to 11, Discussion and Conclusion"
+        }
+      ]
+    }
+  ],
+  "E05-T09-R485": [
+    {
+      "title": "A controlled null remains specific to its apparatus",
+      "paragraphs": [
+        {
+          "text": "The refined setup monitored RF power and controlled temperature while measuring selected cell-growth and stress-related endpoints. The thermally controlled comparisons did not show a significant RF-related pattern in those assays. This is evidence about the tested cell models, signal and observation period, rather than a measurement of cancer incidence or the response of an intact person during ordinary device use.",
+          "source": "E05-T09-R485",
+          "locator": "Original PDF physical pages 6 to 8, Results; page 11, Conclusion"
+        },
+        {
+          "text": "Switching off cooling increased temperature together with growth-related measurements. That comparison makes thermal control relevant to interpretation, but does not independently establish the cause of every earlier study result. Limited independent experiments, differing replicate wording and absence of a formal equivalence margin constrain the null findings. The source cannot exclude every subtle, long-term or tissue-specific effect or establish universal human safety.",
+          "source": "E05-T09-R485",
+          "locator": "Original PDF physical pages 8 to 11, cooling-disabled comparison and Discussion"
+        }
+      ]
+    }
   ]
 }
