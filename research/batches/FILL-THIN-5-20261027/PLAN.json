@@ -1,0 +1,49 @@
+{
+  "id": "FILL-THIN-5",
+  "base": "6ecd6eef27acce25ef7351ea2a805ce0cfe6d681",
+  "branch": "codex/fill-thin-5",
+  "site_positions": [
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50
+  ],
+  "urls": [
+    "https://emfaxis.com/research/wifi-pmid-32104921",
+    "https://emfaxis.com/research/E02-T03-R054",
+    "https://emfaxis.com/research/E04-T07-R230",
+    "https://emfaxis.com/research/E01-T01-R126",
+    "https://emfaxis.com/research/E03-T05-R354",
+    "https://emfaxis.com/research/E03-T06-R139",
+    "https://emfaxis.com/research/E03-T05-R320",
+    "https://emfaxis.com/research/E02-T03-R207",
+    "https://emfaxis.com/research/E03-T05-R270",
+    "https://emfaxis.com/sources"
+  ],
+  "missing_base_canonical_ids": [
+    "E03-T05-R354",
+    "E03-T05-R320",
+    "E02-T03-R207",
+    "E03-T05-R270"
+  ],
+  "canonical_restoration": "GATE first before application; concrete source-bound proposal pending",
+  "audit": {
+    "workers": 4,
+    "delay": 0.25,
+    "timeout": 25,
+    "retries": 2,
+    "min_words": 400,
+    "max_thin_cites": 2,
+    "claim_min_hits": 3,
+    "analyzer_sha256": "88d45f1ff536c96ce1fbd2e8524aeda34f2e607061ef9fd4af72ad94c84770ed"
+  },
+  "UKHSA": "HELD BY ELON RULING10:13",
+  "preserve": "All40 prior noteobjects, renderedbodies and frozen70+60+97+65 outputhashes;73 existing canonicalobjects; scientific/numerical/human/releasegates",
+  "source_policy": "Held EMF corpus only, source link+locator peraddition, no new numericalclaims or PDFhosting"
+}

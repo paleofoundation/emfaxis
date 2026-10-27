@@ -1,0 +1,252 @@
+{
+  "status": "PASS",
+  "prior40_note_objects_deep_equal": true,
+  "frozen_packet_verified_entries": {
+    "fill-thin-1": 70,
+    "fill-thin-2": 60,
+    "fill-thin-3": 97,
+    "fill-thin-4": 65
+  },
+  "rows": [
+    {
+      "url": "https://emfaxis.com/resources",
+      "status": 200,
+      "visible_body_equal": true,
+      "sha256": "3f1eac89b72ae528aa5e3853ba804cbd7b6d76fa93845b9a44beb65edbf5027b"
+    },
+    {
+      "url": "https://emfaxis.com/fields",
+      "status": 200,
+      "visible_body_equal": true,
+      "sha256": "53a0a5d32a2629bf2729d7f80cffdbf4dd53847fb401ffb8f19f3fdd70211399"
+    },
+    {
+      "url": "https://emfaxis.com/resources/reading-worksheet",
+      "status": 200,
+      "visible_body_equal": true,
+      "sha256": "822faf7cdf9f2881a140e54e411f01c97a055d3f60ca76bda743e5b929cf3e5e"
+    },
+    {
+      "url": "https://emfaxis.com/resources/first-guide-preview",
+      "status": 200,
+      "visible_body_equal": true,
+      "sha256": "3e06eb38460d5df14d6926f34b6ed6532583b842984f8f7ab34840a6192c6ee4"
+    },
+    {
+      "url": "https://emfaxis.com/resources/reading-guide",
+      "status": 200,
+      "visible_body_equal": true,
+      "sha256": "553325d9835139988aa673c11eac3862aa9b2c52b3d6621ba12ff4753d913393"
+    },
+    {
+      "url": "https://emfaxis.com/research/icnirp-static",
+      "status": 200,
+      "visible_body_equal": true,
+      "sha256": "ac2111eeba7b55271bb6fa34e18d89dc941883f7be5b34f0729c4258131af19a"
+    },
+    {
+      "url": "https://emfaxis.com/research/icnirp-dect",
+      "status": 200,
+      "visible_body_equal": true,
+      "sha256": "b9880e79ac5fc89aa81e80a26ff039749d97f4af4075bf664f78d286d76fa78c"
+    },
+    {
+      "url": "https://emfaxis.com/research/foph-wearables",
+      "status": 200,
+      "visible_body_equal": true,
+      "sha256": "1e980f2b686e4a81eb7b971b6fd1210ce9738546fc3d52c069c148b54094d77b"
+    },
+    {
+      "url": "https://emfaxis.com/research/nci-emf-cancer",
+      "status": 200,
+      "visible_body_equal": true,
+      "sha256": "d9c4fc85c04aadaf045f03caf701f42ddd8c1cdca96336537ad514748bc1a480"
+    },
+    {
+      "url": "https://emfaxis.com/resources/emf-reading-worksheet",
+      "status": 200,
+      "visible_body_equal": true,
+      "sha256": "19b132edea127a242bd883704304a2530d16dec06d47cb8783364d8966c0b093"
+    },
+    {
+      "url": "https://emfaxis.com/research/ukhsa-smart-meters",
+      "status": 200,
+      "visible_body_equal": true,
+      "sha256": "f042f45db6928e991708ee6501a08d59abba25fd7362c94f16d01a0f631789e0"
+    },
+    {
+      "url": "https://emfaxis.com/",
+      "status": 200,
+      "visible_body_equal": true,
+      "sha256": "60f8e5ec7da771fbbc680cd6cb7afe62bbe28488730f0acd7b8c148029b55614"
+    },
+    {
+      "url": "https://emfaxis.com/research/who-ehs",
+      "status": 200,
+      "visible_body_equal": true,
+      "sha256": "641b6d591b00b018a0f0c82c38cde29648fb6ab6356487a344b6192e3da097e9"
+    },
+    {
+      "url": "https://emfaxis.com/research/icnirp-mri",
+      "status": 200,
+      "visible_body_equal": true,
+      "sha256": "343ac8097571dfe1e14e1b1657eba5d6915cb41c967f27dfcf75c705c3d22f00"
+    },
+    {
+      "url": "https://emfaxis.com/research/foph-bluetooth",
+      "status": 200,
+      "visible_body_equal": true,
+      "sha256": "257d97b2e0e4296bbbe983636878ce3664b0deb6aa621c8fa91d1819feb11588"
+    },
+    {
+      "url": "https://emfaxis.com/research/icnirp-lf",
+      "status": 200,
+      "visible_body_equal": true,
+      "sha256": "c18d944255e736ea0558c271edc0017f2a4d2d19076339356d5c8bcb6cc51f95"
+    },
+    {
+      "url": "https://emfaxis.com/research/fda-microwave",
+      "status": 200,
+      "visible_body_equal": true,
+      "sha256": "450e87de23f54edf724c437f0a490bf4987ed268142de223039fb34dfdb4801f"
+    },
+    {
+      "url": "https://emfaxis.com/research/foph-baby-monitors",
+      "status": 200,
+      "visible_body_equal": true,
+      "sha256": "e434a2a5ebb58babc96a92b84a97d95381e9a91de384738f34e980502a4d11a1"
+    },
+    {
+      "url": "https://emfaxis.com/research/hse-workplace",
+      "status": 200,
+      "visible_body_equal": true,
+      "sha256": "6f67d5e3f7f249227b1f0bfb9d9fc0d70f7b50c290a6635bc06a927a15e49f4b"
+    },
+    {
+      "url": "https://emfaxis.com/research/foph-induction",
+      "status": 200,
+      "visible_body_equal": true,
+      "sha256": "a63b9e19c403da1d14140970c33aedaa214f772506c45925386b2b52bb47b62f"
+    },
+    {
+      "url": "https://emfaxis.com/research/headache",
+      "status": 200,
+      "visible_body_equal": true,
+      "sha256": "35381d252b58e279055f5c558931229a4c14c4af412e9e295e3aeb15b1bfc74e"
+    },
+    {
+      "url": "https://emfaxis.com/research/icnirp-rf",
+      "status": 200,
+      "visible_body_equal": true,
+      "sha256": "3eaeff4f7c5d364e48a7ef11ebc0c4c862b87f89fd2add2699f9095e241a51c1"
+    },
+    {
+      "url": "https://emfaxis.com/research/rahban",
+      "status": 200,
+      "visible_body_equal": true,
+      "sha256": "20dd00d80229c6204e478c7b87360cadc8bec1f8ecbebf7c6916f94a2c96b94e"
+    },
+    {
+      "url": "https://emfaxis.com/research/greenland",
+      "status": 200,
+      "visible_body_equal": true,
+      "sha256": "fd3eea070afc505bf9718bed7764ab3cc8d76679e781d4233bbb3f9bfacf8204"
+    },
+    {
+      "url": "https://emfaxis.com/research/foph-wlan",
+      "status": 200,
+      "visible_body_equal": true,
+      "sha256": "c236f001a6e92a083165992fe00040de2f8b2358d76e24f69dbea7ca9e1be4b2"
+    },
+    {
+      "url": "https://emfaxis.com/research/hermes",
+      "status": 200,
+      "visible_body_equal": true,
+      "sha256": "69e71861639147cb49e39c5166b01e85f23624f954234ba97d579831aeeff097"
+    },
+    {
+      "url": "https://emfaxis.com/research/interphone",
+      "status": 200,
+      "visible_body_equal": true,
+      "sha256": "bae40b2e4b7a47e0223c1f71b70663b5b58fadaf6395b9f3d43d18109aafc228"
+    },
+    {
+      "url": "https://emfaxis.com/research/cosmos",
+      "status": 200,
+      "visible_body_equal": true,
+      "sha256": "96fc4b66807b63d41dbaea1e907f9d94f60cf320be8bf012047e51043ca20971"
+    },
+    {
+      "url": "https://emfaxis.com/research/foph-mobile",
+      "status": 200,
+      "visible_body_equal": true,
+      "sha256": "71d74083b3b8aa10e65cd1ac2392c2827935179c59f3b2c7ac61a96216b1c833"
+    },
+    {
+      "url": "https://emfaxis.com/guides",
+      "status": 200,
+      "visible_body_equal": true,
+      "sha256": "4785d54d6a9ab7b3f413f5b6aff6a82f45b479b5ef0bc1fe613751399b8325d3"
+    },
+    {
+      "url": "https://emfaxis.com/research/E02-T03-R091",
+      "status": 200,
+      "visible_body_equal": true,
+      "sha256": "2df86b5595bb45936e4c64665283e6d4cf06ee446a5999f4a3acff1a71544abe"
+    },
+    {
+      "url": "https://emfaxis.com/research/E03-T05-R297",
+      "status": 200,
+      "visible_body_equal": true,
+      "sha256": "8d4ee9e148b18fc6860b21e45ab13712140cc809435bd6ba51ed6b7c93da8783"
+    },
+    {
+      "url": "https://emfaxis.com/research/wifi-pmid-17293700",
+      "status": 200,
+      "visible_body_equal": true,
+      "sha256": "83280bdee06c48f4402f4e16ba229ab67ffb07ec5e36b75bb2e18575b7572189"
+    },
+    {
+      "url": "https://emfaxis.com/outcomes",
+      "status": 200,
+      "visible_body_equal": true,
+      "sha256": "d4f8ad16e83467b1b25a2e85b302967e4109ee9744f05c6d94564c1e36d68d69"
+    },
+    {
+      "url": "https://emfaxis.com/research/wifi-pmid-23085070",
+      "status": 200,
+      "visible_body_equal": true,
+      "sha256": "fd0423224b2c2d7a50b2ee2deeff227f6bc64f7a2479c448dee673e0d9be8e73"
+    },
+    {
+      "url": "https://emfaxis.com/research/wifi-pmid-26600173",
+      "status": 200,
+      "visible_body_equal": true,
+      "sha256": "53284cabe5337073dec368e6b6f3ae4955bcc598ec431369af0d6d515666056d"
+    },
+    {
+      "url": "https://emfaxis.com/research/wifi-pmid-22004929",
+      "status": 200,
+      "visible_body_equal": true,
+      "sha256": "223938e6664baf2438465bca8b2574e9f934123403db11eb6b922482b7e1489f"
+    },
+    {
+      "url": "https://emfaxis.com/research/wifi-pmid-21856328",
+      "status": 200,
+      "visible_body_equal": true,
+      "sha256": "e7cf3f45920a939016aef413f5265d6d31bf68924b0462ffc32cca2c5bf0ff93"
+    },
+    {
+      "url": "https://emfaxis.com/research/wifi-pmid-32408065",
+      "status": 200,
+      "visible_body_equal": true,
+      "sha256": "ee4d0090cfbf90aeb5754e6b0dfd524a7f0654d2da4c7f6c3b2fb78236f3fd0e"
+    },
+    {
+      "url": "https://emfaxis.com/research/E06-T11-R239",
+      "status": 200,
+      "visible_body_equal": true,
+      "sha256": "b8f1d0da9fd2da046cc06026042adb7962d3404d6cf2a1823e2312e04f899e8d"
+    }
+  ]
+}

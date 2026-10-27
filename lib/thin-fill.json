@@ -868,5 +868,180 @@
         }
       ]
     }
+  ],
+  "wifi-pmid-32104921": [
+    {
+      "title": "A facility report and the experiment it supports",
+      "paragraphs": [
+        {
+          "text": "This report describes how a controlled head-exposure system delivers WLAN signals for blinded sleep experiments. Directional antennas, computer control and recorded forward and reverse power are engineering features of that setup. They help specify the exposure conditions; they do not, by themselves, report a sleep or other health outcome.",
+          "source": "wifi-pmid-32104921",
+          "locator": "Held indexed abstract, exposure-system design, signal-pattern and quality-control sentences"
+        },
+        {
+          "text": "The abstract distinguishes absorption averaged over brain regions from peak spatial absorption and describes variation with head position. Those quantities should not be exchanged simply because each is called SAR. The report belongs with the sleep project as a methods companion, rather than an independent health trial. Full validation and uncertainty methods remain inaccessible in this abstract-only reading.",
+          "source": "wifi-pmid-32104921",
+          "locator": "Held indexed abstract, regional absorption, head-position variation and peak spatial SAR sentences; abstract-only scope"
+        }
+      ]
+    }
+  ],
+  "E02-T03-R054": [
+    {
+      "title": "Symptom coexistence and exposure attribution",
+      "paragraphs": [
+        {
+          "text": "The study compares self-reported tinnitus and electromagnetic-sensitivity status in a selected group and controls. It reports more tinnitus in respondents describing sensitivity, while its phone-use measure did not show an association with tinnitus. These are different comparisons. Coexistence of the reported symptoms is not a measurement demonstrating that an electromagnetic field caused them.",
+          "source": "E02-T03-R054",
+          "locator": "Original PDF physical page 4, Discussion"
+        },
+        {
+          "text": "The cross-sectional design does not establish which condition preceded the other. Tinnitus reporting, response selection and differences in sleep or psychological measures also matter to interpretation. The proposed shared mechanism remains an explanation to investigate, rather than a demonstrated pathway. Related reports from the same research sample should not automatically count as independent replication.",
+          "source": "E02-T03-R054",
+          "locator": "Original PDF physical pages 4 to 5, Discussion, limitations and Conclusion"
+        }
+      ]
+    }
+  ],
+  "E04-T07-R230": [
+    {
+      "title": "Occupational assignment is a group estimate",
+      "paragraphs": [
+        {
+          "text": "Job histories were mapped to occupational magnetic-field estimates using a job-exposure matrix. This assigns exposure information by occupation rather than measuring each worker at every task or workstation. Cumulative, average and highest-job metrics describe different summaries of that assignment. Within-job variation remains a limitation even when the work history itself is detailed.",
+          "source": "E04-T07-R230",
+          "locator": "Original PDF physical pages 2 to 3, Materials and Methods"
+        },
+        {
+          "text": "The study did not show a coherent overall meningioma association across its exposure metrics and time windows. An isolated intermediate-category elevation remains visible, so a narrative statement that every category was nonsignificant would be too absolute. These historical, outcome-specific comparisons do not establish a workplace safety threshold. Overlap with related case-control reports also needs attention before counting independent confirmation.",
+          "source": "E04-T07-R230",
+          "locator": "Original PDF physical pages 4 to 5, Tables, Discussion and Conclusion"
+        }
+      ]
+    }
+  ],
+  "E01-T01-R126": [
+    {
+      "title": "Comparison groups and patterns across analyses",
+      "paragraphs": [
+        {
+          "text": "The paper reconstructs mobile and cordless phone histories using questionnaires in a case-control sample. Its reference definition matters because relatively few respondents were entirely unexposed and many used several phone technologies. Reported call histories are therefore behavior-based exposure measures, rather than individual measurements of absorbed dose.",
+          "source": "E01-T01-R126",
+          "locator": "Original PDF physical pages 2 to 3, Methods; pages 8 to 9, Discussion and Conclusions"
+        },
+        {
+          "text": "The authors describe no conclusive overall meningioma association while retaining a signal in the highest cumulative-use group. A consistent pattern across latency and laterality comparisons was absent, and some technology estimates were sparse. The finding should stay specific to the tumour and sampled history. Shared controls or research series do not become independent evidence merely because the exposure analysis or paper title changes.",
+          "source": "E01-T01-R126",
+          "locator": "Original PDF physical pages 6 to 9, Results, Discussion and Conclusions"
+        }
+      ]
+    }
+  ],
+  "E03-T06-R139": [
+    {
+      "title": "Reported appliance use and delivery outcomes",
+      "paragraphs": [
+        {
+          "text": "Participants reported the type and use of induction cooker and later reported delivery outcomes through an internet research panel. Those answers do not measure personal magnetic-field dose. Missing information about distance, operating power and utensils limits how a reported use category can be translated into a physical exposure. The delivery endpoint should remain distinct from the appliance-use description.",
+          "source": "E03-T06-R139",
+          "locator": "Original PDF physical pages 2 to 4, methods and exposure/outcome definitions; page 7, limitations"
+        },
+        {
+          "text": "The paper discusses weak associations in selected use categories without a consistent birth-weight association. Substantial nonresponse, self-reported outcomes and selection of positive comparisons for adjusted analysis constrain causal interpretation. The authors considered alternative explanations rather than concluding that cooker use causes pregnancy harm. Changing an appliance was not tested as a preventive intervention, and no clinical recommendation follows from these comparisons alone.",
+          "source": "E03-T06-R139",
+          "locator": "Original PDF physical page 6, Table and Discussion; page 7, limitations and Conclusion"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "Match the source to the physical quantity",
+      "paragraphs": [
+        {
+          "text": "The same everyday word, field, can refer to different physical quantities. NCI distinguishes electric from magnetic fields and describes ionizing and non-ionizing categories. Start with the device and field type before comparing findings from a different source. A source category is a way to frame the question, not a health-effect estimate.",
+          "source": "nci-emf-cancer",
+          "locator": "Held official HTML, What are electric and magnetic fields?; What are common sources of non-ionizing EMFs?"
+        },
+        {
+          "text": "ICNIRP distinguishes external reference levels from restrictions expressed through absorbed quantities. A field measurement around equipment and an estimate of absorption in tissue therefore answer different questions. Frequency, exposure arrangement and averaging conditions belong with a comparison to that framework.",
+          "source": "icnirp-rf",
+          "locator": "Held official HTML, Frequency range and use; Protection"
+        },
+        {
+          "text": "For a mobile phone, FOPH explains that activity, connection quality and distance affect exposure. A maximum SAR rating describes specified test arrangements rather than a continuous personal daily dose. Those operating conditions help interpret the source pages without turning a device specification into a diagnosis or an individual prediction. Human scientific review of this reading edition remains pending.",
+          "source": "foph-mobile",
+          "locator": "Held original PDF physical page 1, operating conditions and head/body SAR explanation"
+        }
+      ]
+    }
+  ],
+  "E03-T05-R354": [
+    {
+      "title": "Cell culture findings and their clinical boundary",
+      "paragraphs": [
+        {
+          "text": "The report examines cultured mouse Leydig cells under selected handset and generator exposure arrangements. Its metabolic, hormone and fluorescence assays describe responses in that culture system. Selected changes appear alongside a nonsignificant viability contrast, and oxidation-sensitive fluorescence did not change consistently across the arrangements. A summary should preserve that mixed endpoint pattern rather than describing every measured response as changed.",
+          "source": "E03-T05-R354",
+          "locator": "Main PDF physical pages 5 to 9, Results and Figures"
+        },
+        {
+          "text": "Cultured cells are not recruited participants, and a hormone assay is not a test of conception or reproductive success. The experimental methods identify the cell line and exposure arrangements; those details bound the finding to the tested system. The paper does not establish a clinical infertility outcome in people. The selected passages shown here still require complete scientific appraisal, numerical reconciliation and human review.",
+          "source": "E03-T05-R354",
+          "locator": "Main PDF physical pages 2 to 5, cell culture and exposure methods; pages 9 to 12, Discussion and Conclusion"
+        }
+      ]
+    }
+  ],
+  "E03-T05-R320": [
+    {
+      "title": "Reproductive indicators and conflicting source statements",
+      "paragraphs": [
+        {
+          "text": "This experiment reports testicular, hormone and sperm measurements in exposed male rats. Selected differences coexist with nonsignificant comparisons, so the paper should not be summarized as showing a uniform change in every fertility indicator. The measured indicators also differ from successful mating, conception or offspring outcomes. The study did not directly test a clinical infertility diagnosis in people.",
+          "source": "E03-T05-R320",
+          "locator": "Main PDF physical pages 3 to 6, Results, Tables and histology figure"
+        },
+        {
+          "text": "Exposure units, the direction of an endpoint change and statements about significance are not consistent across the source. Those discrepancies remain unresolved rather than being repaired by choosing a convenient value or sentence. Group size, shared cage conditions and incomplete dosimetry also constrain interpretation. No numerical estimate is released here, and the selected qualitative passages do not replace a complete appraisal or human scientific review.",
+          "source": "E03-T05-R320",
+          "locator": "Main PDF physical pages 2 to 3 and 5 to 7, Methods, Discussion and Conclusion"
+        }
+      ]
+    }
+  ],
+  "E02-T03-R207": [
+    {
+      "title": "Tested exposure and perceived exposure are different comparisons",
+      "paragraphs": [
+        {
+          "text": "The masked comparison concerns immediate symptoms and physiological measures during a specified multiband exposure and sham arrangement. Under those tested conditions, the actual-exposure comparison did not identify an adverse pattern. Initially correct exposure guesses did not persist when testing was repeated. These observations describe the protocol and selected participants rather than every possible signal, symptom or duration of exposure.",
+          "source": "E02-T03-R207",
+          "locator": "Main PDF physical pages 4 to 6, analysis and Results"
+        },
+        {
+          "text": "Associations with believing that exposure occurred need separate interpretation because perceived exposure was not randomly assigned. Such associations do not isolate a causal expectation mechanism. Sparse symptom observations and unreconciled paired counts also limit a strong equivalence claim. The paper should therefore retain both the actual-exposure comparison and the uncertainty around perception associations, without turning either into a universal diagnosis or a clinical recommendation.",
+          "source": "E02-T03-R207",
+          "locator": "Main PDF physical pages 5 to 8, source tables, Discussion and limitations"
+        }
+      ]
+    }
+  ],
+  "E03-T05-R270": [
+    {
+      "title": "Animal surrogates and the explanation of a response",
+      "paragraphs": [
+        {
+          "text": "The rat experiment reports selected sperm, hormone and apoptosis-related differences alongside unchanged measures. Sperm abnormality, gross morphology and several Sertoli-cell measures should remain visible as nonsignificant findings. This mixture is more specific than a claim that all reproductive functions were impaired. The measured sperm and tissue indicators are also distinct from mating, conception and offspring outcomes.",
+          "source": "E03-T05-R270",
+          "locator": "Main PDF physical pages 6 to 9, Results and Figures"
+        },
+        {
+          "text": "The abstract and detailed morphology results differ, so the narrative retains that source conflict. Local thermal characterization is incomplete, and a continuous-wave comparison is absent. The design therefore does not establish that a response is uniquely due to pulsing or that it has a nonthermal mechanism. These animal surrogate observations do not establish human infertility, and scientific, numerical and human review remain pending.",
+          "source": "E03-T05-R270",
+          "locator": "Main PDF physical pages 2 to 5 and 9 to 10, Methods and Discussion"
+        }
+      ]
+    }
   ]
 }

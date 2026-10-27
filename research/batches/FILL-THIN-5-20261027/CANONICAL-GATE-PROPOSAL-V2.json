@@ -1,0 +1,166 @@
+{
+  "status": "UNAPPLIED; GATE REQUEST FIRST",
+  "base": "6ecd6eef27acce25ef7351ea2a805ce0cfe6d681",
+  "append_ids": [
+    "E03-T05-R354",
+    "E03-T05-R320",
+    "E02-T03-R207",
+    "E03-T05-R270"
+  ],
+  "candidate_file": "work/fill-thin-5/canonical-restoration-candidates.json",
+  "candidate_sha256": "b9d363644c77a19eff2a530b1aec64418ab245b26084a2bb229d83ebfc3ccc0e",
+  "scope": "Exactly4 absent-base sourceobjects,2qualitativeclaims each; all73 existingrawobjects and prior40notes unchanged. No sourceacquisition, review/preview import, grading/numericrelease or bulkport. Local404to200 only, not livefix.",
+  "required_archive_counter_delta": {
+    "recovered_source_records": [
+      73,
+      77
+    ],
+    "checked_qualitative_claims": [
+      190,
+      198
+    ]
+  },
+  "other_archive_counters": "Unchanged, including70previews and zero scientific/human/numeric approvals",
+  "proof": [
+    {
+      "id": "E03-T05-R354",
+      "native_title": "Radio frequency electromagnetic radiations interfere with the Leydig cell functions in-vitro",
+      "PMID": "38758777",
+      "PMCID": "PMC11101099",
+      "DOI": "10.1371/journal.pone.0299017",
+      "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/corpus/raw/80615db94189f0512fbc886202843430e695b7f05248fead47baaf3c2cf72109.pdf",
+      "source_sha256": "80615db94189f0512fbc886202843430e695b7f05248fead47baaf3c2cf72109",
+      "native_xml": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/continuation-v6/b/r354/europepmc-fulltext.xml",
+      "native_xml_sha256": "701374b997a99a8a36bd8de0509715184b76bc26751240f5d282752498de1b4c",
+      "historical_review_hash": "ca138b565137917f696cd230c352fa1b59ebaa8fdecde7a5cff58a01dd5a486e",
+      "current_review_file_hash": "4969e692df3332ae9d7edec5fe51995cf601ddb385bd544e67ec73a46e6295eb",
+      "review_hash_matches": false,
+      "scientific_approval": false,
+      "numeric_release": false,
+      "human_review": "pending",
+      "no_appraisal_or_review_import": true,
+      "candidate_claims": [
+        {
+          "id": "FILL-THIN-5-R354-C01",
+          "text": "The mouse-cell experiment reported selected metabolic and testosterone changes without a significant viability contrast. Oxidation-sensitive fluorescence did not change consistently across the exposure arrangements.",
+          "locator": "Main PDF physical pages 5 to 9, Results and Figures",
+          "basis": "full_text",
+          "scientific_review": "pending"
+        },
+        {
+          "id": "FILL-THIN-5-R354-C02",
+          "text": "Unmatched culture dosimetry, uncertain independent replication and unresolved workbook-entry ancestry limit interpretation. These cell-line endpoints do not establish human infertility or a frequency-specific clinical risk.",
+          "locator": "Main PDF physical pages 2 to 5 and 9 to 12; original S1 workbook, Sheet4; workbook ancestry is an editorial source-check limitation, not a verbatim PDF finding",
+          "basis": "full_text",
+          "scientific_review": "pending"
+        }
+      ]
+    },
+    {
+      "id": "E03-T05-R320",
+      "native_title": "Effects of 150 kHz intermediate frequency electromagnetic radiation on fertility indicators in male rats",
+      "PMID": "36578412",
+      "PMCID": "PMC9791864",
+      "DOI": "10.1016/j.heliyon.2022.e12228",
+      "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/corpus/raw/034d1aaca7466063aaa35d273a0f2f2b9318c8bfcb3edc7c1c43c2a76731453a.pdf",
+      "source_sha256": "034d1aaca7466063aaa35d273a0f2f2b9318c8bfcb3edc7c1c43c2a76731453a",
+      "native_xml": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/continuation-v6/b/r320/europepmc-fulltext.xml",
+      "native_xml_sha256": "feefa7edc4350759e85421ea8d5a249a81eb7831250a4299bc9de0cbe82ca1d2",
+      "historical_review_hash": "8bb977e7b883de421f966caff12cfbcf74e4b190087cee6f7cfc2477414c7dfc",
+      "current_review_file_hash": "6cd27d80ea71c7e1563d8e26dc65d14b14a94d527b6f8c2ffb424438b35d5a28",
+      "review_hash_matches": false,
+      "scientific_approval": false,
+      "numeric_release": false,
+      "human_review": "pending",
+      "no_appraisal_or_review_import": true,
+      "candidate_claims": [
+        {
+          "id": "FILL-THIN-5-R320-C01",
+          "text": "The rat report describes selected testicular and hormone differences alongside many nonsignificant semen and histology comparisons. It measures reproductive indicators rather than reproductive success.",
+          "locator": "Main PDF physical pages 3 to 6, Results, Tables and histology figure",
+          "basis": "full_text",
+          "scientific_review": "pending"
+        },
+        {
+          "id": "FILL-THIN-5-R320-C02",
+          "text": "Exposure-unit, endpoint-direction and significance statements conflict within the source. Small groups, cage dependence and unresolved dosimetry constrain interpretation; no numerical correction or human infertility conclusion is established.",
+          "locator": "Main PDF physical pages 2 to 3 and 5 to 7, Methods, Discussion and Conclusion",
+          "basis": "full_text",
+          "scientific_review": "pending"
+        }
+      ]
+    },
+    {
+      "id": "E02-T03-R207",
+      "native_title": "Physiological changes and symptoms associated with short-term exposure to electromagnetic fields: a randomized crossover provocation study",
+      "PMID": "35255916",
+      "PMCID": "PMC8902720",
+      "DOI": "10.1186/s12940-022-00843-1",
+      "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/corpus/raw/8dad1c4de31cdc95f67e7740a4ada3fbccb0e28154fbb3f19ca0efa47b4a73f1.pdf",
+      "source_sha256": "8dad1c4de31cdc95f67e7740a4ada3fbccb0e28154fbb3f19ca0efa47b4a73f1",
+      "native_xml": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/continuation-v6/a/R207/PMC8902720.1.xml",
+      "native_xml_sha256": "798f298e23ddfbba165799d278cac644fe751014febd6e581593969872144cbe",
+      "historical_review_hash": "2d1468bd4aa169297032db7b966f75e1cb5cb029c6d3ae2135eb0061355d0006",
+      "current_review_file_hash": "644c44b8b118c61a5d5bc99b4f34273f71376eda88e19097f8ae14ca2baa2943",
+      "review_hash_matches": false,
+      "scientific_approval": false,
+      "numeric_release": false,
+      "human_review": "pending",
+      "no_appraisal_or_review_import": true,
+      "candidate_claims": [
+        {
+          "id": "FILL-THIN-5-R207-C01",
+          "text": "The actual-exposure comparison did not identify an adverse symptom or physiological pattern under the tested conditions. Initially correct exposure guesses did not persist on repeat testing.",
+          "locator": "Main PDF physical pages 4 to 6, analysis and Results",
+          "basis": "full_text",
+          "scientific_review": "pending"
+        },
+        {
+          "id": "FILL-THIN-5-R207-C02",
+          "text": "Perceived exposure was not randomly assigned. Sparse symptom data, unreconciled paired counts and restricted signal and follow-up scope prevent a causal interpretation of perception associations or a universal equivalence claim.",
+          "locator": "Main PDF physical pages 5 to 8, source tables, Discussion and limitations",
+          "basis": "full_text",
+          "scientific_review": "pending"
+        }
+      ]
+    },
+    {
+      "id": "E03-T05-R270",
+      "native_title": "Effects of 220 MHz Pulsed Modulated Radiofrequency Field on the Sperm Quality in Rats",
+      "PMID": "30974849",
+      "PMCID": "PMC6480634",
+      "DOI": "10.3390/ijerph16071286",
+      "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/corpus/raw/a7c1c237448e1b16a736af5ef54114dee521203f6cf35364e9c6eba139ee84cb.pdf",
+      "source_sha256": "a7c1c237448e1b16a736af5ef54114dee521203f6cf35364e9c6eba139ee84cb",
+      "native_xml": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/continuation-v6/b/r270/europepmc-fulltext.xml",
+      "native_xml_sha256": "985d9bd80617a8b7d35a79d7d86e06d30882c609254b0dc72d4de8604e382062",
+      "historical_review_hash": "641ec08e5c7c7ee4e12d7491f1de4393249e3a8cd286c011535070e7d49644b6",
+      "current_review_file_hash": "ac0f20f02591ae59396eff1e58a7159c6cf86ae00218253d4c9b67c2902444df",
+      "review_hash_matches": false,
+      "scientific_approval": false,
+      "numeric_release": false,
+      "human_review": "pending",
+      "no_appraisal_or_review_import": true,
+      "candidate_claims": [
+        {
+          "id": "FILL-THIN-5-R270-C01",
+          "text": "The rat experiment reported lower sperm count, survival and testosterone with selected apoptosis-related signals, while sperm abnormality, gross morphology and several Sertoli-cell measures were not significantly changed.",
+          "locator": "Main PDF physical pages 6 to 9, Results and Figures",
+          "basis": "full_text",
+          "scientific_review": "pending"
+        },
+        {
+          "id": "FILL-THIN-5-R270-C02",
+          "text": "The abstract and detailed morphology results differ. Missing local thermal characterization and the absence of a continuous-wave comparator limit nonthermal or pulse-specific explanations; these animal surrogate findings do not establish human infertility.",
+          "locator": "Main PDF physical pages 2 to 5 and 9 to 10, Methods and Discussion",
+          "basis": "full_text",
+          "scientific_review": "pending"
+        }
+      ]
+    }
+  ],
+  "version": 2,
+  "prior_candidate_sha256": "28d400ea65c54e084959dc55fddb6f41962a0b9aa7cffc42a1f965faba684dd5",
+  "R354_workbook_binding": "R354-WORKBOOK-BINDING.json",
+  "direct_source_inspection": "DIRECT-SOURCE-INSPECTION.json"
+}
