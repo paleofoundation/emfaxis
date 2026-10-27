@@ -1043,5 +1043,175 @@
         }
       ]
     }
+  ],
+  "E01-T01-R127": [
+    {
+      "title": "A pooled association and its comparison groups",
+      "paragraphs": [
+        {
+          "text": "The pooled case-control report combines acoustic-neuroma samples from different diagnosis periods and reconstructs mobile and cordless phone histories by questionnaire. It reports higher odds with wireless-phone use, particularly in longer-latency categories. The authors also note sparse comparisons for some technologies and that many participants used several phone types. These features matter when interpreting a technology-specific estimate as though it represented a separate, precisely measured exposure.",
+          "source": "E01-T01-R127",
+          "locator": "Original PDF physical page 6, Discussion, Main findings and Strengths and limitations"
+        },
+        {
+          "text": "Pooling adds information from the earlier sample; it does not create an independent replication of that sample. Hearing loss can also alter the ear used for calls, which complicates a comparison between tumour side and recalled phone side. The observed association remains specific to the sampled histories and outcome. It does not, by itself, isolate a causal mechanism or establish the risk for every phone technology and use pattern.",
+          "source": "E01-T01-R127",
+          "locator": "Original PDF physical pages 6 to 7, Discussion and side-of-use interpretation"
+        }
+      ]
+    }
+  ],
+  "E03-T06-R073": [
+    {
+      "title": "Location measurements and personal exposure",
+      "paragraphs": [
+        {
+          "text": "The study followed pregnancies while measuring magnetic fields at residential locations. Front-door average values and maximum alley values describe different aspects of those locations, and they did not give the same miscarriage association. A summary should retain that metric-dependent pattern. Selecting only the maximum-based result would hide the contrast with the front-door measure and the authors' more cautious overall interpretation.",
+          "source": "E03-T06-R073",
+          "locator": "Original PDF physical page 5, Tables and Discussion; page 6, Conclusion"
+        },
+        {
+          "text": "Participants did not wear personal dosimeters, and daily activities were not recorded. A reading outside a home therefore cannot reconstruct where someone spent time or their cumulative personal exposure. Confounding and the difference between a location measurement and an individual exposure remain relevant even in a prospective cohort. The report does not establish a general causal magnetic-field relationship or a preventive intervention for pregnancy.",
+          "source": "E03-T06-R073",
+          "locator": "Original PDF physical pages 5 to 6, Discussion and Conclusion"
+        }
+      ]
+    }
+  ],
+  "E02-T03-R147": [
+    {
+      "title": "Different analyses and a mixed symptom pattern",
+      "paragraphs": [
+        {
+          "text": "The cohort estimates ambient exposure from fixed transmitters at home and school rather than measuring each adolescent's absorbed dose. That question differs from exposure to a phone used close to the body. Cross-sectional, follow-up and exposure-change analyses also ask different temporal questions, so their results should not be treated as interchangeable measurements of a single health effect.",
+          "source": "E02-T03-R147",
+          "locator": "Original PDF physical pages 2 to 3, propagation-model methods; pages 6 to 7, interpretation"
+        },
+        {
+          "text": "The symptom pattern is mixed: some cohort comparisons indicate more tiredness or concentration difficulty, while the change analyses include inverse associations and the cross-sectional comparisons do not show an overall association. The authors call for confirmation in light of the many analyses. Keeping positive, null and inverse findings visible avoids replacing this pattern with an absolute claim of either harm or no effect. Related HERMES reports also need an overlap check before counting independent confirmation.",
+          "source": "E02-T03-R147",
+          "locator": "Original PDF physical pages 6 to 8, Table, Discussion and Conclusions"
+        }
+      ]
+    }
+  ],
+  "E03-T06-R149": [
+    {
+      "title": "A listed phone rating is not a measured fetal dose",
+      "paragraphs": [
+        {
+          "text": "Mothers recalled phone use, and the investigators assigned a SAR value from the reported phone brand and model. The listed rating and reported use time are different exposure proxies. Neither directly measures the energy absorbed by the mother or fetus during ordinary use. The hospital sample and exclusions also define which pregnancies the comparison can describe, rather than all phone users.",
+          "source": "E03-T06-R149",
+          "locator": "Original PDF physical pages 2 to 3, Material and Methods and Results"
+        },
+        {
+          "text": "The report found a phone-rating association with small-for-gestational-age birth while reported daily use time did not show the same pattern. Its receiver-operating-characteristic cutoff was derived within this selected dataset. Without independent validation or an adjusted causal comparison, that cutoff is not an established safety boundary or a tool for predicting an individual pregnancy. The source-specific covariate-table inconsistency remains unresolved, and numerical estimates are withheld pending review.",
+          "source": "E03-T06-R149",
+          "locator": "Original PDF physical pages 3 to 5, Results, tables, Discussion and Conclusion"
+        }
+      ]
+    }
+  ],
+  "E06-T11-R168": [
+    {
+      "title": "Workplace maxima are a screening perspective",
+      "paragraphs": [
+        {
+          "text": "This review assembles published workplace measurements and accident reports rather than following a new cohort for disease. It emphasizes reported high values to identify settings where occupational action levels may be exceeded. Industrial dielectric heating, work near transmitters and maintenance scenarios therefore need their own context. A maximum selected from a publication is not automatically a worker's typical personal exposure.",
+          "source": "E06-T11-R168",
+          "locator": "Original PDF physical pages 9 to 11, Discussion and limitations"
+        },
+        {
+          "text": "The exposure comparison depends on averaging conditions, operating cycles, the relevant field quantity and whether several sources contribute. Measurements selected for high-exposure scenarios do not describe the prevalence of those conditions throughout an industry. They also do not estimate long-term disease incidence. The review's maintenance and accident examples should remain distinct from ordinary use of intact household equipment, and underlying reports require deduplication before being counted as independent evidence.",
+          "source": "E06-T11-R168",
+          "locator": "Original PDF physical pages 10 to 11, Discussion, frequency components and representativeness limits"
+        }
+      ]
+    }
+  ],
+  "E01-T01-R022": [
+    {
+      "title": "Overall use and recalled side of use",
+      "paragraphs": [
+        {
+          "text": "The North European case-control analysis did not find an overall increase for regular mobile-phone use in its observed history. A same-side finding in longer use remains part of the result, rather than being erased by that overall summary. Those comparisons use reported call histories and side of use; they are not direct measurements of absorbed energy or a complete test of lifetime exposure.",
+          "source": "E01-T01-R022",
+          "locator": "Original PDF physical pages 5 to 6, Discussion and summary"
+        },
+        {
+          "text": "Tumour-related hearing loss can lead someone to change ears before diagnosis, while remembering use after diagnosis can introduce a different bias. The paper discusses these competing problems when interpreting laterality. An apparent same-side association therefore needs more than a simple causal reading. This report also contains the earlier Swedish component and belongs to INTERPHONE, so those related reports should not be counted again as independent cohorts.",
+          "source": "E01-T01-R022",
+          "locator": "Original PDF physical pages 5 to 6, Discussion of hearing loss, recall and related reports"
+        }
+      ]
+    }
+  ],
+  "E04-T08-R052": [
+    {
+      "title": "Task changes and reported call behavior",
+      "paragraphs": [
+        {
+          "text": "The longitudinal child study compares changes in reported mobile and cordless voice calls with changes in cognitive tasks. Response time, errors and interference ratios describe different task outcomes. The isolated changes do not all point in the same direction, and the authors describe limited evidence for a consistent association. Combining them into a single claim of better or worse cognition would lose that distinction.",
+          "source": "E04-T08-R052",
+          "locator": "Original PDF physical pages 7 to 8, Table and Discussion/Conclusions"
+        },
+        {
+          "text": "Reported call counts are behavior proxies, and parent and child reports differed. Low use, dropout, short follow-up and many comparisons limit interpretation, while transformed task scales require care before describing clinical importance. Earlier cross-sectional ExPOSURE reports come from the same programme rather than an independent replication. These comparisons do not isolate absorbed RF dose from other correlates of phone use or establish a clinical developmental outcome.",
+          "source": "E04-T08-R052",
+          "locator": "Original PDF physical pages 2 to 3, Methods; pages 7 to 8, Discussion and limitations"
+        }
+      ]
+    }
+  ],
+  "E02-T03-R222": [
+    {
+      "title": "Resting brain spectra and multiple comparisons",
+      "paragraphs": [
+        {
+          "text": "The experiment compares a specified laboratory exposure with sham during resting waking EEG recordings. A signal occupying a band used by mobile networks does not reproduce every deployed waveform, traffic pattern or near-head use condition. EEG spectral power is a physiological measurement, rather than a direct test of cognition, a sleep diagnosis or a clinical disease outcome.",
+          "source": "E02-T03-R222",
+          "locator": "Main PDF physical pages 2 to 6, design, exposure system, EEG processing and Statistics"
+        },
+        {
+          "text": "Isolated nominal electrode differences did not survive the reported cluster-based correction. That distinction matters when many bands, sensors, time periods and eye conditions are compared. The overall nonsignificant pattern should not be converted into proof that every possible exposure has no effect. The protocol is acute, and complete corrected-output reproducibility, scientific appraisal and human review remain pending.",
+          "source": "E02-T03-R222",
+          "locator": "Main PDF physical pages 6 and 14 to 16, analysis, Discussion and Conclusions"
+        }
+      ]
+    }
+  ],
+  "E03-T06-R054": [
+    {
+      "title": "Earlier outcome recording and later exposure recall",
+      "paragraphs": [
+        {
+          "text": "This birth-cohort analysis uses early maternal reports of motor and cognitive/language milestones. The later questionnaire asked mothers to remember phone use during pregnancy. A cohort framework therefore does not make the exposure recollection a prospectively measured dose. Recalled calling behavior and carrying location also do not directly measure absorbed energy reaching the fetus.",
+          "source": "E03-T06-R054",
+          "locator": "Main PDF physical pages 3 to 4, printed pages 342 to 343, Methods"
+        },
+        {
+          "text": "The report found no coherent overall adverse association or use-pattern gradient in these early milestones. Isolated inverse item associations do not establish developmental benefit. Selection, missing outcomes and questionnaire screening limits remain, and numerical reporting discrepancies have not been resolved. Related later-behavior reports from the same cohort concern different endpoints and do not become independent birth-cohort replications. These findings do not establish universal prenatal safety.",
+          "source": "E03-T06-R054",
+          "locator": "Main PDF physical pages 5 to 8, printed pages 344 to 347, Results, Tables and Discussion"
+        }
+      ]
+    }
+  ],
+  "E05-T09-R435": [
+    {
+      "title": "Cell assays, chemical challenge and clinical inference",
+      "paragraphs": [
+        {
+          "text": "The cultured neuroblastoma cells were compared under magnetic-field and sham conditions, with and without a menadione challenge. The report found no significant difference in comet-assay DNA damage or repair, or cytosolic superoxide. A lower chemically challenged ROS signal and small gene-expression changes describe particular assay conditions. They do not establish that the field alone damaged cells or that a lower fluorescence response protects people from cancer.",
+          "source": "E05-T09-R435",
+          "locator": "Main PDF physical pages 6 to 10, Results, Figures and Conclusion"
+        },
+        {
+          "text": "Gene-expression screening was explicitly exploratory, without a multiple-testing correction. Few independent culture experiments and unavailable supplementary tables limit reproducibility and interpretation. A significant result at one tested frequency and a nonsignificant result at another do not, by themselves, demonstrate a difference between frequencies. The proposed signaling or adaptation explanation remains an interpretation, and this cell-line experiment does not establish human harm or benefit.",
+          "source": "E05-T09-R435",
+          "locator": "Main PDF physical page 5, Statistics; pages 8 to 10, Discussion and Conclusion; supplementary-data review remains incomplete"
+        }
+      ]
+    }
   ]
 }

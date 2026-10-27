@@ -1,0 +1,59 @@
+{
+  "atUTC": "2026-10-27T09:37:58.767979+00:00",
+  "preview": "http://127.0.0.1:5177",
+  "browser": "supported IAB temporarytab12 nowclosed/viewportreset",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "priorPartialReceipt": "fill-thin-6-root-browser-partial7.json",
+  "priorPartialSHA256": "3db3be408df1fbd7db9c2e2aa30fcd918a6ac8035b7baeb79b3d7792cb4e6f92",
+  "checks": [
+    {
+      "path": "/research/E02-T03-R222",
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "notesPresent": true,
+      "externalNoteLinks": 2,
+      "publicEmEnDashes": 0,
+      "reviewPending": true,
+      "appraisalPreviewPresent": false
+    },
+    {
+      "path": "/research/E03-T06-R054",
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "notesPresent": true,
+      "externalNoteLinks": 2,
+      "publicEmEnDashes": 0,
+      "reviewPending": true,
+      "appraisalPreviewPresent": false
+    },
+    {
+      "path": "/research/E05-T09-R435",
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "notesPresent": true,
+      "externalNoteLinks": 2,
+      "publicEmEnDashes": 0,
+      "reviewPending": true,
+      "appraisalPreviewPresent": false
+    }
+  ],
+  "newNoteTextRead": 3,
+  "visualSections": [
+    "/research/E03-T06-R054#reading-notes",
+    "/research/E05-T09-R435#reading-notes"
+  ],
+  "visualResult": "Inspected note sections readable,source linked with locators/no clipping or overflow. R222 acuteEEG/multiplicity/no universal no-effect, R054 later recall versus fetal dose/no safety generalization, R435 exploratory cells/assays/no human harm or benefit language retained. No imported appraisal previews on restored3.",
+  "boundedConsole": {
+    "queryLimit": 15,
+    "levels": [
+      "warn",
+      "error"
+    ],
+    "entries": [],
+    "limitation": "Empty bounded console query does not certify no network errors."
+  },
+  "scope": "Final3afterElon11:37granted3restorations; combinedwithfrozenpartial7 mobile10boundedPASS. No scientific/human/releaseapproval."
+}

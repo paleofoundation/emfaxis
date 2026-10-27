@@ -1,0 +1,119 @@
+[
+  {
+    "id": "E01-T01-R022",
+    "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/full-rollout/owned/files/E01-T01-R022.pdf",
+    "source_sha256": "c76f52e1e0856fd4ddaec5c2e0f1a97213088f702c996be839693a35b78d90b2",
+    "binding": "full-rollout/owned/receipt.json and original_file_manifest",
+    "canonical_record_fingerprint_unchanged": "ee1dd0b89ecb3b3e8187858328585d941f8cffd0bd980e8ef6adbde25af60e40",
+    "fingerprint_semantics": "Canonical ingested source record version hash, not raw PDF hash (full-rollout/ingest.py lines50/83)",
+    "doi": "10.1038/sj.bjc.6602764",
+    "source_url": "https://doi.org/10.1038/sj.bjc.6602764",
+    "fresh_text_sha256": "25ced7ca3c30d66ec6ff3a36d38959720f706b01bde42152db5481059186acb8",
+    "physical_pages_read": [
+      5,
+      6
+    ],
+    "scope": "Selected original passages, not full scientific review"
+  },
+  {
+    "id": "E01-T01-R127",
+    "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/full-rollout/owned/files/E01-T01-R127.pdf",
+    "source_sha256": "ee7096853b0d4efc2b7f55789e3558339bd409b0f82554b89af5f40d485a25ff",
+    "binding": "full-rollout/owned/receipt.json and original_file_manifest",
+    "canonical_record_fingerprint_unchanged": "ce1ffe60d8dd2500bba4e5dd78883f41cc1162d14afae3a2b1ba40c5761f052c",
+    "fingerprint_semantics": "Canonical ingested source record version hash, not raw PDF hash (full-rollout/ingest.py lines50/83)",
+    "doi": "10.3892/ijo.2013.2025",
+    "source_url": "https://doi.org/10.3892/ijo.2013.2025",
+    "fresh_text_sha256": "890d31a7825983dfe6cc52a5bededc9e688c363d546f0b62f50f303db28436f4",
+    "physical_pages_read": [
+      6,
+      7
+    ],
+    "scope": "Selected original passages, not full scientific review"
+  },
+  {
+    "id": "E02-T03-R147",
+    "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/corpus/raw/78f0a88cfe9a4f51c846a7c8145b58bc3e8b3735566303a4e165f8977f41a4bf.pdf",
+    "source_sha256": "78f0a88cfe9a4f51c846a7c8145b58bc3e8b3735566303a4e165f8977f41a4bf",
+    "binding": "archive-appraisal/verification/preview-decisions/E02-T03-R147.json (identity only; no historicalPASStransfer)",
+    "canonical_record_fingerprint_unchanged": "a4f9beaaceec866a98bc95624ed5bde99e3eeb5af0734aa81e32e0193cc5ba97",
+    "fingerprint_semantics": "Canonical ingested source record version hash, not raw PDF hash (full-rollout/ingest.py lines50/83)",
+    "doi": "10.1186/s12940-016-0158-4",
+    "source_url": "https://doi.org/10.1186/s12940-016-0158-4",
+    "fresh_text_sha256": "c0b6bbe95f278f0576add18448efffd24cc603d99a5e5f26130de3e701d3e614",
+    "physical_pages_read": [
+      6,
+      7,
+      8
+    ],
+    "scope": "Selected original passages, not full scientific review"
+  },
+  {
+    "id": "E03-T06-R073",
+    "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/full-rollout/owned/files/E03-T06-R073.pdf",
+    "source_sha256": "d86ec0a831d232ae275ba7189ea0eba1dec6d3eb25cca8892df4ab642cabe9bd",
+    "binding": "full-rollout/owned/receipt.json and original_file_manifest",
+    "canonical_record_fingerprint_unchanged": "05663d95470315530165835f4659177549a6413cf974dc1cf777e8ef5cc90334",
+    "fingerprint_semantics": "Canonical ingested source record version hash, not raw PDF hash (full-rollout/ingest.py lines50/83)",
+    "doi": "10.1371/journal.pone.0082113",
+    "source_url": "https://doi.org/10.1371/journal.pone.0082113",
+    "fresh_text_sha256": "ddbee8a17e8fc9d785f398ce0e1a13b92bad8fae756fd97788409b0ccda8b56c",
+    "physical_pages_read": [
+      5,
+      6
+    ],
+    "scope": "Selected original passages, not full scientific review"
+  },
+  {
+    "id": "E03-T06-R149",
+    "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/corpus/raw/1efa019214ca44b375dfca966e52dfe2fd8dedcdfded9120b4178da307f2bd9e.pdf",
+    "source_sha256": "1efa019214ca44b375dfca966e52dfe2fd8dedcdfded9120b4178da307f2bd9e",
+    "binding": "archive-appraisal/verification/preview-decisions/E03-T06-R149.json (identity only; no historicalPASStransfer)",
+    "canonical_record_fingerprint_unchanged": "20c7b5d1e2b091cface5007ca5e9b8b14238c6c8009246d44fa1d9b499faddc0",
+    "fingerprint_semantics": "Canonical ingested source record version hash, not raw PDF hash (full-rollout/ingest.py lines50/83)",
+    "doi": "10.4274/jtgga.galenos.2023.2022-10-1",
+    "source_url": "https://doi.org/10.4274/jtgga.galenos.2023.2022-10-1",
+    "fresh_text_sha256": "c38b08fc9c28688ad2bf4d1edacca21c5fe125e91c4e8854bf108bc061df247b",
+    "physical_pages_read": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "scope": "Selected original passages, not full scientific review"
+  },
+  {
+    "id": "E04-T08-R052",
+    "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/corpus/raw/87d036b80e51f88479e3fb08b5154fb6516a06219a064b041886f5e936adc3a5.pdf",
+    "source_sha256": "87d036b80e51f88479e3fb08b5154fb6516a06219a064b041886f5e936adc3a5",
+    "binding": "archive-appraisal/verification/preview-decisions/E04-T08-R052.json (identity only; no historicalPASStransfer)",
+    "canonical_record_fingerprint_unchanged": "ee6dec481564cf7239da1d1ea7df0568e1bc6b9779a7b5b729aba81fef8fb7ea",
+    "fingerprint_semantics": "Canonical ingested source record version hash, not raw PDF hash (full-rollout/ingest.py lines50/83)",
+    "doi": "10.1186/s12940-017-0250-4",
+    "source_url": "https://doi.org/10.1186/s12940-017-0250-4",
+    "fresh_text_sha256": "059b8302ab89c9e01dbaef39dbb08d6e63b2f4a032e8f5953ee37be568bde774",
+    "physical_pages_read": [
+      6,
+      7,
+      8
+    ],
+    "scope": "Selected original passages, not full scientific review"
+  },
+  {
+    "id": "E06-T11-R168",
+    "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/full-rollout/owned/files/E06-T11-R168.pdf",
+    "source_sha256": "e65081c9e03718927be0fbda7a14e3272b3c67377eacde5c74103817bb858742",
+    "binding": "full-rollout/owned/receipt.json and original_file_manifest",
+    "canonical_record_fingerprint_unchanged": "8f659d7623f96ee9cbd9c5760ed085db4415dcde6f4a33e89a3a74b66d409be6",
+    "fingerprint_semantics": "Canonical ingested source record version hash, not raw PDF hash (full-rollout/ingest.py lines50/83)",
+    "doi": "10.2486/indhealth.2021-0129",
+    "source_url": "https://doi.org/10.2486/indhealth.2021-0129",
+    "fresh_text_sha256": "ab59b53bb682c4ffdadb5fe392f6564957de38b40f15f7a8dbd09d339431a651",
+    "physical_pages_read": [
+      9,
+      10,
+      11
+    ],
+    "scope": "Selected original passages, not full scientific review"
+  }
+]
