@@ -1,0 +1,9 @@
+{
+  "status": "V2_NARROWER_SOURCE_WORDING",
+  "V1_sha256": "bf935ac8947e952c2be6231ce4d6f2f661378089f5e23e2b8665d2ccd3b8a2e3",
+  "V2_sha256": "41582dbbddccfe96ae272f05b5a70782b9c3a6b274744efe9b3dfd48c7846fce",
+  "changed_paragraphs": 1,
+  "other11_exact": true,
+  "only_change": "MRI switched low-frequency fields -> low-frequency fields; no other prose/source/locator changes",
+  "V1_private_history": "work/fill-thin-14/receipt-history"
+}

@@ -1,0 +1,8 @@
+{
+  "status": "BOUNDED_FINAL6_PASS",
+  "receipt": "ROOT-BROWSER-FINAL.json",
+  "receipt_sha256": "ffd6b50d58dab908c30c8e76998c657b586bd13a82cd9b6059ad5f42ecbb91ea",
+  "source_audit_sha256": "dffd42b30b8a7be9c2d418e8ab8bc1039102383a4b0804645f2403418b9382e8",
+  "notes_sha256": "41582dbbddccfe96ae272f05b5a70782b9c3a6b274744efe9b3dfd48c7846fce",
+  "scope": "Actual root CUA6mobile12exactDOM text/sourcehref/locator tuples,390px body/document,publicdashes0,pendingtrue,mobilephone note wrapping visual. Initial verifier object-key serialization corrected to alphabetical CUA order; no public change. No scientific/numeric/human/release approval"
+}

@@ -1,0 +1,202 @@
+{
+  "at": "2026-10-27T14:14:19.614032+00:00",
+  "result": "PASS_BOUNDED_EXACT12_PARAGRAPHS_SIX_EXISTING_TARGETS",
+  "candidateSha256": "41582dbbddccfe96ae272f05b5a70782b9c3a6b274744efe9b3dfd48c7846fce",
+  "patchSha256": "0b60a211ced96051b2cb7d6da1320fe18d1f83f9d8bd47ce8e70c57795079a24",
+  "bindingsSha256": "2f686cd372e00b1a4f5f0b8fbb2d96e9aa793f2c3f77a5986c8ddc35cf7b018b",
+  "rootFreshBindings": [
+    {
+      "id": "icnirp-static",
+      "archive_report_alias": "icnirp-static",
+      "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/full-rollout/sources/official/icnirp-static.html",
+      "source_sha256": "05c47e84317a7ad99feab4eaa5bcbbe10b08cbeb588ab89bba26ae10fab5bd2d",
+      "fresh_text_file": "/Users/kmfp/Documents/Codex/2026-10-25/you-are-conductor-the-single-codex/work/fill-thin-14/direct-source-extractions/icnirp-static.txt",
+      "fresh_text_sha256": "dc8925f3b56131cddbfc4c9dbdd73c5515640a4449cb52c57b031fd713f36e84",
+      "scope": "Fresh selected original passages; no scientific/numeric/human/release approval",
+      "rootFreshText": "work/conductor-source-review/thin14/icnirp-static.txt",
+      "rootFreshTextSha256": "de591824e7046d13ca0cb18865dfa34ac5fc9ec1e61b318653d468e8ef35031f"
+    },
+    {
+      "id": "icnirp-mri",
+      "archive_report_alias": "icnirp-mri",
+      "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/full-rollout/sources/official/icnirp-mri.html",
+      "source_sha256": "71cc4e65625b881060466065b8da7c72d0a47ff09ef1eae2b2f7686af2570936",
+      "fresh_text_file": "/Users/kmfp/Documents/Codex/2026-10-25/you-are-conductor-the-single-codex/work/fill-thin-14/direct-source-extractions/icnirp-mri.txt",
+      "fresh_text_sha256": "7b342be840292824c5e9a75303c0c94612cec1387c81d8ae9897413046c4273f",
+      "scope": "Fresh selected original passages; no scientific/numeric/human/release approval",
+      "rootFreshText": "work/conductor-source-review/thin14/icnirp-mri.txt",
+      "rootFreshTextSha256": "e1298913d896ffed4bf16c7649825a53a17e8d57c389621af5d729639205a4e0"
+    },
+    {
+      "id": "foph-mobile",
+      "archive_report_alias": "foph-mobile",
+      "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/full-rollout/sources/official/foph-mobile.pdf",
+      "source_sha256": "e061b2ecc2b6c8b76cc62f4269d9293d9717405ff52e66cc9dd2591b74ce34be",
+      "fresh_text_file": "/Users/kmfp/Documents/Codex/2026-10-25/you-are-conductor-the-single-codex/work/fill-thin-14/direct-source-extractions/foph-mobile.txt",
+      "fresh_text_sha256": "7ff94f7363dcd579f88932d1423662cdfbbb7cf0573afbe29b9453abe7b6b4b9",
+      "scope": "Fresh selected original passages; no scientific/numeric/human/release approval",
+      "rootFreshText": "work/conductor-source-review/thin14/foph-mobile.txt",
+      "rootFreshTextSha256": "7ff94f7363dcd579f88932d1423662cdfbbb7cf0573afbe29b9453abe7b6b4b9"
+    },
+    {
+      "id": "E02-T04-R161",
+      "archive_report_alias": "E02-T04-R161",
+      "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/continuation/root-recovery/R161-PMC7272128.1.xml",
+      "source_sha256": "43c1ed7eb326a91cb5922f95a8fd66e04aabe33e68b08e7fd63df1b165804ba0",
+      "fresh_text_file": "/Users/kmfp/Documents/Codex/2026-10-25/you-are-conductor-the-single-codex/work/fill-thin-14/direct-source-extractions/E02-T04-R161.txt",
+      "fresh_text_sha256": "a76b2ec79230f02f3c4e75bacf921e17ebd476b83aa0ce256094392f8e6618b9",
+      "scope": "Fresh selected original passages; no scientific/numeric/human/release approval",
+      "review_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/reviews/continuation-root/E02-T04-R161.json",
+      "current_review_sha256": "fa566d56ed7dcb26f8a6c997ba3c50202cff18323931d085486d77b65f060f61",
+      "decision_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/verification/preview-decisions/E02-T04-R161.json",
+      "decision_sha256": "e7a44a0938ebfd6d50d81bcac5d296b62b54c6d06a20fffdedb056604ad9ff45",
+      "historical_review_hash": "dc550412892cbeb4608d124f9624f38ed7fc6f505f72fbcca16a209550cd9a2d",
+      "review_hash_matches": false,
+      "rootFreshText": "work/conductor-source-review/thin14/E02-T04-R161.txt",
+      "rootFreshTextSha256": "4e6341d8e9c6c6a20b77097dd0feba68e9600f543311f6b34bfbc2736fc7a650"
+    },
+    {
+      "id": "foph-baby-monitors",
+      "archive_report_alias": "foph-baby-monitors",
+      "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/full-rollout/sources/official/foph-baby-monitors.pdf",
+      "source_sha256": "dd22eec35269f966f737d6bb9676b1b7b72892d9dd7eb5fbaf9c896384eee68a",
+      "fresh_text_file": "/Users/kmfp/Documents/Codex/2026-10-25/you-are-conductor-the-single-codex/work/fill-thin-14/direct-source-extractions/foph-baby-monitors.txt",
+      "fresh_text_sha256": "77e51849b9dda47e551773eca486d9e132176eb4bd672c344e44ca430085cbbf",
+      "scope": "Fresh selected original passages; no scientific/numeric/human/release approval",
+      "rootFreshText": "work/conductor-source-review/thin14/foph-baby-monitors.txt",
+      "rootFreshTextSha256": "77e51849b9dda47e551773eca486d9e132176eb4bd672c344e44ca430085cbbf"
+    },
+    {
+      "id": "E02-T03-R227",
+      "archive_report_alias": "E02-T03-R227",
+      "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/corpus/raw/6c065c6d15189b75cff69798314aa44719eb4d1591e0a6547b1ffae00ddcb6a0.pdf",
+      "source_sha256": "6c065c6d15189b75cff69798314aa44719eb4d1591e0a6547b1ffae00ddcb6a0",
+      "fresh_text_file": "/Users/kmfp/Documents/Codex/2026-10-25/you-are-conductor-the-single-codex/work/fill-thin-14/direct-source-extractions/E02-T03-R227.txt",
+      "fresh_text_sha256": "652eef5482d8e334d797d7badbc08abda237170bad9f840bba769445a24dbc87",
+      "scope": "Fresh selected original passages; no scientific/numeric/human/release approval",
+      "review_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/reviews/continuation-v5-a/E02-T03-R227.json",
+      "current_review_sha256": "72e88d3c11c37eb3958c8aae6d2cb7f5894d6fd00731843c4fa0cd424af266ba",
+      "decision_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/verification/preview-decisions/E02-T03-R227.json",
+      "decision_sha256": "91936d169cf8b030acac5add3b339bab564f374d8ef3ce2920210db865123843",
+      "historical_review_hash": "5123d0eea44f7c7e7b39f6ee59a21b8f3026f3ab268615b9d50aa10756a29bdb",
+      "review_hash_matches": false,
+      "rootFreshText": "work/conductor-source-review/thin14/E02-T03-R227.txt",
+      "rootFreshTextSha256": "652eef5482d8e334d797d7badbc08abda237170bad9f840bba769445a24dbc87"
+    },
+    {
+      "id": "icnirp-rf",
+      "archive_report_alias": "icnirp-rf",
+      "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/full-rollout/sources/official/icnirp-rf.html",
+      "source_sha256": "95f233c22543f3840568c14db45a1acf6159f24dfb57329c56d8c36bd949437b",
+      "fresh_text_file": "/Users/kmfp/Documents/Codex/2026-10-25/you-are-conductor-the-single-codex/work/fill-thin-14/direct-source-extractions/icnirp-rf.txt",
+      "fresh_text_sha256": "f076749753aba841614be8d76a16ba2d889ec4cfaf74d99ab2658c4d0bc86864",
+      "scope": "Fresh selected original passages; no scientific/numeric/human/release approval",
+      "rootFreshText": "work/conductor-source-review/thin14/icnirp-rf.txt",
+      "rootFreshTextSha256": "b09ea03531eb71a058623d090ba53734d4a04528267ffa676b820ad1b5a27ea1"
+    },
+    {
+      "id": "E06-T11-R114",
+      "archive_report_alias": "E06-T11-R114",
+      "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/corpus/raw/a9080e9e5ae03a59f78121bc385300cef95071c8e08e6dc0a01e32b65927c552.pdf",
+      "source_sha256": "a9080e9e5ae03a59f78121bc385300cef95071c8e08e6dc0a01e32b65927c552",
+      "fresh_text_file": "/Users/kmfp/Documents/Codex/2026-10-25/you-are-conductor-the-single-codex/work/fill-thin-14/direct-source-extractions/E06-T11-R114.txt",
+      "fresh_text_sha256": "65bfdbb9fd46e37fb1f460f6c35ca739c5b574da871bcc6ac1e7faa1530e744e",
+      "scope": "Fresh selected original passages; no scientific/numeric/human/release approval",
+      "review_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/reviews/continuation-v5-a/E06-T11-R114.json",
+      "current_review_sha256": "129d6ed45570b353653455ac78b07602bfeac8acc22700b771ae6311c95f1c6b",
+      "decision_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/verification/preview-decisions/E06-T11-R114.json",
+      "decision_sha256": "a16179723b773af50e3c7bee6ef94a90d6fa148795ae0283941d75309cf2453c",
+      "historical_review_hash": "388d88e36fb744630fb99982ede3a4ab019fe5ad5ed1b65a96a6874afae27cb6",
+      "review_hash_matches": false,
+      "rootFreshText": "work/conductor-source-review/thin14/E06-T11-R114.txt",
+      "rootFreshTextSha256": "65bfdbb9fd46e37fb1f460f6c35ca739c5b574da871bcc6ac1e7faa1530e744e"
+    },
+    {
+      "id": "E03-T05-R297",
+      "archive_report_alias": "E03-T05-R297",
+      "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/continuation/a/recovery/R297-recovered-protocol.xml",
+      "source_sha256": "58ab3ea81a43af64f1931f6651fd0ce893be952f8e26c1841302098b34b1d782",
+      "fresh_text_file": "/Users/kmfp/Documents/Codex/2026-10-25/you-are-conductor-the-single-codex/work/fill-thin-14/direct-source-extractions/E03-T05-R297.txt",
+      "fresh_text_sha256": "8d0179bc0b8966f95410b948c5f02e0ef1f3d5932f59b42d8c053d7d7778c659",
+      "scope": "Fresh selected original passages; no scientific/numeric/human/release approval",
+      "rootFreshText": "work/conductor-source-review/thin14/E03-T05-R297.txt",
+      "rootFreshTextSha256": "2fdeb193e0b8f3a1773cdbbc3736390345bfebfb56c87595e029ccdc6755628f"
+    },
+    {
+      "id": "million-women",
+      "archive_report_alias": "E01-T01-R222",
+      "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/corpus/raw/b58f11309819761ae33981e7aab41078cbc906eae58c30a46a6fc6b5f4c0dcd8.pdf",
+      "source_sha256": "b58f11309819761ae33981e7aab41078cbc906eae58c30a46a6fc6b5f4c0dcd8",
+      "fresh_text_file": "/Users/kmfp/Documents/Codex/2026-10-25/you-are-conductor-the-single-codex/work/fill-thin-14/direct-source-extractions/million-women.txt",
+      "fresh_text_sha256": "abf7cc3ce9f9825093a48ebc8e63d37b0eee9f1050fbd431973aed2db94e0009",
+      "scope": "Fresh selected original passages; no scientific/numeric/human/release approval",
+      "review_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/reviews/owned/E01-T01-R222.json",
+      "current_review_sha256": "ccda959882944de38a2ea098f8c84a8767103d642a7982ab8427b532abecba30",
+      "rootFreshText": "work/conductor-source-review/thin14/million-women.txt",
+      "rootFreshTextSha256": "abf7cc3ce9f9825093a48ebc8e63d37b0eee9f1050fbd431973aed2db94e0009"
+    }
+  ],
+  "targets": [
+    "field-static",
+    "question-sleeping-near-phone",
+    "source-baby-monitors",
+    "guide-exposure-measurement",
+    "research-progress",
+    "source-mobile-phones"
+  ],
+  "scope": "All twelve candidate paragraphs and scoped five-file integration reviewed. Selected original passages read using fresh root extractions; no claim of full scientific source appraisal. V1 retained; V2 only removes switched before low-frequency fields.",
+  "rootSelectedScopes": {
+    "icnirp-static": "Characteristics, effects, protection",
+    "icnirp-mri": "Characteristics and protection, patient/personnel",
+    "foph-mobile": [
+      1
+    ],
+    "foph-baby-monitors": [
+      1,
+      2,
+      3
+    ],
+    "icnirp-rf": "Protection, basic restrictions and reference levels",
+    "E02-T04-R161": "Native XML Methods 2.1-2.4 and Strength and limitations",
+    "E03-T05-R297": "Native XML abstract eligibility/appraisal/synthesis, Methods and Table1",
+    "E02-T03-R227": [
+      2,
+      3,
+      5,
+      8
+    ],
+    "E06-T11-R114": [
+      2,
+      3,
+      7
+    ],
+    "million-women": [
+      2,
+      6
+    ]
+  },
+  "qualifications": [
+    "Static source versus moving person; MRI components and medical patient versus personnel context. No household-magnet clinical generalization.",
+    "COSMOS baseline operator calling and network proxy versus later modified questionnaire outcomes; no follow-up exposure history, no clinical insomnia duration/frequency, no bedside placement or light trial.",
+    "FOPH audio/video/network/phone functions and excluded physiological monitoring; modified adult active/sham pilot, missing/different recording sets and variable home placement. No infant alert benefit or universal device switch-off advice.",
+    "ICNIRP external reference levels versus absorbed basic restrictions; Australian walk-through/stationary averages/maxima and specified network activity, predominantly empty rooms and limited occupied comparisons. No organ dose or health outcome inferred.",
+    "R297 planned mammal and human-sperm in-vitro systematic review protocol is not a completed fertility trial, result or grade. Exact recovered native identities used; misfiled PDFs excluded.",
+    "Million Women prospective reported phone use and registry follow-up; simple exposure history, missing technology, laterality and rare outcome uncertainty, middle/older women population retained.",
+    "Three historical review hash mismatches R161/R227/R114 disclosed, no prior PASS transfer. No new numerical claims or canonical objects."
+  ],
+  "integration": {
+    "reviewedFiles": [
+      "lib/thin-fill.json",
+      "components/emf/topic-page.tsx",
+      "components/emf/editorial-page.tsx",
+      "components/emf/research-section.tsx",
+      "app/research/progress/page.tsx"
+    ],
+    "constraints": "Default-false punctuation display flag enabled only selected exposure-measurement/mobile-phones; mobile display clones only and Japan-Korea retained as hyphen. Selected static/baby/sleep locator normalization only. Existing sleeping phrase hold to keep avoids audit false positive; genuine holds retained. No source object/analyzer/allowlist/host/counter changes.",
+    "requiredNext": "Build and all270 route fixtures,264 unselected DOM exact, prior130 notes and944 sealed hashes exact, source tuples and mobile six pages before seal/push."
+  },
+  "scientificApproval": false,
+  "humanApproval": false,
+  "newGrade": 0,
+  "releaseApproval": false
+}

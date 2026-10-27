@@ -1,0 +1,14 @@
+{
+  "public_inputs": {
+    "lib/thin-fill.json": "907fbccf2c488ee852bbcddef5e7b22f2a7e7c8a1e4e847c663e8ac292f27e81",
+    "components/emf/topic-page.tsx": "a6702920bce44fd6585675a4cad2cc48b80a1314ca91720e708eddee390bd706",
+    "components/emf/editorial-page.tsx": "399cf64f1235748ad3222502585e1cc8d7fd7fd81c78a632bf4b1cfa0009b2b1",
+    "components/emf/research-section.tsx": "33cfcf3bb24d9314e5696b2e28261b17c57f3efec404ae0a2e3b17a13e640cf8",
+    "app/research/progress/page.tsx": "64be6ea6c402642d7528a60d77e6f24c20b93b69189dab2e79d70d756de33603"
+  },
+  "compiled_server_sha256": "8553573f706a94e3de5310a17ef4229688574b10279f2e0a81ad0c47985fa91e",
+  "local_config_sha256": "e2fc7fc436c369d6980d20ca1b9d42269115c61c36a1388a7708a4ed0f4c44b3",
+  "notes_sha256": "41582dbbddccfe96ae272f05b5a70782b9c3a6b274744efe9b3dfd48c7846fce",
+  "origin": "http://127.0.0.1:5177",
+  "session": 64349
+}

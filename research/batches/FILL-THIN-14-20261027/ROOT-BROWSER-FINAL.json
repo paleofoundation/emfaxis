@@ -1,0 +1,94 @@
+{
+  "at": "2026-10-27T14:22:12.501177+00:00",
+  "result": "PASS_FINAL_ALL6_MOBILE_EXACT12_DOM",
+  "method": "Actual CUA IAB tab28/390x844 six freshly navigated final routes; all twelve rendered text/sourcehref/locator tuple objects independently SHA256 matched. CUA evaluate serializes keys alphabetically; verifier uses sorted keys after initial unsorted verifier mismatch, no public change. Mobile-phones notes screenshot wrapping inspected. All main reader em/en dashes0 and width/body/document390. Own tab closed, viewport reset, no external source clicks.",
+  "notesSha256": "41582dbbddccfe96ae272f05b5a70782b9c3a6b274744efe9b3dfd48c7846fce",
+  "finalInputs": {
+    "lib/thin-fill.json": "907fbccf2c488ee852bbcddef5e7b22f2a7e7c8a1e4e847c663e8ac292f27e81",
+    "components/emf/topic-page.tsx": "a6702920bce44fd6585675a4cad2cc48b80a1314ca91720e708eddee390bd706",
+    "components/emf/editorial-page.tsx": "399cf64f1235748ad3222502585e1cc8d7fd7fd81c78a632bf4b1cfa0009b2b1",
+    "components/emf/research-section.tsx": "33cfcf3bb24d9314e5696b2e28261b17c57f3efec404ae0a2e3b17a13e640cf8",
+    "app/research/progress/page.tsx": "64be6ea6c402642d7528a60d77e6f24c20b93b69189dab2e79d70d756de33603"
+  },
+  "compiledServerSha256": "8553573f706a94e3de5310a17ef4229688574b10279f2e0a81ad0c47985fa91e",
+  "localPreviewConfigSha256": "e2fc7fc436c369d6980d20ca1b9d42269115c61c36a1388a7708a4ed0f4c44b3",
+  "sourceAuditSha256": "dffd42b30b8a7be9c2d418e8ab8bc1039102383a4b0804645f2403418b9382e8",
+  "rows": [
+    {
+      "id": "field-static",
+      "width": 390,
+      "bodyScrollWidth": 390,
+      "documentScrollWidth": 390,
+      "publicDashes": 0,
+      "humanReviewPending": true,
+      "paragraphs": 2,
+      "actualDomSha256": "eec4d6d2bb37984e46f7a903127c1046034a2ac66a0dd4d6b2fefb307bb6efcf",
+      "expectedSha256": "eec4d6d2bb37984e46f7a903127c1046034a2ac66a0dd4d6b2fefb307bb6efcf",
+      "matches": true
+    },
+    {
+      "id": "question-sleeping-near-phone",
+      "width": 390,
+      "bodyScrollWidth": 390,
+      "documentScrollWidth": 390,
+      "publicDashes": 0,
+      "humanReviewPending": true,
+      "paragraphs": 2,
+      "actualDomSha256": "c4e2c222fc80499262dee3f7411282877017a2732bc23efcbc7983fe6c597a9f",
+      "expectedSha256": "c4e2c222fc80499262dee3f7411282877017a2732bc23efcbc7983fe6c597a9f",
+      "matches": true
+    },
+    {
+      "id": "source-baby-monitors",
+      "width": 390,
+      "bodyScrollWidth": 390,
+      "documentScrollWidth": 390,
+      "publicDashes": 0,
+      "humanReviewPending": true,
+      "paragraphs": 2,
+      "actualDomSha256": "0699ddfe70f9becd9d63f67e38afe02f390598aad5241e09dc6d4cdaaac1e80e",
+      "expectedSha256": "0699ddfe70f9becd9d63f67e38afe02f390598aad5241e09dc6d4cdaaac1e80e",
+      "matches": true
+    },
+    {
+      "id": "guide-exposure-measurement",
+      "width": 390,
+      "bodyScrollWidth": 390,
+      "documentScrollWidth": 390,
+      "publicDashes": 0,
+      "humanReviewPending": true,
+      "paragraphs": 2,
+      "actualDomSha256": "a60ea8b689c5ec34674f0228ed702463b86ce13de1a2aa987073f2e5672a41aa",
+      "expectedSha256": "a60ea8b689c5ec34674f0228ed702463b86ce13de1a2aa987073f2e5672a41aa",
+      "matches": true
+    },
+    {
+      "id": "research-progress",
+      "width": 390,
+      "bodyScrollWidth": 390,
+      "documentScrollWidth": 390,
+      "publicDashes": 0,
+      "humanReviewPending": true,
+      "paragraphs": 2,
+      "actualDomSha256": "4c54158e2daec96e5b69fdfba116e5ce64e8baa5e1ba3207bb099c90945100d8",
+      "expectedSha256": "4c54158e2daec96e5b69fdfba116e5ce64e8baa5e1ba3207bb099c90945100d8",
+      "matches": true
+    },
+    {
+      "id": "source-mobile-phones",
+      "width": 390,
+      "bodyScrollWidth": 390,
+      "documentScrollWidth": 390,
+      "publicDashes": 0,
+      "humanReviewPending": true,
+      "paragraphs": 2,
+      "actualDomSha256": "dae79d6d1fca0cac89bf0b4739df7d17f025e46f9e3e7ff927f53f74c3433635",
+      "expectedSha256": "dae79d6d1fca0cac89bf0b4739df7d17f025e46f9e3e7ff927f53f74c3433635",
+      "matches": true
+    }
+  ],
+  "disclosedRepair": "Selected exposure-measurement module display RF\u2013sleep replaced RF-sleep; raw module exact, default-false flag/source objects unchanged. Final editorial399cf64f/server8553573f bound.",
+  "scientificAcceptance": false,
+  "humanApproval": false,
+  "released": false
+}

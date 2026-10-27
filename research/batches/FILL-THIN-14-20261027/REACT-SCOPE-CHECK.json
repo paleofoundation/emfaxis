@@ -1,0 +1,14 @@
+{
+  "status": "PASS_CONDENSED_SCOPED_REVIEW",
+  "scope": "Four TSX renderers and note data, six exact selected routes",
+  "hooks_state_effects_fetch": "No additions",
+  "normalizePunctuation_default": false,
+  "normalizePunctuation_enabled_only": [
+    "guide:exposure-measurement",
+    "source:mobile-phones"
+  ],
+  "raw_object_mutation": false,
+  "semantic_headings_and_source_links": true,
+  "negative_fixtures": "270 all routes,264unselected exactreaderDOM including FAQIDs,130priorvisiblebodies",
+  "no_scientific_numerical_human_release_approval": true
+}

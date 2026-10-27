@@ -1,0 +1,36 @@
+{
+  "id": "FILL-THIN-14",
+  "base": "32dea468209f1be358c54ba235963cbf5f001b50",
+  "branch": "codex/fill-thin-14",
+  "site_positions": [
+    131,
+    132,
+    133,
+    134,
+    135,
+    136
+  ],
+  "urls": [
+    "https://emfaxis.com/fields/static",
+    "https://emfaxis.com/questions/sleeping-near-phone",
+    "https://emfaxis.com/sources/baby-monitors",
+    "https://emfaxis.com/guides/exposure-measurement",
+    "https://emfaxis.com/research/progress",
+    "https://emfaxis.com/sources/mobile-phones"
+  ],
+  "ranking_total_emf_rows": 136,
+  "unavailable_requested_positions": [
+    137,
+    138,
+    139,
+    140
+  ],
+  "absent_base_canonical": [],
+  "prior_counts": {
+    "raw_sources": 96,
+    "note_objects": 130,
+    "qualitative_passages": 236,
+    "frozen_output_entries": 944
+  },
+  "policy": "Held corpus/source+locator/no newnumeric/publicdash/hostPDF; missingcanonGATEfirst; prior130notes/944hashes immutable; unchangedanalyzer4hosts UKHSAHELD"
+}

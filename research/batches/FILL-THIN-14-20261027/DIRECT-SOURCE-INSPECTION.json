@@ -1,0 +1,12 @@
+{
+  "status": "PASS_BOUNDED_SELECTED_SOURCE_FIDELITY",
+  "candidate_sha256": "41582dbbddccfe96ae272f05b5a70782b9c3a6b274744efe9b3dfd48c7846fce",
+  "source_bindings_sha256": "2f686cd372e00b1a4f5f0b8fbb2d96e9aa793f2c3f77a5986c8ddc35cf7b018b",
+  "originals": 10,
+  "paragraphs": 12,
+  "source_sections": "ICNIRP static/MRI/RF official sections; FOPH original mobilep1/babyp1to3; R227physical2to3/5to8; R114physical2to3/7; nativeR161Methods2.1to2.4 and Strength and limitations; nativeR297abstractObjectives/eligibility/appraisal; MillionWomenphysical2/6",
+  "new_notes_applied": false,
+  "no_scientific_numerical_human_release_approval": true,
+  "new_notes_applied_exact": true,
+  "root_receipt_sha256": "dffd42b30b8a7be9c2d418e8ab8bc1039102383a4b0804645f2403418b9382e8"
+}
