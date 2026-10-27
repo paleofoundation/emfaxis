@@ -1,0 +1,17 @@
+{
+  "status": "BOUNDED_FINAL10_PASS",
+  "root_receipt": {
+    "file": "ROOT-BROWSER-FINAL.json",
+    "sha256": "9c80c302d320884b0a96fd3b03c5ea46b2a7db0025944e24646a130912d1b409",
+    "scope": "Allten mobile390x844 body/document390, locators/links/pending,zero public dashes; four restored records no appraisal; EEG visual; console15empty"
+  },
+  "final_input_sha256": {
+    "app/glossary/[id]/page.tsx": "23725074e94097a729a1a8f25f22d8169b793e62039a9d16f950e57786e6c267",
+    "components/emf/recovered-record.tsx": "d21760f470f5c34a95ea2a36bbcc9d06544c58b5590504e8160654d25a3bc5fd",
+    "lib/thin-fill.json": "48427d2eb3e8b32c410e1d609cb1e2c620f63f9fbf6139c2c9b1d31d044b9a98",
+    "lib/recovered-sources.json": "edc673116ff017a6a08bc5fc50783f62a7eab65438b567a76ab3a8bde7398c7c",
+    "lib/archive-status.json": "7bf28dc9f8f223b2492fc41ed25af07b0e94a567f5021206a64f7dbd3d6d7932"
+  },
+  "input_binding": "Root independently rehashed allfive and confirmed in coordination message; exact root receipt retained",
+  "limits": "No scientific,numerical,human,release,network-wide or live-fix certification"
+}

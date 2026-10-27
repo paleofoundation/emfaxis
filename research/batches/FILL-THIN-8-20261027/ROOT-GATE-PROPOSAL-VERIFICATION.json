@@ -1,0 +1,61 @@
+{
+  "at": "2026-10-27T12:37:53.894534+02:00",
+  "status": "VERIFIED_CONCRETE_GATE_CANDIDATE_NOT_GRANT",
+  "base": "8f1cd4799ebad1f9396e603152437e92f4a597b2",
+  "candidate_sha256": "3aff0124dde7ddec308f18fb076a0bac6dd260f2878523ee783ad13d93e7a621",
+  "exact_absent_ids": [
+    "E02-T03-R248",
+    "E06-T11-R158",
+    "E06-T11-R232",
+    "E02-T03-R062"
+  ],
+  "base_source_count": 85,
+  "rawPDF_and_native_metadata_hashes_checked": 8,
+  "current_review_and_historical_decision_hashes_checked": 8,
+  "all_four_review_hash_mismatches_remain": true,
+  "root_selected_text_pages": {
+    "R248": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "R158": [
+      3,
+      5,
+      6
+    ],
+    "R232": [
+      2,
+      3,
+      4,
+      7,
+      8
+    ],
+    "R062": [
+      5,
+      6,
+      7
+    ]
+  },
+  "root_visual_pages": {
+    "R248": [
+      5
+    ],
+    "R232": [
+      4
+    ]
+  },
+  "source_scope_checks": [
+    "R248 dummy threat instructions/pseudorandomized/taskorder, no realRFcausal effect; responsebias/sensitivitygroupnull,stateanxietyhigher/overallCSEnonsignificant; within-sham exploratorypatternsnotgroupinteraction/clinicalvalidation; psychology-students/cover-story/taskvaliditylimits. No code/supplement numerical validation.",
+    "R158 exposimeter versus BWDM/bodyshielding/calibration/overlappingbands/assistantphoneoff/flightmode. Lower absolutevalues can coexist withsimilar total/downlinkranking; band-specificlimits/crosstalk/devicefailures, notownphoneabsorbeddose/populationsurvey or universal calibrationfactor.",
+    "R232 conveniencesampleLOS sites, spot/channel/extrapolation assumptions anddifferenttraffic/averagingconditions; withinreportedreferencelevelsnotclinicalhealthoutcomes;distancepoorpredictor despiteaveragenegativetrend. Bodypowerdensityr2.08/figureextrapolationR2.2103 are differentdisplayed quantities andnotnumericallyreconciled/released.",
+    "R062 known/openversusmaskedTETRA acuteprovocation, baselineadjustedcomparisonsandmultiplecomparisontreatment; no consistentexposure/autonomicsignalandnoguaranteedidentification. Sensitivegroupstillmoresymptomsindependentofcondition, notimaginarysymptoms/chronicabsenceofharm/equivalence."
+  ],
+  "limits": [
+    "Bounded identity/source-fidelity support for proposed two qualitative claims each,not full scientific/numerical/human/release approval.",
+    "Candidate remains unapplied pending explicit Elon GATE. No canonical/source/preview history rewrite or past PASS transfer.",
+    "No new retrieval,sourcefilehosting,protocol/code/supplement validation or contemporaryintegrityclearance."
+  ]
+}

@@ -5123,5 +5123,141 @@
       }
     ],
     "pages": []
+  },
+  {
+    "id": "E02-T03-R248",
+    "title": "Do expectations shape interoceptive perceptions across body domains? A sham EMF study to test the predictive processing theory",
+    "authors": "Schmitz Natalie; Wolters Carolin; Rahrbach Antonia; Kälke Friederike; Witthöft Michael; Gerlach Alexander L.; Pohl Anna",
+    "year": "2025",
+    "doi": "10.1016/j.ijchp.2025.100609",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12301728/",
+    "source_type": "sham_expectation_experiment",
+    "access_basis": "owner_supplied_full_text",
+    "checked_at": "2026-10-27",
+    "review_status": "selected_source_passages_inspected; scientific_review_pending",
+    "fingerprint": "5eb2044b1fe13ca5efe974c6ba681c34fe28ab3ce623e3eedc2b85bd78557d79",
+    "integrity_status": "Exact held source PDF/native identity matched; selected passages freshly inspected; no scientific, numerical or human approval asserted",
+    "scope": "University volunteers completed tactile and heartbeat-perception tasks under a dummy Wi-Fi threat story or control instruction; no intentional real-RF exposure contrast.",
+    "limitations": "Dummy-transmitter expectation manipulation, not a real-RF exposure trial. Exploratory associations, task validity and nonclinical sampling limit interpretation. Numerical release, scientific appraisal and human review remain pending.",
+    "citation": "Schmitz Natalie; Wolters Carolin; Rahrbach Antonia; Kälke Friederike; Witthöft Michael; Gerlach Alexander L.; Pohl Anna. Do expectations shape interoceptive perceptions across body domains? A sham EMF study to test the predictive processing theory 2025. DOI: 10.1016/j.ijchp.2025.100609.",
+    "claims": [
+      {
+        "id": "FILL-THIN-8-E02-T03-R248-C01",
+        "text": "The sham threat condition did not significantly change response bias or sensitivity in either task. State anxiety was higher, while overall symptom experience did not significantly differ between the instruction groups.",
+        "locator": "Main PDF physical pages 3 to 5, procedure and Results; page 7, Discussion",
+        "basis": "full_text",
+        "scientific_review": "pending"
+      },
+      {
+        "id": "FILL-THIN-8-E02-T03-R248-C02",
+        "text": "Selected exploratory associations within the sham group do not establish a difference between groups or a real-RF effect. The predominantly student sample, imperfect cover story and task-validity limitations constrain transfer to clinical symptoms.",
+        "locator": "Main PDF physical pages 5 to 7, exploratory analyses and Discussion",
+        "basis": "full_text",
+        "scientific_review": "pending"
+      }
+    ],
+    "pages": []
+  },
+  {
+    "id": "E06-T11-R158",
+    "title": "Exposure to radiofrequency electromagnetic fields: Comparison of exposimeters with a novel body-worn distributed meter.",
+    "authors": "Huss A, Dongus S, Aminzadeh R, Thielens A, van den Bossche M, Van Torre P, de Seze R, Cardis E, Eeftens M, Joseph W, Vermeulen R, Röösli M.",
+    "year": "2021",
+    "doi": "10.1016/j.envint.2021.106711",
+    "url": "https://doi.org/10.1016/j.envint.2021.106711",
+    "source_type": "instrument_comparison",
+    "access_basis": "owner_supplied_full_text",
+    "checked_at": "2026-10-27",
+    "review_status": "selected_source_passages_inspected; scientific_review_pending",
+    "fingerprint": "280e848f5d28b78f26af8028a8180184d029e9cbedd085fcd536498a30dd7383",
+    "integrity_status": "Exact held source PDF/native identity matched; selected passages freshly inspected; no scientific, numerical or human approval asserted",
+    "scope": "Parallel readings from commercial exposimeters and an individually calibrated distributed body-worn meter on selected walking routes, not a clinical cohort.",
+    "limitations": "Selected routes, common-band coverage and unequal device availability are not a representative clinical or personal-dose study. A printed table difference needs paired-data clarification before numerical reuse. Scientific, numerical and human review remain pending.",
+    "citation": "Huss A, Dongus S, Aminzadeh R, Thielens A, van den Bossche M, Van Torre P, de Seze R, Cardis E, Eeftens M, Joseph W, Vermeulen R, Röösli M.. Exposure to radiofrequency electromagnetic fields: Comparison of exposimeters with a novel body-worn distributed meter. 2021. DOI: 10.1016/j.envint.2021.106711.",
+    "claims": [
+      {
+        "id": "FILL-THIN-8-E06-T11-R158-C01",
+        "text": "Commercial exposimeters generally read lower than the distributed body-worn meter, while ranking total and downlink environments similarly. Agreement varied by frequency band, so similar ranking does not establish identical absolute exposure.",
+        "locator": "Main PDF physical pages 4 to 6, Results, Discussion and Conclusion",
+        "basis": "full_text",
+        "scientific_review": "pending"
+      },
+      {
+        "id": "FILL-THIN-8-E06-T11-R158-C02",
+        "text": "Comparisons use overlapping device bands and assistants who were not using their own phones. Body shielding, calibration, crosstalk and device availability limit interpretation; the measurements do not represent own-phone absorbed dose or average population exposure.",
+        "locator": "Main PDF physical pages 3 to 6, measurement protocol and limitations",
+        "basis": "full_text",
+        "scientific_review": "pending"
+      }
+    ],
+    "pages": []
+  },
+  {
+    "id": "E06-T11-R232",
+    "title": "In‐Situ Measurements of Radiofrequency Electromagnetic Fields Measurements Around 5G Macro Base Stations in the UK",
+    "authors": "Calderon Carolina; Addison Darren; Peyman Azadeh",
+    "year": "2025",
+    "doi": "10.1002/bem.70012",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12207951/",
+    "source_type": "ambient_field_measurement",
+    "access_basis": "owner_supplied_full_text",
+    "checked_at": "2026-10-27",
+    "review_status": "selected_source_passages_inspected; scientific_review_pending",
+    "fingerprint": "1b91558cd552262c2e931a68e5d19797bc6bc335d9b4d00cec12298246f85c04",
+    "integrity_status": "Exact held source PDF/native identity matched; selected passages freshly inspected; no scientific, numerical or human approval asserted",
+    "scope": "Spot ambient-field measurements near accessible urban and suburban macro base stations, with traffic-instigation and extrapolated scenarios, not disease follow-up.",
+    "limitations": "No rural sample or clinical outcomes; network switching, incomplete maximum traffic and different averaging conditions limit generalization. Distance-fit prose and figure wording need reconciliation before numerical reuse. Scientific, numerical and human review remain pending.",
+    "citation": "Calderon Carolina; Addison Darren; Peyman Azadeh. In‐Situ Measurements of Radiofrequency Electromagnetic Fields Measurements Around 5G Macro Base Stations in the UK 2025. DOI: 10.1002/bem.70012.",
+    "claims": [
+      {
+        "id": "FILL-THIN-8-E06-T11-R232-C01",
+        "text": "The sampled and extrapolated scenarios were within the public reference levels used by the authors. Background, streaming, speed tests and extrapolation describe different network conditions rather than interchangeable measurements of personal absorbed dose.",
+        "locator": "Main PDF physical pages 2 to 4, Methods; pages 7 to 8, Discussion and Conclusions",
+        "basis": "full_text",
+        "scientific_review": "pending"
+      },
+      {
+        "id": "FILL-THIN-8-E06-T11-R232-C02",
+        "text": "Convenience line-of-sight sites and limited control over active network bands constrain representativeness. Distance alone did not reliably predict the measured levels, and the campaign does not establish a universal distance rule or clinical health outcome.",
+        "locator": "Main PDF physical pages 4 and 7, distance analysis and limitations",
+        "basis": "full_text",
+        "scientific_review": "pending"
+      }
+    ],
+    "pages": []
+  },
+  {
+    "id": "E02-T03-R062",
+    "title": "Do TETRA (Airwave) Base Station Signals Have a Short-Term Impact on Health and Well-Being? A Randomized Double-Blind Provocation Study",
+    "authors": "Wallace Denise; Eltiti Stacy; Ridgewell Anna; Garner Kelly; Russo Riccardo; Sepulveda Francisco; Walker Stuart; Quinlan Terence; Dudley Sandra; Maung Sithu; Deeble Roger; Fox Elaine",
+    "year": "2010",
+    "doi": "10.1289/ehp.0901416",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2898847/",
+    "source_type": "randomized_blinded_provocation",
+    "access_basis": "owner_supplied_full_text",
+    "checked_at": "2026-10-27",
+    "review_status": "selected_source_passages_inspected; scientific_review_pending",
+    "fingerprint": "b736653db4a093681e5beb67c332e706f801a5195406f4354d4f1d7b1209059b",
+    "integrity_status": "Exact held source PDF/native identity matched; selected passages freshly inspected; no scientific, numerical or human approval asserted",
+    "scope": "Acute TETRA base-station-like signal versus sham in self-identified sensitive volunteers and controls, with open and masked sessions.",
+    "limitations": "Acute volunteer experiment with incomplete sensitive recruitment and differing open/masked session conditions. No long-term disease inference or equivalence margin; scientific, numerical and human review remain pending.",
+    "citation": "Wallace Denise; Eltiti Stacy; Ridgewell Anna; Garner Kelly; Russo Riccardo; Sepulveda Francisco; Walker Stuart; Quinlan Terence; Dudley Sandra; Maung Sithu; Deeble Roger; Fox Elaine. Do TETRA (Airwave) Base Station Signals Have a Short-Term Impact on Health and Well-Being? A Randomized Double-Blind Provocation Study 2010. DOI: 10.1289/ehp.0901416.",
+    "claims": [
+      {
+        "id": "FILL-THIN-8-E02-T03-R062-C01",
+        "text": "Sensitive volunteers reported worse subjective outcomes during known exposure, but the baseline-adjusted masked comparisons did not show a consistent exposure-related symptom or autonomic effect. Neither group reliably identified the signal after the stated multiple-comparison treatment.",
+        "locator": "Main PDF physical pages 5 to 7, subjective and physiological Results, detection tests and Discussion",
+        "basis": "full_text",
+        "scientific_review": "pending"
+      },
+      {
+        "id": "FILL-THIN-8-E02-T03-R062-C02",
+        "text": "Sensitive volunteers still reported more symptoms independently of assigned exposure. Brief laboratory sessions and self-identified sensitivity do not test chronic disease, establish universal equivalence or show that symptoms are unreal.",
+        "locator": "Main PDF physical pages 6 to 7, Discussion and limitations",
+        "basis": "full_text",
+        "scientific_review": "pending"
+      }
+    ],
+    "pages": []
   }
 ]

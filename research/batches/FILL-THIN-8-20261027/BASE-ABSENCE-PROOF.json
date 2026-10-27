@@ -1,0 +1,17 @@
+{
+  "base": "8f1cd4799ebad1f9396e603152437e92f4a597b2",
+  "existing_count": 85,
+  "absent_ids": [
+    "E02-T03-R248",
+    "E06-T11-R158",
+    "E06-T11-R232",
+    "E02-T03-R062"
+  ],
+  "baseline_status": {
+    "E02-T03-R248": 404,
+    "E06-T11-R158": 404,
+    "E06-T11-R232": 404,
+    "E02-T03-R062": 404
+  },
+  "no_candidate_applied": true
+}
