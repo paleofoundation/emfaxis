@@ -1,0 +1,13 @@
+{
+  "before_allproposed_sha256": "cbc4eda22c0bcc335216dd6acea309fb71d85c20daa16a73941537e8dffa0cd9",
+  "after_allproposed_sha256": "5e7839d191d507fd9c71efa437bc82dffea09510428ff2687c99657771c18382",
+  "scope": "Only new R044 note1 wording",
+  "before": "Parents and children reported different amounts of phone use",
+  "after": "Parents and children gave different reports of phone ownership or use",
+  "source": "OriginalPDFphysical6 parent-child phone ownership/use discrepancy",
+  "reason": "Avoid implying the discrepancy was measured call-amount disagreement; source questions concern ownership or use",
+  "all_other19_paragraphs_and_locators": "unchanged",
+  "canonical96_and_counters": "unchanged",
+  "status": "PASS",
+  "rendered_confirmation": "Nine other target bodies unchanged; R044 differs only in exact declared sentence"
+}

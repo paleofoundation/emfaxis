@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "scope": "Existing RecoveredRecord exact ten selected IDs only",
+  "new_hooks_or_state": false,
+  "new_network_or_effects": false,
+  "semantic_component": "Existing SourceReadingNotes headings, stable keys, source anchors and locators",
+  "related_title_guard": "Prior R212/T01R257 plus selected T05R267 only",
+  "unrelated_refactors": false,
+  "diff_sha256": "65a924937098d6b6700bac838d3bf3381a26b9c2cc50310976dabc7065bce3f1",
+  "canonical96_full_file_unchanged": true,
+  "counter_full_file_unchanged": true,
+  "new_numeric_claims": false
+}
