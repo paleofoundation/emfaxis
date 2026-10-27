@@ -1,0 +1,138 @@
+{
+  "at": "2026-10-27T12:01:54.718653+00:00",
+  "method": "CUA selected browser2 temporarytab20 live finalpreview,390x844. DOM-rendered paragraph/source href/locator tuple digests independently matched exact reviewed candidate. All10routes observed. Native screenshots R016notes and explicit supplement locator inspected, text/link wrapping visible. No external links followed.",
+  "result": "PASS_FINAL_MOBILE10",
+  "notesSha256": "d0f49777dcf4ab5a5cc202ad5856c9407209cc5f1b1c5aaa15b319e74d8298b6",
+  "finalPublicInputHashesFreshMatched": {
+    "components/emf/recovered-record.tsx": "38f60abc599d1fd9e4502e6f18e338df8809efbb3081fe2dd34df30db76ceeaf",
+    "lib/thin-fill.json": "903edc75f80b5ea541a48ee0c097d504820c162232163e3eff177bf2658cd33d",
+    "lib/recovered-sources.json": "10f7c3ccdb34e76d14db7e0365d56fb4940852f02e5ea85c38a1ac7f0c3e1a5d",
+    "lib/archive-status.json": "7a04b89ae4c8dfe0b5d68e3957855ce8dc83a334d81a35d8c2dfc8b55bd3d15f"
+  },
+  "rows": [
+    {
+      "id": "E01-T01-R251",
+      "url": "http://127.0.0.1:5177/research/E01-T01-R251",
+      "innerWidth": 390,
+      "bodyScrollWidth": 390,
+      "documentScrollWidth": 390,
+      "publicDashCharacters": 0,
+      "humanReviewPendingVisible": true,
+      "paragraphs": 2,
+      "observedTupleSha256": "b19d8cda1a9fc59c7304a38caff36cf1790c3c4043bd7f91e02835ed066173c0",
+      "exactCandidateTextHrefLocatorMatched": true
+    },
+    {
+      "id": "E02-T03-R018",
+      "url": "http://127.0.0.1:5177/research/E02-T03-R018",
+      "innerWidth": 390,
+      "bodyScrollWidth": 390,
+      "documentScrollWidth": 390,
+      "publicDashCharacters": 0,
+      "humanReviewPendingVisible": true,
+      "paragraphs": 2,
+      "observedTupleSha256": "17c2e316d80aa89ce3fccd24a781d740b91338b23fcf2ddc54243995e883f6ed",
+      "exactCandidateTextHrefLocatorMatched": true
+    },
+    {
+      "id": "E01-T01-R257",
+      "url": "http://127.0.0.1:5177/research/E01-T01-R257",
+      "innerWidth": 390,
+      "bodyScrollWidth": 390,
+      "documentScrollWidth": 390,
+      "publicDashCharacters": 0,
+      "humanReviewPendingVisible": true,
+      "paragraphs": 2,
+      "observedTupleSha256": "bb428db1805f280733ae78686ae193e91ba0e05b7e35c2db827c48781380d023",
+      "exactCandidateTextHrefLocatorMatched": true
+    },
+    {
+      "id": "E03-T05-R176",
+      "url": "http://127.0.0.1:5177/research/E03-T05-R176",
+      "innerWidth": 390,
+      "bodyScrollWidth": 390,
+      "documentScrollWidth": 390,
+      "publicDashCharacters": 0,
+      "humanReviewPendingVisible": true,
+      "paragraphs": 2,
+      "observedTupleSha256": "831a6454d4f03ac7207334df5dc3a565459cf40ab0b4789df76bf21c0269d1d6",
+      "exactCandidateTextHrefLocatorMatched": true
+    },
+    {
+      "id": "E05-T09-R078",
+      "url": "http://127.0.0.1:5177/research/E05-T09-R078",
+      "innerWidth": 390,
+      "bodyScrollWidth": 390,
+      "documentScrollWidth": 390,
+      "publicDashCharacters": 0,
+      "humanReviewPendingVisible": true,
+      "paragraphs": 2,
+      "observedTupleSha256": "3e02883e2041a8acebd7a4d3997b767f656c7ba2db15771e3bee97639648e653",
+      "exactCandidateTextHrefLocatorMatched": true
+    },
+    {
+      "id": "E05-T09-R513",
+      "url": "http://127.0.0.1:5177/research/E05-T09-R513",
+      "innerWidth": 390,
+      "bodyScrollWidth": 390,
+      "documentScrollWidth": 390,
+      "publicDashCharacters": 0,
+      "humanReviewPendingVisible": true,
+      "paragraphs": 2,
+      "observedTupleSha256": "8ebf4dcc0e09b63255757a08d4083358fba04d13d9f8749f79c80abddebae3ed",
+      "exactCandidateTextHrefLocatorMatched": true
+    },
+    {
+      "id": "E06-T11-R227",
+      "url": "http://127.0.0.1:5177/research/E06-T11-R227",
+      "innerWidth": 390,
+      "bodyScrollWidth": 390,
+      "documentScrollWidth": 390,
+      "publicDashCharacters": 0,
+      "humanReviewPendingVisible": true,
+      "paragraphs": 2,
+      "observedTupleSha256": "f8a4a234bff5ae8d2b59c1097f798cc02b2d5ffe554f8076fb344c0f7fd0df84",
+      "exactCandidateTextHrefLocatorMatched": true
+    },
+    {
+      "id": "E06-T12-R016",
+      "url": "http://127.0.0.1:5177/research/E06-T12-R016",
+      "innerWidth": 390,
+      "bodyScrollWidth": 390,
+      "documentScrollWidth": 390,
+      "publicDashCharacters": 0,
+      "humanReviewPendingVisible": true,
+      "paragraphs": 2,
+      "observedTupleSha256": "de49cf9ff85cda3dab65ad9b9bd9ae769399627aa5e237a5ba20c7a7dc13054d",
+      "exactCandidateTextHrefLocatorMatched": true
+    },
+    {
+      "id": "E03-T05-R222",
+      "url": "http://127.0.0.1:5177/research/E03-T05-R222",
+      "innerWidth": 390,
+      "bodyScrollWidth": 390,
+      "documentScrollWidth": 390,
+      "publicDashCharacters": 0,
+      "humanReviewPendingVisible": true,
+      "paragraphs": 2,
+      "observedTupleSha256": "eb5c896f12a1fb69e30099343d90e8b555b5d8fab2375662d3a9ea9efd943c93",
+      "exactCandidateTextHrefLocatorMatched": true
+    },
+    {
+      "id": "E02-T04-R161",
+      "url": "http://127.0.0.1:5177/research/E02-T04-R161",
+      "innerWidth": 390,
+      "bodyScrollWidth": 390,
+      "documentScrollWidth": 390,
+      "publicDashCharacters": 0,
+      "humanReviewPendingVisible": true,
+      "paragraphs": 2,
+      "observedTupleSha256": "9f623b5486d94a655af6a98b93c719d9970f424910e97f508f1687fa29f93ff8",
+      "exactCandidateTextHrefLocatorMatched": true
+    }
+  ],
+  "scientificApproval": false,
+  "numericRelease": false,
+  "humanApproval": false,
+  "release": false
+}

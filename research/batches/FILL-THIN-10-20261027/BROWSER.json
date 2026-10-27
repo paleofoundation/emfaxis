@@ -1,0 +1,18 @@
+{
+  "status": "BOUNDED_FINAL10_PASS",
+  "receipt": "ROOT-BROWSER-FINAL.json",
+  "sha256": "eb2df5fb08f10d3c830bf71eac0f497a9424d99f19e8d1982969575d153fc202",
+  "viewport": [
+    390,
+    844
+  ],
+  "actual_inner_body_document_width": 390,
+  "paths": 10,
+  "exact_DOM_text_href_locator_tuples": 20,
+  "reviewed_notes_sha256": "d0f49777dcf4ab5a5cc202ad5856c9407209cc5f1b1c5aaa15b319e74d8298b6",
+  "public_em_en_dashes": 0,
+  "human_review": "pending on all ten",
+  "final_public_input_hashes_independently_matched": 4,
+  "visual_sample": "R016 reading notes wrap and explicit native supplementary locator inspected",
+  "limits": "Local technical/source fidelity only; not full scientific/numerical/human/release approval or network-wide certification; external links not clicked"
+}

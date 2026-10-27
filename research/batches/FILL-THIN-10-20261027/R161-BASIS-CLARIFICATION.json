@@ -1,0 +1,12 @@
+{
+  "before_allproposed_sha256": "0c4df4f2d80897eefbf26142c773c0809153e7446a3ca58765b81d9630aba302",
+  "after_allproposed_sha256": "7dbcfee9f726595494538e6ebe4b4f7227101e4a066f1eee73a1b9a7dc5c17c8",
+  "scope": "Only new R161 note second paragraph archive-file basis clarification",
+  "before": "The original PDF remains quarantined as a misfiled report; these notes use the exact-identity native XML and do not upgrade that source basis.",
+  "after": "A misfiled archive PDF remains quarantined; these notes use the exact-identity native XML and do not upgrade that source basis.",
+  "reason": "Avoid implying the intended target original PDF was recovered; exact native XML remains basis; misfiled archive PDF separate",
+  "canonical_source_unchanged": true,
+  "gated_candidate_unchanged": true,
+  "rendered_confirmation": "Nine other target bodies byte-equivalent normalized text; R161 differs only in exact declared sentence",
+  "status": "PASS"
+}

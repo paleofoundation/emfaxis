@@ -1,0 +1,49 @@
+{
+  "method": "Fresh local pdftotext plus direct selected original passage inspection, no source file copying into public assets",
+  "checked_UTC": "2026-10-27T11:46:56.419021+00:00",
+  "rows": [
+    {
+      "id": "E03-T05-R176",
+      "source_sha256": "c1750cfa58fb8b4811a57bc1f2e88e2bc8acfeeb1c6bf7d78931b6feedc3346a",
+      "fresh_pdftotext_sha256": "a0753161ce305b8c52c6d30eacde67d0df0a67176a89eff46f5c503f67fccaf0",
+      "physical_pages_inspected": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "scope": "Selected original passages directly inspected, not complete scientific appraisal; no historical PASS transfer",
+      "locators": [
+        "Original PDF physical page 4, Results and Table 1; page 5, Figures 1 and 2",
+        "Original PDF physical page 2, Materials and Methods; pages 6 to 7, limitations and conclusion"
+      ]
+    },
+    {
+      "id": "E06-T11-R227",
+      "source_sha256": "b5ba28371c8a253a2b94b058619766e777d4b2b382710f2d19de9d511ba27cb1",
+      "fresh_pdftotext_sha256": "4d3301a1a85ef8ae966381cf444e8cbf994c3bdbf1bfaa715c7310579ccea90f",
+      "physical_pages_inspected": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        8,
+        9
+      ],
+      "scope": "Selected original passages directly inspected, not complete scientific appraisal; no historical PASS transfer",
+      "locators": [
+        "Original PDF physical pages 4 to 5, Results and Table 1; pages 7 to 9, Discussion and conclusions",
+        "Original PDF physical page 3, measurement setup; pages 8 to 9, signal interpretation and limitations"
+      ]
+    }
+  ],
+  "original_material_visuals": [
+    "R176 original physical4/Table1 inspected from held render",
+    "R227 original physical7/Table2 inspected from fresh local render"
+  ]
+}

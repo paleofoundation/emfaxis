@@ -1,0 +1,93 @@
+{
+  "at": "2026-10-27T11:48:31.206952+00:00",
+  "candidateSha256": "0a53ce80a38b855c6171976f0b6b1bb7a381be94fe1477dfe13465f3d0e99f75",
+  "scope": "Exact2 unapplied canonical objects and4qualitativeclaims. Root fresh original/native identities/reviewhashpairs and selected original passages. No gate authority inferred.",
+  "records": [
+    {
+      "id": "E03-T05-R176",
+      "sourceSha256": "c1750cfa58fb8b4811a57bc1f2e88e2bc8acfeeb1c6bf7d78931b6feedc3346a",
+      "nativeSha256": "772893efe6e8fd812728d7b627a60cd6b20e9f8b3f47a5049c98c53f53b94f11",
+      "currentReviewSha256": "7071ae08a2222877831b790d8a5f51ca2ecc3dd44f465be8c8bc0b44450f85ab",
+      "historicalReviewSha256": "9dd74d3b7bfec01e43649c6ccb0ed7c88fe6eab371adbd6bdd8b8f649b132a92",
+      "noPassTransfer": true,
+      "claims": [
+        {
+          "id": "FILL-THIN-10-E03-T05-R176-C01",
+          "text": "The authors reported higher DNA-fragmentation assay and clusterin signals after exposure across the semen groups. Reported motility and acrosin decreases were significant in the abnormal-semen groups but not in the normozoospermic group.",
+          "locator": "Original PDF physical page 4, Results and Table 1; page 5, Figures 1 and 2",
+          "basis": "full_text",
+          "scientific_review": "pending"
+        },
+        {
+          "id": "FILL-THIN-10-E03-T05-R176-C02",
+          "text": "Each donor sample was divided into exposed and unexposed portions. The study assessed immediate laboratory sperm-related endpoints, without measuring conception, live birth, repeated exposure or reversibility; the handset specification is not measured dose in the sample.",
+          "locator": "Original PDF physical page 2, Materials and Methods; pages 6 to 7, limitations and conclusion",
+          "basis": "full_text",
+          "scientific_review": "pending"
+        }
+      ]
+    },
+    {
+      "id": "E06-T11-R227",
+      "sourceSha256": "b5ba28371c8a253a2b94b058619766e777d4b2b382710f2d19de9d511ba27cb1",
+      "nativeSha256": "1b41a7aedd6ce68009af63645624f72f6d9c75b6ee037febd04ac5ae107f2e8c",
+      "currentReviewSha256": "0a28a6f4d0476bcc2aee324cbc325e45df9288d8c18b584f2057fbc2c9e7cf69",
+      "historicalReviewSha256": "f434cc609a61db67ba4404229fd745daa96d91adfda2f34c6f13a32b7f5fb23a",
+      "noPassTransfer": true,
+      "claims": [
+        {
+          "id": "FILL-THIN-10-E06-T11-R227-C01",
+          "text": "Inducing download or upload traffic increased the external RF readings relative to the inactive-phone scenario in the reported campaign. Upload was generally the highest scenario, and urban-rural patterns depended on the activity being measured.",
+          "locator": "Original PDF physical pages 4 to 5, Results and Table 1; pages 7 to 9, Discussion and conclusions",
+          "basis": "full_text",
+          "scientific_review": "pending"
+        },
+        {
+          "id": "FILL-THIN-10-E06-T11-R227-C02",
+          "text": "The time-division frequency band could not distinguish uplink from the nearby test phone and downlink from base stations. These external measurements do not isolate absorbed organ dose or establish a causal health or regulatory-policy effect.",
+          "locator": "Original PDF physical page 3, measurement setup; pages 8 to 9, signal interpretation and limitations",
+          "basis": "full_text",
+          "scientific_review": "pending"
+        }
+      ]
+    }
+  ],
+  "rootPagesRead": {
+    "R176": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "R227": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      7,
+      8,
+      9
+    ]
+  },
+  "rootMaterialVisuals": [
+    "R176physical4Table1",
+    "R227physical7Table2"
+  ],
+  "identity": [
+    "R176printedtitle/byline/year/pages match heldXML DOI10.22074/ijfs.2015.4217PMID25918601; DOI not printed. Fiveauthors restored from printedcitation, V1empty preserved.",
+    "R227printedDOI/title/byline agree nativeEPMC DOI10.1016/j.envint.2025.109540PMID40414185."
+  ],
+  "bounds": [
+    "R176pairedsemenaliquotlabstudy, endpointdependent motility/acrosin nullin normo group; DNAfragmentation/CLU reportedhigher, not conception/livebirth, permanentinfertility, repeated/reversibleeffect, tissueabsorbed dose or established RFmechanism. No quantitative release.",
+    "R227externalmeteractivitysurvey, sequential/operator/device/bodyshielding/missingactive/bandmixlimits; TDDcannotseparateULnearphone/DLbase stations; no absorbedorgan dose, clinical outcome or policycausation. No quantitative release."
+  ],
+  "result": "PASS_BOUNDED_GATE_PROPOSAL_SOURCE_FIDELITY",
+  "applied": false,
+  "scientificApproval": false,
+  "humanApproval": false,
+  "releaseApproval": false
+}

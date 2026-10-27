@@ -1728,5 +1728,175 @@
         }
       ]
     }
+  ],
+  "E01-T01-R251": [
+    {
+      "title": "Keep self-reported behavior separate from absorbed dose",
+      "paragraphs": [
+        {
+          "text": "The investigators compared women with confirmed breast cancer, women referred for mammography and controls without breast abnormalities. The suspected group was exploratory and was not a second group with confirmed cancer. Calling, screen time and phone placement came from interviews. These measures describe reported behavior rather than directly measured breast radiofrequency dose, and the retrospective comparison does not establish which aspect of phone use explains an association.",
+          "source": "E01-T01-R251",
+          "locator": "Original PDF physical page 3, study groups, data collection and exposure definitions"
+        },
+        {
+          "text": "The printed case and control totals do not agree consistently with the Methods, and the screen-time reference category in the regression table does not support a simple reading of generic prose about longer use. These reporting issues remain unresolved. The source itself acknowledges self-report and residual confounding. Its findings should not become a numerical risk estimate, a causal breast-cancer claim or a prevention recommendation while those source-specific problems and scientific review remain open.",
+          "source": "E01-T01-R251",
+          "locator": "Original PDF physical page 3, Methods; page 6, Table 2; page 8, Table 4 reference footnote; page 9, conclusions"
+        }
+      ]
+    }
+  ],
+  "E02-T03-R018": [
+    {
+      "title": "Separate randomized exposure from perceived exposure",
+      "paragraphs": [
+        {
+          "text": "Computer-controlled exposure supported a randomized, double-blind crossover comparison of acute base-station-like signals. The well-being questionnaires did not show a significant exposure-response association in either participant group. Cognitive findings depended on the task and group, and the nominal findings did not remain significant after the reported adjustment across cognitive endpoints. A selected unadjusted result should therefore remain attached to its analysis rather than being described as a consistent cognitive impairment.",
+          "source": "E02-T03-R018",
+          "locator": "Original PDF physical page 2, design; page 4, questionnaire and cognitive Results with multiple-endpoint adjustment"
+        },
+        {
+          "text": "Perceived field strength was associated with poorer reported well-being independently of actual exposure condition, while the perception ratings did not track the randomized field as a group. That distinction is useful, but an observational association between perception and symptoms does not establish an individual symptom cause or prove a clinical nocebo mechanism. The authors also emphasize the short exposure duration. The experiment cannot establish long-term safety, clinical equivalence or the absence of every possible brain response.",
+          "source": "E02-T03-R018",
+          "locator": "Original PDF physical pages 4 to 5, perception Results and Discussion; page 6, exposure-duration limitation"
+        }
+      ]
+    }
+  ],
+  "E01-T01-R257": [
+    {
+      "title": "Keep the tumour analysis with survival and reporting limits",
+      "paragraphs": [
+        {
+          "text": "The Japanese report describes an animal arm of a coordinated programme, with tumour follow-up and parallel genotoxicity experiments. Its survival-adjusted tumour analysis did not find a significant increase, while some unadjusted comparisons differed from that result. Survival differed among groups and apparatus-related losses affected the analysis. These details matter when interpreting rare events: a nonsignificant survival-adjusted result is not a precise estimate of human cancer risk or proof that all exposure conditions are equivalent.",
+          "source": "E01-T01-R257",
+          "locator": "Original PDF physical pages 7 to 8, survival, neoplastic findings and analysis-dependent comparisons"
+        },
+        {
+          "text": "The main tumour table and Results describe an exposed-group cardiac schwannoma, whereas the Discussion says that there were no exposed cases. That contradiction remains visible and unresolved. The selected source passages do not justify silently choosing the zero-case wording or repairing the report from surrounding interpretation. The coordinated companion design also should not be counted as independent design replication. Formal scientific appraisal, numerical release and human review remain pending.",
+          "source": "E01-T01-R257",
+          "locator": "Original PDF physical page 3, Table 2; page 7, cardiac findings; page 12, conflicting Discussion statement"
+        }
+      ]
+    }
+  ],
+  "E05-T09-R078": [
+    {
+      "title": "Read the final analysis rather than preliminary gene lists",
+      "paragraphs": [
+        {
+          "text": "The laboratory study examined lymphocyte DNA endpoints and gene-expression patterns in lymphocytes and yeast. Its final analyses did not retain an exposure-related expression change, and the authors reported no exposure-related DNA alteration under the tested conditions. That is a result for selected assays, models and exposure arrangements. It does not establish that every cellular pathway is unchanged or provide a direct measure of disease risk in people.",
+          "source": "E05-T09-R078",
+          "locator": "Original PDF physical pages 5 to 9, Results and concluding Discussion"
+        },
+        {
+          "text": "Human gene-expression measurements used pooled donor RNA, and different donors contributed at different field intensities. The authors state that this prevented their planned dose-response approach for those data. Duplicate arrays describe technical measurement, not independent replication in separate people. Culture conditions and temperature also affected ancillary assay observations discussed in the paper. Preliminary nominal gene lists, pooled final analyses and clinical evidence must remain separate rather than being combined into a broad health conclusion.",
+          "source": "E05-T09-R078",
+          "locator": "Original PDF physical pages 4 to 5, RNA pooling and analysis; page 9, Discussion of culture conditions and interpretation"
+        }
+      ]
+    }
+  ],
+  "E05-T09-R513": [
+    {
+      "title": "The tested cell responses are narrower than a skin-health claim",
+      "paragraphs": [
+        {
+          "text": "The experiment assigned exposure conditions across chambers using a blind protocol and monitored sample temperature, including compensation for exposure-related heating. It measured redox-sensor responses and repair of ultraviolet-induced DNA lesions in established cell models. The authors reported no significant exposed-versus-sham differences for the selected responses under those controlled conditions. An assay-specific null result is not a clinical trial of intact skin and does not by itself establish equivalence across all possible responses.",
+          "source": "E05-T09-R513",
+          "locator": "Original PDF physical page 4, exposure control; pages 8 to 11, redox and DNA-repair results and interpretation"
+        },
+        {
+          "text": "The ultraviolet challenge and measured DNA photoproducts should stay attached to the repair result. They are not interchangeable with every DNA-damage assay or with spontaneous disease in people. The authors explicitly note that the acute in-vitro protocols do not reproduce chronic real-life exposure. Established altered cell models, the specified challenges and remaining supplementary-reporting questions constrain transfer. Neither universal human safety nor a clinical protective effect follows from the controlled cellular observations.",
+          "source": "E05-T09-R513",
+          "locator": "Original PDF physical pages 8 to 11, ultraviolet challenge, CPD repair, model comparisons and duration limitation"
+        }
+      ]
+    }
+  ],
+  "E06-T12-R016": [
+    {
+      "title": "Reduced bench interference is not demonstrated patient benefit",
+      "paragraphs": [
+        {
+          "text": "The artificial chest arrangement combined pacemakers, leads, swine tissue and saline to test transient-field interference. Twisting the excess leads reduced induced voltage and aggregate pacing inhibition relative to the parallel arrangement in the tested systems. The aggregate figure still includes inhibition in the tested conditions. A favorable example trace therefore does not establish elimination of interference, and repeated electrical pulses are not independent patients or observations of everyday clinical event frequency.",
+          "source": "E06-T12-R016",
+          "locator": "Original PDF physical pages 2 to 3, simulation setup; pages 7 to 8, Figures 5 and 6 with aggregate inhibition"
+        },
+        {
+          "text": "The authors identify the non-beating tissue model, near-source geometry and selected dual-chamber devices as limits, and describe possible lead-dislocation, abrasion and extraction drawbacks. Their brief clinical anecdote does not supply a controlled comparison or a clear patient denominator. The experiment should not become an implantation recommendation or a general compatibility rule. Ambiguous statistical annotations and the held supplement inconsistency remain unresolved; scientific and human review are still pending.",
+          "source": "E06-T12-R016",
+          "locator": "Original PDF physical page 9, clinical anecdote and limitations; pages 7 to 8, comparison annotations; held supplement Table_1.docx, native Table I"
+        }
+      ]
+    }
+  ],
+  "E03-T05-R222": [
+    {
+      "title": "A motility-category shift is not a fertility outcome",
+      "paragraphs": [
+        {
+          "text": "The mouse experiment measured later sperm and tissue indicators rather than mating success. Its reported motility change involved more non-progressive movement and fewer immotile sperm, without a significant change in progressive movement. Sperm counts, head abnormalities and reproductive tissue weights did not show significant exposure-related differences. These endpoints should stay distinct: an altered movement category is not demonstrated improvement in fertilization, a fertility treatment or a direct estimate of human reproductive risk.",
+          "source": "E03-T05-R222",
+          "locator": "Original PDF physical pages 4 to 5, Results, Figure 5 and Discussion of fertility indicators"
+        },
+        {
+          "text": "Technical failures affected the exposure cohorts and the motility analysis, including exclusion of an early cohort from the motility results. Sampling also occurred after an unexposed interval, so it does not describe an immediate response during exposure. These timing and missingness details qualify the comparison and its precision. Many scored sperm cells remain observations within animals, rather than independent exposed animals. The apparatus, exposure schedule and selected later indicators limit transfer to chronic human fertility questions.",
+          "source": "E03-T05-R222",
+          "locator": "Original PDF physical page 3, design and exposure cohorts; pages 4 to 5, motility technical loss and sampling description"
+        }
+      ]
+    }
+  ],
+  "E02-T04-R161": [
+    {
+      "title": "Operator records improve a proxy without measuring every sleep exposure",
+      "paragraphs": [
+        {
+          "text": "The prospective COSMOS analysis linked baseline operator-recorded calling with later questionnaire sleep outcomes. Network information allowed a separate weighting intended to reflect different radiofrequency output between networks. Most sleep outcomes showed no consistent adverse pattern, while an insomnia association at high ordinary call time weakened with the network-related weighting. This supports keeping ordinary calling behavior separate from the RF proxy rather than attributing the association directly to absorbed dose.",
+          "source": "E02-T04-R161",
+          "locator": "Held native PMC fulltext XML, Methods section 2.2; Results and Discussion on network-weighted call time"
+        },
+        {
+          "text": "The sleep outcome was questionnaire-derived, and the insomnia indicator did not include the duration and frequency requirements of a complete clinical diagnosis. Exposure records covered baseline calling, without a continuous history of phone behavior, sleep outcomes or stress throughout follow-up; network type came from the first base station of a call. Screen use, nighttime interruptions and other unmeasured behaviors remain separate explanations. A misfiled archive PDF remains quarantined; these notes use the exact-identity native XML and do not upgrade that source basis.",
+          "source": "E02-T04-R161",
+          "locator": "Held native PMC fulltext XML, Methods sections 2.2 to 2.3; Strength and limitations; exact source-basis record"
+        }
+      ]
+    }
+  ],
+  "E03-T05-R176": [
+    {
+      "title": "An isolated-sample signal does not measure a couple’s fertility",
+      "paragraphs": [
+        {
+          "text": "The same ejaculated semen sample supplied exposed and unexposed portions, which reduces differences between donors in the comparison. The authors reported endpoint-dependent changes: fragmentation and clusterin signals increased, while motility and acrosin decreases were significant in the abnormal-semen groups but not in the normozoospermic group. The abstract’s broad wording should be read with that Results distinction. These are immediate laboratory measurements, without measured conception, pregnancy or live birth.",
+          "source": "E03-T05-R176",
+          "locator": "Original PDF physical page 2, paired design; page 4, Results and Table 1; page 5, molecular figures"
+        },
+        {
+          "text": "The commercial handset specification is not a measurement of absorbed dose in the semen. Sample-specific dosimetry, a measured temperature history and clear assay masking were not supplied, and simultaneous clusterin and fragmentation changes do not demonstrate mediation by oxidative stress. The authors acknowledge that repeated exposure and reversibility were not tested. The report therefore cannot quantify pocket-carriage infertility, permanent injury or a clinical risk for phone users, and scientific review remains pending.",
+          "source": "E03-T05-R176",
+          "locator": "Original PDF physical pages 2 to 4, exposure, assays and statistical methods; pages 6 to 7, interpretation and limitations"
+        }
+      ]
+    }
+  ],
+  "E06-T11-R227": [
+    {
+      "title": "Keep the phone activity with the meter reading",
+      "paragraphs": [
+        {
+          "text": "The campaign compared selected microenvironments with an inactive test phone and with deliberately intensive download or upload activity. Active tasks increased external RF readings, and the urban-rural comparison depended on the scenario. These observations describe the instrument, route and test-phone arrangement. They are not independently followed patients, lifetime population doses or clinical outcomes, and repeated time samples within routes should not be counted as independent studies.",
+          "source": "E06-T11-R227",
+          "locator": "Original PDF physical pages 2 to 4, routes, scenarios, measurement and analysis; pages 7 to 9, scenario interpretation"
+        },
+        {
+          "text": "The shared time-division band could not distinguish signals from the nearby phone and the base station. A higher reading during download cannot therefore be assigned entirely to base-station beamforming or converted directly into absorbed organ dose. Body shielding, operator and device differences, missing active scenarios and unavailable supplements constrain interpretation. Country-level differences cannot isolate the effect of regulation from network and sampling differences, and this exposure survey does not establish a health-policy benefit or harm.",
+          "source": "E06-T11-R227",
+          "locator": "Original PDF physical pages 3 to 4, setup and failed scenarios; pages 8 to 9, signal attribution, strengths and limitations"
+        }
+      ]
+    }
   ]
 }

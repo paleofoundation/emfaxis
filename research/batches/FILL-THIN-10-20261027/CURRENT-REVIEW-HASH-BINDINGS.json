@@ -1,0 +1,30 @@
+[
+  {
+    "id": "E03-T05-R176",
+    "present": false,
+    "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/corpus/raw/c1750cfa58fb8b4811a57bc1f2e88e2bc8acfeeb1c6bf7d78931b6feedc3346a.pdf",
+    "source_sha256": "c1750cfa58fb8b4811a57bc1f2e88e2bc8acfeeb1c6bf7d78931b6feedc3346a",
+    "fresh_text_file": "/Users/kmfp/Documents/Codex/2026-10-25/you-are-conductor-the-single-codex/work/fill-thin-10/direct-source-extractions/E03-T05-R176.txt",
+    "fresh_text_sha256": "a0753161ce305b8c52c6d30eacde67d0df0a67176a89eff46f5c503f67fccaf0",
+    "review_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/reviews/continuation-v6-b/E03-T05-R176.json",
+    "current_review_hash": "7071ae08a2222877831b790d8a5f51ca2ecc3dd44f465be8c8bc0b44450f85ab",
+    "decision_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/verification/preview-decisions/E03-T05-R176.json",
+    "decision_sha256": "746aa647549ddb89abdc54e06da32394f6497505926e6299193982ff68fc8006",
+    "historical_review_hash": "9dd74d3b7bfec01e43649c6ccb0ed7c88fe6eab371adbd6bdd8b8f649b132a92",
+    "review_hash_matches": false
+  },
+  {
+    "id": "E06-T11-R227",
+    "present": false,
+    "source_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/corpus/raw/b5ba28371c8a253a2b94b058619766e777d4b2b382710f2d19de9d511ba27cb1.pdf",
+    "source_sha256": "b5ba28371c8a253a2b94b058619766e777d4b2b382710f2d19de9d511ba27cb1",
+    "fresh_text_file": "/Users/kmfp/Documents/Codex/2026-10-25/you-are-conductor-the-single-codex/work/fill-thin-10/direct-source-extractions/E06-T11-R227.txt",
+    "fresh_text_sha256": "4d3301a1a85ef8ae966381cf444e8cbf994c3bdbf1bfaa715c7310579ccea90f",
+    "review_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/reviews/continuation-v6-c/E06-T11-R227.json",
+    "current_review_hash": "0a28a6f4d0476bcc2aee324cbc325e45df9288d8c18b584f2057fbc2c9e7cf69",
+    "decision_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/verification/preview-decisions/E06-T11-R227.json",
+    "decision_sha256": "9e5c48c847ea0b9f9e341e0c086d301adf48c619edff5771dd4366474cea8927",
+    "historical_review_hash": "f434cc609a61db67ba4404229fd745daa96d91adfda2f34c6f13a32b7f5fb23a",
+    "review_hash_matches": false
+  }
+]

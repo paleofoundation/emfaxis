@@ -1,0 +1,13 @@
+{
+  "scope": "Only new R016 second-note locator",
+  "before_allproposed_sha256": "7dbcfee9f726595494538e6ebe4b4f7227101e4a066f1eee73a1b9a7dc5c17c8",
+  "after_allproposed_sha256": "d0f49777dcf4ab5a5cc202ad5856c9407209cc5f1b1c5aaa15b319e74d8298b6",
+  "before_locator": "Original PDF physical page 9, clinical anecdote and limitations; pages 7 to 8, comparison annotations",
+  "after_locator": "Original PDF physical page 9, clinical anecdote and limitations; pages 7 to 8, comparison annotations; held supplement Table_1.docx, native Table I",
+  "reason": "Root freshly inspected native supplementary Table I and requested explicit locator for retained unit/exponent inconsistency; no numeric quantities or appliance equivalence released",
+  "root_native_supplement_sha256": "ce29386f490e997c0bcfa5591df736c277fb6e26b7883ced062862bec03366da",
+  "scientific_text_and_canonical_candidate_unchanged": true,
+  "supplement_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/continuation/c/recovery/pacemaker-Table_1.docx",
+  "own_native_table_read": true,
+  "supplement_sha256_matches_root": true
+}

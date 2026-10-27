@@ -1,0 +1,70 @@
+[
+  {
+    "id": "E03-T05-R176",
+    "title": "In Vitro Effect of Cell Phone Radiation on Motility, DNA\nFragmentation and Clusterin Gene Expression\nin Human Sperm",
+    "authors": "Zalata A, El-Samanoudy AZ, Shaalan D, El-Baiomy Y, Mostafa T",
+    "year": "2015",
+    "doi": "10.22074/ijfs.2015.4217",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4410031/",
+    "source_type": "laboratory_experiment",
+    "access_basis": "owner_supplied_full_text",
+    "checked_at": "2026-10-27",
+    "review_status": "selected_source_passages_inspected; scientific_review_pending",
+    "fingerprint": "c1750cfa58fb8b4811a57bc1f2e88e2bc8acfeeb1c6bf7d78931b6feedc3346a",
+    "integrity_status": "Exact held source PDF/native identity matched; selected passages freshly inspected; no scientific, numerical or human approval asserted",
+    "scope": "Paired exposed and unexposed aliquots of ejaculated human semen in an acute handset laboratory arrangement, not experimental exposure of men or reproductive follow-up.",
+    "limitations": "Sample-specific absorbed dose and temperature history, allocation and assay masking were not reported. Endpoint-dependent findings, unclear fragmentation uncertainty and concurrent clusterin measurements do not establish an RF-specific mechanism, permanent infertility or effects of pocket carriage. Scientific, numerical and human review remain pending.",
+    "citation": "Zalata A, El-Samanoudy AZ, Shaalan D, El-Baiomy Y, Mostafa T. In Vitro Effect of Cell Phone Radiation on Motility, DNA\nFragmentation and Clusterin Gene Expression\nin Human Sperm 2015. DOI: 10.22074/ijfs.2015.4217.",
+    "claims": [
+      {
+        "id": "FILL-THIN-10-E03-T05-R176-C01",
+        "text": "The authors reported higher DNA-fragmentation assay and clusterin signals after exposure across the semen groups. Reported motility and acrosin decreases were significant in the abnormal-semen groups but not in the normozoospermic group.",
+        "locator": "Original PDF physical page 4, Results and Table 1; page 5, Figures 1 and 2",
+        "basis": "full_text",
+        "scientific_review": "pending"
+      },
+      {
+        "id": "FILL-THIN-10-E03-T05-R176-C02",
+        "text": "Each donor sample was divided into exposed and unexposed portions. The study assessed immediate laboratory sperm-related endpoints, without measuring conception, live birth, repeated exposure or reversibility; the handset specification is not measured dose in the sample.",
+        "locator": "Original PDF physical page 2, Materials and Methods; pages 6 to 7, limitations and conclusion",
+        "basis": "full_text",
+        "scientific_review": "pending"
+      }
+    ],
+    "pages": []
+  },
+  {
+    "id": "E06-T11-R227",
+    "title": "Assessing radiofrequency electromagnetic field exposure in multiple microenvironments across ten European countries with a focus on 5G.",
+    "authors": "Veludo AF, Stroobandt B, Van Bladel H, Sandoval-Diez N, Deprez K, Aerts S, Chikha WB, Wiart J, Vecsei Z, Necz PP, Thuróczy G, Benini M, Bonato M, Gallucci S, Tognola G, Parazzini M, Beláčková L, Vaupotič N, Mamrot P, Marianska M, Politanski P, Polanska K, Stamets M, de Llobet P, Castaño-Vinyals G, Guxens M, Hulls PM, de Vocht F, Joseph W, Röösli M.",
+    "year": "2025",
+    "doi": "10.1016/j.envint.2025.109540",
+    "url": "https://doi.org/10.1016/j.envint.2025.109540",
+    "source_type": "exposure_measurement_study",
+    "access_basis": "owner_supplied_full_text",
+    "checked_at": "2026-10-27",
+    "review_status": "selected_source_passages_inspected; scientific_review_pending",
+    "fingerprint": "b5ba28371c8a253a2b94b058619766e777d4b2b382710f2d19de9d511ba27cb1",
+    "integrity_status": "Exact held source PDF/native identity matched; selected passages freshly inspected; no scientific, numerical or human approval asserted",
+    "scope": "Activity-based external RF measurement in selected European microenvironments, comparing an inactive test phone with maximum download and upload scenarios; no clinical outcome cohort.",
+    "limitations": "Selected routes, sequential scenarios, operator and device differences, missing active scenarios, body shielding and unavailable supplements limit generalization. Repeated time samples are dependent. External meter readings are not absorbed organ dose; country comparisons do not establish policy or health causation. Scientific, numerical and human review remain pending.",
+    "citation": "Veludo AF, Stroobandt B, Van Bladel H, Sandoval-Diez N, Deprez K, Aerts S, Chikha WB, Wiart J, Vecsei Z, Necz PP, Thuróczy G, Benini M, Bonato M, Gallucci S, Tognola G, Parazzini M, Beláčková L, Vaupotič N, Mamrot P, Marianska M, Politanski P, Polanska K, Stamets M, de Llobet P, Castaño-Vinyals G, Guxens M, Hulls PM, de Vocht F, Joseph W, Röösli M.. Assessing radiofrequency electromagnetic field exposure in multiple microenvironments across ten European countries with a focus on 5G. 2025. DOI: 10.1016/j.envint.2025.109540.",
+    "claims": [
+      {
+        "id": "FILL-THIN-10-E06-T11-R227-C01",
+        "text": "Inducing download or upload traffic increased the external RF readings relative to the inactive-phone scenario in the reported campaign. Upload was generally the highest scenario, and urban-rural patterns depended on the activity being measured.",
+        "locator": "Original PDF physical pages 4 to 5, Results and Table 1; pages 7 to 9, Discussion and conclusions",
+        "basis": "full_text",
+        "scientific_review": "pending"
+      },
+      {
+        "id": "FILL-THIN-10-E06-T11-R227-C02",
+        "text": "The time-division frequency band could not distinguish uplink from the nearby test phone and downlink from base stations. These external measurements do not isolate absorbed organ dose or establish a causal health or regulatory-policy effect.",
+        "locator": "Original PDF physical page 3, measurement setup; pages 8 to 9, signal interpretation and limitations",
+        "basis": "full_text",
+        "scientific_review": "pending"
+      }
+    ],
+    "pages": []
+  }
+]

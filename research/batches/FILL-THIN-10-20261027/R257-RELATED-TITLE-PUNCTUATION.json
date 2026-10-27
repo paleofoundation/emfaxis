@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "initial_failure": "Inherited related-page display title RF exposure in animal experiments \u2014 methods guide on exact selected R257 target",
+  "repair": "Reuse existing source-ID presentation normalization for related titles, adding R257 only; canonical raw objects remain exact",
+  "initial_receipts": "work/fill-thin-10/receipt-history/available-eight-before-related-title-punctuation",
+  "prior90_scope": "No prior note target is R257; prior90 bodies will be rerun",
+  "final_public_dash_count": 0,
+  "other7_existing_target_bodies": "unchanged",
+  "R257_visible_change": "Only inherited related-title em dash to colon",
+  "prior90_visible_bodies": "unchanged",
+  "other6_existing_target_bodies": "unchanged",
+  "R161_new_note_basis": "Separately disclosed wording clarification only",
+  "other5_existing_target_bodies": "unchanged",
+  "R016_new_note_locator": "Separately disclosed explicit supplement locator only"
+}
