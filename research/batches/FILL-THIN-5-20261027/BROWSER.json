@@ -1,0 +1,130 @@
+{
+  "at_UTC": "2026-10-27T09:15:46.868281+00:00",
+  "preview": "http://127.0.0.1:5177",
+  "browser": "supported IAB temporary tab10",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "checks": [
+    {
+      "path": "/research/wifi-pmid-32104921",
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "notesPresent": true,
+      "externalNoteLinks": 2,
+      "publicEmEnDashes": 0,
+      "reviewPending": true,
+      "workbookInNotes": false
+    },
+    {
+      "path": "/research/E02-T03-R054",
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "notesPresent": true,
+      "externalNoteLinks": 2,
+      "publicEmEnDashes": 0,
+      "reviewPending": true,
+      "workbookInNotes": false
+    },
+    {
+      "path": "/research/E04-T07-R230",
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "notesPresent": true,
+      "externalNoteLinks": 2,
+      "publicEmEnDashes": 0,
+      "reviewPending": true,
+      "workbookInNotes": false
+    },
+    {
+      "path": "/research/E01-T01-R126",
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "notesPresent": true,
+      "externalNoteLinks": 2,
+      "publicEmEnDashes": 0,
+      "reviewPending": true,
+      "workbookInNotes": false
+    },
+    {
+      "path": "/research/E03-T05-R354",
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "notesPresent": true,
+      "externalNoteLinks": 2,
+      "publicEmEnDashes": 0,
+      "reviewPending": true,
+      "workbookInNotes": false
+    },
+    {
+      "path": "/research/E03-T06-R139",
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "notesPresent": true,
+      "externalNoteLinks": 2,
+      "publicEmEnDashes": 0,
+      "reviewPending": true,
+      "workbookInNotes": false
+    },
+    {
+      "path": "/research/E03-T05-R320",
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "notesPresent": true,
+      "externalNoteLinks": 2,
+      "publicEmEnDashes": 0,
+      "reviewPending": true,
+      "workbookInNotes": false
+    },
+    {
+      "path": "/research/E02-T03-R207",
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "notesPresent": true,
+      "externalNoteLinks": 2,
+      "publicEmEnDashes": 0,
+      "reviewPending": true,
+      "workbookInNotes": false
+    },
+    {
+      "path": "/research/E03-T05-R270",
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "notesPresent": true,
+      "externalNoteLinks": 2,
+      "publicEmEnDashes": 0,
+      "reviewPending": true,
+      "workbookInNotes": false
+    },
+    {
+      "path": "/sources",
+      "bodyWidth": 390,
+      "documentWidth": 390,
+      "notesPresent": true,
+      "externalNoteLinks": 3,
+      "publicEmEnDashes": 0,
+      "reviewPending": false,
+      "workbookInNotes": false
+    }
+  ],
+  "visualSections": [
+    "/research/wifi-pmid-32104921#reading-notes",
+    "/sources#reading-notes",
+    "/research/E03-T05-R354#reading-notes"
+  ],
+  "visualResult": "Inspected sections readable without clipping or horizontal overflow. R354 public main text inspected: PDF-only qualitative claims and pending scientific/numerical/human states; no workbook/S1 ancestry statement, no appraisal preview. Sources directory is not a scientific appraisal and has no per-study pending marker.",
+  "boundedConsole": {
+    "queryLimit": 15,
+    "levels": [
+      "warn",
+      "error"
+    ],
+    "entries": [],
+    "limitation": "Empty bounded console response does not certify network-wide absence of errors."
+  },
+  "limits": [
+    "Bounded DOM/mobile verification only, not full scientific or human approval.",
+    "Existing index/follow observed on first record; no robots mutation performed."
+  ]
+}

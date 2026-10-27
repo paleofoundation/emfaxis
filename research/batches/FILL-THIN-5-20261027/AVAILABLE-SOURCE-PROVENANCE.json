@@ -1,0 +1,94 @@
+[
+  {
+    "id": "wifi-pmid-32104921",
+    "file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/full-rollout/wifi/raw/32104921-europepmc.json",
+    "sha256": "5d5d2ec8c56cfdebaad73c8565e9687180dc3fa8e7a19dcdc55a731fb4f8061d",
+    "scope": "qualitative_public_preview_only",
+    "locators": [
+      "EuropePMC core JSON $.resultList.result[0].abstractText; opening sentence",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; system description and final dosimetry sentences",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; sentences beginning The exposure system includes and The system is fully computer-controlled",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; sentence beginning Sham and verum",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; system description and final three sentences",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; sentences beginning For a total antenna input power and Taking into account variations",
+      "EuropePMC core JSON $.resultList.result[0].abstractText",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; objective and reported dosimetry",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; quality-control sentence and head-position sentence",
+      "EuropePMC core JSON $.resultList.result[0].abstractText; antenna geometry, transmission-pattern and cortical-SAR sentences",
+      "EuropePMC core JSON $.resultList.result[0].abstractText",
+      "Memory report publisher HTML \u00a72.5 line235 and \u00a72.1 lines190\u2013191"
+    ],
+    "scientific_approval": false,
+    "human_review": "pending",
+    "numeric_release": false
+  },
+  {
+    "id": "E02-T03-R054",
+    "file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/full-rollout/owned/files/E02-T03-R054.pdf",
+    "sha256": "1a2d168baebf2caed0528566163ff8d152ae18cbb5e988ff2c078efe2489c4bd",
+    "scope": "qualitative_public_preview_only",
+    "locators": [
+      "PDF physical p2 self-identified sensitivity, rough environmental matching and earlier pulse testing; p3 response/tinnitus/regression results; pp4\u20135 discussion and cross-sectional/self-report limitations"
+    ],
+    "scientific_approval": false,
+    "human_review": "pending",
+    "numeric_release": false
+  },
+  {
+    "id": "E04-T07-R230",
+    "file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/full-rollout/owned/files/E04-T07-R230.pdf",
+    "sha256": "47a7cb32c03abf1a20da841f7e0853cbf40de36575e1e9251db51642a6d2b9a0",
+    "scope": "qualitative_public_preview_only",
+    "locators": [
+      "PDF physical pp2\u20133 JEM-based occupational methods and pooled selection; p3 Results; p4 rendered Tables1\u20132; pp4\u20135 Discussion"
+    ],
+    "scientific_approval": false,
+    "human_review": "pending",
+    "numeric_release": false
+  },
+  {
+    "id": "E01-T01-R126",
+    "file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/full-rollout/owned/files/E01-T01-R126.pdf",
+    "sha256": "b66e747cd52c4bd25b03497fd34d60ddfb98996f048902d14f1071abc2691570",
+    "scope": "qualitative_public_preview_only",
+    "locators": [
+      "PDF physical p1 Abstract; pp3\u20134 exposure/reference and analysis; p5 Table3; p6 Table5/laterality discussion; p8 low-use reference; p9 Conclusion"
+    ],
+    "scientific_approval": false,
+    "human_review": "pending",
+    "numeric_release": false
+  },
+  {
+    "id": "E03-T06-R139",
+    "file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/full-rollout/owned/files/E03-T06-R139.pdf",
+    "sha256": "0d4b595ea0b9b78c0bf4812518c1fcb041a7411316d33c7689c169f8ee842100",
+    "scope": "qualitative_public_preview_only",
+    "locators": [
+      "PDF physical p2 Data analysis and Results; pp3\u20134 exposure/outcome categories; p6 rendered Table4 and Discussion; p7 limitations/conclusion"
+    ],
+    "scientific_approval": false,
+    "human_review": "pending",
+    "numeric_release": false
+  },
+  {
+    "id": "nci-emf-cancer",
+    "file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/full-rollout/sources/official/nci-emf-cancer.html",
+    "sha256": "a7b3d77f37599a989ea61a5f174ed1a792aac111e6837888ff7e378a77de352e",
+    "scope": "Held officialcontext, no current systematicreview or scientificgrade",
+    "human_review": "pending"
+  },
+  {
+    "id": "icnirp-rf",
+    "file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/full-rollout/sources/official/icnirp-rf.html",
+    "sha256": "95f233c22543f3840568c14db45a1acf6159f24dfb57329c56d8c36bd949437b",
+    "scope": "Held officialcontext, no current systematicreview or scientificgrade",
+    "human_review": "pending"
+  },
+  {
+    "id": "foph-mobile",
+    "file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/full-rollout/sources/official/foph-mobile.pdf",
+    "sha256": "e061b2ecc2b6c8b76cc62f4269d9293d9717405ff52e66cc9dd2591b74ce34be",
+    "scope": "Held officialcontext, no current systematicreview or scientificgrade",
+    "human_review": "pending"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "id": "E03-T05-R354",
+  "role": "Original supporting workbook and editorial source-check limitation; not a verbatim PDF conclusion",
+  "workbook_file": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/continuation-v6/b/r354/pone.0299017.s001.xlsx",
+  "workbook_sha256": "4ac0f465bffad13ff97bbd61d3482e8b574d2d407ae06bbe3b201dc71db0ac40",
+  "original_file_receipt": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/continuation-v6/b/r354/recovery-receipts.json",
+  "private_source_check": "/Users/kmfp/Documents/ChatGPT/EMF/research/emf/archive-appraisal/continuation-v6/b/r354/workbook-replication-check.json",
+  "private_source_check_sha256": "d9634185e62dc121eaa5211fcda9d66ad43d9b5645b86c5f5dbc30b3f2f94917",
+  "native_locator": "Original S1 workbook Sheet4; xl/worksheets/sheet4.xml; viability headers and entry ancestry",
+  "current_native_sheet4_sha256": "4f28160e345038a282a90d4dd29a3095df0dc53d8a404a53a824ab7a6a0a72a6",
+  "disposition": "Unresolved observation/derived-value provenance, not misconduct, no quantitative reanalysis or numerical release; human/source clarification required"
+}

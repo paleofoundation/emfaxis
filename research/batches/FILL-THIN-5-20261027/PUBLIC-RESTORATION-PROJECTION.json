@@ -1,0 +1,138 @@
+[
+  {
+    "id": "E03-T05-R354",
+    "title": "Radio frequency electromagnetic radiations interfere with the Leydig cell functions in-vitro",
+    "authors": "Jangid Pooja; Rai Umesh; Singh Rajeev; Saka Vara Prasad",
+    "year": "2024",
+    "doi": "10.1371/journal.pone.0299017",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11101099/",
+    "source_type": "mouse_cell_experiment",
+    "access_basis": "owner_supplied_full_text",
+    "checked_at": "2026-10-27",
+    "review_status": "selected_source_passages_inspected; scientific_review_pending",
+    "fingerprint": "80615db94189f0512fbc886202843430e695b7f05248fead47baaf3c2cf72109",
+    "integrity_status": "Exact held PDF/native identity matched; source-specific data and inference limitations retained; no numerical or human approval asserted",
+    "scope": "Mouse Leydig cell line under selected handset and generator exposure arrangements; culture assays rather than recruited people or reproductive success.",
+    "limitations": "This cell-line experiment measures culture endpoints rather than clinical fertility or reproductive success. These endpoints do not establish human infertility or a frequency-specific clinical risk. Scientific, numerical and human review remain pending.",
+    "citation": "Jangid Pooja; Rai Umesh; Singh Rajeev; Saka Vara Prasad. Radio frequency electromagnetic radiations interfere with the Leydig cell functions in-vitro. 2024. DOI: 10.1371/journal.pone.0299017.",
+    "claims": [
+      {
+        "id": "FILL-THIN-5-R354-C01",
+        "text": "The mouse-cell experiment reported selected metabolic and testosterone changes without a significant viability contrast. Oxidation-sensitive fluorescence did not change consistently across the exposure arrangements.",
+        "locator": "Main PDF physical pages 5 to 9, Results and Figures",
+        "basis": "full_text",
+        "scientific_review": "pending"
+      },
+      {
+        "id": "FILL-THIN-5-R354-C02",
+        "text": "The experiment uses a mouse Leydig cell line and measures culture endpoints rather than clinical fertility or reproductive success. These endpoints do not establish human infertility or a frequency-specific clinical risk.",
+        "locator": "Main PDF physical pages 2 to 5, cell culture and exposure methods; pages 9 to 12, Discussion and Conclusion",
+        "basis": "full_text",
+        "scientific_review": "pending"
+      }
+    ],
+    "pages": []
+  },
+  {
+    "id": "E03-T05-R320",
+    "title": "Effects of 150 kHz intermediate frequency electromagnetic radiation on fertility indicators in male rats",
+    "authors": "Sundaram Venkatesan; Mohammed Stephanie; Zyuzikov Nikolay",
+    "year": "2022",
+    "doi": "10.1016/j.heliyon.2022.e12228",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9791864/",
+    "source_type": "animal_experiment",
+    "access_basis": "owner_supplied_full_text",
+    "checked_at": "2026-10-27",
+    "review_status": "selected_source_passages_inspected; scientific_review_pending",
+    "fingerprint": "034d1aaca7466063aaa35d273a0f2f2b9318c8bfcb3edc7c1c43c2a76731453a",
+    "integrity_status": "Exact held PDF/native identity matched; source-specific data and inference limitations retained; no numerical or human approval asserted",
+    "scope": "Male-rat intermediate-frequency exposure experiment measuring reproductive indicators, not mating, conception or offspring.",
+    "limitations": "Exposure-unit, endpoint-direction and significance statements conflict within the source. Small groups, cage dependence and unresolved dosimetry constrain interpretation; no numerical correction or human infertility conclusion is established. Scientific, numerical and human review remain pending.",
+    "citation": "Sundaram Venkatesan; Mohammed Stephanie; Zyuzikov Nikolay. Effects of 150 kHz intermediate frequency electromagnetic radiation on fertility indicators in male rats. 2022. DOI: 10.1016/j.heliyon.2022.e12228.",
+    "claims": [
+      {
+        "id": "FILL-THIN-5-R320-C01",
+        "text": "The rat report describes selected testicular and hormone differences alongside many nonsignificant semen and histology comparisons. It measures reproductive indicators rather than reproductive success.",
+        "locator": "Main PDF physical pages 3 to 6, Results, Tables and histology figure",
+        "basis": "full_text",
+        "scientific_review": "pending"
+      },
+      {
+        "id": "FILL-THIN-5-R320-C02",
+        "text": "Exposure-unit, endpoint-direction and significance statements conflict within the source. Small groups, cage dependence and unresolved dosimetry constrain interpretation; no numerical correction or human infertility conclusion is established.",
+        "locator": "Main PDF physical pages 2 to 3 and 5 to 7, Methods, Discussion and Conclusion",
+        "basis": "full_text",
+        "scientific_review": "pending"
+      }
+    ],
+    "pages": []
+  },
+  {
+    "id": "E02-T03-R207",
+    "title": "Physiological changes and symptoms associated with short-term exposure to electromagnetic fields: a randomized crossover provocation study",
+    "authors": "Huang Po-Chang; Chiang Jui-chin; Cheng Ya-Yun; Cheng Tain-Junn; Huang Chien-Yuan; Chuang Ya-Ting; Hsu Ti; Guo How-Ran",
+    "year": "2022",
+    "doi": "10.1186/s12940-022-00843-1",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8902720/",
+    "source_type": "human_experiment",
+    "access_basis": "owner_supplied_full_text",
+    "checked_at": "2026-10-27",
+    "review_status": "selected_source_passages_inspected; scientific_review_pending",
+    "fingerprint": "8dad1c4de31cdc95f67e7740a4ada3fbccb0e28154fbb3f19ca0efa47b4a73f1",
+    "integrity_status": "Exact held PDF/native identity matched; source-specific data and inference limitations retained; no numerical or human approval asserted",
+    "scope": "Masked acute multiband base-station-like exposure and sham in selected adults with and without self-attributed sensitivity; immediate symptoms, physiology and exposure belief.",
+    "limitations": "Perceived exposure was not randomly assigned. Sparse symptom data, unreconciled paired counts and restricted signal and follow-up scope prevent a causal interpretation of perception associations or a universal equivalence claim. Scientific, numerical and human review remain pending.",
+    "citation": "Huang Po-Chang; Chiang Jui-chin; Cheng Ya-Yun; Cheng Tain-Junn; Huang Chien-Yuan; Chuang Ya-Ting; Hsu Ti; Guo How-Ran. Physiological changes and symptoms associated with short-term exposure to electromagnetic fields: a randomized crossover provocation study. 2022. DOI: 10.1186/s12940-022-00843-1.",
+    "claims": [
+      {
+        "id": "FILL-THIN-5-R207-C01",
+        "text": "The actual-exposure comparison did not identify an adverse symptom or physiological pattern under the tested conditions. Initially correct exposure guesses did not persist on repeat testing.",
+        "locator": "Main PDF physical pages 4 to 6, analysis and Results",
+        "basis": "full_text",
+        "scientific_review": "pending"
+      },
+      {
+        "id": "FILL-THIN-5-R207-C02",
+        "text": "Perceived exposure was not randomly assigned. Sparse symptom data, unreconciled paired counts and restricted signal and follow-up scope prevent a causal interpretation of perception associations or a universal equivalence claim.",
+        "locator": "Main PDF physical pages 5 to 8, source tables, Discussion and limitations",
+        "basis": "full_text",
+        "scientific_review": "pending"
+      }
+    ],
+    "pages": []
+  },
+  {
+    "id": "E03-T05-R270",
+    "title": "Effects of 220 MHz Pulsed Modulated Radiofrequency Field on the Sperm Quality in Rats",
+    "authors": "Guo Ling; Lin Jia-Jin; Xue Yi-Zhe; An Guang-Zhou; Zhang Jun-Ping; Zhang Ke-Ying; He Wei; Wang Huan; Li Wei; Ding Gui-Rong",
+    "year": "2019",
+    "doi": "10.3390/ijerph16071286",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6480634/",
+    "source_type": "animal_experiment",
+    "access_basis": "owner_supplied_full_text",
+    "checked_at": "2026-10-27",
+    "review_status": "selected_source_passages_inspected; scientific_review_pending",
+    "fingerprint": "a7c1c237448e1b16a736af5ef54114dee521203f6cf35364e9c6eba139ee84cb",
+    "integrity_status": "Exact held PDF/native identity matched; source-specific data and inference limitations retained; no numerical or human approval asserted",
+    "scope": "Adult-rat pulsed-radiofrequency experiment measuring sperm, hormone and tissue surrogates; no mating or offspring outcome.",
+    "limitations": "The abstract and detailed morphology results differ. Missing local thermal characterization and the absence of a continuous-wave comparator limit nonthermal or pulse-specific explanations; these animal surrogate findings do not establish human infertility. Scientific, numerical and human review remain pending.",
+    "citation": "Guo Ling; Lin Jia-Jin; Xue Yi-Zhe; An Guang-Zhou; Zhang Jun-Ping; Zhang Ke-Ying; He Wei; Wang Huan; Li Wei; Ding Gui-Rong. Effects of 220 MHz Pulsed Modulated Radiofrequency Field on the Sperm Quality in Rats. 2019. DOI: 10.3390/ijerph16071286.",
+    "claims": [
+      {
+        "id": "FILL-THIN-5-R270-C01",
+        "text": "The rat experiment reported lower sperm count, survival and testosterone with selected apoptosis-related signals, while sperm abnormality, gross morphology and several Sertoli-cell measures were not significantly changed.",
+        "locator": "Main PDF physical pages 6 to 9, Results and Figures",
+        "basis": "full_text",
+        "scientific_review": "pending"
+      },
+      {
+        "id": "FILL-THIN-5-R270-C02",
+        "text": "The abstract and detailed morphology results differ. Missing local thermal characterization and the absence of a continuous-wave comparator limit nonthermal or pulse-specific explanations; these animal surrogate findings do not establish human infertility.",
+        "locator": "Main PDF physical pages 2 to 5 and 9 to 10, Methods and Discussion",
+        "basis": "full_text",
+        "scientific_review": "pending"
+      }
+    ],
+    "pages": []
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "method": "Fresh pdftotext -layout from each exact held raw PDF, no acquisition",
+  "checked_UTC": "2026-10-27T09:04:24.510742+00:00",
+  "rows": [
+    {
+      "id": "E03-T05-R354",
+      "source_sha256": "80615db94189f0512fbc886202843430e695b7f05248fead47baaf3c2cf72109",
+      "current_extracted_text_sha256": "ea36b66be1ce51c9187db39b364c159e48ebfab56051f70caa78497ec3f4270d",
+      "direct_read_scope": "Main PDF physical pages 5 to 9, Results and Figures; Main PDF physical pages 2 to 5 and 9 to 12; original supporting-workbook source-check limits",
+      "review_hold": "No prior historical/current PASS transfer; direct bounded selected-source interpretation, pending scientific/numeric/human review"
+    },
+    {
+      "id": "E03-T05-R320",
+      "source_sha256": "034d1aaca7466063aaa35d273a0f2f2b9318c8bfcb3edc7c1c43c2a76731453a",
+      "current_extracted_text_sha256": "800729bd2955f28e9ff63299d6fb57c1ded791497bb780d1db991b0285f11f35",
+      "direct_read_scope": "Main PDF physical pages 3 to 6, Results, Tables and histology figure; Main PDF physical pages 2 to 3 and 5 to 7, Methods, Discussion and Conclusion",
+      "review_hold": "No prior historical/current PASS transfer; direct bounded selected-source interpretation, pending scientific/numeric/human review"
+    },
+    {
+      "id": "E02-T03-R207",
+      "source_sha256": "8dad1c4de31cdc95f67e7740a4ada3fbccb0e28154fbb3f19ca0efa47b4a73f1",
+      "current_extracted_text_sha256": "1f7016550c024a36cecc7f2083338c3ee30872ebab9b0f7875e0ea54e81fb5f9",
+      "direct_read_scope": "Main PDF physical pages 4 to 6, analysis and Results; Main PDF physical pages 5 to 8, source tables, Discussion and limitations",
+      "review_hold": "No prior historical/current PASS transfer; direct bounded selected-source interpretation, pending scientific/numeric/human review"
+    },
+    {
+      "id": "E03-T05-R270",
+      "source_sha256": "a7c1c237448e1b16a736af5ef54114dee521203f6cf35364e9c6eba139ee84cb",
+      "current_extracted_text_sha256": "4918f63f4289581ba657be1ceac046f84113302d5102f6cdf17bfbaeeebf5645",
+      "direct_read_scope": "Main PDF physical pages 6 to 9, Results and Figures; Main PDF physical pages 2 to 5 and 9 to 10, Methods and Discussion",
+      "review_hold": "No prior historical/current PASS transfer; direct bounded selected-source interpretation, pending scientific/numeric/human review"
+    }
+  ]
+}
