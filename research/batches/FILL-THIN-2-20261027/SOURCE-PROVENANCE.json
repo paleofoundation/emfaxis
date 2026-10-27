@@ -1,0 +1,122 @@
+[
+  {
+    "id": "fda-microwave",
+    "url": "https://www.fda.gov/radiation-emitting-products/resources-you-radiation-emitting-products/microwave-ovens",
+    "sha256": "0f1be3966273cf47677cad5dec35fa02ee65540b3d5fe020daa39af351a09851",
+    "bytes": 52930,
+    "basis": "official_context",
+    "retrieved_at": "2026-10-22T14:28:09.157562+00:00",
+    "receipt_state": "retrieved_unreviewed",
+    "source": "held original snapshot, no new retrieval",
+    "human_review": "pending",
+    "formal_grade": null
+  },
+  {
+    "id": "icnirp-mri",
+    "url": "https://www.icnirp.org/en/applications/mri/index.html",
+    "sha256": "71cc4e65625b881060466065b8da7c72d0a47ff09ef1eae2b2f7686af2570936",
+    "bytes": 21126,
+    "basis": "official_context",
+    "retrieved_at": "2026-10-22T14:28:09.157679+00:00",
+    "receipt_state": "retrieved_unreviewed",
+    "source": "held original snapshot, no new retrieval",
+    "human_review": "pending",
+    "formal_grade": null
+  },
+  {
+    "id": "icnirp-lf",
+    "url": "https://www.icnirp.org/en/frequencies/low-frequency/index.html",
+    "sha256": "22ceba17e4297df0eb8b6c07b3caafa973447065d5b817f3480e214af420e7ec",
+    "bytes": 22953,
+    "basis": "official_context",
+    "retrieved_at": "2026-10-22T14:28:09.905451+00:00",
+    "receipt_state": "retrieved_unreviewed",
+    "source": "held original snapshot, no new retrieval",
+    "human_review": "pending",
+    "formal_grade": null
+  },
+  {
+    "id": "ukhsa-smart-meters",
+    "url": "https://www.gov.uk/government/publications/smart-meters-radio-waves-and-health/smart-meters-radio-waves-and-health",
+    "sha256": "afcc1ae3dfe141c51e492479172f593b883ee0b99d0260235d8aa94d6108611e",
+    "bytes": 75914,
+    "basis": "official_context",
+    "retrieved_at": "2026-10-22T14:28:10.284820+00:00",
+    "receipt_state": "retrieved_unreviewed",
+    "source": "held original snapshot, no new retrieval",
+    "human_review": "pending",
+    "formal_grade": null
+  },
+  {
+    "id": "nci-emf-cancer",
+    "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/electromagnetic-fields-fact-sheet",
+    "sha256": "a7b3d77f37599a989ea61a5f174ed1a792aac111e6837888ff7e378a77de352e",
+    "bytes": 97743,
+    "basis": "official_context",
+    "retrieved_at": "2026-10-22T14:28:10.424749+00:00",
+    "receipt_state": "retrieved_unreviewed",
+    "source": "held original snapshot, no new retrieval",
+    "human_review": "pending",
+    "formal_grade": null
+  },
+  {
+    "id": "hse-workplace",
+    "url": "https://www.hse.gov.uk/radiation/nonionising/emf-regulations.htm",
+    "sha256": "4b93de2580b4aae00e88f87af80cb8e7f39b6ad0a282680330d450ec5083bffc",
+    "bytes": 46187,
+    "basis": "official_context",
+    "retrieved_at": "2026-10-22T14:28:10.479771+00:00",
+    "receipt_state": "retrieved_unreviewed",
+    "source": "held original snapshot, no new retrieval",
+    "human_review": "pending",
+    "formal_grade": null
+  },
+  {
+    "id": "who-ehs",
+    "url": "https://www.who.int/teams/environment-climate-change-and-health/radiation-and-health/non-ionizing/hypersensitivity",
+    "sha256": "ea56715134aa7ece8da66be88d4d00e8bf4400f0b5264a6a3600fc787a2a01de",
+    "bytes": 83517,
+    "basis": "official_context",
+    "retrieved_at": "2026-10-22T14:28:11.117836+00:00",
+    "receipt_state": "retrieved_unreviewed",
+    "source": "held original snapshot, no new retrieval",
+    "human_review": "pending",
+    "formal_grade": null
+  },
+  {
+    "id": "foph-induction",
+    "url": "https://www.bag.admin.ch/dam/en/sd-web/Q-QOAC2li-HY/Fact%20sheet%20induction%20hob.pdf",
+    "sha256": "23f235da0c52711d98b651798d74f32f4f59e8e7586fe55589aff5804e797137",
+    "bytes": 824549,
+    "basis": "official_context",
+    "retrieved_at": "2026-10-22T14:28:35.822337+00:00",
+    "receipt_state": "retrieved_unreviewed",
+    "source": "held original snapshot, no new retrieval",
+    "human_review": "pending",
+    "formal_grade": null
+  },
+  {
+    "id": "foph-bluetooth",
+    "url": "https://www.bag.admin.ch/dam/en/sd-web/1M7S2bgQet7i/Fact%20sheet%20Bluetooth.pdf",
+    "sha256": "a38a9a83f47f794d0eaf597bae07e84fb77b8cfda3c6953d89eecda31a9940ef",
+    "bytes": 311760,
+    "basis": "official_context",
+    "retrieved_at": "2026-10-22T14:28:36.863598+00:00",
+    "receipt_state": "retrieved_unreviewed",
+    "source": "held original snapshot, no new retrieval",
+    "human_review": "pending",
+    "formal_grade": null
+  },
+  {
+    "id": "foph-baby-monitors",
+    "url": "https://www.bag.admin.ch/dam/en/sd-web/rZQovqJEbzfC/Fact%20sheet%20Baby%20monitor.pdf",
+    "sha256": "dd22eec35269f966f737d6bb9676b1b7b72892d9dd7eb5fbaf9c896384eee68a",
+    "bytes": 295012,
+    "basis": "official_context",
+    "retrieved_at": "2026-10-22T14:28:37.434088+00:00",
+    "receipt_state": "retrieved_unreviewed",
+    "source": "held original snapshot, no new retrieval",
+    "human_review": "pending",
+    "formal_grade": null
+  }
+]

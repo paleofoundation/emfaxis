@@ -1,0 +1,65 @@
+{
+  "id": "FILL-THIN-2-ALLOWLIST-PROPOSAL",
+  "state": "PROPOSED_ONLY_AWAITING_ELON_RULING",
+  "not_applied": true,
+  "adapter_sha256": "2b25ab36f6591acbe49ddaf856f04399f32497b5d00a36315506d7e27be460fc",
+  "rule": "Host recognition counts links, not unique studies or source quality. No scoring thresholds or analyzer/list edits authorized.",
+  "domains": [
+    {
+      "domain": "icnirp.org",
+      "organization": "ICNIRP",
+      "example": "https://www.icnirp.org/en/applications/mri/index.html",
+      "propose": "add host recognition",
+      "scope": "Official explanatory and guidance context; not primary studies or clinical approval.",
+      "recognized_by_unchanged_adapter": false
+    },
+    {
+      "domain": "bag.admin.ch",
+      "organization": "Swiss FOPH",
+      "example": "https://www.bag.admin.ch/dam/en/sd-web/1M7S2bgQet7i/Fact%20sheet%20Bluetooth.pdf",
+      "propose": "add host recognition",
+      "scope": "Official FOPH fact sheets. Host is broad; source identity must still be checked.",
+      "recognized_by_unchanged_adapter": false
+    },
+    {
+      "domain": "cancer.gov",
+      "organization": "US National Cancer Institute",
+      "example": "https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/electromagnetic-fields-fact-sheet",
+      "propose": "add host recognition",
+      "scope": "Official cancer-context fact sheets; referenced papers are not independently appraised by a host match.",
+      "recognized_by_unchanged_adapter": false
+    },
+    {
+      "domain": "www.gov.uk",
+      "organization": "UKHSA via GOV.UK",
+      "example": "https://www.gov.uk/government/publications/smart-meters-radio-waves-and-health/smart-meters-radio-waves-and-health",
+      "propose": "Elon to choose narrow/path-aware policy or broader host recognition",
+      "scope": "Only the identified UKHSA publication verified here. A bare GOV.UK host match would also count other government topics; no blanket scientific-source endorsement proposed.",
+      "recognized_by_unchanged_adapter": false
+    },
+    {
+      "domain": "hse.gov.uk",
+      "organization": "UK Health and Safety Executive",
+      "example": "https://www.hse.gov.uk/radiation/nonionising/emf-regulations.htm",
+      "propose": "add host recognition",
+      "scope": "UK workplace regulatory context; not a substitute for scientific appraisal or current local legal assessment.",
+      "recognized_by_unchanged_adapter": false
+    },
+    {
+      "domain": "who.int",
+      "organization": "World Health Organization",
+      "example": "https://www.who.int/teams/environment-climate-change-and-health/radiation-and-health/non-ionizing/hypersensitivity",
+      "propose": "no change, already recognized",
+      "scope": "Historical December 2005 EHS context in this batch; recognition does not establish currency.",
+      "recognized_by_unchanged_adapter": true
+    },
+    {
+      "domain": "fda.gov",
+      "organization": "US FDA",
+      "example": "https://www.fda.gov/radiation-emitting-products/resources-you-radiation-emitting-products/microwave-ovens",
+      "propose": "no change, already recognized",
+      "scope": "US microwave-oven product context.",
+      "recognized_by_unchanged_adapter": true
+    }
+  ]
+}

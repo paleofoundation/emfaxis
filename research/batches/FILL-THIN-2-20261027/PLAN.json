@@ -1,0 +1,38 @@
+{
+  "id": "FILL-THIN-2",
+  "base": "0feb688abd7cbb4ace8e8b96dffbd5373ed637d2",
+  "branch": "codex/fill-thin-2",
+  "urls": [
+    "https://emfaxis.com/research/ukhsa-smart-meters",
+    "https://emfaxis.com/",
+    "https://emfaxis.com/research/who-ehs",
+    "https://emfaxis.com/research/icnirp-mri",
+    "https://emfaxis.com/research/foph-bluetooth",
+    "https://emfaxis.com/research/icnirp-lf",
+    "https://emfaxis.com/research/fda-microwave",
+    "https://emfaxis.com/research/foph-baby-monitors",
+    "https://emfaxis.com/research/hse-workplace",
+    "https://emfaxis.com/research/foph-induction"
+  ],
+  "inputs": "Existing own EMF official-source snapshots and canonical context records. No new retrieval or general clinical advice.",
+  "preserve": [
+    "accepted PR1 packet and output manifest",
+    "original ten note entries",
+    "source IDs and fingerprints",
+    "scientific/human review pending",
+    "robots/sitemap/hosting",
+    "audit thresholds and host allowlist"
+  ],
+  "allowed": "bounded source-specific reading additions with original-source links and locators; one draft PR",
+  "proposal": "Separate official-domain allowlist proposal for Elon ruling only",
+  "audit": {
+    "workers": 4,
+    "delay": 0.25,
+    "timeout": 25,
+    "retries": 2,
+    "min_words": 400,
+    "max_thin_cites": 2,
+    "claim_min_hits": 3,
+    "scope": "exact ten built-local URLs before/after"
+  }
+}

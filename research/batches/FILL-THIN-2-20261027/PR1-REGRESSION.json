@@ -1,0 +1,66 @@
+{
+  "status": "PASS",
+  "scope": "Accepted PR1 exact ten visible bodies unchanged",
+  "rows": [
+    {
+      "url": "https://emfaxis.com/resources",
+      "status": 200,
+      "visible_body_text_equal": true,
+      "text_sha256": "3f1eac89b72ae528aa5e3853ba804cbd7b6d76fa93845b9a44beb65edbf5027b"
+    },
+    {
+      "url": "https://emfaxis.com/fields",
+      "status": 200,
+      "visible_body_text_equal": true,
+      "text_sha256": "53a0a5d32a2629bf2729d7f80cffdbf4dd53847fb401ffb8f19f3fdd70211399"
+    },
+    {
+      "url": "https://emfaxis.com/resources/reading-worksheet",
+      "status": 200,
+      "visible_body_text_equal": true,
+      "text_sha256": "822faf7cdf9f2881a140e54e411f01c97a055d3f60ca76bda743e5b929cf3e5e"
+    },
+    {
+      "url": "https://emfaxis.com/resources/first-guide-preview",
+      "status": 200,
+      "visible_body_text_equal": true,
+      "text_sha256": "3e06eb38460d5df14d6926f34b6ed6532583b842984f8f7ab34840a6192c6ee4"
+    },
+    {
+      "url": "https://emfaxis.com/resources/reading-guide",
+      "status": 200,
+      "visible_body_text_equal": true,
+      "text_sha256": "553325d9835139988aa673c11eac3862aa9b2c52b3d6621ba12ff4753d913393"
+    },
+    {
+      "url": "https://emfaxis.com/research/icnirp-static",
+      "status": 200,
+      "visible_body_text_equal": true,
+      "text_sha256": "ac2111eeba7b55271bb6fa34e18d89dc941883f7be5b34f0729c4258131af19a"
+    },
+    {
+      "url": "https://emfaxis.com/research/icnirp-dect",
+      "status": 200,
+      "visible_body_text_equal": true,
+      "text_sha256": "b9880e79ac5fc89aa81e80a26ff039749d97f4af4075bf664f78d286d76fa78c"
+    },
+    {
+      "url": "https://emfaxis.com/research/foph-wearables",
+      "status": 200,
+      "visible_body_text_equal": true,
+      "text_sha256": "1e980f2b686e4a81eb7b971b6fd1210ce9738546fc3d52c069c148b54094d77b"
+    },
+    {
+      "url": "https://emfaxis.com/research/nci-emf-cancer",
+      "status": 200,
+      "visible_body_text_equal": true,
+      "text_sha256": "d9c4fc85c04aadaf045f03caf701f42ddd8c1cdca96336537ad514748bc1a480"
+    },
+    {
+      "url": "https://emfaxis.com/resources/emf-reading-worksheet",
+      "status": 200,
+      "visible_body_text_equal": true,
+      "text_sha256": "19b132edea127a242bd883704304a2530d16dec06d47cb8783364d8966c0b093"
+    }
+  ]
+}
