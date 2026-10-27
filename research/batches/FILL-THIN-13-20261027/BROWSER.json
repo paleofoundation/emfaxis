@@ -1,0 +1,8 @@
+{
+  "status": "BOUNDED_FINAL10_PASS",
+  "receipt": "ROOT-BROWSER-FINAL.json",
+  "receipt_sha256": "bddc6a924cafb253df9a931db39c0cd66d9432b386cc6642534add3dafd8fa20",
+  "source_audit_sha256": "a04fb015bb78860fa57a8ca672566d6517111fa4e1fe8917017d5da846869605",
+  "notes_sha256": "dd39555abeb7e2b46f63a8aa6b003422b355a1c7e968116ae45dd88c57b56c1c",
+  "scope": "Actual root CUA10mobile20exactDOM text/sourcehref/locator tuples,390px body/document,publicdashes0,pendingtrue, Bluetooth wrapvisual. Initial checker sourcehref precedence corrected to recovered-first renderer; no content change. No scientific/numeric/human/release approval"
+}

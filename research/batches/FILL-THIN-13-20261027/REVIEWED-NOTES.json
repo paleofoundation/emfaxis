@@ -1,0 +1,172 @@
+{
+  "t05": [
+    {
+      "title": "Read monitor modes separately from infant outcomes",
+      "paragraphs": [
+        {
+          "text": "The FOPH fact sheet distinguishes sound-triggered transmission from short signals used to check whether the parent unit remains within range. It also separates dedicated monitor links from network cameras and phone-based arrangements. A silent nursery therefore does not by itself describe the radio activity of every monitor. The equipment’s actual communication mode and the roles of both units belong with an emissions claim, while advanced monitoring of bodily functions lies outside this fact sheet’s scope.",
+          "source": "foph-baby-monitors",
+          "locator": "Held FOPH PDF physical page 1, device categories, automatic voice activation, range checks and scope"
+        },
+        {
+          "text": "The adult crossover pilot used modified baby-monitor units and recorded several kinds of sleep outcome. Subjective scores and selected EEG differences appeared alongside nonsignificant comparisons for other measures, with differing available samples. Its discussion identifies limitations in transferring the signal to other device types. This does not provide a trial of infant development or establish the clinical benefit of a product advertised as low-EMF; the tested adults, apparatus and outcomes remain part of the finding.",
+          "source": "E02-T03-R227",
+          "locator": "Original PDF physical pages 2 to 3, apparatus and procedure; pages 5 to 9, Results, Table 1 and limitations"
+        }
+      ]
+    }
+  ],
+  "questions-index": [
+    {
+      "title": "Choose the kind of source that answers the question",
+      "paragraphs": [
+        {
+          "text": "A question about a meter reading first needs a defined exposure quantity. ICNIRP distinguishes external reference levels from basic restrictions expressed in absorbed quantities. Its guidance can explain that measurement framework without measuring a particular home or supplying participants for a health study. When following a question in this directory, check whether the linked source addresses an outside field, absorbed exposure or a health outcome before transferring its conclusion between those purposes.",
+          "source": "icnirp-rf",
+          "locator": "Held ICNIRP RF HTML, Protection, basic restrictions and external reference levels"
+        },
+        {
+          "text": "A review can contain several analyses without those analyses becoming independent new experiments. The childhood-leukaemia review, for example, distinguishes magnetic-field measurements, wire codes, power-line distance and appliance-use comparisons. Those are different ways of defining exposure within the underlying observational literature. Its tables help identify which comparison supports a statement; counting every pooled analysis as a new participant group would obscure the source relationships and the limitations of the original studies.",
+          "source": "E04-T07-R252",
+          "locator": "Original PDF physical pages 2 to 4, Methods and analysis groups; page 18, Table 5; page 22, overlap and methodological limitations"
+        }
+      ]
+    }
+  ],
+  "t09": [
+    {
+      "title": "Do not infer pocket exposure from a reproductive assay",
+      "paragraphs": [
+        {
+          "text": "FOPH explains that phone transmission changes with connection quality and activity, and that a maximum SAR rating describes specified head or body test arrangements. Those features are not captured by simply noting that a phone was carried in a pocket. A carrying-history comparison therefore needs its own exposure interpretation; a rating or a device’s presence cannot reconstruct the person’s absorbed dose during every period of use. This operating context is not itself evidence of infertility.",
+          "source": "foph-mobile",
+          "locator": "Held FOPH PDF physical page 1, activity, connection quality and head/body SAR explanation"
+        },
+        {
+          "text": "The mouse experiment assessed sperm biomarkers and selected fertilisation and early-embryo assays separately. The authors discuss how the laboratory fertilisation method selected higher-quality motile sperm, which can complicate comparison with the broader sperm findings. A result in that selected assay does not establish natural mating success, live birth or later offspring health. It also cannot be assigned to an ordinary human pocket-carrying situation without a matched exposure and reproductive-outcome study.",
+          "source": "E03-T05-R267",
+          "locator": "Original PDF physical pages 4 and 7 to 8, fertilisation findings and selection limitation; pages 10 to 12, Figure 8 and assay methods"
+        }
+      ]
+    }
+  ],
+  "million-women": [
+    {
+      "title": "Follow the exposure history and the population",
+      "paragraphs": [
+        {
+          "text": "The baseline questionnaires asked how often a phone was used and how long it had been used; the later questionnaire also asked about talking time. The analysis linked those reports to subsequent cancer registrations. The paper’s prospective design places the reported history before later diagnoses, but the use categories still do not supply a direct absorbed-dose record. The authors identify simple exposure assessment and changing phone technology as important limits on interpreting the comparisons.",
+          "source": "million-women",
+          "locator": "Original JNCI PDF physical page 2, Exposure Variables and Study Population; page 6, Discussion limitations"
+        },
+        {
+          "text": "The report distinguishes tumour subtypes and location rather than treating every diagnosis as the same outcome. Laterality information was incomplete, and rare acoustic-neuroma results had substantial uncertainty. The cohort consisted of middle-to-older-aged women, without children, and the authors identify very heavy use as a target for further research. Its findings for the reported use categories therefore should retain those population and exposure limits rather than becoming a precise conclusion for every user or device generation.",
+          "source": "million-women",
+          "locator": "Original JNCI PDF physical pages 2 to 3, tumour definitions and Results; page 6, Discussion, laterality, rare outcomes and population limits"
+        }
+      ]
+    }
+  ],
+  "guide-symptoms-and-support": [
+    {
+      "title": "Different provocation designs leave different questions open",
+      "paragraphs": [
+        {
+          "text": "The alarmist-media experiment assigned volunteers to a video condition and an openly known exposure condition. Symptoms were higher with known exposure, while the video manipulation changed perceived risk without a corresponding significant effect on the reported symptom and cortisol outcomes. Because knowledge and actual exposure were bundled in the open-label comparison, the finding cannot isolate a pure RF effect or diagnose expectation as the cause of an individual’s symptoms. It was not a symptom-treatment trial.",
+          "source": "E02-T03-R238",
+          "locator": "Original PDF physical pages 6 to 11, experimental procedure; pages 12 to 16, Results and open-label interpretation limit"
+        },
+        {
+          "text": "The co-designed provocation study instead allowed individualised conditions before blinded real-versus-sham sessions. It did not show consistent collective exposure detection or exposure-related symptoms. A nominal individual detection finding disappeared when the least-certain session was removed, and the authors discuss multiple comparisons and limited generalisation. Those details support a bounded interpretation of the test, without dismissing symptoms or turning the experimental result into a diagnosis, a treatment recommendation or a universal explanation for everyone reporting sensitivity.",
+          "source": "E02-T03-R242",
+          "locator": "Original PDF physical pages 4 to 5, individualised protocol and exposure sources; pages 14 to 17, individual/collective interpretation and limitations"
+        }
+      ]
+    }
+  ],
+  "source-microwave-ovens": [
+    {
+      "title": "Product protection and workplace maxima have different scopes",
+      "paragraphs": [
+        {
+          "text": "The FDA oven page describes interlocks and a monitoring system intended to stop microwave production when the door is opened or an interlock fails. It also separates radiation leakage from burns involving hot food, containers or superheated liquids. These are different product and injury questions. A food-handling burn does not by itself measure leakage, and the standard’s description does not certify the condition of a particular appliance being discussed.",
+          "source": "fda-microwave",
+          "locator": "Held FDA HTML, Microwave Oven Safety Standard; Avoiding Injuries from Super-Heated Water; Have Radiation Injuries Resulted from Microwave Ovens?"
+        },
+        {
+          "text": "The occupational RF review deliberately collects published maximum workplace exposures by source and frequency. Its discussion warns that these maxima can represent conservative or worst-case conditions rather than a worker’s time-averaged exposure. Maintenance and protective shielding are part of those scenarios. Such measurements can identify circumstances needing assessment, but they are not a distribution of ordinary household oven exposures or a cohort estimating disease incidence among household users.",
+          "source": "E06-T11-R168",
+          "locator": "Original PDF physical pages 9 to 11, Discussion, maintenance, maximum-exposure selection and averaging limitations"
+        }
+      ]
+    }
+  ],
+  "source-smart-meters": [
+    {
+      "title": "Keep the conservative measurement method in the conclusion",
+      "paragraphs": [
+        {
+          "text": "The residential-device manuscript used a frequency-selective method to distinguish transmission bands, peak fields and duty cycles. For burst signals, using the captured envelope could overestimate the transmitting fraction; combining it with the highest measured field was also conservative in calculating the exposure ratio. These choices describe how the authors assessed the sampled emissions. They do not mean that a resident continuously receives the highest field observed during a transmission.",
+          "source": "E06-T11-R137",
+          "locator": "Held final-manuscript PDF physical pages 6 to 9, measurement method; pages 20 to 21, conservative duty-cycle and maximum-field assumptions"
+        },
+        {
+          "text": "The authors omitted their handheld broadband results because short or weak signals could be missed and contributions from different sources could not be separated. They also describe the sampled placements as a cross-section in space and time, without generalising the exact readings to all smart homes. The measurement method and that sampling limit travel together: neither supplies a clinical trial of meter removal or evidence that a shield improves symptoms.",
+          "source": "E06-T11-R137",
+          "locator": "Held final-manuscript PDF physical pages 20 to 21, Strengths and Limitations; pages 4 to 5, convenience-home study scope"
+        }
+      ]
+    }
+  ],
+  "source-electric-blankets": [
+    {
+      "title": "Read the appliance analysis as historical observational evidence",
+      "paragraphs": [
+        {
+          "text": "The childhood-leukaemia review presents the electric-blanket analysis separately from measured residential fields, wire codes and distance from power lines. Its discussion identifies the appliance studies as older work and cautions that equipment used at the time may differ from current products. A pooled appliance-use association is therefore not a field measurement from a present-day blanket, a model-by-model product ranking or proof that changing a blanket prevents disease.",
+          "source": "E04-T07-R252",
+          "locator": "Original PDF physical page 18, Table 5; pages 21 to 22, appliance analysis and age-of-equipment limitation"
+        },
+        {
+          "text": "ICNIRP’s low-frequency context distinguishes external electric and magnetic fields from the internal electric fields used in basic restrictions. Those quantities answer a technical exposure question, whereas the appliance-use studies ask an observational health question. An assessment needs the actual field component and operating arrangement before making a guideline comparison. The existence of a source category called electric blanket cannot supply that product-specific measurement or convert an association into a causal threshold.",
+          "source": "icnirp-lf",
+          "locator": "Held ICNIRP LF HTML, Frequency range and LF use; Protection"
+        }
+      ]
+    }
+  ],
+  "source-mri-static-fields": [
+    {
+      "title": "MRI components and static-field movement need their own scope",
+      "paragraphs": [
+        {
+          "text": "ICNIRP describes MRI as a combination of static magnetic, switched low-frequency and RF fields. Its protection discussion distinguishes patients undergoing a medical procedure from personnel working around the equipment. A general-public limit comparison is therefore not a complete description of every scanner-related situation. The field component, task and population need to remain explicit instead of assigning one exposure number or one outcome conclusion to MRI as a whole.",
+          "source": "icnirp-mri",
+          "locator": "Held ICNIRP MRI HTML, Characteristics of the application and its use; Protection, patient and personnel scopes"
+        },
+        {
+          "text": "The static-field context discusses transient sensory effects in strong fields and the role of movement through the field. It also identifies a separate need to protect people with susceptible implanted devices. That framework distinguishes sensory functioning, device compatibility and other health questions. It does not provide a long-term MRI-worker disease cohort or establish a universal compatibility instruction for every implanted system; those conclusions require evidence for their own exposure and device conditions.",
+          "source": "icnirp-static",
+          "locator": "Held ICNIRP Static Magnetic Fields HTML, Effects of static magnetic fields on the body; Protection, movement and implanted devices"
+        }
+      ]
+    }
+  ],
+  "source-bluetooth": [
+    {
+      "title": "Identify the radio connection before comparing devices",
+      "paragraphs": [
+        {
+          "text": "FOPH distinguishes Bluetooth variants, connection arrangements and operating purposes such as audio streaming, peripheral links and sensor communication. It also describes differences in communication behaviour between classic and low-energy implementations. A product’s Bluetooth label alone therefore does not specify the task or transmission pattern being assessed. An exposure comparison should identify the actual device and active connection, rather than assigning a headset, a mouse and a sensor the same operating scenario.",
+          "source": "foph-bluetooth",
+          "locator": "Held FOPH PDF physical pages 1 to 2, applications, variants and technical characteristics"
+        },
+        {
+          "text": "The wearable fact sheet distinguishes links through a nearby phone or wireless router from a smartwatch’s direct mobile-network connection. Some radiation may enter the body at the wearing location, so the communication route and body position are relevant to its measurements. This is context about selected devices and exposure arrangements, without a clinical trial showing that a particular watch or Bluetooth accessory changes disease risk. It cannot substitute for a representative headset study.",
+          "source": "foph-wearables",
+          "locator": "Held FOPH PDF physical pages 1 to 2, device categories, communication routes and wearing position; page 3, health-evidence scope"
+        }
+      ]
+    }
+  ]
+}

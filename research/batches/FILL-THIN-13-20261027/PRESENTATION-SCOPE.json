@@ -1,0 +1,24 @@
+{
+  "status": "APPLIED_FINAL",
+  "source_notes_sha256": "dd39555abeb7e2b46f63a8aa6b003422b355a1c7e968116ae45dd88c57b56c1c",
+  "initial_reviewed_integration_sha256": "2ad67f1b364d103e822f837ff2143f57125461e35639fb0234fc554b007a8f69",
+  "final_inputs": {
+    "lib/thin-fill.json": "70ba5c1eea92f9dd6ceaf6045022b7e8688dfb0e1708f079aa5a4af21bc1e148",
+    "components/emf/legacy-question-page.tsx": "ead579fc21c70184d46e306dab05060279aff40edf09317a02808aba97363592",
+    "app/questions/page.tsx": "c52585346951ff3ddf005ed175111e5e70d44ebb16d93d1cfc526514855b706f",
+    "components/emf/topic-page.tsx": "0fc7f46e71158f0d1c63d5c61b555544f5a1f695b5c9e39836fef68529c90235",
+    "components/emf/editorial-page.tsx": "1d9d1e61d45474c642e5d49722cbeebd943dd0fa7bfa6e0e19252f29a752e889",
+    "app/research/[id]/page.tsx": "e3bb8cf696a22544bd72865dec8ab592226f5461612ef0ba2e23ae79479863bd",
+    "components/emf/research-section.tsx": "deb63da7a73916cb7c43db93a705e7e69bd62c9c74c496aa8795601b34fd4274"
+  },
+  "subsequent_change": "t09-only existing normalizeSourceText flag also applies presentation punctuation to study finding/limitations; reviewed new notes unchanged",
+  "raw_sources_and_reviews": "byte-identical accepted base",
+  "default_normalizeSourceText": false,
+  "only_enabled_source_text_route": "/questions/t09",
+  "false_positive_repairs": [
+    "guide symptoms-and-support attempts to hold circumstances similar -> attempts to keep circumstances similar",
+    "source bluetooth hold the calling task constant -> keep the calling task constant"
+  ],
+  "genuine_numerical_HOLD_and_unreviewed_commentary": "preserved",
+  "no_canonical_or_counter_changes": true
+}

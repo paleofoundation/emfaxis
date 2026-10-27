@@ -1,0 +1,8 @@
+{
+  "scope": "Accepted identical local-only QA config for base/candidate",
+  "config_sha256": "e2fc7fc436c369d6980d20ca1b9d42269115c61c36a1388a7708a4ed0f4c44b3",
+  "asset_html_handling": "drop-trailing-slash",
+  "tracked_hosting_unchanged": true,
+  "first_final_attempt": "Sandbox bind EPERM and watch EMFILE; retained final-preview.log; permitted local-only retry succeeded",
+  "production_routing_change": false
+}

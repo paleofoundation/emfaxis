@@ -1,0 +1,112 @@
+{
+  "status": "PASS_BOUNDED_SELECTED_SOURCE_FIDELITY",
+  "notes_sha256": "dd39555abeb7e2b46f63a8aa6b003422b355a1c7e968116ae45dd88c57b56c1c",
+  "source_binding_sha256": "956dd498121b6016c927f4dabcb403db039811f242e7a634b0b67ee0aae02c16",
+  "held_originals": 17,
+  "new_paragraphs": 20,
+  "locators": {
+    "t05": [
+      {
+        "source": "foph-baby-monitors",
+        "locator": "Held FOPH PDF physical page 1, device categories, automatic voice activation, range checks and scope"
+      },
+      {
+        "source": "E02-T03-R227",
+        "locator": "Original PDF physical pages 2 to 3, apparatus and procedure; pages 5 to 9, Results, Table 1 and limitations"
+      }
+    ],
+    "questions-index": [
+      {
+        "source": "icnirp-rf",
+        "locator": "Held ICNIRP RF HTML, Protection, basic restrictions and external reference levels"
+      },
+      {
+        "source": "E04-T07-R252",
+        "locator": "Original PDF physical pages 2 to 4, Methods and analysis groups; page 18, Table 5; page 22, overlap and methodological limitations"
+      }
+    ],
+    "t09": [
+      {
+        "source": "foph-mobile",
+        "locator": "Held FOPH PDF physical page 1, activity, connection quality and head/body SAR explanation"
+      },
+      {
+        "source": "E03-T05-R267",
+        "locator": "Original PDF physical pages 4 and 7 to 8, fertilisation findings and selection limitation; pages 10 to 12, Figure 8 and assay methods"
+      }
+    ],
+    "million-women": [
+      {
+        "source": "million-women",
+        "locator": "Original JNCI PDF physical page 2, Exposure Variables and Study Population; page 6, Discussion limitations"
+      },
+      {
+        "source": "million-women",
+        "locator": "Original JNCI PDF physical pages 2 to 3, tumour definitions and Results; page 6, Discussion, laterality, rare outcomes and population limits"
+      }
+    ],
+    "guide-symptoms-and-support": [
+      {
+        "source": "E02-T03-R238",
+        "locator": "Original PDF physical pages 6 to 11, experimental procedure; pages 12 to 16, Results and open-label interpretation limit"
+      },
+      {
+        "source": "E02-T03-R242",
+        "locator": "Original PDF physical pages 4 to 5, individualised protocol and exposure sources; pages 14 to 17, individual/collective interpretation and limitations"
+      }
+    ],
+    "source-microwave-ovens": [
+      {
+        "source": "fda-microwave",
+        "locator": "Held FDA HTML, Microwave Oven Safety Standard; Avoiding Injuries from Super-Heated Water; Have Radiation Injuries Resulted from Microwave Ovens?"
+      },
+      {
+        "source": "E06-T11-R168",
+        "locator": "Original PDF physical pages 9 to 11, Discussion, maintenance, maximum-exposure selection and averaging limitations"
+      }
+    ],
+    "source-smart-meters": [
+      {
+        "source": "E06-T11-R137",
+        "locator": "Held final-manuscript PDF physical pages 6 to 9, measurement method; pages 20 to 21, conservative duty-cycle and maximum-field assumptions"
+      },
+      {
+        "source": "E06-T11-R137",
+        "locator": "Held final-manuscript PDF physical pages 20 to 21, Strengths and Limitations; pages 4 to 5, convenience-home study scope"
+      }
+    ],
+    "source-electric-blankets": [
+      {
+        "source": "E04-T07-R252",
+        "locator": "Original PDF physical page 18, Table 5; pages 21 to 22, appliance analysis and age-of-equipment limitation"
+      },
+      {
+        "source": "icnirp-lf",
+        "locator": "Held ICNIRP LF HTML, Frequency range and LF use; Protection"
+      }
+    ],
+    "source-mri-static-fields": [
+      {
+        "source": "icnirp-mri",
+        "locator": "Held ICNIRP MRI HTML, Characteristics of the application and its use; Protection, patient and personnel scopes"
+      },
+      {
+        "source": "icnirp-static",
+        "locator": "Held ICNIRP Static Magnetic Fields HTML, Effects of static magnetic fields on the body; Protection, movement and implanted devices"
+      }
+    ],
+    "source-bluetooth": [
+      {
+        "source": "foph-bluetooth",
+        "locator": "Held FOPH PDF physical pages 1 to 2, applications, variants and technical characteristics"
+      },
+      {
+        "source": "foph-wearables",
+        "locator": "Held FOPH PDF physical pages 1 to 2, device categories, communication routes and wearing position; page 3, health-evidence scope"
+      }
+    ]
+  },
+  "source_scope": "Fresh selected source passages only, not complete scientific appraisal",
+  "root_receipt_sha256": "a04fb015bb78860fa57a8ca672566d6517111fa4e1fe8917017d5da846869605",
+  "notes_applied_exact": true
+}
